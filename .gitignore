@@ -4,4 +4,4 @@
 .Ruserdata
 /R
 utils.R
-.Rproj
+*.Rproj
