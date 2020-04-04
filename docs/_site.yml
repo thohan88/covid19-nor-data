@@ -10,7 +10,7 @@ navbar:
       
 output:
   html_document:
-    theme: cosmo
+    theme: flatly
     highlight: textmate
     include:
       after_body: footer.html 
