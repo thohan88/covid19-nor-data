@@ -1,7 +1,7 @@
-name: "my-website"
+name: "covid-19-nor"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Covid-19 Data Norway"
   left:
     - text: "Home"
       href: index.html
