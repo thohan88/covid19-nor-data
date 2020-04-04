@@ -4,8 +4,16 @@ navbar:
   title: "Covid-19 Data Norway"
   left:
     - text: "Home"
+      icon: fa-home fa-fw
       href: index.html
+    - text: "Contribute"
+      icon: fa-hands-helping fa-fw
+      href: contribute.html
+    - text: "Examples"
+      icon: fa-chart-bar fa-fw
+      href: about.html
     - text: "About"
+      icon: fa-info-circle fa-fw
       href: about.html
       
 output:
@@ -13,5 +21,5 @@ output:
     theme: flatly
     highlight: textmate
     include:
-      after_body: footer.html 
+      after_body: footer.html
       
