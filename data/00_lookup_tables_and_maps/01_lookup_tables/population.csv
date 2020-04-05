@@ -1,0 +1,397 @@
+kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_no,kommune_name,fylke_no,fylke_name,population
+030101,Gamle Oslo,030101,Gamle Oslo,0301,Oslo,03,Oslo,58671
+030102,Grünerløkka,030102,Grünerløkka,0301,Oslo,03,Oslo,62423
+030103,Sagene,030103,Sagene,0301,Oslo,03,Oslo,45089
+030104,St. Hanshaugen,030104,St. Hanshaugen,0301,Oslo,03,Oslo,38945
+030105,Frogner,030105,Frogner,0301,Oslo,03,Oslo,59269
+030106,Ullern,030106,Ullern,0301,Oslo,03,Oslo,34569
+030107,Vestre Aker,030107,Vestre Aker,0301,Oslo,03,Oslo,50157
+030108,Nordre Aker,030108,Nordre Aker,0301,Oslo,03,Oslo,52327
+030109,Bjerke,030109,Bjerke,0301,Oslo,03,Oslo,33422
+030110,Grorud,030110,Grorud,0301,Oslo,03,Oslo,27707
+030111,Stovner,030111,Stovner,0301,Oslo,03,Oslo,33316
+030112,Alna,030112,Alna,0301,Oslo,03,Oslo,49801
+030113,Østensjø,030113,Østensjø,0301,Oslo,03,Oslo,50806
+030114,Nordstrand,030114,Nordstrand,0301,Oslo,03,Oslo,52459
+030115,Søndre Nordstrand,030115,Søndre Nordstrand,0301,Oslo,03,Oslo,39066
+030116,Sentrum,030116,Sentrum,0301,Oslo,03,Oslo,1471
+030117,Marka,030117,Marka,0301,Oslo,03,Oslo,1610
+1101,Eigersund,,,1101,Eigersund,11,Rogaland,14811
+110301,Hundvåg,110301,Hundvåg,1103,Stavanger,11,Rogaland,13178
+110302,Tasta,110302,Tasta,1103,Stavanger,11,Rogaland,15541
+110303,Eiganes og Våland,110303,Eiganes og Våland,1103,Stavanger,11,Rogaland,24512
+110304,Madla,110304,Madla,1103,Stavanger,11,Rogaland,21490
+110305,Storhaug,110305,Storhaug,1103,Stavanger,11,Rogaland,17423
+110306,Hillevåg,110306,Hillevåg,1103,Stavanger,11,Rogaland,19987
+110307,Hinna,110307,Hinna,1103,Stavanger,11,Rogaland,22870
+110308,Finnøy,110308,Finnøy,1103,Stavanger,11,Rogaland,3228
+110309,Rennesøy,110309,Rennesøy,1103,Stavanger,11,Rogaland,5090
+1106,Haugesund,,,1106,Haugesund,11,Rogaland,37357
+1108,Sandnes,,,1108,Sandnes,11,Rogaland,79537
+1111,Sokndal,,,1111,Sokndal,11,Rogaland,3280
+1112,Lund,,,1112,Lund,11,Rogaland,3202
+1114,Bjerkreim,,,1114,Bjerkreim,11,Rogaland,2787
+1119,Hå,,,1119,Hå,11,Rogaland,18991
+1120,Klepp,,,1120,Klepp,11,Rogaland,19588
+1121,Time,,,1121,Time,11,Rogaland,18916
+1122,Gjesdal,,,1122,Gjesdal,11,Rogaland,12002
+1124,Sola,,,1124,Sola,11,Rogaland,27153
+1127,Randaberg,,,1127,Randaberg,11,Rogaland,11221
+1130,Strand,,,1130,Strand,11,Rogaland,12968
+1133,Hjelmeland,,,1133,Hjelmeland,11,Rogaland,2574
+1134,Suldal,,,1134,Suldal,11,Rogaland,3804
+1135,Sauda,,,1135,Sauda,11,Rogaland,4595
+1144,Kvitsøy,,,1144,Kvitsøy,11,Rogaland,517
+1145,Bokn,,,1145,Bokn,11,Rogaland,852
+1146,Tysvær,,,1146,Tysvær,11,Rogaland,11065
+1149,Karmøy,,,1149,Karmøy,11,Rogaland,42186
+1151,Utsira,,,1151,Utsira,11,Rogaland,198
+1160,Vindafjord,,,1160,Vindafjord,11,Rogaland,8714
+1505,Kristiansund,,,1505,Kristiansund,15,Møre og Romsdal,24179
+1506,Molde,,,1506,Molde,15,Møre og Romsdal,31967
+1507,Ålesund,,,1507,Ålesund,15,Møre og Romsdal,66258
+1511,Vanylven,,,1511,Vanylven,15,Møre og Romsdal,3117
+1514,Sande,,,1514,Sande,15,Møre og Romsdal,2461
+1515,Herøy (Møre og Romsdal),,,1515,Herøy (Møre og Romsdal),15,Møre og Romsdal,8900
+1516,Ulstein,,,1516,Ulstein,15,Møre og Romsdal,8571
+1517,Hareid,,,1517,Hareid,15,Møre og Romsdal,5175
+1520,Ørsta,,,1520,Ørsta,15,Møre og Romsdal,10825
+1525,Stranda,,,1525,Stranda,15,Møre og Romsdal,4523
+1528,Sykkylven,,,1528,Sykkylven,15,Møre og Romsdal,7625
+1531,Sula,,,1531,Sula,15,Møre og Romsdal,9310
+1532,Giske,,,1532,Giske,15,Møre og Romsdal,8462
+1535,Vestnes,,,1535,Vestnes,15,Møre og Romsdal,6532
+1539,Rauma,,,1539,Rauma,15,Møre og Romsdal,7468
+1547,Aukra,,,1547,Aukra,15,Møre og Romsdal,3509
+1554,Averøy,,,1554,Averøy,15,Møre og Romsdal,5788
+1557,Gjemnes,,,1557,Gjemnes,15,Møre og Romsdal,2629
+1560,Tingvoll,,,1560,Tingvoll,15,Møre og Romsdal,3025
+1563,Sunndal,,,1563,Sunndal,15,Møre og Romsdal,7036
+1566,Surnadal,,,1566,Surnadal,15,Møre og Romsdal,5920
+1573,Smøla,,,1573,Smøla,15,Møre og Romsdal,2150
+1576,Aure,,,1576,Aure,15,Møre og Romsdal,3507
+1577,Volda,,,1577,Volda,15,Møre og Romsdal,10473
+1578,Fjord,,,1578,Fjord,15,Møre og Romsdal,2549
+1579,Hustadvika,,,1579,Hustadvika,15,Møre og Romsdal,13279
+1804,Bodø,,,1804,Bodø,18,Nordland,52357
+1806,Narvik,,,1806,Narvik,18,Nordland,21845
+1811,Bindal,,,1811,Bindal,18,Nordland,1426
+1812,Sømna,,,1812,Sømna,18,Nordland,1975
+1813,Brønnøy,,,1813,Brønnøy,18,Nordland,7917
+1815,Vega,,,1815,Vega,18,Nordland,1200
+1816,Vevelstad,,,1816,Vevelstad,18,Nordland,462
+1818,Herøy (Nordland),,,1818,Herøy (Nordland),18,Nordland,1777
+1820,Alstahaug,,,1820,Alstahaug,18,Nordland,7447
+1822,Leirfjord,,,1822,Leirfjord,18,Nordland,2294
+1824,Vefsn,,,1824,Vefsn,18,Nordland,13278
+1825,Grane,,,1825,Grane,18,Nordland,1482
+1826,Hattfjelldal,,,1826,Hattfjelldal,18,Nordland,1297
+1827,Dønna,,,1827,Dønna,18,Nordland,1371
+1828,Nesna,,,1828,Nesna,18,Nordland,1761
+1832,Hemnes,,,1832,Hemnes,18,Nordland,4454
+1833,Rana,,,1833,Rana,18,Nordland,26184
+1834,Lurøy,,,1834,Lurøy,18,Nordland,1890
+1835,Træna,,,1835,Træna,18,Nordland,435
+1836,Rødøy,,,1836,Rødøy,18,Nordland,1213
+1837,Meløy,,,1837,Meløy,18,Nordland,6288
+1838,Gildeskål,,,1838,Gildeskål,18,Nordland,1950
+1839,Beiarn,,,1839,Beiarn,18,Nordland,1017
+1840,Saltdal,,,1840,Saltdal,18,Nordland,4671
+1841,Fauske,,,1841,Fauske,18,Nordland,9739
+1845,Sørfold,,,1845,Sørfold,18,Nordland,1926
+1848,Steigen,,,1848,Steigen,18,Nordland,2608
+1851,Lødingen,,,1851,Lødingen,18,Nordland,2034
+1853,Evenes,,,1853,Evenes,18,Nordland,1348
+1856,Røst,,,1856,Røst,18,Nordland,498
+1857,Værøy,,,1857,Værøy,18,Nordland,728
+1859,Flakstad,,,1859,Flakstad,18,Nordland,1272
+1860,Vestvågøy,,,1860,Vestvågøy,18,Nordland,11433
+1865,Vågan,,,1865,Vågan,18,Nordland,9608
+1866,Hadsel,,,1866,Hadsel,18,Nordland,8061
+1867,Bø,,,1867,Bø,18,Nordland,2569
+1868,Øksnes,,,1868,Øksnes,18,Nordland,4410
+1870,Sortland,,,1870,Sortland,18,Nordland,10566
+1871,Andøy,,,1871,Andøy,18,Nordland,4663
+1874,Moskenes,,,1874,Moskenes,18,Nordland,1015
+1875,Hamarøy,,,1875,Hamarøy,18,Nordland,2766
+3001,Halden,,,3001,Halden,30,Viken,31373
+3002,Moss,,,3002,Moss,30,Viken,49273
+3003,Sarpsborg,,,3003,Sarpsborg,30,Viken,56732
+3004,Fredrikstad,,,3004,Fredrikstad,30,Viken,82385
+3005,Drammen,,,3005,Drammen,30,Viken,101386
+3006,Kongsberg,,,3006,Kongsberg,30,Viken,27723
+3007,Ringerike,,,3007,Ringerike,30,Viken,30641
+3011,Hvaler,,,3011,Hvaler,30,Viken,4668
+3012,Aremark,,,3012,Aremark,30,Viken,1325
+3013,Marker,,,3013,Marker,30,Viken,3595
+3014,Indre Østfold,,,3014,Indre Østfold,30,Viken,44792
+3015,Skiptvet,,,3015,Skiptvet,30,Viken,3805
+3016,Rakkestad,,,3016,Rakkestad,30,Viken,8255
+3017,Råde,,,3017,Råde,30,Viken,7508
+3018,Våler (Viken),,,3018,Våler (Viken),30,Viken,5736
+3019,Vestby,,,3019,Vestby,30,Viken,18042
+3020,Nordre Follo,,,3020,Nordre Follo,30,Viken,59288
+3021,Ås,,,3021,Ås,30,Viken,20439
+3022,Frogn,,,3022,Frogn,30,Viken,15877
+3023,Nesodden,,,3023,Nesodden,30,Viken,19616
+3024,Bærum,,,3024,Bærum,30,Viken,127731
+3025,Asker,,,3025,Asker,30,Viken,94441
+3026,Aurskog-Høland,,,3026,Aurskog-Høland,30,Viken,17390
+3027,Rælingen,,,3027,Rælingen,30,Viken,18530
+3028,Enebakk,,,3028,Enebakk,30,Viken,11110
+3029,Lørenskog,,,3029,Lørenskog,30,Viken,41460
+3030,Lillestrøm,,,3030,Lillestrøm,30,Viken,85983
+3031,Nittedal,,,3031,Nittedal,30,Viken,24249
+3032,Gjerdrum,,,3032,Gjerdrum,30,Viken,6890
+3033,Ullensaker,,,3033,Ullensaker,30,Viken,39625
+3034,Nes,,,3034,Nes,30,Viken,23092
+3035,Eidsvoll,,,3035,Eidsvoll,30,Viken,25436
+3036,Nannestad,,,3036,Nannestad,30,Viken,14139
+3037,Hurdal,,,3037,Hurdal,30,Viken,2854
+3038,Hole,,,3038,Hole,30,Viken,6799
+3039,Flå,,,3039,Flå,30,Viken,1050
+3040,Nesbyen,,,3040,Nesbyen,30,Viken,3273
+3041,Gol,,,3041,Gol,30,Viken,4608
+3042,Hemsedal,,,3042,Hemsedal,30,Viken,2486
+3043,Ål,,,3043,Ål,30,Viken,4674
+3044,Hol,,,3044,Hol,30,Viken,4441
+3045,Sigdal,,,3045,Sigdal,30,Viken,3467
+3046,Krødsherad,,,3046,Krødsherad,30,Viken,2212
+3047,Modum,,,3047,Modum,30,Viken,14115
+3048,Øvre Eiker,,,3048,Øvre Eiker,30,Viken,19423
+3049,Lier,,,3049,Lier,30,Viken,26811
+3050,Flesberg,,,3050,Flesberg,30,Viken,2688
+3051,Rollag,,,3051,Rollag,30,Viken,1390
+3052,Nore og Uvdal,,,3052,Nore og Uvdal,30,Viken,2439
+3053,Jevnaker,,,3053,Jevnaker,30,Viken,6852
+3054,Lunner,,,3054,Lunner,30,Viken,9048
+3401,Kongsvinger,,,3401,Kongsvinger,34,Innlandet,17829
+3403,Hamar,,,3403,Hamar,34,Innlandet,31369
+3405,Lillehammer,,,3405,Lillehammer,34,Innlandet,28345
+3407,Gjøvik,,,3407,Gjøvik,34,Innlandet,30560
+3411,Ringsaker,,,3411,Ringsaker,34,Innlandet,34768
+3412,Løten,,,3412,Løten,34,Innlandet,7674
+3413,Stange,,,3413,Stange,34,Innlandet,21064
+3414,Nord-Odal,,,3414,Nord-Odal,34,Innlandet,5016
+3415,Sør-Odal,,,3415,Sør-Odal,34,Innlandet,7905
+3416,Eidskog,,,3416,Eidskog,34,Innlandet,6106
+3417,Grue,,,3417,Grue,34,Innlandet,4612
+3418,Åsnes,,,3418,Åsnes,34,Innlandet,7203
+3419,Våler (Innlandet),,,3419,Våler (Innlandet),34,Innlandet,3662
+3420,Elverum,,,3420,Elverum,34,Innlandet,21254
+3421,Trysil,,,3421,Trysil,34,Innlandet,6627
+3422,Åmot,,,3422,Åmot,34,Innlandet,4356
+3423,Stor-Elvdal,,,3423,Stor-Elvdal,34,Innlandet,2419
+3424,Rendalen,,,3424,Rendalen,34,Innlandet,1780
+3425,Engerdal,,,3425,Engerdal,34,Innlandet,1268
+3426,Tolga,,,3426,Tolga,34,Innlandet,1562
+3427,Tynset,,,3427,Tynset,34,Innlandet,5578
+3428,Alvdal,,,3428,Alvdal,34,Innlandet,2432
+3429,Folldal,,,3429,Folldal,34,Innlandet,1545
+3430,Os,,,3430,Os,34,Innlandet,1891
+3431,Dovre,,,3431,Dovre,34,Innlandet,2553
+3432,Lesja,,,3432,Lesja,34,Innlandet,1975
+3433,Skjåk,,,3433,Skjåk,34,Innlandet,2197
+3434,Lom,,,3434,Lom,34,Innlandet,2228
+3435,Vågå,,,3435,Vågå,34,Innlandet,3570
+3436,Nord-Fron,,,3436,Nord-Fron,34,Innlandet,5723
+3437,Sel,,,3437,Sel,34,Innlandet,5739
+3438,Sør-Fron,,,3438,Sør-Fron,34,Innlandet,3119
+3439,Ringebu,,,3439,Ringebu,34,Innlandet,4392
+3440,Øyer,,,3440,Øyer,34,Innlandet,5100
+3441,Gausdal,,,3441,Gausdal,34,Innlandet,6106
+3442,Østre Toten,,,3442,Østre Toten,34,Innlandet,14973
+3443,Vestre Toten,,,3443,Vestre Toten,34,Innlandet,13427
+3446,Gran,,,3446,Gran,34,Innlandet,13630
+3447,Søndre Land,,,3447,Søndre Land,34,Innlandet,5617
+3448,Nordre Land,,,3448,Nordre Land,34,Innlandet,6633
+3449,Sør-Aurdal,,,3449,Sør-Aurdal,34,Innlandet,2954
+3450,Etnedal,,,3450,Etnedal,34,Innlandet,1279
+3451,Nord-Aurdal,,,3451,Nord-Aurdal,34,Innlandet,6413
+3452,Vestre Slidre,,,3452,Vestre Slidre,34,Innlandet,2125
+3453,Øystre Slidre,,,3453,Øystre Slidre,34,Innlandet,3229
+3454,Vang,,,3454,Vang,34,Innlandet,1578
+3801,Horten,,,3801,Horten,38,Vestfold og Telemark,27351
+3802,Holmestrand,,,3802,Holmestrand,38,Vestfold og Telemark,24699
+3803,Tønsberg,,,3803,Tønsberg,38,Vestfold og Telemark,56293
+3804,Sandefjord,,,3804,Sandefjord,38,Vestfold og Telemark,63764
+3805,Larvik,,,3805,Larvik,38,Vestfold og Telemark,47204
+3806,Porsgrunn,,,3806,Porsgrunn,38,Vestfold og Telemark,36397
+3807,Skien,,,3807,Skien,38,Vestfold og Telemark,54942
+3808,Notodden,,,3808,Notodden,38,Vestfold og Telemark,13049
+3811,Færder,,,3811,Færder,38,Vestfold og Telemark,26730
+3812,Siljan,,,3812,Siljan,38,Vestfold og Telemark,2340
+3813,Bamble,,,3813,Bamble,38,Vestfold og Telemark,14061
+3814,Kragerø,,,3814,Kragerø,38,Vestfold og Telemark,10380
+3815,Drangedal,,,3815,Drangedal,38,Vestfold og Telemark,4060
+3816,Nome,,,3816,Nome,38,Vestfold og Telemark,6515
+3817,Midt-Telemark,,,3817,Midt-Telemark,38,Vestfold og Telemark,10444
+3818,Tinn,,,3818,Tinn,38,Vestfold og Telemark,5691
+3819,Hjartdal,,,3819,Hjartdal,38,Vestfold og Telemark,1573
+3820,Seljord,,,3820,Seljord,38,Vestfold og Telemark,2888
+3821,Kviteseid,,,3821,Kviteseid,38,Vestfold og Telemark,2403
+3822,Nissedal,,,3822,Nissedal,38,Vestfold og Telemark,1448
+3823,Fyresdal,,,3823,Fyresdal,38,Vestfold og Telemark,1287
+3824,Tokke,,,3824,Tokke,38,Vestfold og Telemark,2201
+3825,Vinje,,,3825,Vinje,38,Vestfold og Telemark,3676
+4201,Risør,,,4201,Risør,42,Agder,6809
+4202,Grimstad,,,4202,Grimstad,42,Agder,23544
+4203,Arendal,,,4203,Arendal,42,Agder,44999
+4204,Kristiansand,,,4204,Kristiansand,42,Agder,111633
+4205,Lindesnes,,,4205,Lindesnes,42,Agder,23046
+4206,Farsund,,,4206,Farsund,42,Agder,9691
+4207,Flekkefjord,,,4207,Flekkefjord,42,Agder,9028
+4211,Gjerstad,,,4211,Gjerstad,42,Agder,2428
+4212,Vegårshei,,,4212,Vegårshei,42,Agder,2097
+4213,Tvedestrand,,,4213,Tvedestrand,42,Agder,6053
+4214,Froland,,,4214,Froland,42,Agder,5951
+4215,Lillesand,,,4215,Lillesand,42,Agder,11074
+4216,Birkenes,,,4216,Birkenes,42,Agder,5226
+4217,Åmli,,,4217,Åmli,42,Agder,1836
+4218,Iveland,,,4218,Iveland,42,Agder,1331
+4219,Evje og Hornnes,,,4219,Evje og Hornnes,42,Agder,3634
+4220,Bygland,,,4220,Bygland,42,Agder,1162
+4221,Valle,,,4221,Valle,42,Agder,1164
+4222,Bykle,,,4222,Bykle,42,Agder,965
+4223,Vennesla,,,4223,Vennesla,42,Agder,14774
+4224,Åseral,,,4224,Åseral,42,Agder,932
+4225,Lyngdal,,,4225,Lyngdal,42,Agder,10365
+4226,Hægebostad,,,4226,Hægebostad,42,Agder,1680
+4227,Kvinesdal,,,4227,Kvinesdal,42,Agder,5987
+4228,Sirdal,,,4228,Sirdal,42,Agder,1822
+460101,Arna,460101,Arna,4601,Bergen,46,Vestland,13820
+460102,Bergenhus,460102,Bergenhus,4601,Bergen,46,Vestland,42790
+460103,Fana,460103,Fana,4601,Bergen,46,Vestland,43139
+460104,Fyllingsdalen,460104,Fyllingsdalen,4601,Bergen,46,Vestland,30071
+460105,Laksevåg,460105,Laksevåg,4601,Bergen,46,Vestland,40409
+460106,Ytrebygda,460106,Ytrebygda,4601,Bergen,46,Vestland,29279
+460107,Årstad,460107,Årstad,4601,Bergen,46,Vestland,42223
+460108,Åsane,460108,Åsane,4601,Bergen,46,Vestland,41629
+4602,Kinn,,,4602,Kinn,46,Vestland,17207
+4611,Etne,,,4611,Etne,46,Vestland,4062
+4612,Sveio,,,4612,Sveio,46,Vestland,5766
+4613,Bømlo,,,4613,Bømlo,46,Vestland,11957
+4614,Stord,,,4614,Stord,46,Vestland,18759
+4615,Fitjar,,,4615,Fitjar,46,Vestland,3189
+4616,Tysnes,,,4616,Tysnes,46,Vestland,2869
+4617,Kvinnherad,,,4617,Kvinnherad,46,Vestland,13071
+4618,Ullensvang,,,4618,Ullensvang,46,Vestland,11048
+4619,Eidfjord,,,4619,Eidfjord,46,Vestland,906
+4620,Ulvik,,,4620,Ulvik,46,Vestland,1080
+4621,Voss,,,4621,Voss,46,Vestland,15740
+4622,Kvam,,,4622,Kvam,46,Vestland,8457
+4623,Samnanger,,,4623,Samnanger,46,Vestland,2485
+4624,Bjørnafjorden,,,4624,Bjørnafjorden,46,Vestland,24908
+4625,Austevoll,,,4625,Austevoll,46,Vestland,5236
+4626,Øygarden,,,4626,Øygarden,46,Vestland,38316
+4627,Askøy,,,4627,Askøy,46,Vestland,29553
+4628,Vaksdal,,,4628,Vaksdal,46,Vestland,3977
+4629,Modalen,,,4629,Modalen,46,Vestland,388
+4630,Osterøy,,,4630,Osterøy,46,Vestland,8098
+4631,Alver,,,4631,Alver,46,Vestland,29224
+4632,Austrheim,,,4632,Austrheim,46,Vestland,2870
+4633,Fedje,,,4633,Fedje,46,Vestland,548
+4634,Masfjorden,,,4634,Masfjorden,46,Vestland,1691
+4635,Gulen,,,4635,Gulen,46,Vestland,2297
+4636,Solund,,,4636,Solund,46,Vestland,802
+4637,Hyllestad,,,4637,Hyllestad,46,Vestland,1328
+4638,Høyanger,,,4638,Høyanger,46,Vestland,4101
+4639,Vik,,,4639,Vik,46,Vestland,2635
+4640,Sogndal,,,4640,Sogndal,46,Vestland,11847
+4641,Aurland,,,4641,Aurland,46,Vestland,1781
+4642,Lærdal,,,4642,Lærdal,46,Vestland,2126
+4643,Årdal,,,4643,Årdal,46,Vestland,5193
+4644,Luster,,,4644,Luster,46,Vestland,5174
+4645,Askvoll,,,4645,Askvoll,46,Vestland,3011
+4646,Fjaler,,,4646,Fjaler,46,Vestland,2802
+4647,Sunnfjord,,,4647,Sunnfjord,46,Vestland,22030
+4648,Bremanger,,,4648,Bremanger,46,Vestland,3629
+4649,Stad,,,4649,Stad,46,Vestland,9457
+4650,Gloppen,,,4650,Gloppen,46,Vestland,5854
+4651,Stryn,,,4651,Stryn,46,Vestland,7130
+500101,Midtbyen,500101,Midtbyen,5001,Trondheim,50,Trøndelag,51719
+500102,Østbyen,500102,Østbyen,5001,Trondheim,50,Trøndelag,56631
+500103,Lerkendal,500103,Lerkendal,5001,Trondheim,50,Trøndelag,54148
+500104,Heimdal,500104,Heimdal,5001,Trondheim,50,Trøndelag,42152
+5006,Steinkjer,,,5006,Steinkjer,50,Trøndelag,24357
+5007,Namsos,,,5007,Namsos,50,Trøndelag,15230
+5014,Frøya,,,5014,Frøya,50,Trøndelag,5151
+5020,Osen,,,5020,Osen,50,Trøndelag,948
+5021,Oppdal,,,5021,Oppdal,50,Trøndelag,7001
+5022,Rennebu,,,5022,Rennebu,50,Trøndelag,2486
+5025,Røros,,,5025,Røros,50,Trøndelag,5581
+5026,Holtålen,,,5026,Holtålen,50,Trøndelag,1981
+5027,Midtre Gauldal,,,5027,Midtre Gauldal,50,Trøndelag,6238
+5028,Melhus,,,5028,Melhus,50,Trøndelag,16733
+5029,Skaun,,,5029,Skaun,50,Trøndelag,8325
+5031,Malvik,,,5031,Malvik,50,Trøndelag,14148
+5032,Selbu,,,5032,Selbu,50,Trøndelag,4062
+5033,Tydal,,,5033,Tydal,50,Trøndelag,769
+5034,Meråker,,,5034,Meråker,50,Trøndelag,2422
+5035,Stjørdal,,,5035,Stjørdal,50,Trøndelag,24145
+5036,Frosta,,,5036,Frosta,50,Trøndelag,2627
+5037,Levanger,,,5037,Levanger,50,Trøndelag,20164
+5038,Verdal,,,5038,Verdal,50,Trøndelag,14948
+5041,Snåsa,,,5041,Snåsa,50,Trøndelag,2063
+5042,Lierne,,,5042,Lierne,50,Trøndelag,1355
+5043,Røyrvik,,,5043,Røyrvik,50,Trøndelag,461
+5044,Namsskogan,,,5044,Namsskogan,50,Trøndelag,843
+5045,Grong,,,5045,Grong,50,Trøndelag,2359
+5046,Høylandet,,,5046,Høylandet,50,Trøndelag,1231
+5047,Overhalla,,,5047,Overhalla,50,Trøndelag,3884
+5049,Flatanger,,,5049,Flatanger,50,Trøndelag,1103
+5052,Leka,,,5052,Leka,50,Trøndelag,557
+5053,Inderøy,,,5053,Inderøy,50,Trøndelag,6816
+5054,Indre Fosen,,,5054,Indre Fosen,50,Trøndelag,10084
+5055,Heim,,,5055,Heim,50,Trøndelag,5963
+5056,Hitra,,,5056,Hitra,50,Trøndelag,5050
+5057,Ørland,,,5057,Ørland,50,Trøndelag,10323
+5058,Åfjord,,,5058,Åfjord,50,Trøndelag,4288
+5059,Orkland,,,5059,Orkland,50,Trøndelag,18217
+5060,Nærøysund,,,5060,Nærøysund,50,Trøndelag,9623
+5061,Rindal,,,5061,Rindal,50,Trøndelag,2003
+5401,Tromsø,,,5401,Tromsø,54,Troms og Finnmark,76974
+5402,Harstad,,,5402,Harstad,54,Troms og Finnmark,24703
+5403,Alta,,,5403,Alta,54,Troms og Finnmark,20789
+5404,Vardø,,,5404,Vardø,54,Troms og Finnmark,2029
+5405,Vadsø,,,5405,Vadsø,54,Troms og Finnmark,5788
+5406,Hammerfest,,,5406,Hammerfest,54,Troms og Finnmark,11448
+5411,Kvæfjord,,,5411,Kvæfjord,54,Troms og Finnmark,2839
+5412,Tjeldsund,,,5412,Tjeldsund,54,Troms og Finnmark,4216
+5413,Ibestad,,,5413,Ibestad,54,Troms og Finnmark,1361
+5414,Gratangen,,,5414,Gratangen,54,Troms og Finnmark,1091
+5415,Lavangen,,,5415,Lavangen,54,Troms og Finnmark,1034
+5416,Bardu,,,5416,Bardu,54,Troms og Finnmark,4005
+5417,Salangen,,,5417,Salangen,54,Troms og Finnmark,2146
+5418,Målselv,,,5418,Målselv,54,Troms og Finnmark,6640
+5419,Sørreisa,,,5419,Sørreisa,54,Troms og Finnmark,3464
+5420,Dyrøy,,,5420,Dyrøy,54,Troms og Finnmark,1083
+5421,Senja,,,5421,Senja,54,Troms og Finnmark,14851
+5422,Balsfjord,,,5422,Balsfjord,54,Troms og Finnmark,5559
+5423,Karlsøy,,,5423,Karlsøy,54,Troms og Finnmark,2200
+5424,Lyngen,,,5424,Lyngen,54,Troms og Finnmark,2794
+5425,Storfjord,,,5425,Storfjord,54,Troms og Finnmark,1829
+5426,Kåfjord,,,5426,Kåfjord,54,Troms og Finnmark,2071
+5427,Skjervøy,,,5427,Skjervøy,54,Troms og Finnmark,2927
+5428,Nordreisa,,,5428,Nordreisa,54,Troms og Finnmark,4861
+5429,Kvænangen,,,5429,Kvænangen,54,Troms og Finnmark,1191
+5430,Kautokeino,,,5430,Kautokeino,54,Troms og Finnmark,2910
+5432,Loppa,,,5432,Loppa,54,Troms og Finnmark,888
+5433,Hasvik,,,5433,Hasvik,54,Troms og Finnmark,1005
+5434,Måsøy,,,5434,Måsøy,54,Troms og Finnmark,1225
+5435,Nordkapp,,,5435,Nordkapp,54,Troms og Finnmark,3162
+5436,Porsanger,,,5436,Porsanger,54,Troms og Finnmark,3998
+5437,Kárájohka - Karasjok,,,5437,Kárájohka - Karasjok,54,Troms og Finnmark,2628
+5438,Lebesby,,,5438,Lebesby,54,Troms og Finnmark,1290
+5439,Gamvik,,,5439,Gamvik,54,Troms og Finnmark,1132
+5440,Berlevåg,,,5440,Berlevåg,54,Troms og Finnmark,957
+5441,Tana,,,5441,Tana,54,Troms og Finnmark,2918
+5442,Nesseby,,,5442,Nesseby,54,Troms og Finnmark,926
+5443,Båtsfjord,,,5443,Båtsfjord,54,Troms og Finnmark,2221
+5444,Sør-Varanger,,,5444,Sør-Varanger,54,Troms og Finnmark,10158
+030199,Ukjent Bydel,030199,Ukjent,0301,Oslo,03,Oslo,2386
+460199,Ukjent Bydel,460199,Ukjent,4601,Bergen,46,Vestland,569
+110399,Ukjent Bydel,110399,Ukjent,1103,Stavanger,11,Rogaland,255
+500199,Ukjent Bydel,500104,Ukjent,5001,Trondheim,50,Trøndelag,513
+9999,Ukjent Kommune,,,9999,Ukjent Kommune,99,Ukjent Fylke,
+9998,Svalbard,,,9998,Svalbard,99,Svalbard,
