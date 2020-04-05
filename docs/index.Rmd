@@ -1,33 +1,93 @@
 ---
-title: "Index"
+title: "COVID-19 Data Norway"
 output:
-  html_document:
-    toc: true
-    toc_depth: 2
-    toc_float: true
+  html_document
 ---
-
-
+<h3 style = "color: #6f7d7e;margin-top:8px;t">Public data about the COVID-19-situation in Norway </h3>
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+### Motivation
+The current state of publicly available data about the COVID-19-situtation in Norway is a mix of [PDF-reports](https://www.fhi.no/sv/smittsomme-sykdommer/corona/dags--og-ukerapporter/dags--og-ukerapporter-om-koronavirus/), [Excel-files](https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/permitterte), [Power BI-dashboards](https://www.helsedirektoratet.no/statistikk/antall-innlagte-pasienter-pa-sykehus-med-pavist-covid-19) and public registries. Further, much of the data is only released as cumulative statistics at aggregated levels (e.g. [MSIS](http://www.msis.no/)). This has created a market for media outlets to release local "situation reports" behind paywalls (see: [Aftenposten](https://www.aftenposten.no/norge/i/K3mnr4/i-det-meste-av-landet-bremser-viruset-opp-i-oslo-sprer-det-seg-raskt-fra-bydel-til-bydel)). The motivation for this project is to collect disparate data sources of Covid-19 in Norway and make them freely available to the public in a timely and coherent manner.
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+### Use of data
+All available data is free to use without attribution to this project. Media outlets are strongly encouraged to make their online-articles using this data publicly available.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this. This is a test
+### Contributing to the project
+This project is a collaborative and voluntary effort and we would love your help. If you are an individual wishing to contribute, please read the [contribute section](#). If you are an organization interested in making your data available, please [get in touch](#).
 
-```{r cars}
-mtcars
+```{r, message=FALSE, warning=FALSE, echo=FALSE}
+library(gt)
+library(tidyverse)
+library(glue)
 ```
 
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
+### Available data
+```{r, echo=FALSE}
+tribble(
+  ~name, ~source, ~updated, ~category,
+  "Infections", "MSIS", "2020-04-04", "Healthcare",
+  "Deaths", "FHI", "2020-04-04", "Healthcare",
+  "Admissions", "Helsedirektoratet", "2020-04-04", "Healthcare",
+  "Temporary Layoffs", "NAV", "2020-04-04", "Economic") %>% 
+  mutate(latest = '<a href = "#">csv</a> <a href = "#">xlsx</a>') %>%
+  mutate(complete = '<a href = "#">csv</a> <a href = "#">xlsx</a>') %>% 
+  mutate(preview = '<a href = "#"><span class="fa fa-search"></a>') %>% 
+  mutate_at(vars(latest, complete, preview), map, htmltools::HTML) %>% 
+  gt(groupname_col = "category") %>%
+  tab_options(table.width = pct(100),
+              table.border.top.style = "hidden",
+              table.border.bottom.style = "hidden",
+              row.striping.include_table_body = FALSE) %>%
+  #tab_spanner(label = "Downlodad", columns = vars(latest, complete, preview)) %>% 
+  tab_style(style = list(
+    cell_borders(sides = c("top", "bottom"), color = "#DEE2E5", weight = px(1)),
+    cell_fill(color = "#ecf0f1")),
+    locations = list(cells_row_groups())) %>%
+  tab_style(
+    style = list(cell_borders(sides = c("top", "bottom"), color = "#DEE2E5", weight = px(1))),
+    locations = list(cells_body())) %>%
+  cols_label(
+    name   = "Name",
+    source = "Source",
+    updated = "Updated",
+    latest = "Latest",
+    complete = "Complete",
+    preview = "Preview")
 ```
+<br>
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+### Supporting data
+Lookup tables and maps for use with the available data sets.
+```{r, echo=FALSE}
+tribble(
+  ~name, ~category,
+  "Municipalities and Districts", "Lookup tables",
+  "Municpialities", "Lookup tables",
+  "MSIS-regions", "Lookup tables",
+  "Municipalities and Districts", "Maps",
+  "Municpialities", "Maps",
+  "MSIS-regions", "Maps") %>%
+  mutate(download = '<a href = "#">csv</a> <a href = "#">xlsx</a>',
+         preview  = '<a href = "#"><span class="fa fa-search"></a>') %>% 
+  mutate_at(vars(download), ~ifelse(category != "Maps", .x, '<a href= "#">geojson</a>')) %>% 
+  mutate_at(vars(download, preview), map, htmltools::HTML) %>% 
+  gt(groupname_col = "category") %>%
+  tab_options(table.width = pct(100),
+              table.border.top.style = "hidden",
+              table.border.bottom.style = "hidden",
+              row.striping.include_table_body = FALSE) %>%
+  #tab_spanner(label = "Downlodad", columns = vars(latest, complete, preview)) %>% 
+  tab_style(style = list(
+    cell_borders(sides = c("top", "bottom"), color = "#DEE2E5", weight = px(1)),
+    cell_fill(color = "#ecf0f1")),
+    locations = list(cells_row_groups())) %>%
+  tab_style(
+    style = list(cell_borders(sides = c("top", "bottom"), color = "#DEE2E5", weight = px(1))),
+    locations = list(cells_body())) %>%
+  cols_label(
+    name   = "Name",
+    download = "Download",
+    preview = "Preview")
+```

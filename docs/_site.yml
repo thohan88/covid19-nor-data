@@ -1,7 +1,7 @@
 name: "covid-19-nor"
 output_dir: "."
 navbar:
-  title: "Covid-19 Data Norway"
+  title: "COVID-19 Data Norway"
   left:
     - text: "Home"
       icon: fa-home fa-fw
@@ -20,6 +20,3 @@ output:
   html_document:
     theme: flatly
     highlight: textmate
-    include:
-      after_body: footer.html
-      

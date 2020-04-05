@@ -11,7 +11,7 @@
 
 
 
-<title>Index</title>
+<title>COVID-19 Data Norway</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -19,9 +19,6 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
-<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
-<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -253,69 +250,6 @@ $(document).ready(function () {
 
 
 
-<style type="text/css">
-
-#TOC {
-  margin: 25px 0px 20px 0px;
-}
-@media (max-width: 768px) {
-#TOC {
-  position: relative;
-  width: 100%;
-}
-}
-
-@media print {
-.toc-content {
-  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
-  float: right;
-}
-}
-
-.toc-content {
-  padding-left: 30px;
-  padding-right: 40px;
-}
-
-div.main-container {
-  max-width: 1200px;
-}
-
-div.tocify {
-  width: 20%;
-  max-width: 260px;
-  max-height: 85%;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  div.tocify {
-    width: 25%;
-  }
-}
-
-@media (max-width: 767px) {
-  div.tocify {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-.tocify ul, .tocify li {
-  line-height: 20px;
-}
-
-.tocify-subheader .tocify-item {
-  font-size: 0.90em;
-}
-
-.tocify .list-group-item {
-  border-radius: 0px;
-}
-
-
-</style>
-
-
 
 </head>
 
@@ -323,16 +257,6 @@ div.tocify {
 
 
 <div class="container-fluid main-container">
-
-
-<!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row-fluid">
-<div class="col-xs-12 col-sm-4 col-md-3">
-<div id="TOC" class="tocify">
-</div>
-</div>
-
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -345,7 +269,7 @@ div.tocify {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Covid-19 Data Norway</a>
+      <a class="navbar-brand" href="index.html">COVID-19 Data Norway</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -389,62 +313,808 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">Index</h1>
+<h1 class="title toc-ignore">COVID-19 Data Norway</h1>
 
 </div>
 
 
-<div id="r-markdown" class="section level2">
-<h2>R Markdown</h2>
-<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>
-<p>When you click the <strong>Knit</strong> button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this. This is a test</p>
-<pre class="r"><code>mtcars</code></pre>
-<pre><code>##                      mpg cyl  disp  hp drat    wt  qsec vs am gear carb
-## Mazda RX4           21.0   6 160.0 110 3.90 2.620 16.46  0  1    4    4
-## Mazda RX4 Wag       21.0   6 160.0 110 3.90 2.875 17.02  0  1    4    4
-## Datsun 710          22.8   4 108.0  93 3.85 2.320 18.61  1  1    4    1
-## Hornet 4 Drive      21.4   6 258.0 110 3.08 3.215 19.44  1  0    3    1
-## Hornet Sportabout   18.7   8 360.0 175 3.15 3.440 17.02  0  0    3    2
-## Valiant             18.1   6 225.0 105 2.76 3.460 20.22  1  0    3    1
-## Duster 360          14.3   8 360.0 245 3.21 3.570 15.84  0  0    3    4
-## Merc 240D           24.4   4 146.7  62 3.69 3.190 20.00  1  0    4    2
-## Merc 230            22.8   4 140.8  95 3.92 3.150 22.90  1  0    4    2
-## Merc 280            19.2   6 167.6 123 3.92 3.440 18.30  1  0    4    4
-## Merc 280C           17.8   6 167.6 123 3.92 3.440 18.90  1  0    4    4
-## Merc 450SE          16.4   8 275.8 180 3.07 4.070 17.40  0  0    3    3
-## Merc 450SL          17.3   8 275.8 180 3.07 3.730 17.60  0  0    3    3
-## Merc 450SLC         15.2   8 275.8 180 3.07 3.780 18.00  0  0    3    3
-## Cadillac Fleetwood  10.4   8 472.0 205 2.93 5.250 17.98  0  0    3    4
-## Lincoln Continental 10.4   8 460.0 215 3.00 5.424 17.82  0  0    3    4
-## Chrysler Imperial   14.7   8 440.0 230 3.23 5.345 17.42  0  0    3    4
-## Fiat 128            32.4   4  78.7  66 4.08 2.200 19.47  1  1    4    1
-## Honda Civic         30.4   4  75.7  52 4.93 1.615 18.52  1  1    4    2
-## Toyota Corolla      33.9   4  71.1  65 4.22 1.835 19.90  1  1    4    1
-## Toyota Corona       21.5   4 120.1  97 3.70 2.465 20.01  1  0    3    1
-## Dodge Challenger    15.5   8 318.0 150 2.76 3.520 16.87  0  0    3    2
-## AMC Javelin         15.2   8 304.0 150 3.15 3.435 17.30  0  0    3    2
-## Camaro Z28          13.3   8 350.0 245 3.73 3.840 15.41  0  0    3    4
-## Pontiac Firebird    19.2   8 400.0 175 3.08 3.845 17.05  0  0    3    2
-## Fiat X1-9           27.3   4  79.0  66 4.08 1.935 18.90  1  1    4    1
-## Porsche 914-2       26.0   4 120.3  91 4.43 2.140 16.70  0  1    5    2
-## Lotus Europa        30.4   4  95.1 113 3.77 1.513 16.90  1  1    5    2
-## Ford Pantera L      15.8   8 351.0 264 4.22 3.170 14.50  0  1    5    4
-## Ferrari Dino        19.7   6 145.0 175 3.62 2.770 15.50  0  1    5    6
-## Maserati Bora       15.0   8 301.0 335 3.54 3.570 14.60  0  1    5    8
-## Volvo 142E          21.4   4 121.0 109 4.11 2.780 18.60  1  1    4    2</code></pre>
+<h3 style="color: #6f7d7e;margin-top:8px;t">
+Public data about the COVID-19-situation in Norway
+</h3>
+<div id="motivation" class="section level3">
+<h3>Motivation</h3>
+<p>The current state of publicly available data about the COVID-19-situtation in Norway is a mix of <a href="https://www.fhi.no/sv/smittsomme-sykdommer/corona/dags--og-ukerapporter/dags--og-ukerapporter-om-koronavirus/">PDF-reports</a>, <a href="https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/permitterte">Excel-files</a>, <a href="https://www.helsedirektoratet.no/statistikk/antall-innlagte-pasienter-pa-sykehus-med-pavist-covid-19">Power BI-dashboards</a> and public registries. Further, much of the data is only released as cumulative statistics at aggregated levels (e.g. <a href="http://www.msis.no/">MSIS</a>). This has created a market for media outlets to release local “situation reports” behind paywalls (see: <a href="https://www.aftenposten.no/norge/i/K3mnr4/i-det-meste-av-landet-bremser-viruset-opp-i-oslo-sprer-det-seg-raskt-fra-bydel-til-bydel">Aftenposten</a>). The motivation for this project is to collect disparate data sources of Covid-19 in Norway and make them freely available to the public in a timely and coherent manner.</p>
 </div>
-<div id="including-plots" class="section level2">
-<h2>Including Plots</h2>
-<p>You can also embed plots, for example:</p>
-<p><img src="index_files/figure-html/pressure-1.png" width="672" /></p>
-<p>Note that the <code>echo = FALSE</code> parameter was added to the code chunk to prevent printing of the R code that generated the plot.</p>
+<div id="use-of-data" class="section level3">
+<h3>Use of data</h3>
+<p>All available data is free to use without attribution to this project. Media outlets are strongly encouraged to make their online-articles using this data publicly available.</p>
+</div>
+<div id="contributing-to-the-project" class="section level3">
+<h3>Contributing to the project</h3>
+<p>This project is a collaborative and voluntary effort and we would love your help. If you are an individual wishing to contribute, please read the <a href="#">contribute section</a>. If you are an organization interested in making your data available, please <a href="#">get in touch</a>.</p>
+</div>
+<div id="available-data" class="section level3">
+<h3>Available data</h3>
+<p><style>html {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
+}
+
+#cfszzvwkgp .gt_table {
+  display: table;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  color: #333333;
+  font-size: 16px;
+  background-color: #FFFFFF;
+  width: 100%;
+  border-top-style: hidden;
+  border-top-width: 2px;
+  border-top-color: #A8A8A8;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  border-bottom-style: hidden;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+}
+
+#cfszzvwkgp .gt_heading {
+  background-color: #FFFFFF;
+  text-align: center;
+  border-bottom-color: #FFFFFF;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#cfszzvwkgp .gt_title {
+  color: #333333;
+  font-size: 125%;
+  font-weight: initial;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-width: 0;
+}
+
+#cfszzvwkgp .gt_subtitle {
+  color: #333333;
+  font-size: 85%;
+  font-weight: initial;
+  padding-top: 0;
+  padding-bottom: 4px;
+  border-top-color: #FFFFFF;
+  border-top-width: 0;
+}
+
+#cfszzvwkgp .gt_bottom_border {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#cfszzvwkgp .gt_col_headings {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#cfszzvwkgp .gt_col_heading {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-x: hidden;
+}
+
+#cfszzvwkgp .gt_column_spanner_outer {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#cfszzvwkgp .gt_column_spanner_outer:first-child {
+  padding-left: 0;
+}
+
+#cfszzvwkgp .gt_column_spanner_outer:last-child {
+  padding-right: 0;
+}
+
+#cfszzvwkgp .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  overflow-x: hidden;
+  display: inline-block;
+  width: 100%;
+}
+
+#cfszzvwkgp .gt_group_heading {
+  padding: 8px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#cfszzvwkgp .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#cfszzvwkgp .gt_striped {
+  background-color: rgba(128, 128, 128, 0.05);
+}
+
+#cfszzvwkgp .gt_from_md > :first-child {
+  margin-top: 0;
+}
+
+#cfszzvwkgp .gt_from_md > :last-child {
+  margin-bottom: 0;
+}
+
+#cfszzvwkgp .gt_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 10px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+#cfszzvwkgp .gt_stub {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 12px;
+}
+
+#cfszzvwkgp .gt_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#cfszzvwkgp .gt_first_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+}
+
+#cfszzvwkgp .gt_grand_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#cfszzvwkgp .gt_first_grand_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: double;
+  border-top-width: 6px;
+  border-top-color: #D3D3D3;
+}
+
+#cfszzvwkgp .gt_table_body {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#cfszzvwkgp .gt_footnotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#cfszzvwkgp .gt_footnote {
+  margin: 0px;
+  font-size: 90%;
+  padding: 4px;
+}
+
+#cfszzvwkgp .gt_sourcenotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#cfszzvwkgp .gt_sourcenote {
+  font-size: 90%;
+  padding: 4px;
+}
+
+#cfszzvwkgp .gt_left {
+  text-align: left;
+}
+
+#cfszzvwkgp .gt_center {
+  text-align: center;
+}
+
+#cfszzvwkgp .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#cfszzvwkgp .gt_font_normal {
+  font-weight: normal;
+}
+
+#cfszzvwkgp .gt_font_bold {
+  font-weight: bold;
+}
+
+#cfszzvwkgp .gt_font_italic {
+  font-style: italic;
+}
+
+#cfszzvwkgp .gt_super {
+  font-size: 65%;
+}
+
+#cfszzvwkgp .gt_footnote_marks {
+  font-style: italic;
+  font-size: 65%;
+}
+</style>
+<div id="cfszzvwkgp" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;"><table class="gt_table">
+  
+  <thead class="gt_col_headings">
+    <tr>
+      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">Name</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">Source</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">Updated</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1">Latest</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1">Complete</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1">Preview</th>
+    </tr>
+  </thead>
+  <tbody class="gt_table_body">
+    <tr class="gt_group_heading_row">
+      <td colspan="6" class="gt_group_heading" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5; background-color: #ECF0F1;">Healthcare</td>
+    </tr>
+    <tr>
+      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">Infections</td>
+      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">MSIS</td>
+      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">2020-04-04</td>
+      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "#">csv</a> <a href = "#">xlsx</a></td>
+      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "#">csv</a> <a href = "#">xlsx</a></td>
+      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "#"><span class="fa fa-search"></a></td>
+    </tr>
+    <tr>
+      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">Deaths</td>
+      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">FHI</td>
+      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">2020-04-04</td>
+      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "#">csv</a> <a href = "#">xlsx</a></td>
+      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "#">csv</a> <a href = "#">xlsx</a></td>
+      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "#"><span class="fa fa-search"></a></td>
+    </tr>
+    <tr>
+      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">Admissions</td>
+      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">Helsedirektoratet</td>
+      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">2020-04-04</td>
+      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "#">csv</a> <a href = "#">xlsx</a></td>
+      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "#">csv</a> <a href = "#">xlsx</a></td>
+      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "#"><span class="fa fa-search"></a></td>
+    </tr>
+    <tr class="gt_group_heading_row">
+      <td colspan="6" class="gt_group_heading" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5; background-color: #ECF0F1;">Economic</td>
+    </tr>
+    <tr>
+      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">Temporary Layoffs</td>
+      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">NAV</td>
+      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">2020-04-04</td>
+      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "#">csv</a> <a href = "#">xlsx</a></td>
+      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "#">csv</a> <a href = "#">xlsx</a></td>
+      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "#"><span class="fa fa-search"></a></td>
+    </tr>
+  </tbody>
+  
+  
+</table></div> <br></p>
+</div>
+<div id="supporting-data" class="section level3">
+<h3>Supporting data</h3>
+<p>Lookup tables and maps for use with the available data sets. <style>html {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
+}
+
+#exazjziupv .gt_table {
+  display: table;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  color: #333333;
+  font-size: 16px;
+  background-color: #FFFFFF;
+  width: 100%;
+  border-top-style: hidden;
+  border-top-width: 2px;
+  border-top-color: #A8A8A8;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  border-bottom-style: hidden;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+}
+
+#exazjziupv .gt_heading {
+  background-color: #FFFFFF;
+  text-align: center;
+  border-bottom-color: #FFFFFF;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#exazjziupv .gt_title {
+  color: #333333;
+  font-size: 125%;
+  font-weight: initial;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-width: 0;
+}
+
+#exazjziupv .gt_subtitle {
+  color: #333333;
+  font-size: 85%;
+  font-weight: initial;
+  padding-top: 0;
+  padding-bottom: 4px;
+  border-top-color: #FFFFFF;
+  border-top-width: 0;
+}
+
+#exazjziupv .gt_bottom_border {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#exazjziupv .gt_col_headings {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#exazjziupv .gt_col_heading {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-x: hidden;
+}
+
+#exazjziupv .gt_column_spanner_outer {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#exazjziupv .gt_column_spanner_outer:first-child {
+  padding-left: 0;
+}
+
+#exazjziupv .gt_column_spanner_outer:last-child {
+  padding-right: 0;
+}
+
+#exazjziupv .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  overflow-x: hidden;
+  display: inline-block;
+  width: 100%;
+}
+
+#exazjziupv .gt_group_heading {
+  padding: 8px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#exazjziupv .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#exazjziupv .gt_striped {
+  background-color: rgba(128, 128, 128, 0.05);
+}
+
+#exazjziupv .gt_from_md > :first-child {
+  margin-top: 0;
+}
+
+#exazjziupv .gt_from_md > :last-child {
+  margin-bottom: 0;
+}
+
+#exazjziupv .gt_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 10px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+#exazjziupv .gt_stub {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 12px;
+}
+
+#exazjziupv .gt_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#exazjziupv .gt_first_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+}
+
+#exazjziupv .gt_grand_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#exazjziupv .gt_first_grand_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: double;
+  border-top-width: 6px;
+  border-top-color: #D3D3D3;
+}
+
+#exazjziupv .gt_table_body {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#exazjziupv .gt_footnotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#exazjziupv .gt_footnote {
+  margin: 0px;
+  font-size: 90%;
+  padding: 4px;
+}
+
+#exazjziupv .gt_sourcenotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#exazjziupv .gt_sourcenote {
+  font-size: 90%;
+  padding: 4px;
+}
+
+#exazjziupv .gt_left {
+  text-align: left;
+}
+
+#exazjziupv .gt_center {
+  text-align: center;
+}
+
+#exazjziupv .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#exazjziupv .gt_font_normal {
+  font-weight: normal;
+}
+
+#exazjziupv .gt_font_bold {
+  font-weight: bold;
+}
+
+#exazjziupv .gt_font_italic {
+  font-style: italic;
+}
+
+#exazjziupv .gt_super {
+  font-size: 65%;
+}
+
+#exazjziupv .gt_footnote_marks {
+  font-style: italic;
+  font-size: 65%;
+}
+</style>
+<div id="exazjziupv" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;"><table class="gt_table">
+  
+  <thead class="gt_col_headings">
+    <tr>
+      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">Name</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1">Download</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1">Preview</th>
+    </tr>
+  </thead>
+  <tbody class="gt_table_body">
+    <tr class="gt_group_heading_row">
+      <td colspan="3" class="gt_group_heading" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5; background-color: #ECF0F1;">Lookup tables</td>
+    </tr>
+    <tr>
+      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">Municipalities and Districts</td>
+      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "#">csv</a> <a href = "#">xlsx</a></td>
+      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "#"><span class="fa fa-search"></a></td>
+    </tr>
+    <tr>
+      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">Municpialities</td>
+      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "#">csv</a> <a href = "#">xlsx</a></td>
+      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "#"><span class="fa fa-search"></a></td>
+    </tr>
+    <tr>
+      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">MSIS-regions</td>
+      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "#">csv</a> <a href = "#">xlsx</a></td>
+      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "#"><span class="fa fa-search"></a></td>
+    </tr>
+    <tr class="gt_group_heading_row">
+      <td colspan="3" class="gt_group_heading" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5; background-color: #ECF0F1;">Maps</td>
+    </tr>
+    <tr>
+      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">Municipalities and Districts</td>
+      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href= "#">geojson</a></td>
+      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "#"><span class="fa fa-search"></a></td>
+    </tr>
+    <tr>
+      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">Municpialities</td>
+      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href= "#">geojson</a></td>
+      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "#"><span class="fa fa-search"></a></td>
+    </tr>
+    <tr>
+      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">MSIS-regions</td>
+      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href= "#">geojson</a></td>
+      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "#"><span class="fa fa-search"></a></td>
+    </tr>
+  </tbody>
+  
+  
+</table></div></p>
 </div>
 
-<p>Public COVID-19 data for Norway</p>
 
 
-</div>
-</div>
 
 </div>
 
@@ -477,32 +1147,6 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
-<script>
-$(document).ready(function ()  {
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
