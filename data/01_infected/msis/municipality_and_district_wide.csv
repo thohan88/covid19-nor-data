@@ -18,7 +18,7 @@ time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_no,kommune_
 04:00:00,030117,Marka,030117,Marka,0301,Oslo,03,Oslo,1610,0,0,1,1,1,1,2,2,2,2,2,2
 04:00:00,030199,Ukjent Bydel,030199,Ukjent,0301,Oslo,03,Oslo,2386,12,15,19,22,23,24,24,24,24,26,26,26
 04:00:00,1101,Eigersund,,,1101,Eigersund,11,Rogaland,14811,6,6,9,9,9,10,10,10,12,14,14,14
-04:00:00,1103,Stavanger,,,1103,Stavanger,11,Rogaland,,87,88,97,98,98,106,107,110,117,124,124,125
+04:00:00,1103,Stavanger,,,1103,Stavanger,11,Rogaland,143574,87,88,97,98,98,106,107,110,117,124,124,125
 04:00:00,1106,Haugesund,,,1106,Haugesund,11,Rogaland,37357,41,47,47,47,47,47,48,48,48,49,49,49
 04:00:00,1108,Sandnes,,,1108,Sandnes,11,Rogaland,79537,34,35,39,39,39,41,41,42,44,44,44,45
 04:00:00,1111,Sokndal,,,1111,Sokndal,11,Rogaland,3280,2,2,2,2,2,2,2,2,2,3,3,3
@@ -303,7 +303,7 @@ time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_no,kommune_
 04:00:00,4649,Stad,,,4649,Stad,46,Vestland,9457,0,0,0,0,0,0,0,0,0,0,0,0
 04:00:00,4650,Gloppen,,,4650,Gloppen,46,Vestland,5854,2,2,2,2,2,2,2,3,3,4,4,4
 04:00:00,4651,Stryn,,,4651,Stryn,46,Vestland,7130,8,8,10,10,10,10,11,11,11,11,11,11
-04:00:00,5001,Trondheim,,,5001,Trondheim,50,Trøndelag,,113,136,149,159,171,178,180,182,188,193,196,198
+04:00:00,5001,Trondheim,,,5001,Trondheim,50,Trøndelag,205163,113,136,149,159,171,178,180,182,188,193,196,198
 04:00:00,5006,Steinkjer,,,5006,Steinkjer,50,Trøndelag,24357,6,6,6,6,9,10,10,11,12,12,15,15
 04:00:00,5007,Namsos,,,5007,Namsos,50,Trøndelag,15230,1,1,2,2,2,2,4,5,5,5,5,5
 04:00:00,5014,Frøya,,,5014,Frøya,50,Trøndelag,5151,0,0,0,0,0,0,0,0,0,0,0,0
@@ -380,5 +380,5 @@ time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_no,kommune_
 04:00:00,5442,Nesseby,,,5442,Nesseby,54,Troms og Finnmark,926,1,1,1,1,1,1,1,1,1,1,1,1
 04:00:00,5443,Båtsfjord,,,5443,Båtsfjord,54,Troms og Finnmark,2221,0,0,0,0,0,0,0,0,0,0,0,0
 04:00:00,5444,Sør-Varanger,,,5444,Sør-Varanger,54,Troms og Finnmark,10158,1,3,3,4,4,4,4,4,4,4,4,4
-04:00:00,9998,Svalbard,,,9998,Svalbard,99,Svalbard,,0,0,0,0,0,0,0,0,0,0,0,0
-04:00:00,9999,Ukjent Kommune,,,9999,Ukjent Kommune,99,Ukjent Fylke,,109,12,1,0,1,0,2,0,1,2,2,2
+04:00:00,9998,Svalbard,,,9998,Svalbard,99,Svalbard,0,0,0,0,0,0,0,0,0,0,0,0,0
+04:00:00,9999,Ukjent Kommune,,,9999,Ukjent Kommune,99,Ukjent Fylke,0,109,12,1,0,1,0,2,0,1,2,2,2

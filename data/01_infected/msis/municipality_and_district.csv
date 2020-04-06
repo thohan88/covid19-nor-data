@@ -18,7 +18,7 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-03-26,2020-03-26T04:00:00Z,030117,Marka,030117,Marka,0301,Oslo,03,Oslo,1610,0
 2020-03-26,2020-03-26T04:00:00Z,030199,Ukjent Bydel,030199,Ukjent,0301,Oslo,03,Oslo,2386,12
 2020-03-26,2020-03-26T04:00:00Z,1101,Eigersund,,,1101,Eigersund,11,Rogaland,14811,6
-2020-03-26,2020-03-26T04:00:00Z,1103,Stavanger,,,1103,Stavanger,11,Rogaland,,87
+2020-03-26,2020-03-26T04:00:00Z,1103,Stavanger,,,1103,Stavanger,11,Rogaland,143574,87
 2020-03-26,2020-03-26T04:00:00Z,1106,Haugesund,,,1106,Haugesund,11,Rogaland,37357,41
 2020-03-26,2020-03-26T04:00:00Z,1108,Sandnes,,,1108,Sandnes,11,Rogaland,79537,34
 2020-03-26,2020-03-26T04:00:00Z,1111,Sokndal,,,1111,Sokndal,11,Rogaland,3280,2
@@ -303,7 +303,7 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-03-26,2020-03-26T04:00:00Z,4649,Stad,,,4649,Stad,46,Vestland,9457,0
 2020-03-26,2020-03-26T04:00:00Z,4650,Gloppen,,,4650,Gloppen,46,Vestland,5854,2
 2020-03-26,2020-03-26T04:00:00Z,4651,Stryn,,,4651,Stryn,46,Vestland,7130,8
-2020-03-26,2020-03-26T04:00:00Z,5001,Trondheim,,,5001,Trondheim,50,Trøndelag,,113
+2020-03-26,2020-03-26T04:00:00Z,5001,Trondheim,,,5001,Trondheim,50,Trøndelag,205163,113
 2020-03-26,2020-03-26T04:00:00Z,5006,Steinkjer,,,5006,Steinkjer,50,Trøndelag,24357,6
 2020-03-26,2020-03-26T04:00:00Z,5007,Namsos,,,5007,Namsos,50,Trøndelag,15230,1
 2020-03-26,2020-03-26T04:00:00Z,5014,Frøya,,,5014,Frøya,50,Trøndelag,5151,0
@@ -380,8 +380,8 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-03-26,2020-03-26T04:00:00Z,5442,Nesseby,,,5442,Nesseby,54,Troms og Finnmark,926,1
 2020-03-26,2020-03-26T04:00:00Z,5443,Båtsfjord,,,5443,Båtsfjord,54,Troms og Finnmark,2221,0
 2020-03-26,2020-03-26T04:00:00Z,5444,Sør-Varanger,,,5444,Sør-Varanger,54,Troms og Finnmark,10158,1
-2020-03-26,2020-03-26T04:00:00Z,9998,Svalbard,,,9998,Svalbard,99,Svalbard,,0
-2020-03-26,2020-03-26T04:00:00Z,9999,Ukjent Kommune,,,9999,Ukjent Kommune,99,Ukjent Fylke,,109
+2020-03-26,2020-03-26T04:00:00Z,9998,Svalbard,,,9998,Svalbard,99,Svalbard,0,0
+2020-03-26,2020-03-26T04:00:00Z,9999,Ukjent Kommune,,,9999,Ukjent Kommune,99,Ukjent Fylke,0,109
 2020-03-27,2020-03-27T04:00:00Z,030101,Gamle Oslo,030101,Gamle Oslo,0301,Oslo,03,Oslo,58671,92
 2020-03-27,2020-03-27T04:00:00Z,030102,Grünerløkka,030102,Grünerløkka,0301,Oslo,03,Oslo,62423,71
 2020-03-27,2020-03-27T04:00:00Z,030103,Sagene,030103,Sagene,0301,Oslo,03,Oslo,45089,59
@@ -401,7 +401,7 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-03-27,2020-03-27T04:00:00Z,030117,Marka,030117,Marka,0301,Oslo,03,Oslo,1610,0
 2020-03-27,2020-03-27T04:00:00Z,030199,Ukjent Bydel,030199,Ukjent,0301,Oslo,03,Oslo,2386,15
 2020-03-27,2020-03-27T04:00:00Z,1101,Eigersund,,,1101,Eigersund,11,Rogaland,14811,6
-2020-03-27,2020-03-27T04:00:00Z,1103,Stavanger,,,1103,Stavanger,11,Rogaland,,88
+2020-03-27,2020-03-27T04:00:00Z,1103,Stavanger,,,1103,Stavanger,11,Rogaland,143574,88
 2020-03-27,2020-03-27T04:00:00Z,1106,Haugesund,,,1106,Haugesund,11,Rogaland,37357,47
 2020-03-27,2020-03-27T04:00:00Z,1108,Sandnes,,,1108,Sandnes,11,Rogaland,79537,35
 2020-03-27,2020-03-27T04:00:00Z,1111,Sokndal,,,1111,Sokndal,11,Rogaland,3280,2
@@ -686,7 +686,7 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-03-27,2020-03-27T04:00:00Z,4649,Stad,,,4649,Stad,46,Vestland,9457,0
 2020-03-27,2020-03-27T04:00:00Z,4650,Gloppen,,,4650,Gloppen,46,Vestland,5854,2
 2020-03-27,2020-03-27T04:00:00Z,4651,Stryn,,,4651,Stryn,46,Vestland,7130,8
-2020-03-27,2020-03-27T04:00:00Z,5001,Trondheim,,,5001,Trondheim,50,Trøndelag,,136
+2020-03-27,2020-03-27T04:00:00Z,5001,Trondheim,,,5001,Trondheim,50,Trøndelag,205163,136
 2020-03-27,2020-03-27T04:00:00Z,5006,Steinkjer,,,5006,Steinkjer,50,Trøndelag,24357,6
 2020-03-27,2020-03-27T04:00:00Z,5007,Namsos,,,5007,Namsos,50,Trøndelag,15230,1
 2020-03-27,2020-03-27T04:00:00Z,5014,Frøya,,,5014,Frøya,50,Trøndelag,5151,0
@@ -763,8 +763,8 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-03-27,2020-03-27T04:00:00Z,5442,Nesseby,,,5442,Nesseby,54,Troms og Finnmark,926,1
 2020-03-27,2020-03-27T04:00:00Z,5443,Båtsfjord,,,5443,Båtsfjord,54,Troms og Finnmark,2221,0
 2020-03-27,2020-03-27T04:00:00Z,5444,Sør-Varanger,,,5444,Sør-Varanger,54,Troms og Finnmark,10158,3
-2020-03-27,2020-03-27T04:00:00Z,9998,Svalbard,,,9998,Svalbard,99,Svalbard,,0
-2020-03-27,2020-03-27T04:00:00Z,9999,Ukjent Kommune,,,9999,Ukjent Kommune,99,Ukjent Fylke,,12
+2020-03-27,2020-03-27T04:00:00Z,9998,Svalbard,,,9998,Svalbard,99,Svalbard,0,0
+2020-03-27,2020-03-27T04:00:00Z,9999,Ukjent Kommune,,,9999,Ukjent Kommune,99,Ukjent Fylke,0,12
 2020-03-28,2020-03-28T04:00:00Z,030101,Gamle Oslo,030101,Gamle Oslo,0301,Oslo,03,Oslo,58671,105
 2020-03-28,2020-03-28T04:00:00Z,030102,Grünerløkka,030102,Grünerløkka,0301,Oslo,03,Oslo,62423,84
 2020-03-28,2020-03-28T04:00:00Z,030103,Sagene,030103,Sagene,0301,Oslo,03,Oslo,45089,60
@@ -784,7 +784,7 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-03-28,2020-03-28T04:00:00Z,030117,Marka,030117,Marka,0301,Oslo,03,Oslo,1610,1
 2020-03-28,2020-03-28T04:00:00Z,030199,Ukjent Bydel,030199,Ukjent,0301,Oslo,03,Oslo,2386,19
 2020-03-28,2020-03-28T04:00:00Z,1101,Eigersund,,,1101,Eigersund,11,Rogaland,14811,9
-2020-03-28,2020-03-28T04:00:00Z,1103,Stavanger,,,1103,Stavanger,11,Rogaland,,97
+2020-03-28,2020-03-28T04:00:00Z,1103,Stavanger,,,1103,Stavanger,11,Rogaland,143574,97
 2020-03-28,2020-03-28T04:00:00Z,1106,Haugesund,,,1106,Haugesund,11,Rogaland,37357,47
 2020-03-28,2020-03-28T04:00:00Z,1108,Sandnes,,,1108,Sandnes,11,Rogaland,79537,39
 2020-03-28,2020-03-28T04:00:00Z,1111,Sokndal,,,1111,Sokndal,11,Rogaland,3280,2
@@ -1069,7 +1069,7 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-03-28,2020-03-28T04:00:00Z,4649,Stad,,,4649,Stad,46,Vestland,9457,0
 2020-03-28,2020-03-28T04:00:00Z,4650,Gloppen,,,4650,Gloppen,46,Vestland,5854,2
 2020-03-28,2020-03-28T04:00:00Z,4651,Stryn,,,4651,Stryn,46,Vestland,7130,10
-2020-03-28,2020-03-28T04:00:00Z,5001,Trondheim,,,5001,Trondheim,50,Trøndelag,,149
+2020-03-28,2020-03-28T04:00:00Z,5001,Trondheim,,,5001,Trondheim,50,Trøndelag,205163,149
 2020-03-28,2020-03-28T04:00:00Z,5006,Steinkjer,,,5006,Steinkjer,50,Trøndelag,24357,6
 2020-03-28,2020-03-28T04:00:00Z,5007,Namsos,,,5007,Namsos,50,Trøndelag,15230,2
 2020-03-28,2020-03-28T04:00:00Z,5014,Frøya,,,5014,Frøya,50,Trøndelag,5151,0
@@ -1146,8 +1146,8 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-03-28,2020-03-28T04:00:00Z,5442,Nesseby,,,5442,Nesseby,54,Troms og Finnmark,926,1
 2020-03-28,2020-03-28T04:00:00Z,5443,Båtsfjord,,,5443,Båtsfjord,54,Troms og Finnmark,2221,0
 2020-03-28,2020-03-28T04:00:00Z,5444,Sør-Varanger,,,5444,Sør-Varanger,54,Troms og Finnmark,10158,3
-2020-03-28,2020-03-28T04:00:00Z,9998,Svalbard,,,9998,Svalbard,99,Svalbard,,0
-2020-03-28,2020-03-28T04:00:00Z,9999,Ukjent Kommune,,,9999,Ukjent Kommune,99,Ukjent Fylke,,1
+2020-03-28,2020-03-28T04:00:00Z,9998,Svalbard,,,9998,Svalbard,99,Svalbard,0,0
+2020-03-28,2020-03-28T04:00:00Z,9999,Ukjent Kommune,,,9999,Ukjent Kommune,99,Ukjent Fylke,0,1
 2020-03-29,2020-03-29T04:00:00Z,030101,Gamle Oslo,030101,Gamle Oslo,0301,Oslo,03,Oslo,58671,114
 2020-03-29,2020-03-29T04:00:00Z,030102,Grünerløkka,030102,Grünerløkka,0301,Oslo,03,Oslo,62423,96
 2020-03-29,2020-03-29T04:00:00Z,030103,Sagene,030103,Sagene,0301,Oslo,03,Oslo,45089,65
@@ -1167,7 +1167,7 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-03-29,2020-03-29T04:00:00Z,030117,Marka,030117,Marka,0301,Oslo,03,Oslo,1610,1
 2020-03-29,2020-03-29T04:00:00Z,030199,Ukjent Bydel,030199,Ukjent,0301,Oslo,03,Oslo,2386,22
 2020-03-29,2020-03-29T04:00:00Z,1101,Eigersund,,,1101,Eigersund,11,Rogaland,14811,9
-2020-03-29,2020-03-29T04:00:00Z,1103,Stavanger,,,1103,Stavanger,11,Rogaland,,98
+2020-03-29,2020-03-29T04:00:00Z,1103,Stavanger,,,1103,Stavanger,11,Rogaland,143574,98
 2020-03-29,2020-03-29T04:00:00Z,1106,Haugesund,,,1106,Haugesund,11,Rogaland,37357,47
 2020-03-29,2020-03-29T04:00:00Z,1108,Sandnes,,,1108,Sandnes,11,Rogaland,79537,39
 2020-03-29,2020-03-29T04:00:00Z,1111,Sokndal,,,1111,Sokndal,11,Rogaland,3280,2
@@ -1452,7 +1452,7 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-03-29,2020-03-29T04:00:00Z,4649,Stad,,,4649,Stad,46,Vestland,9457,0
 2020-03-29,2020-03-29T04:00:00Z,4650,Gloppen,,,4650,Gloppen,46,Vestland,5854,2
 2020-03-29,2020-03-29T04:00:00Z,4651,Stryn,,,4651,Stryn,46,Vestland,7130,10
-2020-03-29,2020-03-29T04:00:00Z,5001,Trondheim,,,5001,Trondheim,50,Trøndelag,,159
+2020-03-29,2020-03-29T04:00:00Z,5001,Trondheim,,,5001,Trondheim,50,Trøndelag,205163,159
 2020-03-29,2020-03-29T04:00:00Z,5006,Steinkjer,,,5006,Steinkjer,50,Trøndelag,24357,6
 2020-03-29,2020-03-29T04:00:00Z,5007,Namsos,,,5007,Namsos,50,Trøndelag,15230,2
 2020-03-29,2020-03-29T04:00:00Z,5014,Frøya,,,5014,Frøya,50,Trøndelag,5151,0
@@ -1529,8 +1529,8 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-03-29,2020-03-29T04:00:00Z,5442,Nesseby,,,5442,Nesseby,54,Troms og Finnmark,926,1
 2020-03-29,2020-03-29T04:00:00Z,5443,Båtsfjord,,,5443,Båtsfjord,54,Troms og Finnmark,2221,0
 2020-03-29,2020-03-29T04:00:00Z,5444,Sør-Varanger,,,5444,Sør-Varanger,54,Troms og Finnmark,10158,4
-2020-03-29,2020-03-29T04:00:00Z,9998,Svalbard,,,9998,Svalbard,99,Svalbard,,0
-2020-03-29,2020-03-29T04:00:00Z,9999,Ukjent Kommune,,,9999,Ukjent Kommune,99,Ukjent Fylke,,0
+2020-03-29,2020-03-29T04:00:00Z,9998,Svalbard,,,9998,Svalbard,99,Svalbard,0,0
+2020-03-29,2020-03-29T04:00:00Z,9999,Ukjent Kommune,,,9999,Ukjent Kommune,99,Ukjent Fylke,0,0
 2020-03-30,2020-03-30T04:00:00Z,030101,Gamle Oslo,030101,Gamle Oslo,0301,Oslo,03,Oslo,58671,120
 2020-03-30,2020-03-30T04:00:00Z,030102,Grünerløkka,030102,Grünerløkka,0301,Oslo,03,Oslo,62423,96
 2020-03-30,2020-03-30T04:00:00Z,030103,Sagene,030103,Sagene,0301,Oslo,03,Oslo,45089,66
@@ -1550,7 +1550,7 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-03-30,2020-03-30T04:00:00Z,030117,Marka,030117,Marka,0301,Oslo,03,Oslo,1610,1
 2020-03-30,2020-03-30T04:00:00Z,030199,Ukjent Bydel,030199,Ukjent,0301,Oslo,03,Oslo,2386,23
 2020-03-30,2020-03-30T04:00:00Z,1101,Eigersund,,,1101,Eigersund,11,Rogaland,14811,9
-2020-03-30,2020-03-30T04:00:00Z,1103,Stavanger,,,1103,Stavanger,11,Rogaland,,98
+2020-03-30,2020-03-30T04:00:00Z,1103,Stavanger,,,1103,Stavanger,11,Rogaland,143574,98
 2020-03-30,2020-03-30T04:00:00Z,1106,Haugesund,,,1106,Haugesund,11,Rogaland,37357,47
 2020-03-30,2020-03-30T04:00:00Z,1108,Sandnes,,,1108,Sandnes,11,Rogaland,79537,39
 2020-03-30,2020-03-30T04:00:00Z,1111,Sokndal,,,1111,Sokndal,11,Rogaland,3280,2
@@ -1835,7 +1835,7 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-03-30,2020-03-30T04:00:00Z,4649,Stad,,,4649,Stad,46,Vestland,9457,0
 2020-03-30,2020-03-30T04:00:00Z,4650,Gloppen,,,4650,Gloppen,46,Vestland,5854,2
 2020-03-30,2020-03-30T04:00:00Z,4651,Stryn,,,4651,Stryn,46,Vestland,7130,10
-2020-03-30,2020-03-30T04:00:00Z,5001,Trondheim,,,5001,Trondheim,50,Trøndelag,,171
+2020-03-30,2020-03-30T04:00:00Z,5001,Trondheim,,,5001,Trondheim,50,Trøndelag,205163,171
 2020-03-30,2020-03-30T04:00:00Z,5006,Steinkjer,,,5006,Steinkjer,50,Trøndelag,24357,9
 2020-03-30,2020-03-30T04:00:00Z,5007,Namsos,,,5007,Namsos,50,Trøndelag,15230,2
 2020-03-30,2020-03-30T04:00:00Z,5014,Frøya,,,5014,Frøya,50,Trøndelag,5151,0
@@ -1912,8 +1912,8 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-03-30,2020-03-30T04:00:00Z,5442,Nesseby,,,5442,Nesseby,54,Troms og Finnmark,926,1
 2020-03-30,2020-03-30T04:00:00Z,5443,Båtsfjord,,,5443,Båtsfjord,54,Troms og Finnmark,2221,0
 2020-03-30,2020-03-30T04:00:00Z,5444,Sør-Varanger,,,5444,Sør-Varanger,54,Troms og Finnmark,10158,4
-2020-03-30,2020-03-30T04:00:00Z,9998,Svalbard,,,9998,Svalbard,99,Svalbard,,0
-2020-03-30,2020-03-30T04:00:00Z,9999,Ukjent Kommune,,,9999,Ukjent Kommune,99,Ukjent Fylke,,1
+2020-03-30,2020-03-30T04:00:00Z,9998,Svalbard,,,9998,Svalbard,99,Svalbard,0,0
+2020-03-30,2020-03-30T04:00:00Z,9999,Ukjent Kommune,,,9999,Ukjent Kommune,99,Ukjent Fylke,0,1
 2020-03-31,2020-03-31T04:00:00Z,030101,Gamle Oslo,030101,Gamle Oslo,0301,Oslo,03,Oslo,58671,124
 2020-03-31,2020-03-31T04:00:00Z,030102,Grünerløkka,030102,Grünerløkka,0301,Oslo,03,Oslo,62423,101
 2020-03-31,2020-03-31T04:00:00Z,030103,Sagene,030103,Sagene,0301,Oslo,03,Oslo,45089,70
@@ -1933,7 +1933,7 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-03-31,2020-03-31T04:00:00Z,030117,Marka,030117,Marka,0301,Oslo,03,Oslo,1610,1
 2020-03-31,2020-03-31T04:00:00Z,030199,Ukjent Bydel,030199,Ukjent,0301,Oslo,03,Oslo,2386,24
 2020-03-31,2020-03-31T04:00:00Z,1101,Eigersund,,,1101,Eigersund,11,Rogaland,14811,10
-2020-03-31,2020-03-31T04:00:00Z,1103,Stavanger,,,1103,Stavanger,11,Rogaland,,106
+2020-03-31,2020-03-31T04:00:00Z,1103,Stavanger,,,1103,Stavanger,11,Rogaland,143574,106
 2020-03-31,2020-03-31T04:00:00Z,1106,Haugesund,,,1106,Haugesund,11,Rogaland,37357,47
 2020-03-31,2020-03-31T04:00:00Z,1108,Sandnes,,,1108,Sandnes,11,Rogaland,79537,41
 2020-03-31,2020-03-31T04:00:00Z,1111,Sokndal,,,1111,Sokndal,11,Rogaland,3280,2
@@ -2218,7 +2218,7 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-03-31,2020-03-31T04:00:00Z,4649,Stad,,,4649,Stad,46,Vestland,9457,0
 2020-03-31,2020-03-31T04:00:00Z,4650,Gloppen,,,4650,Gloppen,46,Vestland,5854,2
 2020-03-31,2020-03-31T04:00:00Z,4651,Stryn,,,4651,Stryn,46,Vestland,7130,10
-2020-03-31,2020-03-31T04:00:00Z,5001,Trondheim,,,5001,Trondheim,50,Trøndelag,,178
+2020-03-31,2020-03-31T04:00:00Z,5001,Trondheim,,,5001,Trondheim,50,Trøndelag,205163,178
 2020-03-31,2020-03-31T04:00:00Z,5006,Steinkjer,,,5006,Steinkjer,50,Trøndelag,24357,10
 2020-03-31,2020-03-31T04:00:00Z,5007,Namsos,,,5007,Namsos,50,Trøndelag,15230,2
 2020-03-31,2020-03-31T04:00:00Z,5014,Frøya,,,5014,Frøya,50,Trøndelag,5151,0
@@ -2295,8 +2295,8 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-03-31,2020-03-31T04:00:00Z,5442,Nesseby,,,5442,Nesseby,54,Troms og Finnmark,926,1
 2020-03-31,2020-03-31T04:00:00Z,5443,Båtsfjord,,,5443,Båtsfjord,54,Troms og Finnmark,2221,0
 2020-03-31,2020-03-31T04:00:00Z,5444,Sør-Varanger,,,5444,Sør-Varanger,54,Troms og Finnmark,10158,4
-2020-03-31,2020-03-31T04:00:00Z,9998,Svalbard,,,9998,Svalbard,99,Svalbard,,0
-2020-03-31,2020-03-31T04:00:00Z,9999,Ukjent Kommune,,,9999,Ukjent Kommune,99,Ukjent Fylke,,0
+2020-03-31,2020-03-31T04:00:00Z,9998,Svalbard,,,9998,Svalbard,99,Svalbard,0,0
+2020-03-31,2020-03-31T04:00:00Z,9999,Ukjent Kommune,,,9999,Ukjent Kommune,99,Ukjent Fylke,0,0
 2020-04-01,2020-04-01T04:00:00Z,030101,Gamle Oslo,030101,Gamle Oslo,0301,Oslo,03,Oslo,58671,127
 2020-04-01,2020-04-01T04:00:00Z,030102,Grünerløkka,030102,Grünerløkka,0301,Oslo,03,Oslo,62423,107
 2020-04-01,2020-04-01T04:00:00Z,030103,Sagene,030103,Sagene,0301,Oslo,03,Oslo,45089,76
@@ -2316,7 +2316,7 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-04-01,2020-04-01T04:00:00Z,030117,Marka,030117,Marka,0301,Oslo,03,Oslo,1610,2
 2020-04-01,2020-04-01T04:00:00Z,030199,Ukjent Bydel,030199,Ukjent,0301,Oslo,03,Oslo,2386,24
 2020-04-01,2020-04-01T04:00:00Z,1101,Eigersund,,,1101,Eigersund,11,Rogaland,14811,10
-2020-04-01,2020-04-01T04:00:00Z,1103,Stavanger,,,1103,Stavanger,11,Rogaland,,107
+2020-04-01,2020-04-01T04:00:00Z,1103,Stavanger,,,1103,Stavanger,11,Rogaland,143574,107
 2020-04-01,2020-04-01T04:00:00Z,1106,Haugesund,,,1106,Haugesund,11,Rogaland,37357,48
 2020-04-01,2020-04-01T04:00:00Z,1108,Sandnes,,,1108,Sandnes,11,Rogaland,79537,41
 2020-04-01,2020-04-01T04:00:00Z,1111,Sokndal,,,1111,Sokndal,11,Rogaland,3280,2
@@ -2601,7 +2601,7 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-04-01,2020-04-01T04:00:00Z,4649,Stad,,,4649,Stad,46,Vestland,9457,0
 2020-04-01,2020-04-01T04:00:00Z,4650,Gloppen,,,4650,Gloppen,46,Vestland,5854,2
 2020-04-01,2020-04-01T04:00:00Z,4651,Stryn,,,4651,Stryn,46,Vestland,7130,11
-2020-04-01,2020-04-01T04:00:00Z,5001,Trondheim,,,5001,Trondheim,50,Trøndelag,,180
+2020-04-01,2020-04-01T04:00:00Z,5001,Trondheim,,,5001,Trondheim,50,Trøndelag,205163,180
 2020-04-01,2020-04-01T04:00:00Z,5006,Steinkjer,,,5006,Steinkjer,50,Trøndelag,24357,10
 2020-04-01,2020-04-01T04:00:00Z,5007,Namsos,,,5007,Namsos,50,Trøndelag,15230,4
 2020-04-01,2020-04-01T04:00:00Z,5014,Frøya,,,5014,Frøya,50,Trøndelag,5151,0
@@ -2678,8 +2678,8 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-04-01,2020-04-01T04:00:00Z,5442,Nesseby,,,5442,Nesseby,54,Troms og Finnmark,926,1
 2020-04-01,2020-04-01T04:00:00Z,5443,Båtsfjord,,,5443,Båtsfjord,54,Troms og Finnmark,2221,0
 2020-04-01,2020-04-01T04:00:00Z,5444,Sør-Varanger,,,5444,Sør-Varanger,54,Troms og Finnmark,10158,4
-2020-04-01,2020-04-01T04:00:00Z,9998,Svalbard,,,9998,Svalbard,99,Svalbard,,0
-2020-04-01,2020-04-01T04:00:00Z,9999,Ukjent Kommune,,,9999,Ukjent Kommune,99,Ukjent Fylke,,2
+2020-04-01,2020-04-01T04:00:00Z,9998,Svalbard,,,9998,Svalbard,99,Svalbard,0,0
+2020-04-01,2020-04-01T04:00:00Z,9999,Ukjent Kommune,,,9999,Ukjent Kommune,99,Ukjent Fylke,0,2
 2020-04-02,2020-04-02T04:00:00Z,030101,Gamle Oslo,030101,Gamle Oslo,0301,Oslo,03,Oslo,58671,137
 2020-04-02,2020-04-02T04:00:00Z,030102,Grünerløkka,030102,Grünerløkka,0301,Oslo,03,Oslo,62423,110
 2020-04-02,2020-04-02T04:00:00Z,030103,Sagene,030103,Sagene,0301,Oslo,03,Oslo,45089,80
@@ -2699,7 +2699,7 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-04-02,2020-04-02T04:00:00Z,030117,Marka,030117,Marka,0301,Oslo,03,Oslo,1610,2
 2020-04-02,2020-04-02T04:00:00Z,030199,Ukjent Bydel,030199,Ukjent,0301,Oslo,03,Oslo,2386,24
 2020-04-02,2020-04-02T04:00:00Z,1101,Eigersund,,,1101,Eigersund,11,Rogaland,14811,10
-2020-04-02,2020-04-02T04:00:00Z,1103,Stavanger,,,1103,Stavanger,11,Rogaland,,110
+2020-04-02,2020-04-02T04:00:00Z,1103,Stavanger,,,1103,Stavanger,11,Rogaland,143574,110
 2020-04-02,2020-04-02T04:00:00Z,1106,Haugesund,,,1106,Haugesund,11,Rogaland,37357,48
 2020-04-02,2020-04-02T04:00:00Z,1108,Sandnes,,,1108,Sandnes,11,Rogaland,79537,42
 2020-04-02,2020-04-02T04:00:00Z,1111,Sokndal,,,1111,Sokndal,11,Rogaland,3280,2
@@ -2984,7 +2984,7 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-04-02,2020-04-02T04:00:00Z,4649,Stad,,,4649,Stad,46,Vestland,9457,0
 2020-04-02,2020-04-02T04:00:00Z,4650,Gloppen,,,4650,Gloppen,46,Vestland,5854,3
 2020-04-02,2020-04-02T04:00:00Z,4651,Stryn,,,4651,Stryn,46,Vestland,7130,11
-2020-04-02,2020-04-02T04:00:00Z,5001,Trondheim,,,5001,Trondheim,50,Trøndelag,,182
+2020-04-02,2020-04-02T04:00:00Z,5001,Trondheim,,,5001,Trondheim,50,Trøndelag,205163,182
 2020-04-02,2020-04-02T04:00:00Z,5006,Steinkjer,,,5006,Steinkjer,50,Trøndelag,24357,11
 2020-04-02,2020-04-02T04:00:00Z,5007,Namsos,,,5007,Namsos,50,Trøndelag,15230,5
 2020-04-02,2020-04-02T04:00:00Z,5014,Frøya,,,5014,Frøya,50,Trøndelag,5151,0
@@ -3061,8 +3061,8 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-04-02,2020-04-02T04:00:00Z,5442,Nesseby,,,5442,Nesseby,54,Troms og Finnmark,926,1
 2020-04-02,2020-04-02T04:00:00Z,5443,Båtsfjord,,,5443,Båtsfjord,54,Troms og Finnmark,2221,0
 2020-04-02,2020-04-02T04:00:00Z,5444,Sør-Varanger,,,5444,Sør-Varanger,54,Troms og Finnmark,10158,4
-2020-04-02,2020-04-02T04:00:00Z,9998,Svalbard,,,9998,Svalbard,99,Svalbard,,0
-2020-04-02,2020-04-02T04:00:00Z,9999,Ukjent Kommune,,,9999,Ukjent Kommune,99,Ukjent Fylke,,0
+2020-04-02,2020-04-02T04:00:00Z,9998,Svalbard,,,9998,Svalbard,99,Svalbard,0,0
+2020-04-02,2020-04-02T04:00:00Z,9999,Ukjent Kommune,,,9999,Ukjent Kommune,99,Ukjent Fylke,0,0
 2020-04-03,2020-04-03T04:00:00Z,030101,Gamle Oslo,030101,Gamle Oslo,0301,Oslo,03,Oslo,58671,143
 2020-04-03,2020-04-03T04:00:00Z,030102,Grünerløkka,030102,Grünerløkka,0301,Oslo,03,Oslo,62423,114
 2020-04-03,2020-04-03T04:00:00Z,030103,Sagene,030103,Sagene,0301,Oslo,03,Oslo,45089,84
@@ -3082,7 +3082,7 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-04-03,2020-04-03T04:00:00Z,030117,Marka,030117,Marka,0301,Oslo,03,Oslo,1610,2
 2020-04-03,2020-04-03T04:00:00Z,030199,Ukjent Bydel,030199,Ukjent,0301,Oslo,03,Oslo,2386,24
 2020-04-03,2020-04-03T04:00:00Z,1101,Eigersund,,,1101,Eigersund,11,Rogaland,14811,12
-2020-04-03,2020-04-03T04:00:00Z,1103,Stavanger,,,1103,Stavanger,11,Rogaland,,117
+2020-04-03,2020-04-03T04:00:00Z,1103,Stavanger,,,1103,Stavanger,11,Rogaland,143574,117
 2020-04-03,2020-04-03T04:00:00Z,1106,Haugesund,,,1106,Haugesund,11,Rogaland,37357,48
 2020-04-03,2020-04-03T04:00:00Z,1108,Sandnes,,,1108,Sandnes,11,Rogaland,79537,44
 2020-04-03,2020-04-03T04:00:00Z,1111,Sokndal,,,1111,Sokndal,11,Rogaland,3280,2
@@ -3367,7 +3367,7 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-04-03,2020-04-03T04:00:00Z,4649,Stad,,,4649,Stad,46,Vestland,9457,0
 2020-04-03,2020-04-03T04:00:00Z,4650,Gloppen,,,4650,Gloppen,46,Vestland,5854,3
 2020-04-03,2020-04-03T04:00:00Z,4651,Stryn,,,4651,Stryn,46,Vestland,7130,11
-2020-04-03,2020-04-03T04:00:00Z,5001,Trondheim,,,5001,Trondheim,50,Trøndelag,,188
+2020-04-03,2020-04-03T04:00:00Z,5001,Trondheim,,,5001,Trondheim,50,Trøndelag,205163,188
 2020-04-03,2020-04-03T04:00:00Z,5006,Steinkjer,,,5006,Steinkjer,50,Trøndelag,24357,12
 2020-04-03,2020-04-03T04:00:00Z,5007,Namsos,,,5007,Namsos,50,Trøndelag,15230,5
 2020-04-03,2020-04-03T04:00:00Z,5014,Frøya,,,5014,Frøya,50,Trøndelag,5151,0
@@ -3444,8 +3444,8 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-04-03,2020-04-03T04:00:00Z,5442,Nesseby,,,5442,Nesseby,54,Troms og Finnmark,926,1
 2020-04-03,2020-04-03T04:00:00Z,5443,Båtsfjord,,,5443,Båtsfjord,54,Troms og Finnmark,2221,0
 2020-04-03,2020-04-03T04:00:00Z,5444,Sør-Varanger,,,5444,Sør-Varanger,54,Troms og Finnmark,10158,4
-2020-04-03,2020-04-03T04:00:00Z,9998,Svalbard,,,9998,Svalbard,99,Svalbard,,0
-2020-04-03,2020-04-03T04:00:00Z,9999,Ukjent Kommune,,,9999,Ukjent Kommune,99,Ukjent Fylke,,1
+2020-04-03,2020-04-03T04:00:00Z,9998,Svalbard,,,9998,Svalbard,99,Svalbard,0,0
+2020-04-03,2020-04-03T04:00:00Z,9999,Ukjent Kommune,,,9999,Ukjent Kommune,99,Ukjent Fylke,0,1
 2020-04-04,2020-04-04T04:00:00Z,030101,Gamle Oslo,030101,Gamle Oslo,0301,Oslo,03,Oslo,58671,149
 2020-04-04,2020-04-04T04:00:00Z,030102,Grünerløkka,030102,Grünerløkka,0301,Oslo,03,Oslo,62423,120
 2020-04-04,2020-04-04T04:00:00Z,030103,Sagene,030103,Sagene,0301,Oslo,03,Oslo,45089,87
@@ -3465,7 +3465,7 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-04-04,2020-04-04T04:00:00Z,030117,Marka,030117,Marka,0301,Oslo,03,Oslo,1610,2
 2020-04-04,2020-04-04T04:00:00Z,030199,Ukjent Bydel,030199,Ukjent,0301,Oslo,03,Oslo,2386,26
 2020-04-04,2020-04-04T04:00:00Z,1101,Eigersund,,,1101,Eigersund,11,Rogaland,14811,14
-2020-04-04,2020-04-04T04:00:00Z,1103,Stavanger,,,1103,Stavanger,11,Rogaland,,124
+2020-04-04,2020-04-04T04:00:00Z,1103,Stavanger,,,1103,Stavanger,11,Rogaland,143574,124
 2020-04-04,2020-04-04T04:00:00Z,1106,Haugesund,,,1106,Haugesund,11,Rogaland,37357,49
 2020-04-04,2020-04-04T04:00:00Z,1108,Sandnes,,,1108,Sandnes,11,Rogaland,79537,44
 2020-04-04,2020-04-04T04:00:00Z,1111,Sokndal,,,1111,Sokndal,11,Rogaland,3280,3
@@ -3750,7 +3750,7 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-04-04,2020-04-04T04:00:00Z,4649,Stad,,,4649,Stad,46,Vestland,9457,0
 2020-04-04,2020-04-04T04:00:00Z,4650,Gloppen,,,4650,Gloppen,46,Vestland,5854,4
 2020-04-04,2020-04-04T04:00:00Z,4651,Stryn,,,4651,Stryn,46,Vestland,7130,11
-2020-04-04,2020-04-04T04:00:00Z,5001,Trondheim,,,5001,Trondheim,50,Trøndelag,,193
+2020-04-04,2020-04-04T04:00:00Z,5001,Trondheim,,,5001,Trondheim,50,Trøndelag,205163,193
 2020-04-04,2020-04-04T04:00:00Z,5006,Steinkjer,,,5006,Steinkjer,50,Trøndelag,24357,12
 2020-04-04,2020-04-04T04:00:00Z,5007,Namsos,,,5007,Namsos,50,Trøndelag,15230,5
 2020-04-04,2020-04-04T04:00:00Z,5014,Frøya,,,5014,Frøya,50,Trøndelag,5151,0
@@ -3827,8 +3827,8 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-04-04,2020-04-04T04:00:00Z,5442,Nesseby,,,5442,Nesseby,54,Troms og Finnmark,926,1
 2020-04-04,2020-04-04T04:00:00Z,5443,Båtsfjord,,,5443,Båtsfjord,54,Troms og Finnmark,2221,0
 2020-04-04,2020-04-04T04:00:00Z,5444,Sør-Varanger,,,5444,Sør-Varanger,54,Troms og Finnmark,10158,4
-2020-04-04,2020-04-04T04:00:00Z,9998,Svalbard,,,9998,Svalbard,99,Svalbard,,0
-2020-04-04,2020-04-04T04:00:00Z,9999,Ukjent Kommune,,,9999,Ukjent Kommune,99,Ukjent Fylke,,2
+2020-04-04,2020-04-04T04:00:00Z,9998,Svalbard,,,9998,Svalbard,99,Svalbard,0,0
+2020-04-04,2020-04-04T04:00:00Z,9999,Ukjent Kommune,,,9999,Ukjent Kommune,99,Ukjent Fylke,0,2
 2020-04-05,2020-04-05T04:00:00Z,030101,Gamle Oslo,030101,Gamle Oslo,0301,Oslo,03,Oslo,58671,155
 2020-04-05,2020-04-05T04:00:00Z,030102,Grünerløkka,030102,Grünerløkka,0301,Oslo,03,Oslo,62423,120
 2020-04-05,2020-04-05T04:00:00Z,030103,Sagene,030103,Sagene,0301,Oslo,03,Oslo,45089,94
@@ -3848,7 +3848,7 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-04-05,2020-04-05T04:00:00Z,030117,Marka,030117,Marka,0301,Oslo,03,Oslo,1610,2
 2020-04-05,2020-04-05T04:00:00Z,030199,Ukjent Bydel,030199,Ukjent,0301,Oslo,03,Oslo,2386,26
 2020-04-05,2020-04-05T04:00:00Z,1101,Eigersund,,,1101,Eigersund,11,Rogaland,14811,14
-2020-04-05,2020-04-05T04:00:00Z,1103,Stavanger,,,1103,Stavanger,11,Rogaland,,124
+2020-04-05,2020-04-05T04:00:00Z,1103,Stavanger,,,1103,Stavanger,11,Rogaland,143574,124
 2020-04-05,2020-04-05T04:00:00Z,1106,Haugesund,,,1106,Haugesund,11,Rogaland,37357,49
 2020-04-05,2020-04-05T04:00:00Z,1108,Sandnes,,,1108,Sandnes,11,Rogaland,79537,44
 2020-04-05,2020-04-05T04:00:00Z,1111,Sokndal,,,1111,Sokndal,11,Rogaland,3280,3
@@ -4133,7 +4133,7 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-04-05,2020-04-05T04:00:00Z,4649,Stad,,,4649,Stad,46,Vestland,9457,0
 2020-04-05,2020-04-05T04:00:00Z,4650,Gloppen,,,4650,Gloppen,46,Vestland,5854,4
 2020-04-05,2020-04-05T04:00:00Z,4651,Stryn,,,4651,Stryn,46,Vestland,7130,11
-2020-04-05,2020-04-05T04:00:00Z,5001,Trondheim,,,5001,Trondheim,50,Trøndelag,,196
+2020-04-05,2020-04-05T04:00:00Z,5001,Trondheim,,,5001,Trondheim,50,Trøndelag,205163,196
 2020-04-05,2020-04-05T04:00:00Z,5006,Steinkjer,,,5006,Steinkjer,50,Trøndelag,24357,15
 2020-04-05,2020-04-05T04:00:00Z,5007,Namsos,,,5007,Namsos,50,Trøndelag,15230,5
 2020-04-05,2020-04-05T04:00:00Z,5014,Frøya,,,5014,Frøya,50,Trøndelag,5151,0
@@ -4210,8 +4210,8 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-04-05,2020-04-05T04:00:00Z,5442,Nesseby,,,5442,Nesseby,54,Troms og Finnmark,926,1
 2020-04-05,2020-04-05T04:00:00Z,5443,Båtsfjord,,,5443,Båtsfjord,54,Troms og Finnmark,2221,0
 2020-04-05,2020-04-05T04:00:00Z,5444,Sør-Varanger,,,5444,Sør-Varanger,54,Troms og Finnmark,10158,4
-2020-04-05,2020-04-05T04:00:00Z,9998,Svalbard,,,9998,Svalbard,99,Svalbard,,0
-2020-04-05,2020-04-05T04:00:00Z,9999,Ukjent Kommune,,,9999,Ukjent Kommune,99,Ukjent Fylke,,2
+2020-04-05,2020-04-05T04:00:00Z,9998,Svalbard,,,9998,Svalbard,99,Svalbard,0,0
+2020-04-05,2020-04-05T04:00:00Z,9999,Ukjent Kommune,,,9999,Ukjent Kommune,99,Ukjent Fylke,0,2
 2020-04-06,2020-04-06T04:00:00Z,030101,Gamle Oslo,030101,Gamle Oslo,0301,Oslo,03,Oslo,58671,163
 2020-04-06,2020-04-06T04:00:00Z,030102,Grünerløkka,030102,Grünerløkka,0301,Oslo,03,Oslo,62423,125
 2020-04-06,2020-04-06T04:00:00Z,030103,Sagene,030103,Sagene,0301,Oslo,03,Oslo,45089,98
@@ -4231,7 +4231,7 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-04-06,2020-04-06T04:00:00Z,030117,Marka,030117,Marka,0301,Oslo,03,Oslo,1610,2
 2020-04-06,2020-04-06T04:00:00Z,030199,Ukjent Bydel,030199,Ukjent,0301,Oslo,03,Oslo,2386,26
 2020-04-06,2020-04-06T04:00:00Z,1101,Eigersund,,,1101,Eigersund,11,Rogaland,14811,14
-2020-04-06,2020-04-06T04:00:00Z,1103,Stavanger,,,1103,Stavanger,11,Rogaland,,125
+2020-04-06,2020-04-06T04:00:00Z,1103,Stavanger,,,1103,Stavanger,11,Rogaland,143574,125
 2020-04-06,2020-04-06T04:00:00Z,1106,Haugesund,,,1106,Haugesund,11,Rogaland,37357,49
 2020-04-06,2020-04-06T04:00:00Z,1108,Sandnes,,,1108,Sandnes,11,Rogaland,79537,45
 2020-04-06,2020-04-06T04:00:00Z,1111,Sokndal,,,1111,Sokndal,11,Rogaland,3280,3
@@ -4516,7 +4516,7 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-04-06,2020-04-06T04:00:00Z,4649,Stad,,,4649,Stad,46,Vestland,9457,0
 2020-04-06,2020-04-06T04:00:00Z,4650,Gloppen,,,4650,Gloppen,46,Vestland,5854,4
 2020-04-06,2020-04-06T04:00:00Z,4651,Stryn,,,4651,Stryn,46,Vestland,7130,11
-2020-04-06,2020-04-06T04:00:00Z,5001,Trondheim,,,5001,Trondheim,50,Trøndelag,,198
+2020-04-06,2020-04-06T04:00:00Z,5001,Trondheim,,,5001,Trondheim,50,Trøndelag,205163,198
 2020-04-06,2020-04-06T04:00:00Z,5006,Steinkjer,,,5006,Steinkjer,50,Trøndelag,24357,15
 2020-04-06,2020-04-06T04:00:00Z,5007,Namsos,,,5007,Namsos,50,Trøndelag,15230,5
 2020-04-06,2020-04-06T04:00:00Z,5014,Frøya,,,5014,Frøya,50,Trøndelag,5151,0
@@ -4593,5 +4593,5 @@ date,date_time,kommune_bydel_no,kommune_bydel_name,bydel_no,bydel_name,kommune_n
 2020-04-06,2020-04-06T04:00:00Z,5442,Nesseby,,,5442,Nesseby,54,Troms og Finnmark,926,1
 2020-04-06,2020-04-06T04:00:00Z,5443,Båtsfjord,,,5443,Båtsfjord,54,Troms og Finnmark,2221,0
 2020-04-06,2020-04-06T04:00:00Z,5444,Sør-Varanger,,,5444,Sør-Varanger,54,Troms og Finnmark,10158,4
-2020-04-06,2020-04-06T04:00:00Z,9998,Svalbard,,,9998,Svalbard,99,Svalbard,,0
-2020-04-06,2020-04-06T04:00:00Z,9999,Ukjent Kommune,,,9999,Ukjent Kommune,99,Ukjent Fylke,,2
+2020-04-06,2020-04-06T04:00:00Z,9998,Svalbard,,,9998,Svalbard,99,Svalbard,0,0
+2020-04-06,2020-04-06T04:00:00Z,9999,Ukjent Kommune,,,9999,Ukjent Kommune,99,Ukjent Fylke,0,2
