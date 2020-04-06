@@ -1,0 +1,653 @@
+date,health_org_name,admissions
+2020-03-08,Akershus universitetssykehus HF,0
+2020-03-08,Diakonhjemmet Sykehus,0
+2020-03-08,Finnmarkssykehuset HF,0
+2020-03-08,Haraldsplass Diakonale Sykehus,0
+2020-03-08,Helgelandssykehuset HF,0
+2020-03-08,Helse Bergen HF,0
+2020-03-08,Helse Fonna HF,0
+2020-03-08,Helse Førde HF,0
+2020-03-08,Helse Møre og Romsdal,0
+2020-03-08,Helse Nord-Trøndelag,0
+2020-03-08,Helse Stavanger HF,0
+2020-03-08,Lovisenberg Diakonale Sykehus,0
+2020-03-08,Nordlandssykehuset HF,0
+2020-03-08,Oslo universitetssykehus HF,0
+2020-03-08,Sørlandet sykehus HF,0
+2020-03-08,St. Olavs hospital,0
+2020-03-08,Sykehuset Innlandet HF,0
+2020-03-08,Sykehuset i Vestfold HF,0
+2020-03-08,Sykehuset Østfold HF,0
+2020-03-08,Sykehuset Telemark HF,0
+2020-03-08,Universitetssykehuset Nord-Norge HF,0
+2020-03-08,Vestre Viken HF,0
+2020-03-09,Akershus universitetssykehus HF,0
+2020-03-09,Diakonhjemmet Sykehus,0
+2020-03-09,Finnmarkssykehuset HF,0
+2020-03-09,Haraldsplass Diakonale Sykehus,0
+2020-03-09,Helgelandssykehuset HF,0
+2020-03-09,Helse Bergen HF,0
+2020-03-09,Helse Fonna HF,0
+2020-03-09,Helse Førde HF,0
+2020-03-09,Helse Møre og Romsdal,0
+2020-03-09,Helse Nord-Trøndelag,0
+2020-03-09,Helse Stavanger HF,0
+2020-03-09,Lovisenberg Diakonale Sykehus,0
+2020-03-09,Nordlandssykehuset HF,0
+2020-03-09,Oslo universitetssykehus HF,0
+2020-03-09,Sørlandet sykehus HF,0
+2020-03-09,St. Olavs hospital,0
+2020-03-09,Sykehuset Innlandet HF,0
+2020-03-09,Sykehuset i Vestfold HF,1
+2020-03-09,Sykehuset Østfold HF,0
+2020-03-09,Sykehuset Telemark HF,0
+2020-03-09,Universitetssykehuset Nord-Norge HF,0
+2020-03-09,Vestre Viken HF,1
+2020-03-10,Akershus universitetssykehus HF,2
+2020-03-10,Diakonhjemmet Sykehus,0
+2020-03-10,Finnmarkssykehuset HF,0
+2020-03-10,Haraldsplass Diakonale Sykehus,0
+2020-03-10,Helgelandssykehuset HF,0
+2020-03-10,Helse Bergen HF,0
+2020-03-10,Helse Fonna HF,0
+2020-03-10,Helse Førde HF,0
+2020-03-10,Helse Møre og Romsdal,0
+2020-03-10,Helse Nord-Trøndelag,1
+2020-03-10,Helse Stavanger HF,0
+2020-03-10,Lovisenberg Diakonale Sykehus,0
+2020-03-10,Nordlandssykehuset HF,0
+2020-03-10,Oslo universitetssykehus HF,2
+2020-03-10,Sørlandet sykehus HF,0
+2020-03-10,St. Olavs hospital,0
+2020-03-10,Sykehuset Innlandet HF,0
+2020-03-10,Sykehuset i Vestfold HF,1
+2020-03-10,Sykehuset Østfold HF,0
+2020-03-10,Sykehuset Telemark HF,0
+2020-03-10,Universitetssykehuset Nord-Norge HF,0
+2020-03-10,Vestre Viken HF,2
+2020-03-11,Akershus universitetssykehus HF,2
+2020-03-11,Diakonhjemmet Sykehus,0
+2020-03-11,Finnmarkssykehuset HF,0
+2020-03-11,Haraldsplass Diakonale Sykehus,0
+2020-03-11,Helgelandssykehuset HF,0
+2020-03-11,Helse Bergen HF,1
+2020-03-11,Helse Fonna HF,0
+2020-03-11,Helse Førde HF,0
+2020-03-11,Helse Møre og Romsdal,0
+2020-03-11,Helse Nord-Trøndelag,1
+2020-03-11,Helse Stavanger HF,0
+2020-03-11,Lovisenberg Diakonale Sykehus,0
+2020-03-11,Nordlandssykehuset HF,0
+2020-03-11,Oslo universitetssykehus HF,4
+2020-03-11,Sørlandet sykehus HF,0
+2020-03-11,St. Olavs hospital,0
+2020-03-11,Sykehuset Innlandet HF,0
+2020-03-11,Sykehuset i Vestfold HF,1
+2020-03-11,Sykehuset Østfold HF,2
+2020-03-11,Sykehuset Telemark HF,0
+2020-03-11,Universitetssykehuset Nord-Norge HF,0
+2020-03-11,Vestre Viken HF,2
+2020-03-12,Akershus universitetssykehus HF,0
+2020-03-12,Diakonhjemmet Sykehus,1
+2020-03-12,Haraldsplass Diakonale Sykehus,0
+2020-03-12,Helse Bergen HF,0
+2020-03-12,Helse Fonna HF,0
+2020-03-12,Helse Førde HF,1
+2020-03-12,Helse Møre og Romsdal,0
+2020-03-12,Helse Nord-Trøndelag,1
+2020-03-12,Helse Stavanger HF,0
+2020-03-12,Lovisenberg Diakonale Sykehus,1
+2020-03-12,Oslo universitetssykehus HF,6
+2020-03-12,Sørlandet sykehus HF,4
+2020-03-12,St. Olavs hospital,1
+2020-03-12,Sykehuset Innlandet HF,0
+2020-03-12,Sykehuset i Vestfold HF,2
+2020-03-12,Sykehuset Østfold HF,0
+2020-03-12,Sykehuset Telemark HF,3
+2020-03-12,Universitetssykehuset Nord-Norge HF,3
+2020-03-12,Vestre Viken HF,3
+2020-03-13,Akershus universitetssykehus HF,3
+2020-03-13,Diakonhjemmet Sykehus,1
+2020-03-13,Finnmarkssykehuset HF,0
+2020-03-13,Haraldsplass Diakonale Sykehus,0
+2020-03-13,Helgelandssykehuset HF,0
+2020-03-13,Helse Bergen HF,1
+2020-03-13,Helse Fonna HF,0
+2020-03-13,Helse Førde HF,0
+2020-03-13,Helse Møre og Romsdal,1
+2020-03-13,Helse Nord-Trøndelag,0
+2020-03-13,Helse Stavanger HF,2
+2020-03-13,Lovisenberg Diakonale Sykehus,1
+2020-03-13,Nordlandssykehuset HF,0
+2020-03-13,Oslo universitetssykehus HF,6
+2020-03-13,Sørlandet sykehus HF,1
+2020-03-13,St. Olavs hospital,1
+2020-03-13,Sykehuset Innlandet HF,0
+2020-03-13,Sykehuset i Vestfold HF,2
+2020-03-13,Sykehuset Østfold HF,3
+2020-03-13,Sykehuset Telemark HF,0
+2020-03-13,Universitetssykehuset Nord-Norge HF,0
+2020-03-13,Vestre Viken HF,5
+2020-03-14,Akershus universitetssykehus HF,5
+2020-03-14,Diakonhjemmet Sykehus,1
+2020-03-14,Finnmarkssykehuset HF,0
+2020-03-14,Haraldsplass Diakonale Sykehus,0
+2020-03-14,Helgelandssykehuset HF,0
+2020-03-14,Helse Bergen HF,4
+2020-03-14,Helse Fonna HF,0
+2020-03-14,Helse Førde HF,0
+2020-03-14,Helse Møre og Romsdal,1
+2020-03-14,Helse Nord-Trøndelag,1
+2020-03-14,Helse Stavanger HF,1
+2020-03-14,Lovisenberg Diakonale Sykehus,1
+2020-03-14,Nordlandssykehuset HF,0
+2020-03-14,Oslo universitetssykehus HF,6
+2020-03-14,Sørlandet sykehus HF,2
+2020-03-14,St. Olavs hospital,1
+2020-03-14,Sykehuset Innlandet HF,0
+2020-03-14,Sykehuset i Vestfold HF,2
+2020-03-14,Sykehuset Østfold HF,3
+2020-03-14,Sykehuset Telemark HF,0
+2020-03-14,Universitetssykehuset Nord-Norge HF,0
+2020-03-14,Vestre Viken HF,7
+2020-03-15,Akershus universitetssykehus HF,7
+2020-03-15,Diakonhjemmet Sykehus,1
+2020-03-15,Finnmarkssykehuset HF,0
+2020-03-15,Haraldsplass Diakonale Sykehus,0
+2020-03-15,Helgelandssykehuset HF,0
+2020-03-15,Helse Bergen HF,4
+2020-03-15,Helse Fonna HF,1
+2020-03-15,Helse Førde HF,0
+2020-03-15,Helse Møre og Romsdal,1
+2020-03-15,Helse Nord-Trøndelag,1
+2020-03-15,Helse Stavanger HF,1
+2020-03-15,Lovisenberg Diakonale Sykehus,0
+2020-03-15,Nordlandssykehuset HF,0
+2020-03-15,Oslo universitetssykehus HF,4
+2020-03-15,Sørlandet sykehus HF,3
+2020-03-15,St. Olavs hospital,1
+2020-03-15,Sykehuset Innlandet HF,2
+2020-03-15,Sykehuset i Vestfold HF,3
+2020-03-15,Sykehuset Østfold HF,4
+2020-03-15,Sykehuset Telemark HF,0
+2020-03-15,Universitetssykehuset Nord-Norge HF,0
+2020-03-15,Vestre Viken HF,8
+2020-03-16,Akershus universitetssykehus HF,8
+2020-03-16,Diakonhjemmet Sykehus,1
+2020-03-16,Finnmarkssykehuset HF,0
+2020-03-16,Haraldsplass Diakonale Sykehus,0
+2020-03-16,Helse Bergen HF,4
+2020-03-16,Helse Fonna HF,1
+2020-03-16,Helse Førde HF,0
+2020-03-16,Helse Møre og Romsdal,1
+2020-03-16,Helse Nord-Trøndelag,1
+2020-03-16,Helse Stavanger HF,1
+2020-03-16,Lovisenberg Diakonale Sykehus,1
+2020-03-16,Oslo universitetssykehus HF,6
+2020-03-16,Sørlandet sykehus HF,3
+2020-03-16,St. Olavs hospital,1
+2020-03-16,Sykehuset Innlandet HF,2
+2020-03-16,Sykehuset i Vestfold HF,3
+2020-03-16,Sykehuset Østfold HF,4
+2020-03-16,Sykehuset Telemark HF,0
+2020-03-16,Universitetssykehuset Nord-Norge HF,0
+2020-03-16,Vestre Viken HF,13
+2020-03-17,Akershus universitetssykehus HF,10
+2020-03-17,Diakonhjemmet Sykehus,2
+2020-03-17,Finnmarkssykehuset HF,3
+2020-03-17,Haraldsplass Diakonale Sykehus,0
+2020-03-17,Helgelandssykehuset HF,0
+2020-03-17,Helse Bergen HF,5
+2020-03-17,Helse Fonna HF,1
+2020-03-17,Helse Førde HF,0
+2020-03-17,Helse Møre og Romsdal,1
+2020-03-17,Helse Nord-Trøndelag,1
+2020-03-17,Helse Stavanger HF,7
+2020-03-17,Lovisenberg Diakonale Sykehus,2
+2020-03-17,Nordlandssykehuset HF,1
+2020-03-17,Oslo universitetssykehus HF,8
+2020-03-17,Sørlandet sykehus HF,4
+2020-03-17,St. Olavs hospital,1
+2020-03-17,Sykehuset Innlandet HF,3
+2020-03-17,Sykehuset i Vestfold HF,1
+2020-03-17,Sykehuset Østfold HF,6
+2020-03-17,Sykehuset Telemark HF,0
+2020-03-17,Universitetssykehuset Nord-Norge HF,0
+2020-03-17,Vestre Viken HF,12
+2020-03-18,Akershus universitetssykehus HF,9
+2020-03-18,Diakonhjemmet Sykehus,2
+2020-03-18,Finnmarkssykehuset HF,2
+2020-03-18,Haraldsplass Diakonale Sykehus,2
+2020-03-18,Helgelandssykehuset HF,0
+2020-03-18,Helse Bergen HF,4
+2020-03-18,Helse Fonna HF,1
+2020-03-18,Helse Førde HF,0
+2020-03-18,Helse Møre og Romsdal,2
+2020-03-18,Helse Nord-Trøndelag,3
+2020-03-18,Helse Stavanger HF,10
+2020-03-18,Lovisenberg Diakonale Sykehus,2
+2020-03-18,Nordlandssykehuset HF,1
+2020-03-18,Oslo universitetssykehus HF,9
+2020-03-18,Sørlandet sykehus HF,5
+2020-03-18,St. Olavs hospital,1
+2020-03-18,Sunnaas sykehus HF,0
+2020-03-18,Sykehuset Innlandet HF,2
+2020-03-18,Sykehuset i Vestfold HF,3
+2020-03-18,Sykehuset Østfold HF,8
+2020-03-18,Sykehuset Telemark HF,1
+2020-03-18,Universitetssykehuset Nord-Norge HF,0
+2020-03-18,Vestre Viken HF,15
+2020-03-19,Akershus universitetssykehus HF,10
+2020-03-19,Diakonhjemmet Sykehus,1
+2020-03-19,Finnmarkssykehuset HF,2
+2020-03-19,Haraldsplass Diakonale Sykehus,3
+2020-03-19,Helgelandssykehuset HF,0
+2020-03-19,Helse Bergen HF,4
+2020-03-19,Helse Fonna HF,2
+2020-03-19,Helse Førde HF,0
+2020-03-19,Helse Møre og Romsdal,2
+2020-03-19,Helse Nord-Trøndelag,3
+2020-03-19,Helse Stavanger HF,9
+2020-03-19,Lovisenberg Diakonale Sykehus,2
+2020-03-19,Nordlandssykehuset HF,2
+2020-03-19,Oslo universitetssykehus HF,13
+2020-03-19,Sørlandet sykehus HF,4
+2020-03-19,St. Olavs hospital,4
+2020-03-19,Sunnaas sykehus HF,0
+2020-03-19,Sykehuset Innlandet HF,6
+2020-03-19,Sykehuset i Vestfold HF,4
+2020-03-19,Sykehuset Østfold HF,9
+2020-03-19,Sykehuset Telemark HF,2
+2020-03-19,Universitetssykehuset Nord-Norge HF,0
+2020-03-19,Vestre Viken HF,20
+2020-03-20,Akershus universitetssykehus HF,18
+2020-03-20,Diakonhjemmet Sykehus,2
+2020-03-20,Finnmarkssykehuset HF,2
+2020-03-20,Haraldsplass Diakonale Sykehus,5
+2020-03-20,Helgelandssykehuset HF,0
+2020-03-20,Helse Bergen HF,6
+2020-03-20,Helse Fonna HF,3
+2020-03-20,Helse Førde HF,0
+2020-03-20,Helse Møre og Romsdal,4
+2020-03-20,Helse Nord-Trøndelag,4
+2020-03-20,Helse Stavanger HF,12
+2020-03-20,Lovisenberg Diakonale Sykehus,6
+2020-03-20,Nordlandssykehuset HF,1
+2020-03-20,Oslo universitetssykehus HF,14
+2020-03-20,Sørlandet sykehus HF,3
+2020-03-20,St. Olavs hospital,5
+2020-03-20,Sunnaas sykehus HF,0
+2020-03-20,Sykehuset Innlandet HF,6
+2020-03-20,Sykehuset i Vestfold HF,4
+2020-03-20,Sykehuset Østfold HF,9
+2020-03-20,Sykehuset Telemark HF,2
+2020-03-20,Universitetssykehuset Nord-Norge HF,1
+2020-03-20,Vestre Viken HF,23
+2020-03-21,Akershus universitetssykehus HF,20
+2020-03-21,Diakonhjemmet Sykehus,1
+2020-03-21,Finnmarkssykehuset HF,1
+2020-03-21,Haraldsplass Diakonale Sykehus,5
+2020-03-21,Helgelandssykehuset HF,0
+2020-03-21,Helse Bergen HF,9
+2020-03-21,Helse Fonna HF,3
+2020-03-21,Helse Førde HF,0
+2020-03-21,Helse Møre og Romsdal,4
+2020-03-21,Helse Nord-Trøndelag,4
+2020-03-21,Helse Stavanger HF,15
+2020-03-21,Lovisenberg Diakonale Sykehus,7
+2020-03-21,Nordlandssykehuset HF,1
+2020-03-21,Oslo universitetssykehus HF,23
+2020-03-21,Sørlandet sykehus HF,5
+2020-03-21,St. Olavs hospital,5
+2020-03-21,Sunnaas sykehus HF,0
+2020-03-21,Sykehuset Innlandet HF,8
+2020-03-21,Sykehuset i Vestfold HF,4
+2020-03-21,Sykehuset Østfold HF,8
+2020-03-21,Sykehuset Telemark HF,2
+2020-03-21,Universitetssykehuset Nord-Norge HF,1
+2020-03-21,Vestre Viken HF,22
+2020-03-22,Akershus universitetssykehus HF,23
+2020-03-22,Diakonhjemmet Sykehus,1
+2020-03-22,Finnmarkssykehuset HF,0
+2020-03-22,Haraldsplass Diakonale Sykehus,6
+2020-03-22,Helgelandssykehuset HF,0
+2020-03-22,Helse Bergen HF,11
+2020-03-22,Helse Fonna HF,3
+2020-03-22,Helse Førde HF,0
+2020-03-22,Helse Møre og Romsdal,4
+2020-03-22,Helse Nord-Trøndelag,4
+2020-03-22,Helse Stavanger HF,15
+2020-03-22,Lovisenberg Diakonale Sykehus,8
+2020-03-22,Nordlandssykehuset HF,2
+2020-03-22,Oslo universitetssykehus HF,26
+2020-03-22,Sørlandet sykehus HF,6
+2020-03-22,St. Olavs hospital,5
+2020-03-22,Sunnaas sykehus HF,0
+2020-03-22,Sykehuset Innlandet HF,8
+2020-03-22,Sykehuset i Vestfold HF,5
+2020-03-22,Sykehuset Østfold HF,9
+2020-03-22,Sykehuset Telemark HF,2
+2020-03-22,Universitetssykehuset Nord-Norge HF,2
+2020-03-22,Vestre Viken HF,29
+2020-03-23,Akershus universitetssykehus HF,31
+2020-03-23,Diakonhjemmet Sykehus,6
+2020-03-23,Finnmarkssykehuset HF,0
+2020-03-23,Haraldsplass Diakonale Sykehus,6
+2020-03-23,Helgelandssykehuset HF,0
+2020-03-23,Helse Bergen HF,12
+2020-03-23,Helse Fonna HF,6
+2020-03-23,Helse Førde HF,0
+2020-03-23,Helse Møre og Romsdal,4
+2020-03-23,Helse Nord-Trøndelag,2
+2020-03-23,Helse Stavanger HF,12
+2020-03-23,Lovisenberg Diakonale Sykehus,12
+2020-03-23,Nordlandssykehuset HF,2
+2020-03-23,Oslo universitetssykehus HF,30
+2020-03-23,Sørlandet sykehus HF,8
+2020-03-23,St. Olavs hospital,5
+2020-03-23,Sunnaas sykehus HF,0
+2020-03-23,Sykehuset Innlandet HF,8
+2020-03-23,Sykehuset i Vestfold HF,6
+2020-03-23,Sykehuset Østfold HF,10
+2020-03-23,Sykehuset Telemark HF,2
+2020-03-23,Universitetssykehuset Nord-Norge HF,2
+2020-03-23,Vestre Viken HF,29
+2020-03-24,Akershus universitetssykehus HF,30
+2020-03-24,Diakonhjemmet Sykehus,6
+2020-03-24,Finnmarkssykehuset HF,0
+2020-03-24,Haraldsplass Diakonale Sykehus,8
+2020-03-24,Helgelandssykehuset HF,0
+2020-03-24,Helse Bergen HF,11
+2020-03-24,Helse Fonna HF,9
+2020-03-24,Helse Førde HF,0
+2020-03-24,Helse Møre og Romsdal,3
+2020-03-24,Helse Nord-Trøndelag,2
+2020-03-24,Helse Stavanger HF,16
+2020-03-24,Lovisenberg Diakonale Sykehus,12
+2020-03-24,Nordlandssykehuset HF,2
+2020-03-24,Oslo universitetssykehus HF,31
+2020-03-24,Sørlandet sykehus HF,7
+2020-03-24,St. Olavs hospital,6
+2020-03-24,Sunnaas sykehus HF,0
+2020-03-24,Sykehuset Innlandet HF,12
+2020-03-24,Sykehuset i Vestfold HF,7
+2020-03-24,Sykehuset Østfold HF,15
+2020-03-24,Sykehuset Telemark HF,3
+2020-03-24,Universitetssykehuset Nord-Norge HF,2
+2020-03-24,Vestre Viken HF,30
+2020-03-25,Akershus universitetssykehus HF,42
+2020-03-25,Diakonhjemmet Sykehus,9
+2020-03-25,Finnmarkssykehuset HF,0
+2020-03-25,Haraldsplass Diakonale Sykehus,7
+2020-03-25,Helgelandssykehuset HF,1
+2020-03-25,Helse Bergen HF,15
+2020-03-25,Helse Fonna HF,9
+2020-03-25,Helse Førde HF,0
+2020-03-25,Helse Møre og Romsdal,3
+2020-03-25,Helse Nord-Trøndelag,2
+2020-03-25,Helse Stavanger HF,15
+2020-03-25,Lovisenberg Diakonale Sykehus,8
+2020-03-25,Nordlandssykehuset HF,2
+2020-03-25,Oslo universitetssykehus HF,33
+2020-03-25,Sørlandet sykehus HF,7
+2020-03-25,St. Olavs hospital,8
+2020-03-25,Sunnaas sykehus HF,0
+2020-03-25,Sykehuset Innlandet HF,13
+2020-03-25,Sykehuset i Vestfold HF,11
+2020-03-25,Sykehuset Østfold HF,15
+2020-03-25,Sykehuset Telemark HF,3
+2020-03-25,Universitetssykehuset Nord-Norge HF,2
+2020-03-25,Vestre Viken HF,32
+2020-03-26,Akershus universitetssykehus HF,49
+2020-03-26,Diakonhjemmet Sykehus,9
+2020-03-26,Finnmarkssykehuset HF,0
+2020-03-26,Haraldsplass Diakonale Sykehus,7
+2020-03-26,Helgelandssykehuset HF,1
+2020-03-26,Helse Bergen HF,15
+2020-03-26,Helse Fonna HF,9
+2020-03-26,Helse Førde HF,1
+2020-03-26,Helse Møre og Romsdal,3
+2020-03-26,Helse Nord-Trøndelag,1
+2020-03-26,Helse Stavanger HF,15
+2020-03-26,Lovisenberg Diakonale Sykehus,12
+2020-03-26,Nordlandssykehuset HF,2
+2020-03-26,Oslo universitetssykehus HF,33
+2020-03-26,Sørlandet sykehus HF,8
+2020-03-26,St. Olavs hospital,8
+2020-03-26,Sunnaas sykehus HF,0
+2020-03-26,Sykehuset Innlandet HF,16
+2020-03-26,Sykehuset i Vestfold HF,9
+2020-03-26,Sykehuset Østfold HF,19
+2020-03-26,Sykehuset Telemark HF,4
+2020-03-26,Universitetssykehuset Nord-Norge HF,4
+2020-03-26,Vestre Viken HF,41
+2020-03-27,Akershus universitetssykehus HF,60
+2020-03-27,Diakonhjemmet Sykehus,12
+2020-03-27,Finnmarkssykehuset HF,0
+2020-03-27,Haraldsplass Diakonale Sykehus,5
+2020-03-27,Helgelandssykehuset HF,1
+2020-03-27,Helse Bergen HF,17
+2020-03-27,Helse Fonna HF,10
+2020-03-27,Helse Førde HF,1
+2020-03-27,Helse Møre og Romsdal,6
+2020-03-27,Helse Nord-Trøndelag,2
+2020-03-27,Helse Stavanger HF,13
+2020-03-27,Lovisenberg Diakonale Sykehus,19
+2020-03-27,Nordlandssykehuset HF,4
+2020-03-27,Oslo universitetssykehus HF,38
+2020-03-27,Sørlandet sykehus HF,12
+2020-03-27,St. Olavs hospital,9
+2020-03-27,Sunnaas sykehus HF,0
+2020-03-27,Sykehuset Innlandet HF,15
+2020-03-27,Sykehuset i Vestfold HF,10
+2020-03-27,Sykehuset Østfold HF,21
+2020-03-27,Sykehuset Telemark HF,4
+2020-03-27,Universitetssykehuset Nord-Norge HF,7
+2020-03-27,Vestre Viken HF,37
+2020-03-28,Akershus universitetssykehus HF,60
+2020-03-28,Diakonhjemmet Sykehus,13
+2020-03-28,Finnmarkssykehuset HF,1
+2020-03-28,Haraldsplass Diakonale Sykehus,3
+2020-03-28,Helgelandssykehuset HF,1
+2020-03-28,Helse Bergen HF,16
+2020-03-28,Helse Fonna HF,9
+2020-03-28,Helse Førde HF,1
+2020-03-28,Helse Møre og Romsdal,6
+2020-03-28,Helse Nord-Trøndelag,2
+2020-03-28,Helse Stavanger HF,11
+2020-03-28,Lovisenberg Diakonale Sykehus,20
+2020-03-28,Nordlandssykehuset HF,5
+2020-03-28,Oslo universitetssykehus HF,34
+2020-03-28,Sørlandet sykehus HF,13
+2020-03-28,St. Olavs hospital,10
+2020-03-28,Sunnaas sykehus HF,0
+2020-03-28,Sykehuset Innlandet HF,12
+2020-03-28,Sykehuset i Vestfold HF,9
+2020-03-28,Sykehuset Østfold HF,21
+2020-03-28,Sykehuset Telemark HF,4
+2020-03-28,Universitetssykehuset Nord-Norge HF,6
+2020-03-28,Vestre Viken HF,34
+2020-03-29,Akershus universitetssykehus HF,64
+2020-03-29,Diakonhjemmet Sykehus,11
+2020-03-29,Finnmarkssykehuset HF,1
+2020-03-29,Haraldsplass Diakonale Sykehus,4
+2020-03-29,Helgelandssykehuset HF,1
+2020-03-29,Helse Bergen HF,16
+2020-03-29,Helse Fonna HF,9
+2020-03-29,Helse Førde HF,2
+2020-03-29,Helse Møre og Romsdal,6
+2020-03-29,Helse Nord-Trøndelag,2
+2020-03-29,Helse Stavanger HF,11
+2020-03-29,Lovisenberg Diakonale Sykehus,20
+2020-03-29,Nordlandssykehuset HF,5
+2020-03-29,Oslo universitetssykehus HF,49
+2020-03-29,Sørlandet sykehus HF,12
+2020-03-29,St. Olavs hospital,12
+2020-03-29,Sunnaas sykehus HF,0
+2020-03-29,Sykehuset Innlandet HF,13
+2020-03-29,Sykehuset i Vestfold HF,11
+2020-03-29,Sykehuset Østfold HF,21
+2020-03-29,Sykehuset Telemark HF,3
+2020-03-29,Universitetssykehuset Nord-Norge HF,9
+2020-03-29,Vestre Viken HF,35
+2020-03-30,Akershus universitetssykehus HF,64
+2020-03-30,Diakonhjemmet Sykehus,11
+2020-03-30,Finnmarkssykehuset HF,1
+2020-03-30,Haraldsplass Diakonale Sykehus,5
+2020-03-30,Helgelandssykehuset HF,0
+2020-03-30,Helse Bergen HF,18
+2020-03-30,Helse Fonna HF,9
+2020-03-30,Helse Førde HF,2
+2020-03-30,Helse Møre og Romsdal,6
+2020-03-30,Helse Nord-Trøndelag,1
+2020-03-30,Helse Stavanger HF,11
+2020-03-30,Lovisenberg Diakonale Sykehus,22
+2020-03-30,Nordlandssykehuset HF,5
+2020-03-30,Oslo universitetssykehus HF,50
+2020-03-30,Sørlandet sykehus HF,13
+2020-03-30,St. Olavs hospital,12
+2020-03-30,Sunnaas sykehus HF,0
+2020-03-30,Sykehuset Innlandet HF,17
+2020-03-30,Sykehuset i Vestfold HF,11
+2020-03-30,Sykehuset Østfold HF,19
+2020-03-30,Sykehuset Telemark HF,3
+2020-03-30,Universitetssykehuset Nord-Norge HF,8
+2020-03-30,Vestre Viken HF,33
+2020-03-31,Akershus universitetssykehus HF,63
+2020-03-31,Diakonhjemmet Sykehus,9
+2020-03-31,Finnmarkssykehuset HF,2
+2020-03-31,Haraldsplass Diakonale Sykehus,5
+2020-03-31,Helgelandssykehuset HF,0
+2020-03-31,Helse Bergen HF,12
+2020-03-31,Helse Fonna HF,8
+2020-03-31,Helse Førde HF,1
+2020-03-31,Helse Møre og Romsdal,7
+2020-03-31,Helse Nord-Trøndelag,3
+2020-03-31,Helse Stavanger HF,14
+2020-03-31,Lovisenberg Diakonale Sykehus,16
+2020-03-31,Nordlandssykehuset HF,5
+2020-03-31,Oslo universitetssykehus HF,55
+2020-03-31,Sørlandet sykehus HF,12
+2020-03-31,St. Olavs hospital,10
+2020-03-31,Sunnaas sykehus HF,0
+2020-03-31,Sykehuset Innlandet HF,14
+2020-03-31,Sykehuset i Vestfold HF,11
+2020-03-31,Sykehuset Østfold HF,23
+2020-03-31,Sykehuset Telemark HF,4
+2020-03-31,Universitetssykehuset Nord-Norge HF,9
+2020-03-31,Vestre Viken HF,35
+2020-04-01,Akershus universitetssykehus HF,62
+2020-04-01,Diakonhjemmet Sykehus,10
+2020-04-01,Finnmarkssykehuset HF,2
+2020-04-01,Haraldsplass Diakonale Sykehus,7
+2020-04-01,Helgelandssykehuset HF,0
+2020-04-01,Helse Bergen HF,11
+2020-04-01,Helse Fonna HF,9
+2020-04-01,Helse Førde HF,1
+2020-04-01,Helse Møre og Romsdal,8
+2020-04-01,Helse Nord-Trøndelag,3
+2020-04-01,Helse Stavanger HF,14
+2020-04-01,Lovisenberg Diakonale Sykehus,12
+2020-04-01,Nordlandssykehuset HF,5
+2020-04-01,Oslo universitetssykehus HF,56
+2020-04-01,Sørlandet sykehus HF,14
+2020-04-01,St. Olavs hospital,10
+2020-04-01,Sunnaas sykehus HF,0
+2020-04-01,Sykehuset Innlandet HF,17
+2020-04-01,Sykehuset i Vestfold HF,13
+2020-04-01,Sykehuset Østfold HF,23
+2020-04-01,Sykehuset Telemark HF,5
+2020-04-01,Universitetssykehuset Nord-Norge HF,10
+2020-04-01,Vestre Viken HF,33
+2020-04-02,Akershus universitetssykehus HF,60
+2020-04-02,Diakonhjemmet Sykehus,10
+2020-04-02,Finnmarkssykehuset HF,2
+2020-04-02,Haraldsplass Diakonale Sykehus,5
+2020-04-02,Helgelandssykehuset HF,0
+2020-04-02,Helse Bergen HF,13
+2020-04-02,Helse Fonna HF,8
+2020-04-02,Helse Førde HF,3
+2020-04-02,Helse Møre og Romsdal,7
+2020-04-02,Helse Nord-Trøndelag,3
+2020-04-02,Helse Stavanger HF,13
+2020-04-02,Lovisenberg Diakonale Sykehus,10
+2020-04-02,Nordlandssykehuset HF,4
+2020-04-02,Oslo universitetssykehus HF,50
+2020-04-02,Sørlandet sykehus HF,16
+2020-04-02,St. Olavs hospital,12
+2020-04-02,Sunnaas sykehus HF,0
+2020-04-02,Sykehuset Innlandet HF,18
+2020-04-02,Sykehuset i Vestfold HF,13
+2020-04-02,Sykehuset Østfold HF,22
+2020-04-02,Sykehuset Telemark HF,5
+2020-04-02,Universitetssykehuset Nord-Norge HF,9
+2020-04-02,Vestre Viken HF,35
+2020-04-03,Akershus universitetssykehus HF,60
+2020-04-03,Diakonhjemmet Sykehus,13
+2020-04-03,Finnmarkssykehuset HF,2
+2020-04-03,Haraldsplass Diakonale Sykehus,7
+2020-04-03,Helgelandssykehuset HF,0
+2020-04-03,Helse Bergen HF,11
+2020-04-03,Helse Fonna HF,8
+2020-04-03,Helse Førde HF,3
+2020-04-03,Helse Møre og Romsdal,7
+2020-04-03,Helse Nord-Trøndelag,4
+2020-04-03,Helse Stavanger HF,13
+2020-04-03,Lovisenberg Diakonale Sykehus,9
+2020-04-03,Nordlandssykehuset HF,4
+2020-04-03,Oslo universitetssykehus HF,55
+2020-04-03,Sørlandet sykehus HF,10
+2020-04-03,St. Olavs hospital,9
+2020-04-03,Sunnaas sykehus HF,0
+2020-04-03,Sykehuset Innlandet HF,16
+2020-04-03,Sykehuset i Vestfold HF,14
+2020-04-03,Sykehuset Østfold HF,22
+2020-04-03,Sykehuset Telemark HF,6
+2020-04-03,Universitetssykehuset Nord-Norge HF,10
+2020-04-03,Vestre Viken HF,35
+2020-04-04,Akershus universitetssykehus HF,59
+2020-04-04,Diakonhjemmet Sykehus,14
+2020-04-04,Finnmarkssykehuset HF,0
+2020-04-04,Haraldsplass Diakonale Sykehus,3
+2020-04-04,Helgelandssykehuset HF,0
+2020-04-04,Helse Bergen HF,10
+2020-04-04,Helse Fonna HF,7
+2020-04-04,Helse Førde HF,4
+2020-04-04,Helse Møre og Romsdal,8
+2020-04-04,Helse Nord-Trøndelag,4
+2020-04-04,Helse Stavanger HF,13
+2020-04-04,Lovisenberg Diakonale Sykehus,10
+2020-04-04,Nordlandssykehuset HF,5
+2020-04-04,Oslo universitetssykehus HF,58
+2020-04-04,Sørlandet sykehus HF,11
+2020-04-04,St. Olavs hospital,8
+2020-04-04,Sunnaas sykehus HF,0
+2020-04-04,Sykehuset Innlandet HF,16
+2020-04-04,Sykehuset i Vestfold HF,9
+2020-04-04,Sykehuset Østfold HF,20
+2020-04-04,Sykehuset Telemark HF,6
+2020-04-04,Universitetssykehuset Nord-Norge HF,10
+2020-04-04,Vestre Viken HF,31
+2020-04-05,Akershus universitetssykehus HF,58
+2020-04-05,Diakonhjemmet Sykehus,14
+2020-04-05,Finnmarkssykehuset HF,0
+2020-04-05,Haraldsplass Diakonale Sykehus,3
+2020-04-05,Helgelandssykehuset HF,0
+2020-04-05,Helse Bergen HF,11
+2020-04-05,Helse Fonna HF,6
+2020-04-05,Helse Førde HF,2
+2020-04-05,Helse Møre og Romsdal,8
+2020-04-05,Helse Nord-Trøndelag,4
+2020-04-05,Helse Stavanger HF,13
+2020-04-05,Lovisenberg Diakonale Sykehus,10
+2020-04-05,Nordlandssykehuset HF,6
+2020-04-05,Oslo universitetssykehus HF,63
+2020-04-05,Sørlandet sykehus HF,12
+2020-04-05,St. Olavs hospital,10
+2020-04-05,Sunnaas sykehus HF,0
+2020-04-05,Sykehuset Innlandet HF,14
+2020-04-05,Sykehuset i Vestfold HF,8
+2020-04-05,Sykehuset Østfold HF,20
+2020-04-05,Sykehuset Telemark HF,7
+2020-04-05,Universitetssykehuset Nord-Norge HF,10
+2020-04-05,Vestre Viken HF,31
