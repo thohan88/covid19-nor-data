@@ -15,7 +15,7 @@ The current state of publicly available data about the COVID-19-situtation in No
 All available data is free to use without attribution to this project. Media outlets are strongly encouraged to make their online-articles using this data publicly available.
 
 ### Contributing to the project
-This project is a collaborative and voluntary effort and we would love your help. If you are an individual wishing to contribute, please read the [contribute section](#). If you are an organization interested in making your data available, please [get in touch](#).
+This project is a collaborative and voluntary effort and we would love your help. If you are an individual wishing to contribute, please read the [contribute section](contribute.html). If you are an organization interested in making your data available, please [get in touch](#).
 
 ```{r, message=FALSE, warning=FALSE, echo=FALSE}
 library(gt)

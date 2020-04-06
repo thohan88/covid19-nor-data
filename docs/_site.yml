@@ -11,7 +11,7 @@ navbar:
       href: contribute.html
     - text: "Examples"
       icon: fa-chart-bar fa-fw
-      href: about.html
+      href: examples.html
     - text: "About"
       icon: fa-info-circle fa-fw
       href: about.html
