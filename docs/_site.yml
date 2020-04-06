@@ -16,6 +16,10 @@ navbar:
       icon: fa-info-circle fa-fw
       href: about.html
       
+  right:
+    - icon: fa-github
+      href: https://github.com/thohan88/covid19-nor-data
+      
 output:
   html_document:
     theme: flatly

@@ -31,16 +31,18 @@ library(glue)
 
 ```{r, echo=FALSE}
 dl_base     <- "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/"
+pr_base     <- "https://github.com/thohan88/covid19-nor-data/blob/master/"
 dl_table    <- function(csv_link, xlsx_link) glue('<a href = "{dl_base}{csv_link}">csv</a> <a href = "{dl_base}{xlsx_link}">xlsx</a>')
 dl_map      <- function(geojson) glue('<a href = "{dl_base}{geojson}">geojson</a>')
-pr_table    <- function(csv_link) glue('<a href = "{csv_link}"><span class="fa fa-search"></span></a>')
-pr_map      <- function(geojson) glue('<a href = "{geojson}"><span class="fa fa-search"></span></a>')
+pr_table    <- function(csv_link) glue('<a href = "{pr_base}{csv_link}"><span class="fa fa-search"></span></a>')
+pr_map      <- function(geojson) glue('<a href = "{pr_base}{geojson}"><span class="fa fa-search"></span></a>')
 
 files <- dir("../data", full.names = TRUE, recursive = TRUE) %>% 
   tibble(file_name = .) %>% 
   mutate(file_name_sans_ext = tools::file_path_sans_ext(file_name),
          basename           = basename(file_name_sans_ext), 
          extension          = tools::file_ext(file_name)) %>% 
+  mutate(file_name = str_replace_all(file_name, "\\.\\./", "")) %>% 
   spread(extension, file_name) %>% 
   mutate(category = case_when(str_detect(file_name_sans_ext, "/02_maps/")          ~ "Maps",
                               str_detect(file_name_sans_ext, "/01_lookup_tables/") ~ "Lookup tables",
