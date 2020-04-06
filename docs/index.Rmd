@@ -3,6 +3,12 @@ title: "COVID-19 Data Norway"
 output:
   html_document
 ---
+<script>
+  $(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip(); 
+  });
+</script>
+
 <h3 style = "color: #6f7d7e;margin-top:8px;t">Public data about the COVID-19-situation in Norway </h3>
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
