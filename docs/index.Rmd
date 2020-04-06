@@ -4,9 +4,9 @@ output:
   html_document
 ---
 <script>
-  $(document).ready(function(){
-    $('[data-toggle="tooltip"]').tooltip(); 
-  });
+$(document).ready(function(){
+$('[data-toggle="tooltip"]').tooltip(); 
+});
 </script>
 
 <h3 style = "color: #6f7d7e;margin-top:8px;t">Public data about the COVID-19-situation in Norway </h3>
@@ -21,7 +21,7 @@ The current state of publicly available data about the COVID-19-situtation in No
 All available data is free to use without attribution to this project. Media outlets are strongly encouraged to make their online-articles using this data publicly available.
 
 ### Contributing to the project
-This project is a collaborative and voluntary effort and we would love your help. If you are an individual wishing to contribute, please read the [contribute section](contribute.html). If you are an organization interested in making your data available, please [get in touch](#).Test
+This project is a collaborative and voluntary effort and we would love your help. If you are an individual wishing to contribute, please read the [contribute section](contribute.html). If you are an organization interested in making your data available, please [get in touch](#).
 
 ```{r, message=FALSE, warning=FALSE, echo=FALSE}
 library(gt)
@@ -29,24 +29,63 @@ library(tidyverse)
 library(glue)
 ```
 
-### Available data
 ```{r, echo=FALSE}
-tribble(
-  ~name, ~source, ~updated, ~category,
-  "Infections", "MSIS", "2020-04-04", "Healthcare",
-  "Deaths", "FHI", "2020-04-04", "Healthcare",
-  "Admissions", "Helsedirektoratet", "2020-04-04", "Healthcare",
-  "Temporary Layoffs", "NAV", "2020-04-04", "Economic") %>% 
-  mutate(latest = '<a href = "#">csv</a> <a href = "#">xlsx</a>') %>%
-  mutate(complete = '<a href = "#">csv</a> <a href = "#">xlsx</a>') %>% 
-  mutate(preview = '<a href = "#"><span class="fa fa-search"></a>') %>% 
-  mutate_at(vars(latest, complete, preview), map, htmltools::HTML) %>% 
+dl_base     <- "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/"
+dl_table    <- function(csv_link, xlsx_link) glue('<a href = "{dl_base}{csv_link}">csv</a> <a href = "{dl_base}{xlsx_link}">xlsx</a>')
+dl_map      <- function(geojson) glue('<a href = "{dl_base}{geojson}">geojson</a>')
+pr_table    <- function(csv_link) glue('<a href = "{csv_link}"><span class="fa fa-search"></span></a>')
+pr_map      <- function(geojson) glue('<a href = "{geojson}"><span class="fa fa-search"></span></a>')
+
+files <- dir("../data", full.names = TRUE, recursive = TRUE) %>% 
+  tibble(file_name = .) %>% 
+  mutate(file_name_sans_ext = tools::file_path_sans_ext(file_name),
+         basename           = basename(file_name_sans_ext), 
+         extension          = tools::file_ext(file_name)) %>% 
+  spread(extension, file_name) %>% 
+  mutate(category = case_when(str_detect(file_name_sans_ext, "/02_maps/")          ~ "Maps",
+                              str_detect(file_name_sans_ext, "/01_lookup_tables/") ~ "Lookup tables",
+                              str_detect(file_name_sans_ext, "/01_infected/")      ~ "Healthcare",
+                              str_detect(file_name_sans_ext, "/02_admissions/")    ~ "Healthcare",
+                              str_detect(file_name_sans_ext, "/10_employment/")    ~ "Employment"),
+         label    = case_when(str_detect(file_name_sans_ext, "/municipalities$")    ~ "Municipalities",
+                              str_detect(file_name_sans_ext, "/municipalities_districts$") ~ "Municipalities and districts",
+                              str_detect(file_name_sans_ext, "/msis$")             ~ "MSIS regions",
+                              str_detect(file_name_sans_ext, "/02_maps/")          ~ "Maps",
+                              str_detect(file_name_sans_ext, "/01_lookup_tables/") ~ "Lookup tables",
+                              str_detect(file_name_sans_ext, "/01_infected/")      ~ "Infected",
+                              str_detect(file_name_sans_ext, "admissions_with")    ~ "In respirator",
+                              str_detect(file_name_sans_ext, "/02_admissions/")    ~ "Admissions",
+                              str_detect(file_name_sans_ext, "/10_employment/")    ~ "Employment"),
+         source   = case_when(str_detect(file_name_sans_ext, "/01_infected/")      ~ "MSIS",
+                              str_detect(file_name_sans_ext, "admissions_with")    ~ "Directorate of Health",
+                              str_detect(file_name_sans_ext, "/02_admissions/")    ~ "Directorate of Health",
+                              str_detect(file_name_sans_ext, "/10_employment/")    ~ "NAV")) %>% 
+  mutate(updated = format(Sys.Date(), "%Y-%m-%d")) %>% 
+  #mutate_at(vars(csv, xlsx, geojson), ~paste0("..", .x)) %>% 
+  mutate(category = fct_relevel(as.factor(category), "Healthcare", "Lookup tables", "Maps"),
+         label    = fct_relevel(as.factor(label), "Infected", "Admissions", "In respirator",
+                                "Municipalities", "Municipalities and districts", "MSIS regions"),
+         download = case_when(category %in% c("Healthcare", "Employment", "Lookup tables") ~ map2_chr(csv, xlsx, dl_table),
+                              category %in% c("Lookup tables", "Maps")                     ~ map_chr(geojson, dl_map)),
+         preview  = case_when(category %in% c("Healthcare", "Employment", "Lookup tables") ~ map_chr(csv, pr_table),
+                              category %in% c("Lookup tables", "Maps")                     ~ map_chr(geojson, pr_map))) %>% 
+  arrange(category, label) %>% 
+  filter((label == "Infected" & basename == "municipality_and_district") | label != "Infected") %>% 
+  select(category, label, source, updated, download, preview) %>% 
+  mutate_at(vars(download, preview), map, htmltools::HTML) %>% 
+  mutate_at(vars(category, label), as.character)
+```
+
+### Available data
+
+```{r, echo = FALSE}
+files %>% 
+  filter(category %in% c("Healthcare", "Employment")) %>% 
   gt(groupname_col = "category") %>%
   tab_options(table.width = pct(100),
               table.border.top.style = "hidden",
               table.border.bottom.style = "hidden",
               row.striping.include_table_body = FALSE) %>%
-  #tab_spanner(label = "Downlodad", columns = vars(latest, complete, preview)) %>% 
   tab_style(style = list(
     cell_borders(sides = c("top", "bottom"), color = "#DEE2E5", weight = px(1)),
     cell_fill(color = "#ecf0f1")),
@@ -55,36 +94,25 @@ tribble(
     style = list(cell_borders(sides = c("top", "bottom"), color = "#DEE2E5", weight = px(1))),
     locations = list(cells_body())) %>%
   cols_label(
-    name   = "Name",
-    source = "Source",
-    updated = "Updated",
-    latest = "Latest",
-    complete = "Complete",
-    preview = "Preview")
+    label    = "Name",
+    source   = "Source",
+    download = "Download",
+    updated  = "Updated",
+    preview  = "Preview")
 ```
 <br>
 
 ### Supporting data
-Lookup tables and maps for use with the available data sets.
-```{r, echo=FALSE}
-tribble(
-  ~name, ~category,
-  "Municipalities and Districts", "Lookup tables",
-  "Municpialities", "Lookup tables",
-  "MSIS-regions", "Lookup tables",
-  "Municipalities and Districts", "Maps",
-  "Municpialities", "Maps",
-  "MSIS-regions", "Maps") %>%
-  mutate(download = '<a href = "#">csv</a> <a href = "#">xlsx</a>',
-         preview  = '<a href = "#"><span class="fa fa-search"></a>') %>% 
-  mutate_at(vars(download), ~ifelse(category != "Maps", .x, '<a href= "#">geojson</a>')) %>% 
-  mutate_at(vars(download, preview), map, htmltools::HTML) %>% 
+
+```{r, echo = FALSE}
+files %>% 
+  filter(category %in% c("Lookup tables", "Maps")) %>% 
+  select(category, label, download, preview) %>% 
   gt(groupname_col = "category") %>%
   tab_options(table.width = pct(100),
               table.border.top.style = "hidden",
               table.border.bottom.style = "hidden",
               row.striping.include_table_body = FALSE) %>%
-  #tab_spanner(label = "Downlodad", columns = vars(latest, complete, preview)) %>% 
   tab_style(style = list(
     cell_borders(sides = c("top", "bottom"), color = "#DEE2E5", weight = px(1)),
     cell_fill(color = "#ecf0f1")),
@@ -93,7 +121,8 @@ tribble(
     style = list(cell_borders(sides = c("top", "bottom"), color = "#DEE2E5", weight = px(1))),
     locations = list(cells_body())) %>%
   cols_label(
-    name   = "Name",
+    label    = "Name",
     download = "Download",
-    preview = "Preview")
+    preview  = "Preview")
 ```
+
