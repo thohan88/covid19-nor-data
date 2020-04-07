@@ -24,3 +24,5 @@ output:
   html_document:
     theme: flatly
     highlight: textmate
+    includes: 
+      in_header: analytics.html

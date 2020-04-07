@@ -7,6 +7,9 @@ output:
     theme: flatly
     navbar:
       - { icon: "fa-sign-out-alt", href: "https://www.covid19data.no", align: left, title: "Back" }
+    includes:
+      in_header: ../../analytics.html
+    
 ---
 
 ```{js}
