@@ -9,7 +9,7 @@ $('[data-toggle="tooltip"]').tooltip();
 });
 </script>
 
-<h3 style = "color: #6f7d7e;margin-top:8px;t">Public data about the COVID-19-situation in Norway </h3>
+<h3 style = "color: #6f7d7e;margin-top:8px;">Public data about the COVID-19-situation in Norway </h3>
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -74,6 +74,7 @@ files <- dir("../data", full.names = TRUE, recursive = TRUE) %>%
   mutate_at(vars(download, preview), map, htmltools::HTML) %>% 
   mutate_at(vars(category, label), as.character)
 ```
+
 
 ### Available data
 

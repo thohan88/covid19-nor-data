@@ -1,5 +1,5 @@
 ---
-title: "Covid-19 infection status: Norway"
+title: "Covid-19 Cases: Norway"
 output: 
   flexdashboard::flex_dashboard:
     social: menu
@@ -25,7 +25,9 @@ library(sparkline)
 library(DT)
 library(leaflet)
 library(crosstalk)
-inf_raw <- read_csv("https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/01_infected/msis/municipality_and_district.csv")
+library(summarywidget)
+
+inf_raw     <- read_csv("https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/01_infected/msis/municipality_and_district.csv")
 inf_map_raw <- st_read("https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/00_lookup_tables_and_maps/02_maps/msis.geojson", quiet = TRUE)
 
 # MSIS-data is at bydel-level for Oslo and Bergen. Add Oslo and Bergen at municipality-level as well
@@ -76,9 +78,9 @@ inf_map <- inf_map_raw %>%
   select(region_no = kommune_bydel_no) %>%
   left_join(inf, by = "region_no") %>% 
   mutate(cases_per_pop_grp = cut(cases_per_pop, include.lowest = TRUE, breaks = breaks, labels = labels)) %>% 
-  mutate(popup_table = map2(cases, cases_per_pop, ~glue('Cases: {coalesce(.x, 0)}Cases per population: {coalesce(.y, 0)}'))) %>%
-  mutate(popup_table = map2(region, popup_table,  ~glue("{.x}{.y}"))) %>%
-  mutate(popup_table = map2(popup_table, sparkline_cases,  ~glue("{.x}{.y}"))) %>%
+  mutate(cases_per_pop_grp = cut(cases_per_pop, include.lowest = TRUE, breaks = breaks, labels = labels)) %>% 
+  mutate(popup_table = map2(cases, cases_per_pop, ~glue('<table><tr><td><b>Cases: </b></td><td align = "right">{coalesce(.x, 0)}</td></tr><tr><td><b>Cases per population: </b></td><td align = "right">{coalesce(.y, 0)}</td></tr></table>'))) %>%
+  mutate(popup_table = map2(region, popup_table,  ~glue("<h3>{.x}</h3>{.y}"))) %>%
   select(region, popup_table, cases, cases_log, cases_per_pop, cases_per_pop_grp)
 
 # Setup tables
@@ -87,7 +89,9 @@ inf_tbl <- inf %>%
          doubling_time_5d, doubling_time_10d, population, county, region_no) %>% 
   arrange(desc(cases)) %>% 
   mutate_at(vars(matches("doubling")), ~as.character(.x) %>% coalesce("")) %>% 
-  mutate(cases_per_pop = coalesce(cases_per_pop, 0))
+  mutate(cases_per_pop = coalesce(cases_per_pop, 0),
+         cases_summary = ifelse(str_detect(region_no, "^[0-9]{4}$"), cases, 0) %>% coalesce(0),
+         cases_new_summary = ifelse(str_detect(region_no, "^[0-9]{4}$"), cases_inc_1d, 0) %>% coalesce(0))
 
 inf_sd <- SharedData$new(inf_tbl)
 ```
@@ -96,10 +100,12 @@ inf_sd <- SharedData$new(inf_tbl)
 Dashboard {data-icon="fa-dashboard"}
 ===================================== 
 
-Inputs {.sidebar .no-title}
+Inputs {.sidebar}
 -------------------------------------
 
-Input
+
+<p class="text-muted", align = "center">Updated: `r max(inf_raw$date_time+3600*2, na.rm = TRUE) %>% format("%d. %B %y %H:%M")`</p>
+
 
 ```{r}
 filter_select("county_select", "County", inf_sd, ~county, multiple = FALSE)
@@ -112,6 +118,13 @@ filter_slider("pop_slider", "Population", inf_sd, ~population, min = 0, max = 75
 ```{r}
 filter_slider("case_slider", "Cases", inf_sd, ~cases)
 ```
+
+<h3 align = "center">`r summarywidget(inf_sd, "sum", "cases_summary")`</h3>
+<p class="card-text", align = "center">Total Cases</p>
+
+<h3 align = "center">`r summarywidget(inf_sd, "sum", "cases_new_summary")`</h3>
+<p class="card-text", align = "center">New cases last 24h</p>
+
 
 
 Column
@@ -197,7 +210,7 @@ inf_sd %>%
       paging = FALSE,
       autowidth = TRUE,
       scroller = TRUE,
-      scrollY = 300,
+      scrollY = 500,
       #scroller = TRUE,
       columnDefs = list(
         list(className = 'dt-left', targets = 0),
