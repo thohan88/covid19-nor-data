@@ -1,0 +1,295 @@
+---
+title: "Covid-19 infection status: Norway"
+output: 
+  flexdashboard::flex_dashboard:
+    social: menu
+    source_code: embed
+    theme: flatly
+    navbar:
+      - { icon: "fa-sign-out-alt", href: "https://www.covid19data.no", align: left, title: "Back" }
+---
+
+```{js}
+$('.navbar-inverse').removeClass('navbar-inverse').addClass('navbar-default');
+```
+
+```{r}
+library(tidyverse)
+library(glue)
+library(sf)
+library(lubridate)
+library(sparkline)
+library(DT)
+library(leaflet)
+library(crosstalk)
+inf_raw <- read_csv("https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/01_infected/msis/municipality_and_district.csv")
+inf_map_raw <- st_read("https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/00_lookup_tables_and_maps/02_maps/msis.geojson", quiet = TRUE)
+
+# MSIS-data is at bydel-level for Oslo and Bergen. Add Oslo and Bergen at municipality-level as well
+inf_district <- inf_raw %>% 
+  filter(bydel_name != "") %>% 
+  mutate(region = paste0(bydel_name, " (", kommune_name, ")")) %>% 
+  select(date, region_no = kommune_bydel_no, region, county = fylke_name, cases, population)
+
+inf_municipality <- inf_raw %>% 
+  group_by(date, region_no = kommune_no, region = kommune_name, county = fylke_name) %>% 
+  summarise_at(vars(cases, population), sum, na.rm = TRUE) %>% 
+  ungroup()
+
+# Breaks for categorizing cases per population
+breaks <- c(-1, 0, 0.5, 1, 2, 5, 10, 1000)
+labels <- c("0", "0 - 0.5", "0.5 - 1", "1 - 2", "2 - 5", "5 - 10", ">10")
+
+# Create sparklines for cases and growth and other statistics
+inf <- inf_municipality %>% 
+  bind_rows(inf_district) %>% 
+  arrange(date, region) %>% 
+  group_by(region_no, region) %>% 
+  mutate(new_cases = cases - lag(cases, 1)) %>% 
+  ungroup() %>% 
+  arrange(region, date) %>% 
+  group_by(region_no, region, county) %>% 
+  nest() %>% 
+  ungroup() %>% 
+  mutate(cases_current = map(data, ~.x %>% select(cases, population) %>% slice(n())),
+         cases_lag_1d  = map_dbl(data, ~.x %>%  slice(n()-1) %>% pull(cases)),
+         cases_lag_5d  = map_dbl(data, ~.x %>%  slice(n()-5) %>% pull(cases)),
+         cases_lag_10d = map_dbl(data, ~.x %>%  slice(n()-10) %>% pull(cases))) %>% 
+  unnest(cases_current) %>% 
+  mutate(cases_inc_1d        = cases - cases_lag_1d,
+         cases_per_pop       = round(cases/population*1000, 1),
+         cases_log           = log10(cases),
+         cases_per_pop_grp   = cut(cases_per_pop, include.lowest = TRUE, breaks = breaks, labels = labels),
+         doubling_time_1d    = round((1*log(2))/log(cases/cases_lag_1d), 1),
+         doubling_time_5d    = round((5*log(2))/log(cases/cases_lag_5d), 1),
+         doubling_time_10d   = round((10*log(2))/log(cases/cases_lag_10d), 1),
+         sparkline_cases     = map(data, ~.x %>% slice((n()-10):n()) %>% pull(cases) %>% spk_chr(type="line")),
+         sparkline_new_cases = map(data, ~.x %>% slice((n()-10):n()) %>% pull(new_cases) %>% spk_chr(type="bar"))) %>% 
+  mutate_at(vars(matches("doubling|log"), cases_per_pop), ~ifelse(is.na(.x) | is.infinite(.x) | is.nan(.x) | .x <= 0, NA, .x)) %>% 
+  select(-data)
+
+# Setup a map and add pop-info 
+inf_map <- inf_map_raw %>%
+  select(region_no = kommune_bydel_no) %>%
+  left_join(inf, by = "region_no") %>% 
+  mutate(cases_per_pop_grp = cut(cases_per_pop, include.lowest = TRUE, breaks = breaks, labels = labels)) %>% 
+  mutate(popup_table = map2(cases, cases_per_pop, ~glue('Cases: {coalesce(.x, 0)}Cases per population: {coalesce(.y, 0)}'))) %>%
+  mutate(popup_table = map2(region, popup_table,  ~glue("{.x}{.y}"))) %>%
+  mutate(popup_table = map2(popup_table, sparkline_cases,  ~glue("{.x}{.y}"))) %>%
+  select(region, popup_table, cases, cases_log, cases_per_pop, cases_per_pop_grp)
+
+# Setup tables
+inf_tbl <- inf %>%
+  select(region, cases, cases_inc_1d, cases_per_pop, sparkline_cases, sparkline_new_cases,
+         doubling_time_5d, doubling_time_10d, population, county, region_no) %>% 
+  arrange(desc(cases)) %>% 
+  mutate_at(vars(matches("doubling")), ~as.character(.x) %>% coalesce("")) %>% 
+  mutate(cases_per_pop = coalesce(cases_per_pop, 0))
+
+inf_sd <- SharedData$new(inf_tbl)
+```
+
+
+Dashboard {data-icon="fa-dashboard"}
+===================================== 
+
+Inputs {.sidebar .no-title}
+-------------------------------------
+
+Input
+
+```{r}
+filter_select("county_select", "County", inf_sd, ~county, multiple = FALSE)
+```
+
+```{r}
+filter_slider("pop_slider", "Population", inf_sd, ~population, min = 0, max = 750E3)
+```
+
+```{r}
+filter_slider("case_slider", "Cases", inf_sd, ~cases)
+```
+
+
+Column
+-------------------------------------
+
+### Key figures
+
+```{r}
+
+#################################### #
+# Table ----
+#################################### #
+
+variables <- c("region", "cases", "cases_inc_1d", "cases_per_pop",
+               "sparkline_cases", "sparkline_new_cases", "doubling_time_5d", "doubling_time_10d")
+escape    <- c("sparkline_cases", "sparkline_new_cases")
+sortblank <- c("doubling_time_5d", "doubling_time_10d")
+sortdesc  <- c("cases", "cases_inc_1d", "cases_per_pop")
+non_align <- c("region", "sparkline_cases", "sparkline_new_cases")
+
+cols_vis      <- which(names(inf_tbl) %in% variables)-1
+cols_invis    <- which(!names(inf_tbl) %in% variables)-1
+cols_escape   <- which(names(inf_tbl) %in% escape)-1
+cols_sort     <- which(names(inf_tbl) %in% sortblank)-1
+cols_sortdesc <- which(names(inf_tbl) %in% sortdesc)-1
+cols_align    <- which(!names(inf_tbl) %in% non_align)-1
+
+# JS hack to properly allow sorting of doubling_x_days-columns
+callback_sort <- JS(paste0("
+  $.fn.dataTableExt.oSort['NumericOrBlank-asc'] = function(x,y) {
+    var retVal;
+        if( x === '' || $.isEmptyObject(x)) x = 1000;
+    if( y === '' || $.isEmptyObject(y)) y = 1000;
+    x = (x = parseFloat($.trim(x).replace(/,/g,''))) ? x : 0;
+    y = (y = parseFloat($.trim(y).replace(/,/g,''))) ? y : 0;
+    if (x==y) retVal= 0; 
+    else retVal = (x>y) ? 1 : -1; 
+    return retVal;
+  };
+  $.fn.dataTableExt.oSort['NumericOrBlank-desc'] = function(y,x) {
+  var retVal;
+  x = (x = parseFloat($.trim(x).replace(/,/g,''))) ? x : 0;
+  y = (y = parseFloat($.trim(y).replace(/,/g,''))) ? y : 0;
+  if (x==y) retVal= 0; 
+  else retVal = (x>y) ? 1 : -1; 
+  return retVal;
+  }"))
+
+sketch <- htmltools::withTags(table(
+  class = 'display',
+  thead(
+    tr(
+      th('', style = "border: 0;"),
+      th(colspan = 3, 'Cases'),
+      th(colspan = 2, 'Trend'),
+      th(colspan = 2, 'Doubling rate')
+    ),
+    tr(
+      lapply(c("Region", "Total", "New 24h", "Per 1000", "Trend", "Growth", "5 days", "10 days"), th)
+    )
+  )
+))
+
+inf_sd %>%
+  datatable(
+    escape   = cols_escape,
+    container = sketch,
+    rownames = FALSE,
+    #filter   = "top",
+    callback = callback_sort,
+    plugins  = "natural",
+    colnames = c("Region"    = "region",
+                 "Total"     = "cases",
+                 "Per 1.000" = "cases_per_pop",
+                 "New 24h"   = "cases_inc_1d",
+                 "Trend"     = "sparkline_cases",
+                 "Growth"    = "sparkline_new_cases",
+                 "5 days"    = "doubling_time_5d",
+                 "10 days"   = "doubling_time_10d"),
+    options = list(
+      extensions = c("Scroller"),
+      dom = "lrt",
+      paging = FALSE,
+      autowidth = TRUE,
+      scroller = TRUE,
+      scrollY = 300,
+      #scroller = TRUE,
+      columnDefs = list(
+        list(className = 'dt-left', targets = 0),
+        list(orderSequence = c('desc', 'asc'), targets = cols_sortdesc),
+        list(visible = FALSE, targets = cols_invis),
+        list(orderable = FALSE, className = 'dt-center', targets = cols_escape),
+        list(className = 'dt-right', targets = cols_align),
+        list(type = "NumericOrBlank", targets = cols_sort)
+      ))) %>% 
+  formatStyle(columns        = "5 days",
+              valueColumns   = "5 days",
+              background     = styleColorBar(seq(0, 40, 1), 'orange', angle = 90),
+              backgroundSize = '95% 70%',
+              backgroundRepeat = 'no-repeat',
+              backgroundPosition = 'center') %>% 
+  formatStyle(columns        = "10 days",
+              valueColumns   = "10 days",
+              background     = styleColorBar(seq(0, 40, 1), 'orange', angle = 90),
+              backgroundSize = '95% 70%',
+              backgroundRepeat = 'no-repeat',
+              backgroundPosition = 'center') %>% 
+  formatCurrency(~Total, currency = "", digits = 0, mark = " ") %>% 
+  formatStyle(columns        = "Per 1.000",
+              valueColumns   = "Per 1.000",
+              background     = styleColorBar(seq(0, 12, 1), 'orange', angle = 90),
+              backgroundSize = '95% 70%',
+              backgroundRepeat = 'no-repeat',
+              backgroundPosition = 'center') %>% 
+  formatCurrency(~Total, currency = "", digits = 0, mark = " ") %>% 
+  sparkline::spk_add_deps()
+```
+
+
+Column
+-------------------------------------
+
+### Cases per municipality and district
+
+```{r}
+
+#################################### #
+# Map ----
+#################################### #
+
+leaf_col <- c("#ecda9a", "#efc47e", "#f3ad6a", "#f7945d", "#f97b57", "#f66356", "#ee4d5a")
+pal_log  <- colorNumeric(leaf_col, inf_map$cases_log, na.color = "transparent")
+pal_fac  <- colorFactor(leaf_col, levels = levels(inf_map$cases_per_pop_grp), na.color = "transparent")
+lab_log  <- labelFormat(transform = function(x) 10^x)
+js_hack  <- paste("
+    function(el, x) {
+      var updateLegend = function () {
+          var selectedGroup = document.querySelectorAll('input:checked')[0].nextSibling.innerText.substr(1);
+
+          document.querySelectorAll('.legend').forEach(a => a.hidden=true);
+          document.querySelectorAll('.legend').forEach(l => {
+            if (l.children[0].children[0].innerText == selectedGroup) l.hidden=false;
+          });
+      };
+      updateLegend();
+      this.on('baselayerchange', e => updateLegend());
+    }")
+
+inf_map %>%
+  rename(`Total Cases` = cases_log,
+         `Per 1.000`  = cases_per_pop_grp) %>% 
+  leaflet() %>%
+  addProviderTiles(providers$CartoDB) %>%
+  addPolygons(fillColor   = ~pal_fac(`Per 1.000`),
+              group       = "Per 1.000",
+              fillOpacity = 0.7,
+              weight      = 1,
+              label       = ~region,
+              popup       = ~popup_table,
+              color       = "grey") %>%
+  addPolygons(fillColor   = ~pal_log(`Total Cases`),
+              fillOpacity = 0.7,
+              group       = "Total Cases",
+              label       = ~region,
+              popup       = ~popup_table,
+              weight      = 1,
+              color       = "grey") %>%
+  addLegend(position= "topright",
+            pal     = pal_fac,
+            values  = ~`Per 1.000`,
+            group   = "Per 1.000") %>%
+  addLegend(position= "topright",
+            pal     = pal_log,
+            bins    = c(0, 1, 2, 3, 4),
+            labFormat = lab_log,
+            values  = ~`Total Cases`,
+            group   = "Total Cases") %>%
+  addLayersControl(baseGroups = c("Per 1.000", "Total Cases"), 
+                   position = "topleft",
+                   options = layersControlOptions(collapsed=F)) %>%
+  #setView(17.6, 65.9, zoom = 4.5) %>% 
+  htmlwidgets::onRender(js_hack)
+
+```
