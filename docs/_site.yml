@@ -13,7 +13,7 @@ navbar:
       icon: fa-chart-bar fa-fw
       menu: 
         - text: "Case Dashboard"
-          href: examples/01_case_dashboard.html
+          href: examples/01_case_dashboard/
         - text: "Norway Case Map (Coming)"
           href: # 
     - text: "Contribute"

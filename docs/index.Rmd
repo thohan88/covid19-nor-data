@@ -24,7 +24,7 @@ This project is a collaborative and voluntary effort and we would love your help
 **To-do**: Add description about data collection and frequency of updates. Link to [data-section](data.html).
 
 ### Examples
-To see what how this data could potentially be used, take a look at the [Norway Case Dashboard](examples/01_case_dashboard.html). 
+To see what how this data could potentially be used, take a look at the [Norway Case Dashboard](examples/01_case_dashboard/). 
 
 <a href = "#"><img src="img/MSIS_dashboard_full.PNG"/></a>
 <a href = "#"><p class="text-secondary" align="center">Daily dashboard of Covid-19 cases in Norway</p></a>
