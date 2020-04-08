@@ -6,12 +6,19 @@ navbar:
     - text: "Home"
       icon: fa-home fa-fw
       href: index.html
+    - text: "Data"
+      icon: fa-table fa-fw
+      href: data.html
+    - text: "Examples"
+      icon: fa-chart-bar fa-fw
+      menu: 
+        - text: "Case Dashboard"
+          href: examples/01_case_dashboard.html
+        - text: "Norway Case Map (Coming)"
+          href: # 
     - text: "Contribute"
       icon: fa-hands-helping fa-fw
       href: contribute.html
-    - text: "Examples"
-      icon: fa-chart-bar fa-fw
-      href: examples.html
     - text: "About"
       icon: fa-info-circle fa-fw
       href: about.html
@@ -26,3 +33,5 @@ output:
     highlight: textmate
     includes: 
       in_header: analytics.html
+
+

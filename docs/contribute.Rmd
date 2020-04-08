@@ -4,4 +4,4 @@ output:
   html_document
 ---
 
-TBA
+**To-do**: Add how individuals and private and public organizations can contribute.

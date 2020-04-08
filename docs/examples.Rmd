@@ -1,7 +1,0 @@
----
-title: "Examples"
-output:
-  html_document
----
-
-TBA
