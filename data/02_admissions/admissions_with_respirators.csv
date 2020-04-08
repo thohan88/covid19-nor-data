@@ -1,4 +1,24 @@
 date,health_reg_name,admissions
+2020-03-08,Helse Midt-Norge,0
+2020-03-08,Helse Nord,0
+2020-03-08,Helse Sør-Øst,0
+2020-03-08,Helse Vest,0
+2020-03-09,Helse Midt-Norge,0
+2020-03-09,Helse Nord,0
+2020-03-09,Helse Sør-Øst,0
+2020-03-09,Helse Vest,0
+2020-03-10,Helse Midt-Norge,0
+2020-03-10,Helse Nord,0
+2020-03-10,Helse Sør-Øst,0
+2020-03-10,Helse Vest,0
+2020-03-11,Helse Midt-Norge,0
+2020-03-11,Helse Nord,0
+2020-03-11,Helse Sør-Øst,0
+2020-03-11,Helse Vest,0
+2020-03-12,Helse Midt-Norge,0
+2020-03-12,Helse Nord,0
+2020-03-12,Helse Sør-Øst,0
+2020-03-12,Helse Vest,0
 2020-03-13,Helse Midt-Norge,0
 2020-03-13,Helse Nord,0
 2020-03-13,Helse Sør-Øst,4
@@ -99,3 +119,7 @@ date,health_reg_name,admissions
 2020-04-06,Helse Nord,6
 2020-04-06,Helse Sør-Øst,60
 2020-04-06,Helse Vest,11
+2020-04-07,Helse Midt-Norge,6
+2020-04-07,Helse Nord,6
+2020-04-07,Helse Sør-Øst,56
+2020-04-07,Helse Vest,10
