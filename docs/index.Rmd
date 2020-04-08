@@ -57,6 +57,7 @@ files <- dir("../data", full.names = TRUE, recursive = TRUE) %>%
                               str_detect(file_name_sans_ext, "/01_lookup_tables/") ~ "Lookup tables",
                               str_detect(file_name_sans_ext, "/01_infected/")      ~ "Healthcare",
                               str_detect(file_name_sans_ext, "/02_admissions/")    ~ "Healthcare",
+                              str_detect(file_name_sans_ext, "/03_covid_tests/")   ~ "Healthcare",
                               str_detect(file_name_sans_ext, "/10_employment/")    ~ "Economics"),
          label    = case_when(str_detect(file_name_sans_ext, "/municipalities$")    ~ "Municipalities",
                               str_detect(file_name_sans_ext, "/municipalities_districts$") ~ "Municipalities and districts",
@@ -66,22 +67,25 @@ files <- dir("../data", full.names = TRUE, recursive = TRUE) %>%
                               str_detect(file_name_sans_ext, "/01_infected/")      ~ "Infected",
                               str_detect(file_name_sans_ext, "admissions_with")    ~ "In respirator",
                               str_detect(file_name_sans_ext, "/02_admissions/")    ~ "Admissions",
+                              str_detect(file_name_sans_ext, "/03_covid_tests/")   ~ "Covid tests",
                               str_detect(file_name_sans_ext, "/10_employment/")    ~ "Unemployment benefits"),
          source   = case_when(str_detect(file_name_sans_ext, "/01_infected/")      ~ "MSIS",
+                              str_detect(file_name_sans_ext, "/03_covid_tests/")   ~ "FHI",
                               str_detect(file_name_sans_ext, "admissions_with")    ~ "Directorate of Health",
                               str_detect(file_name_sans_ext, "/02_admissions/")    ~ "Directorate of Health",
                               str_detect(file_name_sans_ext, "/10_employment/")    ~ "NAV")) %>% 
   mutate(updated = format(Sys.Date(), "%Y-%m-%d")) %>% 
   #mutate_at(vars(csv, xlsx, geojson), ~paste0("..", .x)) %>% 
   mutate(category = fct_relevel(as.factor(category), "Healthcare", "Lookup tables", "Maps"),
-         label    = fct_relevel(as.factor(label), "Infected", "Admissions", "In respirator",
+         label    = fct_relevel(as.factor(label), "Infected", "Admissions", "In respirator", "Covid tests",
                                 "Municipalities", "Municipalities and districts", "MSIS regions"),
          download = case_when(category %in% c("Healthcare", "Economics", "Lookup tables") ~ map2_chr(csv, xlsx, dl_table),
                               category %in% c("Lookup tables", "Maps")                     ~ map_chr(geojson, dl_map)),
          preview  = case_when(category %in% c("Healthcare", "Economics", "Lookup tables") ~ map_chr(csv, pr_table),
                               category %in% c("Lookup tables", "Maps")                     ~ map_chr(geojson, pr_map))) %>% 
   arrange(category, label) %>% 
-  filter((label == "Infected" & basename == "municipality_and_district") | label != "Infected") %>% 
+  filter((label == "Infected" & basename == "municipality_and_district") | label != c("Infected")) %>% 
+  filter((label == "Covid tests" & basename == "national_tests") | label != c("Covid tests")) %>% 
   select(category, label, source, updated, download, preview) %>% 
   mutate_at(vars(download, preview), map, htmltools::HTML) %>% 
   mutate_at(vars(category, label), as.character)
