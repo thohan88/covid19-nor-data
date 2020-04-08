@@ -17,14 +17,124 @@ knitr::opts_chunk$set(echo = TRUE)
 ### Motivation
 The current state of publicly available data about the COVID-19-situtation in Norway is a mix of [PDF-reports](https://www.fhi.no/sv/smittsomme-sykdommer/corona/dags--og-ukerapporter/dags--og-ukerapporter-om-koronavirus/), [Excel-files](https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/permitterte), [Power BI-dashboards](https://www.helsedirektoratet.no/statistikk/antall-innlagte-pasienter-pa-sykehus-med-pavist-covid-19) and public registries. Further, much of the data is only released as cumulative statistics at aggregated levels (e.g. [MSIS](http://www.msis.no/)). This has created a market for media outlets to release local "situation reports" behind paywalls (see: [Aftenposten](https://www.aftenposten.no/norge/i/K3mnr4/i-det-meste-av-landet-bremser-viruset-opp-i-oslo-sprer-det-seg-raskt-fra-bydel-til-bydel)). The motivation for this project is to collect disparate data sources of Covid-19 in Norway and make them freely available to the public in a timely and coherent manner.
 
+<div class="row">
+<div class="col-sm-6">
 ### Contributing to the project
 This project is a collaborative and voluntary effort and we would love your help. If you are an individual wishing to contribute, please read the [contribute section](contribute.html). If you are an organization interested in making your data available, please [get in touch](#).
 
-### About the data
-**To-do**: Add description about data collection and frequency of updates. Link to [data-section](data.html).
+### Examples: Use of data
+The [Norway Case Dashboard](examples/01_case_dashboard/) illustrates how some of this data can be used. The dashboard shows current Covid-19 Cases in Norway at municipality and district-level based reported to the Norwegian Surveillance System for Communicable Diseases (MSIS) with fully available source code. Going forward, more dashboards and visualizations will be posted in the examples-section.
+</div>
+<div class="col-sm-6">
+<a href = "examples/01_case_dashboard/"><img src="img/MSIS_dashboard_full.PNG"/></a>
+<a href = "examples/01_case_dashboard/"><p align="center">Norway Case Dashboard</p></a>
+</div>
+</div>
 
-### Examples
-To see what how this data could potentially be used, take a look at the [Norway Case Dashboard](examples/01_case_dashboard/). 
 
-<a href = "#"><img src="img/MSIS_dashboard_full.PNG"/></a>
-<a href = "#"><p class="text-secondary" align="center">Daily dashboard of Covid-19 cases in Norway</p></a>
+```{r, message=FALSE, warning=FALSE, echo=FALSE}
+library(gt)
+library(tidyverse)
+library(glue)
+```
+
+```{r, echo=FALSE}
+dl_base     <- "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/"
+pr_base     <- "https://github.com/thohan88/covid19-nor-data/blob/master/"
+dl_table    <- function(csv_link, xlsx_link) glue('<a href = "{dl_base}{csv_link}">csv</a> <a href = "{dl_base}{xlsx_link}">xlsx</a>')
+dl_map      <- function(geojson) glue('<a href = "{dl_base}{geojson}">geojson</a>')
+pr_table    <- function(csv_link) glue('<a href = "{pr_base}{csv_link}"><span class="fa fa-search"></span></a>')
+pr_map      <- function(geojson) glue('<a href = "{pr_base}{geojson}"><span class="fa fa-search"></span></a>')
+
+files <- dir("../data", full.names = TRUE, recursive = TRUE) %>% 
+  tibble(file_name = .) %>% 
+  mutate(file_name_sans_ext = tools::file_path_sans_ext(file_name),
+         basename           = basename(file_name_sans_ext), 
+         extension          = tools::file_ext(file_name)) %>% 
+  mutate(file_name = str_replace_all(file_name, "\\.\\./", "")) %>% 
+  spread(extension, file_name) %>% 
+  mutate(category = case_when(str_detect(file_name_sans_ext, "/02_maps/")          ~ "Maps",
+                              str_detect(file_name_sans_ext, "/01_lookup_tables/") ~ "Lookup tables",
+                              str_detect(file_name_sans_ext, "/01_infected/")      ~ "Healthcare",
+                              str_detect(file_name_sans_ext, "/02_admissions/")    ~ "Healthcare",
+                              str_detect(file_name_sans_ext, "/10_employment/")    ~ "Economics"),
+         label    = case_when(str_detect(file_name_sans_ext, "/municipalities$")    ~ "Municipalities",
+                              str_detect(file_name_sans_ext, "/municipalities_districts$") ~ "Municipalities and districts",
+                              str_detect(file_name_sans_ext, "/msis$")             ~ "MSIS regions",
+                              str_detect(file_name_sans_ext, "/02_maps/")          ~ "Maps",
+                              str_detect(file_name_sans_ext, "/01_lookup_tables/") ~ "Lookup tables",
+                              str_detect(file_name_sans_ext, "/01_infected/")      ~ "Infected",
+                              str_detect(file_name_sans_ext, "admissions_with")    ~ "In respirator",
+                              str_detect(file_name_sans_ext, "/02_admissions/")    ~ "Admissions",
+                              str_detect(file_name_sans_ext, "/10_employment/")    ~ "Unemployment benefits"),
+         source   = case_when(str_detect(file_name_sans_ext, "/01_infected/")      ~ "MSIS",
+                              str_detect(file_name_sans_ext, "admissions_with")    ~ "Directorate of Health",
+                              str_detect(file_name_sans_ext, "/02_admissions/")    ~ "Directorate of Health",
+                              str_detect(file_name_sans_ext, "/10_employment/")    ~ "NAV")) %>% 
+  mutate(updated = format(Sys.Date(), "%Y-%m-%d")) %>% 
+  #mutate_at(vars(csv, xlsx, geojson), ~paste0("..", .x)) %>% 
+  mutate(category = fct_relevel(as.factor(category), "Healthcare", "Lookup tables", "Maps"),
+         label    = fct_relevel(as.factor(label), "Infected", "Admissions", "In respirator",
+                                "Municipalities", "Municipalities and districts", "MSIS regions"),
+         download = case_when(category %in% c("Healthcare", "Economics", "Lookup tables") ~ map2_chr(csv, xlsx, dl_table),
+                              category %in% c("Lookup tables", "Maps")                     ~ map_chr(geojson, dl_map)),
+         preview  = case_when(category %in% c("Healthcare", "Economics", "Lookup tables") ~ map_chr(csv, pr_table),
+                              category %in% c("Lookup tables", "Maps")                     ~ map_chr(geojson, pr_map))) %>% 
+  arrange(category, label) %>% 
+  filter((label == "Infected" & basename == "municipality_and_district") | label != "Infected") %>% 
+  select(category, label, source, updated, download, preview) %>% 
+  mutate_at(vars(download, preview), map, htmltools::HTML) %>% 
+  mutate_at(vars(category, label), as.character)
+```
+
+
+### Available data
+
+```{r, echo = FALSE}
+files %>% 
+  filter(category %in% c("Healthcare", "Economics")) %>% 
+  gt(groupname_col = "category") %>%
+  tab_options(table.width = pct(100),
+              table.border.top.style = "hidden",
+              table.border.bottom.style = "hidden",
+              row.striping.include_table_body = FALSE) %>%
+  tab_style(style = list(
+    cell_borders(sides = c("top", "bottom"), color = "#DEE2E5", weight = px(1)),
+    cell_fill(color = "#ecf0f1")),
+    locations = list(cells_row_groups())) %>%
+  tab_style(
+    style = list(cell_borders(sides = c("top", "bottom"), color = "#DEE2E5", weight = px(1))),
+    locations = list(cells_body())) %>%
+  cols_label(
+    label    = "Name",
+    source   = "Source",
+    download = "Download",
+    updated  = "Updated",
+    preview  = "Preview")
+```
+<br>
+
+### Supporting data
+
+```{r, echo = FALSE}
+files %>% 
+  filter(category %in% c("Lookup tables", "Maps")) %>% 
+  select(category, label, download, preview) %>% 
+  gt(groupname_col = "category") %>%
+  tab_options(table.width = pct(100),
+              table.border.top.style = "hidden",
+              table.border.bottom.style = "hidden",
+              row.striping.include_table_body = FALSE) %>%
+  tab_style(style = list(
+    cell_borders(sides = c("top", "bottom"), color = "#DEE2E5", weight = px(1)),
+    cell_fill(color = "#ecf0f1")),
+    locations = list(cells_row_groups())) %>%
+  tab_style(
+    style = list(cell_borders(sides = c("top", "bottom"), color = "#DEE2E5", weight = px(1))),
+    locations = list(cells_body())) %>%
+  cols_label(
+    label    = "Name",
+    download = "Download",
+    preview  = "Preview")
+```
+
