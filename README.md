@@ -9,6 +9,7 @@ The current state of publicly available data about the COVID-19-situtation in No
 This project is a collaborative and voluntary effort and we would love your help.
 
 ### Use of data
-![Case Dashboard](docs/img/MSIS_dashboard_full.PNG)
+
+[![Case Dashboard](docs/img/MSIS_dashboard_full.PNG)](https://www.covid19data.no/examples/01_case_dashboard/)
 The [Norway Case Dashboard](https://www.covid19data.no/examples/01_case_dashboard/) illustrates how some of this data can be used. The dashboard shows current Covid-19 Cases in Norway at municipality and district-level based reported to the Norwegian Surveillance System for Communicable Diseases (MSIS) with fully available source code. Going forward, more dashboards and visualizations will be posted in the examples-section.
 
