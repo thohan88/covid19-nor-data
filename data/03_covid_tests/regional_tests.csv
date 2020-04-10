@@ -1,4 +1,8 @@
 date,region,n_tests,n_positives,n_tests_cumulative,n_positives_cumulative
+2020-04-09,Region Midt,153,0,15224,478
+2020-04-09,Region Nord,223,5,11908,256
+2020-04-09,Region Sør-Øst,1815,134,61283,4053
+2020-04-09,Region Vest,479,31,22019,918
 2020-04-08,Region Midt,1792,57,15071,478
 2020-04-08,Region Nord,337,6,11685,251
 2020-04-08,Region Sør-Øst,1557,98,59468,3919

@@ -17,7 +17,7 @@ date,health_reg_name,admissions
 2020-03-11,Helse Vest,0
 2020-03-12,Helse Midt-Norge,0
 2020-03-12,Helse Nord,0
-2020-03-12,Helse Sør-Øst,0
+2020-03-12,Helse Sør-Øst,1
 2020-03-12,Helse Vest,0
 2020-03-13,Helse Midt-Norge,0
 2020-03-13,Helse Nord,0
@@ -127,3 +127,7 @@ date,health_reg_name,admissions
 2020-04-08,Helse Nord,6
 2020-04-08,Helse Sør-Øst,49
 2020-04-08,Helse Vest,9
+2020-04-09,Helse Midt-Norge,6
+2020-04-09,Helse Nord,6
+2020-04-09,Helse Sør-Øst,49
+2020-04-09,Helse Vest,9

@@ -91,7 +91,7 @@ date,health_org_name,admissions
 2020-03-11,Sykehuset Telemark HF,0
 2020-03-11,Universitetssykehuset Nord-Norge HF,0
 2020-03-11,Vestre Viken HF,2
-2020-03-12,Akershus universitetssykehus HF,0
+2020-03-12,Akershus universitetssykehus HF,3
 2020-03-12,Diakonhjemmet Sykehus,1
 2020-03-12,Finnmarkssykehuset HF,0
 2020-03-12,Haraldsplass Diakonale Sykehus,0
@@ -112,7 +112,7 @@ date,health_org_name,admissions
 2020-03-12,Sykehuset i Vestfold HF,2
 2020-03-12,Sykehuset Østfold HF,0
 2020-03-12,Sykehuset Telemark HF,3
-2020-03-12,Universitetssykehuset Nord-Norge HF,3
+2020-03-12,Universitetssykehuset Nord-Norge HF,0
 2020-03-12,Vestre Viken HF,3
 2020-03-13,Akershus universitetssykehus HF,3
 2020-03-13,Diakonhjemmet Sykehus,1
@@ -735,3 +735,26 @@ date,health_org_name,admissions
 2020-04-08,Sykehuset Telemark HF,5
 2020-04-08,Universitetssykehuset Nord-Norge HF,9
 2020-04-08,Vestre Viken HF,24
+2020-04-09,Akershus universitetssykehus HF,33
+2020-04-09,Diakonhjemmet Sykehus,18
+2020-04-09,Finnmarkssykehuset HF,1
+2020-04-09,Haraldsplass Diakonale Sykehus,3
+2020-04-09,Helgelandssykehuset HF,1
+2020-04-09,Helse Bergen HF,13
+2020-04-09,Helse Fonna HF,4
+2020-04-09,Helse Førde HF,2
+2020-04-09,Helse Møre og Romsdal,9
+2020-04-09,Helse Nord-Trøndelag,4
+2020-04-09,Helse Stavanger HF,5
+2020-04-09,Lovisenberg Diakonale Sykehus,11
+2020-04-09,Nordlandssykehuset HF,5
+2020-04-09,Oslo universitetssykehus HF,51
+2020-04-09,Sørlandet sykehus HF,9
+2020-04-09,St. Olavs hospital,10
+2020-04-09,Sunnaas Sykehus HF,0
+2020-04-09,Sykehuset Innlandet HF,12
+2020-04-09,Sykehuset i Vestfold HF,8
+2020-04-09,Sykehuset Østfold HF,14
+2020-04-09,Sykehuset Telemark HF,5
+2020-04-09,Universitetssykehuset Nord-Norge HF,8
+2020-04-09,Vestre Viken HF,26
