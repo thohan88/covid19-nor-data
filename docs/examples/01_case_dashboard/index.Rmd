@@ -232,14 +232,12 @@ inf_sd %>%
               backgroundSize = '95% 70%',
               backgroundRepeat = 'no-repeat',
               backgroundPosition = 'center') %>% 
-  formatCurrency(~Total, currency = "", digits = 0, mark = " ") %>% 
   formatStyle(columns        = "Per 1.000",
               valueColumns   = "Per 1.000",
               background     = styleColorBar(seq(0, 12, 1), 'orange', angle = 90),
               backgroundSize = '95% 70%',
               backgroundRepeat = 'no-repeat',
               backgroundPosition = 'center') %>% 
-  formatCurrency(~Total, currency = "", digits = 0, mark = " ") %>% 
   sparkline::spk_add_deps()
 ```
 
