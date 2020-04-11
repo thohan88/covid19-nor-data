@@ -11,7 +11,7 @@
 
 
 
-<title>Available Data</title>
+<title>Available data</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -19,6 +19,9 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -79,6 +82,7 @@ h6 {
 }
 </style>
 
+<link rel="stylesheet" href="styles.css" type="text/css" />
 
 
 
@@ -259,6 +263,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -266,6 +333,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -342,406 +419,18 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Available Data</h1>
+<h1 class="title toc-ignore">Available data</h1>
 
 </div>
 
 
-<p><strong>To-do</strong>: Add a description of how data is collected, when it is updated and how it should be attributed.</p>
-<div id="available-data" class="section level3">
-<h3>Available data</h3>
-<p><style>html {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
-}
-
-#oaddtuhrgb .gt_table {
-  display: table;
-  border-collapse: collapse;
-  margin-left: auto;
-  margin-right: auto;
-  color: #333333;
-  font-size: 16px;
-  background-color: #FFFFFF;
-  width: 100%;
-  border-top-style: hidden;
-  border-top-width: 2px;
-  border-top-color: #A8A8A8;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  border-bottom-style: hidden;
-  border-bottom-width: 2px;
-  border-bottom-color: #A8A8A8;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-}
-
-#oaddtuhrgb .gt_heading {
-  background-color: #FFFFFF;
-  text-align: center;
-  border-bottom-color: #FFFFFF;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-}
-
-#oaddtuhrgb .gt_title {
-  color: #333333;
-  font-size: 125%;
-  font-weight: initial;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  border-bottom-color: #FFFFFF;
-  border-bottom-width: 0;
-}
-
-#oaddtuhrgb .gt_subtitle {
-  color: #333333;
-  font-size: 85%;
-  font-weight: initial;
-  padding-top: 0;
-  padding-bottom: 4px;
-  border-top-color: #FFFFFF;
-  border-top-width: 0;
-}
-
-#oaddtuhrgb .gt_bottom_border {
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-
-#oaddtuhrgb .gt_col_headings {
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-}
-
-#oaddtuhrgb .gt_col_heading {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: normal;
-  text-transform: inherit;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: bottom;
-  padding-top: 5px;
-  padding-bottom: 6px;
-  padding-left: 5px;
-  padding-right: 5px;
-  overflow-x: hidden;
-}
-
-#oaddtuhrgb .gt_column_spanner_outer {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: normal;
-  text-transform: inherit;
-  padding-top: 0;
-  padding-bottom: 0;
-  padding-left: 4px;
-  padding-right: 4px;
-}
-
-#oaddtuhrgb .gt_column_spanner_outer:first-child {
-  padding-left: 0;
-}
-
-#oaddtuhrgb .gt_column_spanner_outer:last-child {
-  padding-right: 0;
-}
-
-#oaddtuhrgb .gt_column_spanner {
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  vertical-align: bottom;
-  padding-top: 5px;
-  padding-bottom: 6px;
-  overflow-x: hidden;
-  display: inline-block;
-  width: 100%;
-}
-
-#oaddtuhrgb .gt_group_heading {
-  padding: 8px;
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: middle;
-}
-
-#oaddtuhrgb .gt_empty_group_heading {
-  padding: 0.5px;
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  vertical-align: middle;
-}
-
-#oaddtuhrgb .gt_striped {
-  background-color: rgba(128, 128, 128, 0.05);
-}
-
-#oaddtuhrgb .gt_from_md > :first-child {
-  margin-top: 0;
-}
-
-#oaddtuhrgb .gt_from_md > :last-child {
-  margin-bottom: 0;
-}
-
-#oaddtuhrgb .gt_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  margin: 10px;
-  border-top-style: solid;
-  border-top-width: 1px;
-  border-top-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: middle;
-  overflow-x: hidden;
-}
-
-#oaddtuhrgb .gt_stub {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-right-style: solid;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  padding-left: 12px;
-}
-
-#oaddtuhrgb .gt_summary_row {
-  color: #333333;
-  background-color: #FFFFFF;
-  text-transform: inherit;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-#oaddtuhrgb .gt_first_summary_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-}
-
-#oaddtuhrgb .gt_grand_summary_row {
-  color: #333333;
-  background-color: #FFFFFF;
-  text-transform: inherit;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-#oaddtuhrgb .gt_first_grand_summary_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-top-style: double;
-  border-top-width: 6px;
-  border-top-color: #D3D3D3;
-}
-
-#oaddtuhrgb .gt_table_body {
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-
-#oaddtuhrgb .gt_footnotes {
-  color: #333333;
-  background-color: #FFFFFF;
-  border-bottom-style: none;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-}
-
-#oaddtuhrgb .gt_footnote {
-  margin: 0px;
-  font-size: 90%;
-  padding: 4px;
-}
-
-#oaddtuhrgb .gt_sourcenotes {
-  color: #333333;
-  background-color: #FFFFFF;
-  border-bottom-style: none;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-}
-
-#oaddtuhrgb .gt_sourcenote {
-  font-size: 90%;
-  padding: 4px;
-}
-
-#oaddtuhrgb .gt_left {
-  text-align: left;
-}
-
-#oaddtuhrgb .gt_center {
-  text-align: center;
-}
-
-#oaddtuhrgb .gt_right {
-  text-align: right;
-  font-variant-numeric: tabular-nums;
-}
-
-#oaddtuhrgb .gt_font_normal {
-  font-weight: normal;
-}
-
-#oaddtuhrgb .gt_font_bold {
-  font-weight: bold;
-}
-
-#oaddtuhrgb .gt_font_italic {
-  font-style: italic;
-}
-
-#oaddtuhrgb .gt_super {
-  font-size: 65%;
-}
-
-#oaddtuhrgb .gt_footnote_marks {
-  font-style: italic;
-  font-size: 65%;
-}
-</style>
-<div id="oaddtuhrgb" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;"><table class="gt_table">
-  
-  <thead class="gt_col_headings">
-    <tr>
-      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">Name</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">Source</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">Updated</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1">Download</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1">Preview</th>
-    </tr>
-  </thead>
-  <tbody class="gt_table_body">
-    <tr class="gt_group_heading_row">
-      <td colspan="5" class="gt_group_heading" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5; background-color: #ECF0F1;">Healthcare</td>
-    </tr>
-    <tr>
-      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">Infected</td>
-      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">MSIS</td>
-      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">2020-04-11</td>
-      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/01_infected/msis/municipality_and_district.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/01_infected/msis/municipality_and_district.xlsx">xlsx</a></td>
-      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/01_infected/msis/municipality_and_district.csv"><span class="fa fa-search"></span></a></td>
-    </tr>
-    <tr>
-      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">Admissions</td>
-      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">Directorate of Health</td>
-      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">2020-04-11</td>
-      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/02_admissions/admissions.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/02_admissions/admissions.xlsx">xlsx</a></td>
-      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/02_admissions/admissions.csv"><span class="fa fa-search"></span></a></td>
-    </tr>
-    <tr>
-      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">In respirator</td>
-      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">Directorate of Health</td>
-      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">2020-04-11</td>
-      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/02_admissions/admissions_with_respirators.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/02_admissions/admissions_with_respirators.xlsx">xlsx</a></td>
-      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/02_admissions/admissions_with_respirators.csv"><span class="fa fa-search"></span></a></td>
-    </tr>
-    <tr class="gt_group_heading_row">
-      <td colspan="5" class="gt_group_heading" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5; background-color: #ECF0F1;">Economics</td>
-    </tr>
-    <tr>
-      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">Unemployment benefits</td>
-      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">NAV</td>
-      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;">2020-04-11</td>
-      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/10_employment/nav/applications_unemployment_benefits.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/10_employment/nav/applications_unemployment_benefits.xlsx">xlsx</a></td>
-      <td class="gt_row gt_center" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/10_employment/nav/applications_unemployment_benefits.csv"><span class="fa fa-search"></span></a></td>
-    </tr>
-  </tbody>
-  
-  
-</table></div> <br></p>
-</div>
-<div id="supporting-data" class="section level3">
-<h3>Supporting data</h3>
+<div id="healthcare" class="section level2">
+<h2>Healthcare</h2>
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#yfnhztdqlw .gt_table {
+#evukgsojgd .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -764,7 +453,7 @@ $(document).ready(function () {
   border-left-color: #D3D3D3;
 }
 
-#yfnhztdqlw .gt_heading {
+#evukgsojgd .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -776,7 +465,7 @@ $(document).ready(function () {
   border-right-color: #D3D3D3;
 }
 
-#yfnhztdqlw .gt_title {
+#evukgsojgd .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -786,7 +475,7 @@ $(document).ready(function () {
   border-bottom-width: 0;
 }
 
-#yfnhztdqlw .gt_subtitle {
+#evukgsojgd .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -796,13 +485,13 @@ $(document).ready(function () {
   border-top-width: 0;
 }
 
-#yfnhztdqlw .gt_bottom_border {
+#evukgsojgd .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#yfnhztdqlw .gt_col_headings {
+#evukgsojgd .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -817,7 +506,7 @@ $(document).ready(function () {
   border-right-color: #D3D3D3;
 }
 
-#yfnhztdqlw .gt_col_heading {
+#evukgsojgd .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -837,7 +526,7 @@ $(document).ready(function () {
   overflow-x: hidden;
 }
 
-#yfnhztdqlw .gt_column_spanner_outer {
+#evukgsojgd .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -849,15 +538,15 @@ $(document).ready(function () {
   padding-right: 4px;
 }
 
-#yfnhztdqlw .gt_column_spanner_outer:first-child {
+#evukgsojgd .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#yfnhztdqlw .gt_column_spanner_outer:last-child {
+#evukgsojgd .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#yfnhztdqlw .gt_column_spanner {
+#evukgsojgd .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -869,7 +558,7 @@ $(document).ready(function () {
   width: 100%;
 }
 
-#yfnhztdqlw .gt_group_heading {
+#evukgsojgd .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -891,7 +580,7 @@ $(document).ready(function () {
   vertical-align: middle;
 }
 
-#yfnhztdqlw .gt_empty_group_heading {
+#evukgsojgd .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -906,19 +595,1252 @@ $(document).ready(function () {
   vertical-align: middle;
 }
 
-#yfnhztdqlw .gt_striped {
+#evukgsojgd .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#yfnhztdqlw .gt_from_md > :first-child {
+#evukgsojgd .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#yfnhztdqlw .gt_from_md > :last-child {
+#evukgsojgd .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#yfnhztdqlw .gt_row {
+#evukgsojgd .gt_row {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 10px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+#evukgsojgd .gt_stub {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 12px;
+}
+
+#evukgsojgd .gt_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#evukgsojgd .gt_first_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+}
+
+#evukgsojgd .gt_grand_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#evukgsojgd .gt_first_grand_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: double;
+  border-top-width: 6px;
+  border-top-color: #D3D3D3;
+}
+
+#evukgsojgd .gt_table_body {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#evukgsojgd .gt_footnotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#evukgsojgd .gt_footnote {
+  margin: 0px;
+  font-size: 90%;
+  padding: 4px;
+}
+
+#evukgsojgd .gt_sourcenotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#evukgsojgd .gt_sourcenote {
+  font-size: 90%;
+  padding: 4px;
+}
+
+#evukgsojgd .gt_left {
+  text-align: left;
+}
+
+#evukgsojgd .gt_center {
+  text-align: center;
+}
+
+#evukgsojgd .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#evukgsojgd .gt_font_normal {
+  font-weight: normal;
+}
+
+#evukgsojgd .gt_font_bold {
+  font-weight: bold;
+}
+
+#evukgsojgd .gt_font_italic {
+  font-style: italic;
+}
+
+#evukgsojgd .gt_super {
+  font-size: 65%;
+}
+
+#evukgsojgd .gt_footnote_marks {
+  font-style: italic;
+  font-size: 65%;
+}
+</style>
+<div id="evukgsojgd" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;"><table class="gt_table">
+  
+  
+  <tbody class="gt_table_body">
+    <tr class="gt_group_heading_row">
+      <td colspan="1" class="gt_group_heading" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5; background-color: #ECF0F1;">Infected</td>
+    </tr>
+    <tr>
+      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><table class="inline_source_tbl">
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Frequency: </td>
+   <td style="text-align:left;"> Daily </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Level: </td>
+   <td style="text-align:left;"> Municipality/District </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Source: </td>
+   <td style="text-align:left;"> <a href = "http://www.msis.no/">MSIS</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Preview: </td>
+   <td style="text-align:left;"> <a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/01_infected/msis/municipality.csv"><span class="fa fa-search"></span></a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Github: </td>
+   <td style="text-align:left;"> <a href = "https://github.com/thohan88/covid19-nor-data/../data/01_infected/msis"><span class="fa fa-github"></span></a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Download: </td>
+   <td style="text-align:left;"> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/01_infected/msis/municipality.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/01_infected/msis/municipality.xlsx">xlsx</a> </td>
+  </tr>
+</tbody>
+</table><br>Case data is extracted daily at 4 AM from the Norwegian Surveillance System for Communicable Diseases (<a href = "http://www.msis.no/">MSIS</a>) web interface. Municipalities and districts in MSIS are automatically mapped to current municipalities (kommuner) and districts (bydeler) based on Statistics Norway`s (SSB) classifications. Note that district cases for Oslo and Bergen often sum to a slightly lower number of cases than the respective municipality cases. To report cases at the most granular level, the difference is mapped to "Ukjent bydel"("Unknown district") for Bergen and Oslo. <br><br>Attribution: <i>Meldingssystem for smittsomme sykdommer, Nasjonalt folkehelseinstitt</i></td>
+    </tr>
+    <tr class="gt_group_heading_row">
+      <td colspan="1" class="gt_group_heading" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5; background-color: #ECF0F1;">Admissions</td>
+    </tr>
+    <tr>
+      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><table class="inline_source_tbl">
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Frequency: </td>
+   <td style="text-align:left;"> Daily </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Level: </td>
+   <td style="text-align:left;"> Health Region </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Source: </td>
+   <td style="text-align:left;"> <a href = "https://www.helsedirektoratet.no/statistikk/antall-innlagte-pasienter-pa-sykehus-med-pavist-covid-19">Directorate of Health</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Preview: </td>
+   <td style="text-align:left;"> <a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/02_admissions/admissions.csv"><span class="fa fa-search"></span></a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Github: </td>
+   <td style="text-align:left;"> <a href = "https://github.com/thohan88/covid19-nor-data/../data/02_admissions"><span class="fa fa-github"></span></a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Download: </td>
+   <td style="text-align:left;"> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/02_admissions/admissions.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/02_admissions/admissions.xlsx">xlsx</a> </td>
+  </tr>
+</tbody>
+</table><br>Admission data is based on the following <a href = "https://www.helsedirektoratet.no/statistikk/antall-innlagte-pasienter-pa-sykehus-med-pavist-covid-19">Power BI Dashboard</a>) maintained by the Norwegian Directorate of Health.</td>
+    </tr>
+    <tr class="gt_group_heading_row">
+      <td colspan="1" class="gt_group_heading" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5; background-color: #ECF0F1;">In respirator</td>
+    </tr>
+    <tr>
+      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><table class="inline_source_tbl">
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Frequency: </td>
+   <td style="text-align:left;"> Daily </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Level: </td>
+   <td style="text-align:left;"> Health Region </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Source: </td>
+   <td style="text-align:left;"> <a href = "https://www.helsedirektoratet.no/statistikk/antall-innlagte-pasienter-pa-sykehus-med-pavist-covid-19">Directorate of Health</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Preview: </td>
+   <td style="text-align:left;"> <a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/02_admissions/admissions_with_respirators.csv"><span class="fa fa-search"></span></a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Github: </td>
+   <td style="text-align:left;"> <a href = "https://github.com/thohan88/covid19-nor-data/../data/02_admissions"><span class="fa fa-github"></span></a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Download: </td>
+   <td style="text-align:left;"> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/02_admissions/admissions_with_respirators.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/02_admissions/admissions_with_respirators.xlsx">xlsx</a> </td>
+  </tr>
+</tbody>
+</table><br>Admission data is based on the following <a href = "https://www.helsedirektoratet.no/statistikk/antall-innlagte-pasienter-pa-sykehus-med-pavist-covid-19">Power BI Dashboard</a>) maintained by the Norwegian Directorate of Health.</td>
+    </tr>
+    <tr class="gt_group_heading_row">
+      <td colspan="1" class="gt_group_heading" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5; background-color: #ECF0F1;">Covid tests</td>
+    </tr>
+    <tr>
+      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><table class="inline_source_tbl">
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Frequency: </td>
+   <td style="text-align:left;"> Daily </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Level: </td>
+   <td style="text-align:left;"> Health Region </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Source: </td>
+   <td style="text-align:left;"> <a href = "https://www.fhi.no/sv/smittsomme-sykdommer/corona/dags--og-ukerapporter/dags--og-ukerapporter-om-koronavirus/">FHI</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Preview: </td>
+   <td style="text-align:left;"> <a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/03_covid_tests/national_tests.csv"><span class="fa fa-search"></span></a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Github: </td>
+   <td style="text-align:left;"> <a href = "https://github.com/thohan88/covid19-nor-data/../data/03_covid_tests"><span class="fa fa-github"></span></a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Download: </td>
+   <td style="text-align:left;"> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/03_covid_tests/national_tests.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/03_covid_tests/national_tests.xlsx">xlsx</a> </td>
+  </tr>
+</tbody>
+</table><br>Test figures are extracted from the National Institute of Health`s (FHI) daily <a href = "https://www.fhi.no/sv/smittsomme-sykdommer/corona/dags--og-ukerapporter/dags--og-ukerapporter-om-koronavirus/">PDF-reports</a>.</td>
+    </tr>
+  </tbody>
+  
+  
+</table></div>
+</div>
+<div id="mobility" class="section level2">
+<h2>Mobility</h2>
+<style>html {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
+}
+
+#xpniuwjfcc .gt_table {
+  display: table;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  color: #333333;
+  font-size: 16px;
+  background-color: #FFFFFF;
+  width: 100%;
+  border-top-style: hidden;
+  border-top-width: 2px;
+  border-top-color: #A8A8A8;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  border-bottom-style: hidden;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+}
+
+#xpniuwjfcc .gt_heading {
+  background-color: #FFFFFF;
+  text-align: center;
+  border-bottom-color: #FFFFFF;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#xpniuwjfcc .gt_title {
+  color: #333333;
+  font-size: 125%;
+  font-weight: initial;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-width: 0;
+}
+
+#xpniuwjfcc .gt_subtitle {
+  color: #333333;
+  font-size: 85%;
+  font-weight: initial;
+  padding-top: 0;
+  padding-bottom: 4px;
+  border-top-color: #FFFFFF;
+  border-top-width: 0;
+}
+
+#xpniuwjfcc .gt_bottom_border {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#xpniuwjfcc .gt_col_headings {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#xpniuwjfcc .gt_col_heading {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-x: hidden;
+}
+
+#xpniuwjfcc .gt_column_spanner_outer {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#xpniuwjfcc .gt_column_spanner_outer:first-child {
+  padding-left: 0;
+}
+
+#xpniuwjfcc .gt_column_spanner_outer:last-child {
+  padding-right: 0;
+}
+
+#xpniuwjfcc .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  overflow-x: hidden;
+  display: inline-block;
+  width: 100%;
+}
+
+#xpniuwjfcc .gt_group_heading {
+  padding: 8px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#xpniuwjfcc .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#xpniuwjfcc .gt_striped {
+  background-color: rgba(128, 128, 128, 0.05);
+}
+
+#xpniuwjfcc .gt_from_md > :first-child {
+  margin-top: 0;
+}
+
+#xpniuwjfcc .gt_from_md > :last-child {
+  margin-bottom: 0;
+}
+
+#xpniuwjfcc .gt_row {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 10px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+#xpniuwjfcc .gt_stub {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 12px;
+}
+
+#xpniuwjfcc .gt_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#xpniuwjfcc .gt_first_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+}
+
+#xpniuwjfcc .gt_grand_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#xpniuwjfcc .gt_first_grand_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: double;
+  border-top-width: 6px;
+  border-top-color: #D3D3D3;
+}
+
+#xpniuwjfcc .gt_table_body {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#xpniuwjfcc .gt_footnotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#xpniuwjfcc .gt_footnote {
+  margin: 0px;
+  font-size: 90%;
+  padding: 4px;
+}
+
+#xpniuwjfcc .gt_sourcenotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#xpniuwjfcc .gt_sourcenote {
+  font-size: 90%;
+  padding: 4px;
+}
+
+#xpniuwjfcc .gt_left {
+  text-align: left;
+}
+
+#xpniuwjfcc .gt_center {
+  text-align: center;
+}
+
+#xpniuwjfcc .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#xpniuwjfcc .gt_font_normal {
+  font-weight: normal;
+}
+
+#xpniuwjfcc .gt_font_bold {
+  font-weight: bold;
+}
+
+#xpniuwjfcc .gt_font_italic {
+  font-style: italic;
+}
+
+#xpniuwjfcc .gt_super {
+  font-size: 65%;
+}
+
+#xpniuwjfcc .gt_footnote_marks {
+  font-style: italic;
+  font-size: 65%;
+}
+</style>
+<div id="xpniuwjfcc" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;"><table class="gt_table">
+  
+  
+  <tbody class="gt_table_body">
+    <tr class="gt_group_heading_row">
+      <td colspan="1" class="gt_group_heading" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5; background-color: #ECF0F1;">Mobility</td>
+    </tr>
+    <tr>
+      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><table class="inline_source_tbl">
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Frequency: </td>
+   <td style="text-align:left;"> Weekly </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Level: </td>
+   <td style="text-align:left;"> Counties </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Source: </td>
+   <td style="text-align:left;"> <a href = "https://www.google.com/covid19/mobility/">Google</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Preview: </td>
+   <td style="text-align:left;"> <a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/20_mobility/google/mobility.csv"><span class="fa fa-search"></span></a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Github: </td>
+   <td style="text-align:left;"> <a href = "https://github.com/thohan88/covid19-nor-data/../data/20_mobility/google"><span class="fa fa-github"></span></a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Download: </td>
+   <td style="text-align:left;"> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/20_mobility/google/mobility.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/20_mobility/google/mobility.xlsx">xlsx</a> </td>
+  </tr>
+</tbody>
+</table><br>Mobility data is based on Google's COVID 19 Community Mobility Reports which are being released weekly.</td>
+    </tr>
+  </tbody>
+  
+  
+</table></div>
+</div>
+<div id="economics" class="section level2">
+<h2>Economics</h2>
+<style>html {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
+}
+
+#jbqbzxpcjq .gt_table {
+  display: table;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  color: #333333;
+  font-size: 16px;
+  background-color: #FFFFFF;
+  width: 100%;
+  border-top-style: hidden;
+  border-top-width: 2px;
+  border-top-color: #A8A8A8;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  border-bottom-style: hidden;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+}
+
+#jbqbzxpcjq .gt_heading {
+  background-color: #FFFFFF;
+  text-align: center;
+  border-bottom-color: #FFFFFF;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#jbqbzxpcjq .gt_title {
+  color: #333333;
+  font-size: 125%;
+  font-weight: initial;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-width: 0;
+}
+
+#jbqbzxpcjq .gt_subtitle {
+  color: #333333;
+  font-size: 85%;
+  font-weight: initial;
+  padding-top: 0;
+  padding-bottom: 4px;
+  border-top-color: #FFFFFF;
+  border-top-width: 0;
+}
+
+#jbqbzxpcjq .gt_bottom_border {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#jbqbzxpcjq .gt_col_headings {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#jbqbzxpcjq .gt_col_heading {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-x: hidden;
+}
+
+#jbqbzxpcjq .gt_column_spanner_outer {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#jbqbzxpcjq .gt_column_spanner_outer:first-child {
+  padding-left: 0;
+}
+
+#jbqbzxpcjq .gt_column_spanner_outer:last-child {
+  padding-right: 0;
+}
+
+#jbqbzxpcjq .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  overflow-x: hidden;
+  display: inline-block;
+  width: 100%;
+}
+
+#jbqbzxpcjq .gt_group_heading {
+  padding: 8px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#jbqbzxpcjq .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#jbqbzxpcjq .gt_striped {
+  background-color: rgba(128, 128, 128, 0.05);
+}
+
+#jbqbzxpcjq .gt_from_md > :first-child {
+  margin-top: 0;
+}
+
+#jbqbzxpcjq .gt_from_md > :last-child {
+  margin-bottom: 0;
+}
+
+#jbqbzxpcjq .gt_row {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 10px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+#jbqbzxpcjq .gt_stub {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 12px;
+}
+
+#jbqbzxpcjq .gt_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#jbqbzxpcjq .gt_first_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+}
+
+#jbqbzxpcjq .gt_grand_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#jbqbzxpcjq .gt_first_grand_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: double;
+  border-top-width: 6px;
+  border-top-color: #D3D3D3;
+}
+
+#jbqbzxpcjq .gt_table_body {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#jbqbzxpcjq .gt_footnotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#jbqbzxpcjq .gt_footnote {
+  margin: 0px;
+  font-size: 90%;
+  padding: 4px;
+}
+
+#jbqbzxpcjq .gt_sourcenotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#jbqbzxpcjq .gt_sourcenote {
+  font-size: 90%;
+  padding: 4px;
+}
+
+#jbqbzxpcjq .gt_left {
+  text-align: left;
+}
+
+#jbqbzxpcjq .gt_center {
+  text-align: center;
+}
+
+#jbqbzxpcjq .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#jbqbzxpcjq .gt_font_normal {
+  font-weight: normal;
+}
+
+#jbqbzxpcjq .gt_font_bold {
+  font-weight: bold;
+}
+
+#jbqbzxpcjq .gt_font_italic {
+  font-style: italic;
+}
+
+#jbqbzxpcjq .gt_super {
+  font-size: 65%;
+}
+
+#jbqbzxpcjq .gt_footnote_marks {
+  font-style: italic;
+  font-size: 65%;
+}
+</style>
+<div id="jbqbzxpcjq" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;"><table class="gt_table">
+  
+  
+  <tbody class="gt_table_body">
+    <tr class="gt_group_heading_row">
+      <td colspan="1" class="gt_group_heading" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5; background-color: #ECF0F1;">Unemployment benefits</td>
+    </tr>
+    <tr>
+      <td class="gt_row gt_left" style="border-top-width: 1px; border-top-style: solid; border-top-color: #DEE2E5; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #DEE2E5;"><table class="inline_source_tbl">
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Frequency: </td>
+   <td style="text-align:left;"> Daily </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Level: </td>
+   <td style="text-align:left;"> Municipality/District </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Source: </td>
+   <td style="text-align:left;"> <a href = "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/relatert-informasjon/soknader-om-dagpenger">NAV</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Preview: </td>
+   <td style="text-align:left;"> <a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/10_employment/nav/applications_unemployment_benefits.csv"><span class="fa fa-search"></span></a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Github: </td>
+   <td style="text-align:left;"> <a href = "https://github.com/thohan88/covid19-nor-data/../data/10_employment/nav"><span class="fa fa-github"></span></a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Download: </td>
+   <td style="text-align:left;"> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/10_employment/nav/applications_unemployment_benefits.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/10_employment/nav/applications_unemployment_benefits.xlsx">xlsx</a> </td>
+  </tr>
+</tbody>
+</table><br>Temporary layoff data is available from Norwegian Labour and Welfare Administration (NAV). Data is reported at the weekly level, but updated daily</td>
+    </tr>
+  </tbody>
+  
+  
+</table></div>
+</div>
+<div id="supporting-data" class="section level2">
+<h2>Supporting data</h2>
+<p>This data contains lookup-tables and maps which are designed to be used in conjunction with the available data sources. <style>html {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
+}
+
+#foeerpmnuz .gt_table {
+  display: table;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  color: #333333;
+  font-size: 16px;
+  background-color: #FFFFFF;
+  width: 100%;
+  border-top-style: hidden;
+  border-top-width: 2px;
+  border-top-color: #A8A8A8;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  border-bottom-style: hidden;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+}
+
+#foeerpmnuz .gt_heading {
+  background-color: #FFFFFF;
+  text-align: center;
+  border-bottom-color: #FFFFFF;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#foeerpmnuz .gt_title {
+  color: #333333;
+  font-size: 125%;
+  font-weight: initial;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-width: 0;
+}
+
+#foeerpmnuz .gt_subtitle {
+  color: #333333;
+  font-size: 85%;
+  font-weight: initial;
+  padding-top: 0;
+  padding-bottom: 4px;
+  border-top-color: #FFFFFF;
+  border-top-width: 0;
+}
+
+#foeerpmnuz .gt_bottom_border {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#foeerpmnuz .gt_col_headings {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#foeerpmnuz .gt_col_heading {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-x: hidden;
+}
+
+#foeerpmnuz .gt_column_spanner_outer {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#foeerpmnuz .gt_column_spanner_outer:first-child {
+  padding-left: 0;
+}
+
+#foeerpmnuz .gt_column_spanner_outer:last-child {
+  padding-right: 0;
+}
+
+#foeerpmnuz .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  overflow-x: hidden;
+  display: inline-block;
+  width: 100%;
+}
+
+#foeerpmnuz .gt_group_heading {
+  padding: 8px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#foeerpmnuz .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#foeerpmnuz .gt_striped {
+  background-color: rgba(128, 128, 128, 0.05);
+}
+
+#foeerpmnuz .gt_from_md > :first-child {
+  margin-top: 0;
+}
+
+#foeerpmnuz .gt_from_md > :last-child {
+  margin-bottom: 0;
+}
+
+#foeerpmnuz .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -937,7 +1859,7 @@ $(document).ready(function () {
   overflow-x: hidden;
 }
 
-#yfnhztdqlw .gt_stub {
+#foeerpmnuz .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -949,7 +1871,7 @@ $(document).ready(function () {
   padding-left: 12px;
 }
 
-#yfnhztdqlw .gt_summary_row {
+#foeerpmnuz .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -959,7 +1881,7 @@ $(document).ready(function () {
   padding-right: 5px;
 }
 
-#yfnhztdqlw .gt_first_summary_row {
+#foeerpmnuz .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -969,7 +1891,7 @@ $(document).ready(function () {
   border-top-color: #D3D3D3;
 }
 
-#yfnhztdqlw .gt_grand_summary_row {
+#foeerpmnuz .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -979,7 +1901,7 @@ $(document).ready(function () {
   padding-right: 5px;
 }
 
-#yfnhztdqlw .gt_first_grand_summary_row {
+#foeerpmnuz .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -989,7 +1911,7 @@ $(document).ready(function () {
   border-top-color: #D3D3D3;
 }
 
-#yfnhztdqlw .gt_table_body {
+#foeerpmnuz .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -998,7 +1920,7 @@ $(document).ready(function () {
   border-bottom-color: #D3D3D3;
 }
 
-#yfnhztdqlw .gt_footnotes {
+#foeerpmnuz .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1012,13 +1934,13 @@ $(document).ready(function () {
   border-right-color: #D3D3D3;
 }
 
-#yfnhztdqlw .gt_footnote {
+#foeerpmnuz .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#yfnhztdqlw .gt_sourcenotes {
+#foeerpmnuz .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1032,46 +1954,46 @@ $(document).ready(function () {
   border-right-color: #D3D3D3;
 }
 
-#yfnhztdqlw .gt_sourcenote {
+#foeerpmnuz .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#yfnhztdqlw .gt_left {
+#foeerpmnuz .gt_left {
   text-align: left;
 }
 
-#yfnhztdqlw .gt_center {
+#foeerpmnuz .gt_center {
   text-align: center;
 }
 
-#yfnhztdqlw .gt_right {
+#foeerpmnuz .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#yfnhztdqlw .gt_font_normal {
+#foeerpmnuz .gt_font_normal {
   font-weight: normal;
 }
 
-#yfnhztdqlw .gt_font_bold {
+#foeerpmnuz .gt_font_bold {
   font-weight: bold;
 }
 
-#yfnhztdqlw .gt_font_italic {
+#foeerpmnuz .gt_font_italic {
   font-style: italic;
 }
 
-#yfnhztdqlw .gt_super {
+#foeerpmnuz .gt_super {
   font-size: 65%;
 }
 
-#yfnhztdqlw .gt_footnote_marks {
+#foeerpmnuz .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 </style>
-<div id="yfnhztdqlw" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;"><table class="gt_table">
+<div id="foeerpmnuz" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;"><table class="gt_table">
   
   <thead class="gt_col_headings">
     <tr>
@@ -1120,11 +2042,13 @@ $(document).ready(function () {
   </tbody>
   
   
-</table></div>
+</table></div></p>
 </div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -1157,6 +2081,32 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

@@ -1,0 +1,4 @@
+.inline_source_tbl td:first-child {
+  padding-right: 10px;
+  font-weight: bold;
+}
