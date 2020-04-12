@@ -1,0 +1,56 @@
+[
+  {
+    "label": "Infected",
+    "category": "Healthcare",
+    "source": "MSIS",
+    "level": "Municipality/District",
+    "freq": "Daily",
+    "desc": "Case data is extracted daily at 4 AM from the Norwegian Surveillance System for Communicable Diseases (<a href = \"http://www.msis.no/\">MSIS</a>) web interface. Municipalities and districts in MSIS are automatically mapped to current municipalities (kommuner) and districts (bydeler) based on Statistics Norway`s (SSB) classifications. Note that district cases for Oslo and Bergen often sum to a slightly lower number of cases than the respective municipality cases. To report cases at the most granular level, the difference is mapped to \"Ukjent bydel\"(\"Unknown district\") for Bergen and Oslo. <br><br>Attribution: <i>Meldingssystem for smittsomme sykdommer, Nasjonalt folkehelseinstitt</i>",
+    "link": "http://www.msis.no/"
+  },
+  {
+    "label": "Admissions",
+    "category": "Healthcare",
+    "source": "Directorate of Health",
+    "level": "Health Region",
+    "freq": "Daily",
+    "desc": "Admission data is based on the following <a href = \"https://www.helsedirektoratet.no/statistikk/antall-innlagte-pasienter-pa-sykehus-med-pavist-covid-19\">Power BI Dashboard</a>) maintained by the Norwegian Directorate of Health.",  
+    "link": "https://www.helsedirektoratet.no/statistikk/antall-innlagte-pasienter-pa-sykehus-med-pavist-covid-19"
+  },
+  {
+    "label": "In respirator",
+    "category": "Healthcare",
+    "source": "Directorate of Health",
+    "level": "Health Region",
+    "freq": "Daily",
+    "desc": "Admission data is based on the following <a href = \"https://www.helsedirektoratet.no/statistikk/antall-innlagte-pasienter-pa-sykehus-med-pavist-covid-19\">Power BI Dashboard</a>) maintained by the Norwegian Directorate of Health.",  
+    "link": "https://www.helsedirektoratet.no/statistikk/antall-innlagte-pasienter-pa-sykehus-med-pavist-covid-19"
+  },
+  {
+    "label": "Covid tests",
+    "category": "Healthcare",
+    "source": "FHI",
+    "level": "Health Region",
+    "freq": "Daily",
+    "desc": "Test figures are extracted from the National Institute of Health`s (FHI) daily <a href = \"https://www.fhi.no/sv/smittsomme-sykdommer/corona/dags--og-ukerapporter/dags--og-ukerapporter-om-koronavirus/\">PDF-reports</a>.",
+    "link": "https://www.fhi.no/sv/smittsomme-sykdommer/corona/dags--og-ukerapporter/dags--og-ukerapporter-om-koronavirus/"
+  },
+  {
+    "label": "Mobility",
+    "category": "Mobility",
+    "source": "Google",
+    "level": "Counties",
+    "freq": "Weekly",
+    "desc": "Mobility data is based on Google's COVID 19 Community Mobility Reports which are being released weekly.",
+    "link": "https://www.google.com/covid19/mobility/"
+  },
+  {
+    "label": "Unemployment benefits",
+    "category": "Economics",
+    "source": "NAV",
+    "level": "Municipality/District",
+    "freq": "Daily",
+    "desc": "Temporary layoff data is available from Norwegian Labour and Welfare Administration (NAV). Data is reported at the weekly level, but updated daily",
+    "link": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/relatert-informasjon/soknader-om-dagpenger"
+  }
+] 

@@ -33,8 +33,8 @@ The [Norway Case Dashboard](examples/01_case_dashboard/) illustrates how some of
 
 
 ```{r, message=FALSE, warning=FALSE, echo=FALSE}
-source("../R/utils.R")
-tbl <- get_table_data("../R/sources.json")
+source("../code/utils.R")
+tbl <- get_table_data("../code/sources.json")
 ```
 
 ```{r, echo=FALSE}
