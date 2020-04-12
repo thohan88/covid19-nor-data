@@ -3,5 +3,4 @@
 .RData
 .Ruserdata
 /R
-utils.R
 *.Rproj
