@@ -7,7 +7,7 @@ jobs:
     - uses: actions/checkout@master
     - name: Create local changes
       run: |
-        Rscript -e 'write_file("temp", "temp.txt")'
+        Rscript -e 'readr::write_file(paste0(dir("."), collapse = "\n "), "temp.txt")'
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
