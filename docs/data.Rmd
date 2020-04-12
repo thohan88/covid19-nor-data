@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ```{r, message=FALSE, warning=FALSE, echo=FALSE}
-source(here("R", "utils.R"))
+source("../R/utils.R")
 tbl <- get_table_data(here("R", "sources.json")) %>% distinct(category, label, .keep_all = TRUE)
 ```
 
