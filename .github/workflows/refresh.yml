@@ -8,7 +8,7 @@ jobs:
     - uses: actions/checkout@master
     - name: Create local changes
       run: |
-        Rscript -e 'source("code/refresh_files.R")'
+        Rscript -e 'code/refresh_files.R'
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
