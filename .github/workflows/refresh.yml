@@ -1,6 +1,5 @@
 on:
-  schedule:
-    - cron:  '0 6,15 * * *'
+  push
 jobs:
   job1:
     runs-on: ubuntu-latest
