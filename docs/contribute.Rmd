@@ -9,7 +9,7 @@ This project is a collaborative effort and there are multiple ways individuals a
 There is a large amount of available data which is yet to be included this in repository. Suggestions for new data sources can be added to the following [Github Issue](https://github.com/thohan88/covid19-nor-data/issues/1).
 
 * **Manually gather historic data **  
-We are missing death figures and historic case figures at municipality and district-level before the 25th of March. If you are able to contribute with these numbers, you could add it to the files in the following [Git-folder](https://github.com/thohan88/covid19-nor-data/tree/master/data/99_help_wanted). Every region counts!
+There are no public records of  historic case and death figures at municipality and district-level before the 25th of March. If you are able to contribute with these numbers, you could add it to the files in the following [Git-folder](https://github.com/thohan88/covid19-nor-data/tree/master/data/99_help_wanted).
 
 * **Scripts for automated data extraction**    
 Ideally, data in this repository should be automatically updated to avoid dependencies on individuals. If you are able to contribute R or Python-scripts which allow for automatic updates of new data sources, that's awesome. Add a pull request to the [Git-repository](https://github.com/thohan88/covid19-nor-data/) or get in touch.
