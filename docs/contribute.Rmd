@@ -4,4 +4,18 @@ output:
   html_document
 ---
 
-**To-do**: Add how individuals and private and public organizations can contribute.
+## Locate new sources of data
+There is a large amount of available data which is yet to be included this in repository. Please add suggestions for new data sources to the following [Github Issue](https://github.com/thohan88/covid19-nor-data/issues/1).
+
+## Add additional data
+
+### Manually gather historic data
+We are missing death figures and historic case figures at municipality and district-level before the 25th of March. If you are able to contribute with these numbers, you could add it to the files in the following [Git-folder](https://github.com/thohan88/covid19-nor-data/tree/master/data/99_help_wanted). Every region counts!
+
+### Scripts for automated data extraction
+Ideally, data in this repository should be automatically updated to avoid dependencies of individuals. If you are able to contribute R or Python-scripts which allow for automatic updates of new data sources, that's awesome. Add a pull request to the [Git-repository](https://github.com/thohan88/covid19-nor-data/) or get in touch.
+
+## Contribute with your own data
+If you are an organiation willing to contribute with your own data - fantastic. Add a pull request to the [Git-repository](https://github.com/thohan88/covid19-nor-data/) or get in touch.
+
+
