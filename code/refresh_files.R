@@ -2,6 +2,8 @@
 # Refresh files
 ############################## #
 
+source("code/utils.R")
+
 files <- dir("code", full.names = TRUE, recursive = TRUE, pattern = "R$") %>%
   tibble(file_name = .) %>% 
   filter(!str_detect(file_name, "utils\\.R|refresh|lookup|help|google")) %>% 
