@@ -11,6 +11,7 @@ library(pdftools)
 library(pbapply)
 library(jsonlite)
 library(gt)
+library(httr)
 
 ##################################### #
 # Process ----
