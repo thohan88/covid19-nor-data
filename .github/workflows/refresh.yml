@@ -9,7 +9,6 @@ jobs:
     - uses: actions/checkout@master
     - name: Create local changes
       run: |
-        Rscript -e 'dir(".")'
         Rscript -e 'source("code/refresh_files.R")'
     - name: Commit files
       run: |
