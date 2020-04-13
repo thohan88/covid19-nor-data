@@ -184,7 +184,7 @@ inf_map_raw %>%
             group   = "Doubling rate (10d)") %>% 
   addLayersControl(baseGroups = c("Per 1.000", "Total Cases", "New Cases", "Doubling rate (5d)", "Doubling rate (10d)"), 
                    position = "topleft",
-                   options = layersControlOptions(collapsed=F)) %>% 
+                   options = layersControlOptions(collapsed=TRUE)) %>% 
   spk_add_deps() %>% 
   onRender(js)
 ```
