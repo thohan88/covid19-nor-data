@@ -14,8 +14,8 @@ navbar:
       menu: 
         - text: "Case Dashboard"
           href: examples/01_case_dashboard/
-        - text: "Norway Case Map (Coming)"
-          href: # 
+        - text: "Case Map"
+          href: examples/02_case_map/ 
     - text: "Contribute"
       icon: fa-hands-helping fa-fw
       href: contribute.html
