@@ -46,6 +46,7 @@ inf <- inf_raw %>%
 
 js <- "function(el,x) {
       this.on('popupopen', function() {HTMLWidgets.staticRender();});
+      $('head').append('<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">')
       var updateLegend = function () {
           var selectedGroup = document.querySelectorAll('input:checked')[0].nextSibling.innerText.substr(1);
 
