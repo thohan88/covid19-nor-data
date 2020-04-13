@@ -1,5 +1,5 @@
 ---
-title: "Contribute"
+title: "Contributing"
 output:
   html_document
 ---

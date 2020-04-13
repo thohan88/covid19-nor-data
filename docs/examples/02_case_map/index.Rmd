@@ -29,11 +29,14 @@ library(htmltools)
 library(crosstalk)
 library(summarywidget)
 
-inf_raw     <- read_csv("https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/01_infected/msis/municipality_and_district.csv")
-inf_map_raw <- st_read("https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/00_lookup_tables_and_maps/02_maps/msis.geojson", quiet = TRUE)
+inf_raw     <- read_csv(here::here("data", "01_infected", "msis", "municipality_and_district.csv"))
+inf_map_raw <- st_read(here::here("data", "00_lookup_tables_and_maps", "02_maps", "msis.geojson"), quiet = TRUE)
 
+# Replace lines above with this if running externally
+# inf_raw     <- read_csv("https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/01_infected/msis/municipality_and_district.csv")
+# inf_map_raw <- st_read("https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/00_lookup_tables_and_maps/02_maps/msis.geojson", quiet = TRUE)
 
-# MSIS-data is at bydel-level for Oslo and Bergen. Add Oslo and Bergen at municipality-level as well
+# Setup case table
 inf <- inf_raw %>% 
   select(date, kommune_bydel_no, kommune_bydel_name, cases, population) %>% 
   arrange(kommune_bydel_no, date) %>% 
