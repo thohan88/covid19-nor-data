@@ -2,6 +2,8 @@
 title: "Covid-19 Cases: Norway"
 output: 
   flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
     social: menu
     source_code: embed
     theme: flatly
