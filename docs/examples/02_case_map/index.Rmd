@@ -29,6 +29,7 @@ library(leaflet)
 library(htmlwidgets)
 library(htmltools)
 library(crosstalk)
+library(leaflet.extras)
 library(summarywidget)
 
 inf_raw     <- read_csv(here::here("data", "01_infected", "msis", "municipality_and_district.csv"))
@@ -186,5 +187,6 @@ inf_map_raw %>%
                    position = "topleft",
                    options = layersControlOptions(collapsed=TRUE)) %>% 
   spk_add_deps() %>% 
-  onRender(js)
+  onRender(js) %>% 
+  addFullscreenControl()
 ```

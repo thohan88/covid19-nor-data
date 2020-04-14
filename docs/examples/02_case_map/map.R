@@ -45,8 +45,8 @@ inf <- inf_raw %>%
   select(-data)
 
 js <- "function(el,x) {
-      this.on('popupopen', function() {HTMLWidgets.staticRender();});
       $('head').append('<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">')
+      this.on('popupopen', function() {HTMLWidgets.staticRender();});
       var updateLegend = function () {
           var selectedGroup = document.querySelectorAll('input:checked')[0].nextSibling.innerText.substr(1);
 
@@ -165,9 +165,9 @@ inf_map_raw %>%
             group   = "Doubling rate (10d)") %>% 
   addLayersControl(baseGroups = c("Per 1.000", "Total Cases", "New Cases", "Doubling rate (5d)", "Doubling rate (10d)"), 
                    position = "topleft",
-                   options = layersControlOptions(collapsed=TRUE)) %>% 
+                   options = layersControlOptions(collapsed=TRUE)) %>%
   spk_add_deps() %>% 
-  onRender(js) %>% 
+  #onRender(js) %>% 
   addEasyButton(
     easyButton(
       icon = "fa-sign-out",
