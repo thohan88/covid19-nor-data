@@ -12,6 +12,7 @@ library(pbapply)
 library(jsonlite)
 library(gt)
 library(httr)
+library(rmarkdown)
 
 ##################################### #
 # Process ----
