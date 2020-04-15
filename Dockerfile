@@ -20,6 +20,7 @@ RUN install2.r \
     gt \
     here \
     leaflet \
+    leaflet.extras \
     pbapply \
     pdftools \
     sf \
