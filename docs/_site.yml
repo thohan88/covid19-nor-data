@@ -19,9 +19,6 @@ navbar:
     - text: "Contribute"
       icon: fa-hands-helping fa-fw
       href: contribute.html
-    - text: "About"
-      icon: fa-info-circle fa-fw
-      href: about.html
       
   right:
     - icon: fa-github
