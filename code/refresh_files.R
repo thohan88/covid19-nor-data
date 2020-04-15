@@ -1,7 +1,7 @@
 source("code/utils.R")
 
 ############################## #
-# Refresh data files
+# Refresh data
 ############################## #
 
 files_data <- dir("code", full.names = TRUE, recursive = TRUE, pattern = "R$") %>%
@@ -22,7 +22,13 @@ render(input       = here("docs", "examples", "02_case_map", "index.Rmd"),
        output_file = here("docs", "examples", "02_case_map", "index.html"))
 
 ############################## #
-# Render site
+# Refresh site
 ############################## #
 
 render_site("docs")
+
+############################## #
+# Refresh readme
+############################## #
+
+render(input = here("README.Rmd"), output_file = here("README.md"))
