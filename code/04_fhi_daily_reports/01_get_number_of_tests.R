@@ -74,7 +74,8 @@ regional_tests <- pdfs_raw %>%
   ungroup() %>% 
   mutate(tests = ifelse(days_between_dates == 1, tests, NA),
          positives = ifelse(days_between_dates == 1, positives, NA)) %>% 
-  select(date, region, n_tests = tests, n_positives = positives, n_tests_cumulative = tests_cumulative, n_positives_cumulative = positives_cumulative)
+  select(date, region, n_tests = tests, n_positives = positives, n_tests_cumulative = tests_cumulative, n_positives_cumulative = positives_cumulative) %>% 
+  filter(date <= ymd(20200411))
 
 write_csv(regional_tests,  "data/03_covid_tests/regional_tests.csv", na = "")
 write_xlsx(regional_tests, "data/03_covid_tests/regional_tests.xlsx")
