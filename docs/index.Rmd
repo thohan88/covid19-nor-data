@@ -23,7 +23,7 @@ The current state of publicly available data about the COVID-19-situtation in No
 This project is a collaborative and voluntary effort. There are many ways to contribute, both as an individual and as an organization. Read the [contribute section](contribute.html) and visit the [github-repository](https://github.com/thohan88/covid19-nor-data) if you are interested.
 
 ### Examples: Use of data
-The [Case Dashboard](examples/01_case_dashboard/) and [Case Dashboard](examples/02_case_map/) illustrates how the data can potentially be used. The dashboard shows current Covid-19 Cases in Norway at municipality and district-level reported to the Norwegian Surveillance System for Communicable Diseases (MSIS) with fully available source code.
+The [Case Dashboard](examples/01_case_dashboard/) and [Case Map](examples/02_case_map/) illustrates how the data can potentially be used. The dashboard shows current Covid-19 Cases in Norway at municipality and district-level reported to the Norwegian Surveillance System for Communicable Diseases (MSIS) with fully available source code.
 </div>
 <div class="col-sm-6">
 <a href = "examples/01_case_dashboard/"><img src="img/MSIS_dashboard_full.PNG"/></a>
