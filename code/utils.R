@@ -58,7 +58,8 @@ get_table_data <- function(file_meta) {
                                 str_detect(file_name_sans_ext, "admissions_with")    ~ "In respirator",
                                 str_detect(file_name_sans_ext, "/02_admissions/")    ~ "Admissions",
                                 str_detect(file_name_sans_ext, "/03_covid_tests/")   ~ "Covid tests",
-                                str_detect(file_name_sans_ext, "/20_mobility/")      ~ "Mobility",
+                                str_detect(file_name_sans_ext, "/google")            ~ "Google Mobility",
+                                str_detect(file_name_sans_ext, "/apple")            ~ "Apple Mobility",
                                 str_detect(file_name_sans_ext, "/10_employment/")    ~ "Unemployment benefits")) %>% 
     left_join(sources, by = "label") %>% 
     mutate(category = case_when(str_detect(file_name_sans_ext, "/02_maps/")          ~ "Maps",
@@ -71,7 +72,7 @@ get_table_data <- function(file_meta) {
            github   = glue('<a href = "{git_base}{folder}"><span class="fa fa-github"></span></a>'),
            updated = format(Sys.Date(), "%Y-%m-%d"),
            category = fct_relevel(as.factor(category), "Healthcare", "Mobility", "Economics", "Lookup tables", "Maps"),
-           label    = fct_relevel(as.factor(label), "Infected", "Admissions", "In respirator", "Covid tests", "Mobility",
+           label    = fct_relevel(as.factor(label), "Infected", "Admissions", "In respirator", "Covid tests", 
                                   "Municipalities", "Municipalities and districts", "MSIS regions")) %>% 
     arrange(category, label)
 }
