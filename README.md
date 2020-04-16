@@ -30,7 +30,7 @@ your help. Please get in touch.
 [![Case
 Dashboard](docs/img/MSIS_dashboard_full.PNG)](https://www.covid19data.no/examples/01_case_dashboard/)
 The [Case
-Dashboard](https://www.covid19data.no/examples/01_case_dashboard/) and
+Map](https://www.covid19data.no/examples/01_case_dashboard/) and
 [Case Dashboard](https://www.covid19data.no/examples/02_case_map/)
 illustrates how the data can potentially be used. These examples show
 current Covid-19 Cases in Norway at municipality and district-level
