@@ -114,7 +114,6 @@ print_source_tbl <- function(tbl) {
 
 scrape_google_covid_pdf <- function(file_name) {
   
-  
   tmpfile   <- tempfile(fileext = ".pdf")
   tmpdir    <- tempdir()
   download.file(file_name, tmpfile, mode = "wb")

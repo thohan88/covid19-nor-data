@@ -37,8 +37,9 @@ regex_tests <- "(?<=[tT]otalt )[0-9 ]+.(?= er rapportert)|(?<=Totalt )[0-9 ]+.(?
 
 national_tests <- pdfs_raw %>%
   mutate(pdf_all_text = map_chr(pdf_text, ~paste0(.x, collapse = "\\n")),
-         n_tests_cumulative = str_extract(pdf_all_text, regex_tests) %>% str_replace_all(" ", "") %>% as.numeric,
-         n_tests  = n_tests_cumulative - lead(n_tests_cumulative),
+         n_tests_cumulative = str_extract(pdf_all_text, regex_tests) %>% str_replace_all(" ", "") %>% as.numeric) %>% 
+  filter(!is.na(n_tests_cumulative)) %>% 
+  mutate(n_tests  = n_tests_cumulative - lead(n_tests_cumulative),
          week     = isoweek(date) %>% as.character(),
          wday_txt = format(date, "%a"),
          wday_num = format(date, "%u") %>% as.numeric) %>% 
@@ -49,7 +50,8 @@ write_csv(national_tests,  "data/03_covid_tests/national_tests.csv", na = "")
 write_xlsx(national_tests, "data/03_covid_tests/national_tests.xlsx")
 
 ##################################### #
-# Get regional test figures (Only consecutive series since 31st of March in reports) ----
+# Get regional test figures (Only consecutive series since 31st of March in reports.
+# FHI stopped reporting this on the 12th of April  ----
 ##################################### #
 
 repl_region <- c("Helse" = "Region", " Øst " = " Sør-Øst ", "Sør - Øst" = "Sør-Øst", " Sør " = " Sør-Øst ")
