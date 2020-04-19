@@ -14,7 +14,7 @@
     "source": "Directorate of Health",
     "level": "Health Region",
     "freq": "Daily",
-    "desc": "Admission data is based on the following <a href = \"https://www.helsedirektoratet.no/statistikk/antall-innlagte-pasienter-pa-sykehus-med-pavist-covid-19\">Power BI Dashboard</a>) maintained by the Norwegian Directorate of Health.",  
+    "desc": "Admission data is based on the following <a href = \"https://www.helsedirektoratet.no/statistikk/antall-innlagte-pasienter-pa-sykehus-med-pavist-covid-19\">Power BI Dashboard</a>) maintained by the Norwegian Directorate of Health. This is the number of people in hospital (inpatient stay) with confirmed Covid-19 at the given date.",  
     "link": "https://www.helsedirektoratet.no/statistikk/antall-innlagte-pasienter-pa-sykehus-med-pavist-covid-19"
   },
   {
@@ -23,7 +23,7 @@
     "source": "Directorate of Health",
     "level": "Health Region",
     "freq": "Daily",
-    "desc": "Admission data is based on the following <a href = \"https://www.helsedirektoratet.no/statistikk/antall-innlagte-pasienter-pa-sykehus-med-pavist-covid-19\">Power BI Dashboard</a>) maintained by the Norwegian Directorate of Health.",  
+    "desc": "Admission data is based on the following <a href = \"https://www.helsedirektoratet.no/statistikk/antall-innlagte-pasienter-pa-sykehus-med-pavist-covid-19\">Power BI Dashboard</a>) maintained by the Norwegian Directorate of Health. This is the number of people in hospital with confirmed Covid-19 receiving respiratory intensive care at the given date.",  
     "link": "https://www.helsedirektoratet.no/statistikk/antall-innlagte-pasienter-pa-sykehus-med-pavist-covid-19"
   },
   {
