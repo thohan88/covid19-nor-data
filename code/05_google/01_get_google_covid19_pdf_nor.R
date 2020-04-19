@@ -1,28 +1,17 @@
 source("code/utils.R")
+# Eventually move to schedule automatic updates
+# Need to use a scaling factor to make sure shapes extracted from the PDF match up to y-axis used in report
+# Appears to be consistent, but want one more test.
 
-tmpfile   <- tempfile(fileext = ".pdf")
-tmpdir    <- tempdir()
-file_name <- "https://www.gstatic.com/covid19/mobility/2020-04-05_NO_Mobility_Report_en.pdf"
-download.file(file_name, tmpfile, mode = "wb")
-pages_raw <- pdftools::pdf_split(tmpfile, tmpdir)
+file_names <- c("https://www.gstatic.com/covid19/mobility/2020-03-29_NO_Mobility_Report_en.pdf",
+                "https://www.gstatic.com/covid19/mobility/2020-04-05_NO_Mobility_Report_en.pdf",
+                "https://www.gstatic.com/covid19/mobility/2020-04-11_NO_Mobility_Report_en.pdf")
 
-mob_raw <- pages_raw %>% 
-  tibble(file_name = .) %>% 
-  mutate(page = row_number()) %>% 
-  slice(3:8) %>%  
-  mutate(content = map(file_name, scrape_google_covid_pdf_page)) %>% 
-  unnest(content)
+latest_pdf <- read_html("https://www.google.com/covid19/mobility/") %>% 
+  html_nodes(xpath = "//a[contains(@href, 'NO_Mobility_Report_en.pdf')]") %>%
+  html_attr("href")
 
-# Get counties for merge
-mun <- read_csv("https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/00_lookup_tables_and_maps/01_lookup_tables/municipalities.csv") %>% 
-  group_by(fylke_no) %>% 
-  summarise(fylke_name = first(fylke_name))
-
-mob <- mob_raw %>% 
-  mutate(y = (50-y)*1.6/100) %>%
-  mutate(region = str_replace_all(region, c("Trondelag" = "Trøndelag", "Og" = "og"))) %>% 
-  left_join(mun, by = c("region" = "fylke_name")) %>% 
-  select(fylke_no, fylke_name = region, category, date, mob_change = y, mob_change_last = mob_change)
+mob <- scrape_google_covid_pdf(latest_pdf)
 
 write_csv(mob, "data/20_mobility/google/mobility.csv")
 write_xlsx(mob, "data/20_mobility/google/mobility.xlsx")
