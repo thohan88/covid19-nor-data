@@ -22,7 +22,8 @@ pdf_links <- pdf_curr_links %>%
   mutate(url = paste0("https://www.fhi.no/", url),
          date     = str_sub(basename(url), 1, 10) %>% ymd()) %>% 
   arrange(desc(date)) %>% 
-  select(date, url)
+  select(date, url) %>% 
+  filter(!str_detect(url, "norden"))
 
 pdfs_raw <- pdf_links %>% 
   mutate(pdf_text = pblapply(url, pdf_text),
@@ -34,7 +35,7 @@ pdfs_raw <- pdf_links %>%
 ##################################### #
 
 deaths <- pdfs_raw %>%
-  mutate(deaths = str_extract(pdf_all_text, "[0-9 ]{1,4}(?= dødsfall)") %>% str_replace_all(" ", "") %>% as.numeric()) %>% 
+  mutate(deaths = str_extract(pdf_all_text, "[0-9 ]{1,4}(?= dødsfall)")) %>% 
   select(date, deaths)
 
 write_csv(deaths,  "data/04_deaths/deaths_total_fhi.csv", na = "")
