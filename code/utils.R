@@ -58,6 +58,7 @@ get_table_data <- function(file_meta) {
                                 str_detect(file_name_sans_ext, "admissions_with")    ~ "In respirator",
                                 str_detect(file_name_sans_ext, "/02_admissions/")    ~ "Admissions",
                                 str_detect(file_name_sans_ext, "/03_covid_tests/")   ~ "Covid tests",
+                                str_detect(file_name_sans_ext, "/04_deaths/")        ~ "Covid deaths",
                                 str_detect(file_name_sans_ext, "/google")            ~ "Google Mobility",
                                 str_detect(file_name_sans_ext, "/apple")             ~ "Apple Mobility",
                                 str_detect(file_name_sans_ext, "/10_employment/")    ~ "Unemployment benefits")) %>% 

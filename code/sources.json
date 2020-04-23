@@ -30,9 +30,18 @@
     "label": "Covid tests",
     "category": "Healthcare",
     "source": "FHI",
-    "level": "Health Region",
+    "level": "Country",
     "freq": "Daily",
     "desc": "Test figures are extracted from the National Institute of Health`s (FHI) daily <a href = \"https://www.fhi.no/sv/smittsomme-sykdommer/corona/dags--og-ukerapporter/dags--og-ukerapporter-om-koronavirus/\">PDF-reports</a>.",
+    "link": "https://www.fhi.no/sv/smittsomme-sykdommer/corona/dags--og-ukerapporter/dags--og-ukerapporter-om-koronavirus/"
+  },
+  {
+    "label": "Covid deaths",
+    "category": "Healthcare",
+    "source": "FHI",
+    "level": "Country",
+    "freq": "Daily",
+    "desc": "Number of deaths are extracted from the National Institute of Health`s (FHI) daily <a href = \"https://www.fhi.no/sv/smittsomme-sykdommer/corona/dags--og-ukerapporter/dags--og-ukerapporter-om-koronavirus/\">PDF-reports</a>.",
     "link": "https://www.fhi.no/sv/smittsomme-sykdommer/corona/dags--og-ukerapporter/dags--og-ukerapporter-om-koronavirus/"
   },
   {
