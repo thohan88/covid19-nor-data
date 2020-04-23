@@ -13,7 +13,7 @@ This project is a collaborative and voluntary effort and we would love your help
 
 ### Examples: Use of data
 [![Case Dashboard](docs/img/MSIS_dashboard_full.PNG)](https://www.covid19data.no/examples/01_case_dashboard/)
-The [Case Map](https://www.covid19data.no/examples/01_case_dashboard/) and [Case Dashboard](https://www.covid19data.no/examples/02_case_map/) illustrates how the data can potentially be used. These examples show current Covid-19 Cases in Norway at municipality and district-level reported to the Norwegian Surveillance System for Communicable Diseases (MSIS) with fully available source code.
+The [Case Dashboard](https://www.covid19data.no/examples/01_case_dashboard/) and [Case Map](https://www.covid19data.no/examples/02_case_map/) illustrates how the data can potentially be used. These examples show current Covid-19 Cases in Norway at municipality and district-level reported to the Norwegian Surveillance System for Communicable Diseases (MSIS) with fully available source code.
 
 
 ```{r, message=FALSE, warning=FALSE, echo=FALSE}

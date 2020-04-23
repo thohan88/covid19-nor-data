@@ -29,12 +29,13 @@ your help. Please get in touch.
 
 [![Case
 Dashboard](docs/img/MSIS_dashboard_full.PNG)](https://www.covid19data.no/examples/01_case_dashboard/)
-The [Case Dashboard](https://www.covid19data.no/examples/01_case_dashboard/)
-and [Case Map](https://www.covid19data.no/examples/02_case_map/)
-illustrates how the data can potentially be used. These examples show
-current Covid-19 Cases in Norway at municipality and district-level
-reported to the Norwegian Surveillance System for Communicable Diseases
-(MSIS) with fully available source code.
+The [Case
+Dashbaord](https://www.covid19data.no/examples/01_case_dashboard/) and
+[Case Map](https://www.covid19data.no/examples/02_case_map/) illustrates
+how the data can potentially be used. These examples show current
+Covid-19 Cases in Norway at municipality and district-level reported to
+the Norwegian Surveillance System for Communicable Diseases (MSIS) with
+fully available source code.
 
 ### Available data
 
@@ -83,6 +84,14 @@ reported to the Norwegian Surveillance System for Communicable Diseases
 <td style="text-align: left;"><a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/03_covid_tests/national_tests.csv">preview</a></td>
 </tr>
 <tr class="odd">
+<td style="text-align: left;">Healthcare</td>
+<td style="text-align: left;">Covid deaths</td>
+<td style="text-align: left;">FHI</td>
+<td style="text-align: left;">2020-04-23</td>
+<td style="text-align: left;"><a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/04_deaths/deaths_total_fhi.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/04_deaths/deaths_total_fhi.xlsx">xlsx</a></td>
+<td style="text-align: left;"><a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/04_deaths/deaths_total_fhi.csv">preview</a></td>
+</tr>
+<tr class="even">
 <td style="text-align: left;">Mobility</td>
 <td style="text-align: left;">Apple Mobility</td>
 <td style="text-align: left;">Apple</td>
@@ -90,7 +99,7 @@ reported to the Norwegian Surveillance System for Communicable Diseases
 <td style="text-align: left;"><a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/20_mobility/apple/mobility.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/20_mobility/apple/mobility.xlsx">xlsx</a></td>
 <td style="text-align: left;"><a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/20_mobility/apple/mobility.csv">preview</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">Mobility</td>
 <td style="text-align: left;">Google Mobility</td>
 <td style="text-align: left;">Google</td>
@@ -98,7 +107,7 @@ reported to the Norwegian Surveillance System for Communicable Diseases
 <td style="text-align: left;"><a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/20_mobility/google/mobility.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/20_mobility/google/mobility.xlsx">xlsx</a></td>
 <td style="text-align: left;"><a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/20_mobility/google/mobility.csv">preview</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">Economics</td>
 <td style="text-align: left;">Unemployment benefits</td>
 <td style="text-align: left;">NAV</td>
