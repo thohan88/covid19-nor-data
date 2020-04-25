@@ -40289,3 +40289,398 @@ city,Washington DC,walking,2020-04-23,36.16
 city,Zurich,driving,2020-04-23,80.9
 city,Zurich,transit,2020-04-23,38.11
 city,Zurich,walking,2020-04-23,73.64
+country/region,Albania,driving,2020-04-24,30.22
+country/region,Albania,walking,2020-04-24,34.63
+country/region,Argentina,driving,2020-04-24,30.99
+country/region,Argentina,walking,2020-04-24,22.32
+country/region,Australia,driving,2020-04-24,47.84
+country/region,Australia,transit,2020-04-24,20.96
+country/region,Australia,walking,2020-04-24,46.68
+country/region,Austria,driving,2020-04-24,57.52
+country/region,Austria,walking,2020-04-24,44.41
+country/region,Belgium,driving,2020-04-24,52.29
+country/region,Belgium,transit,2020-04-24,26.32
+country/region,Belgium,walking,2020-04-24,65.62
+country/region,Brazil,driving,2020-04-24,59.39
+country/region,Brazil,transit,2020-04-24,24.37
+country/region,Brazil,walking,2020-04-24,45
+country/region,Bulgaria,driving,2020-04-24,42.84
+country/region,Bulgaria,walking,2020-04-24,40.44
+country/region,Cambodia,driving,2020-04-24,33.82
+country/region,Cambodia,walking,2020-04-24,57.08
+country/region,Canada,driving,2020-04-24,69.4
+country/region,Canada,transit,2020-04-24,20.44
+country/region,Canada,walking,2020-04-24,63.55
+country/region,Chile,driving,2020-04-24,46.93
+country/region,Chile,walking,2020-04-24,32.79
+country/region,Colombia,driving,2020-04-24,31.23
+country/region,Colombia,walking,2020-04-24,40.81
+country/region,Croatia,driving,2020-04-24,46.7
+country/region,Croatia,walking,2020-04-24,46.1
+country/region,Czech Republic,driving,2020-04-24,87.52
+country/region,Czech Republic,transit,2020-04-24,30.75
+country/region,Czech Republic,walking,2020-04-24,45.89
+country/region,Denmark,driving,2020-04-24,92.28
+country/region,Denmark,transit,2020-04-24,44.02
+country/region,Denmark,walking,2020-04-24,88.08
+country/region,Egypt,driving,2020-04-24,27.94
+country/region,Egypt,walking,2020-04-24,30.91
+country/region,Estonia,driving,2020-04-24,98.27
+country/region,Estonia,transit,2020-04-24,41.49
+country/region,Estonia,walking,2020-04-24,77.58
+country/region,Finland,driving,2020-04-24,98.01
+country/region,Finland,transit,2020-04-24,41.18
+country/region,Finland,walking,2020-04-24,73.4
+country/region,France,driving,2020-04-24,32.44
+country/region,France,transit,2020-04-24,14.68
+country/region,France,walking,2020-04-24,18.93
+country/region,Germany,driving,2020-04-24,67.88
+country/region,Germany,transit,2020-04-24,44.47
+country/region,Germany,walking,2020-04-24,68.32
+country/region,Greece,driving,2020-04-24,34.04
+country/region,Greece,walking,2020-04-24,41.82
+country/region,Hong Kong,driving,2020-04-24,58.65
+country/region,Hong Kong,walking,2020-04-24,53.71
+country/region,Hungary,driving,2020-04-24,65.81
+country/region,Hungary,walking,2020-04-24,37.25
+country/region,Iceland,driving,2020-04-24,74.68
+country/region,Iceland,walking,2020-04-24,46.7
+country/region,India,driving,2020-04-24,18.92
+country/region,India,walking,2020-04-24,24.67
+country/region,Indonesia,driving,2020-04-24,36.46
+country/region,Indonesia,walking,2020-04-24,29.41
+country/region,Ireland,driving,2020-04-24,37.2
+country/region,Ireland,transit,2020-04-24,12.16
+country/region,Ireland,walking,2020-04-24,31.67
+country/region,Israel,driving,2020-04-24,36.2
+country/region,Israel,walking,2020-04-24,31.87
+country/region,Italy,driving,2020-04-24,27.09
+country/region,Italy,transit,2020-04-24,11.36
+country/region,Italy,walking,2020-04-24,20.51
+country/region,Japan,driving,2020-04-24,74.9
+country/region,Japan,transit,2020-04-24,59.08
+country/region,Japan,walking,2020-04-24,68.62
+country/region,Latvia,driving,2020-04-24,78.77
+country/region,Latvia,walking,2020-04-24,61.53
+country/region,Lithuania,driving,2020-04-24,82.51
+country/region,Lithuania,walking,2020-04-24,70.4
+country/region,Luxembourg,driving,2020-04-24,40.1
+country/region,Luxembourg,transit,2020-04-24,21.25
+country/region,Luxembourg,walking,2020-04-24,43.13
+country/region,Macao,driving,2020-04-24,25.9
+country/region,Macao,walking,2020-04-24,18.92
+country/region,Malaysia,driving,2020-04-24,48.74
+country/region,Malaysia,walking,2020-04-24,38.33
+country/region,Mexico,driving,2020-04-24,46.53
+country/region,Mexico,transit,2020-04-24,22.97
+country/region,Mexico,walking,2020-04-24,38.31
+country/region,Morocco,driving,2020-04-24,19.85
+country/region,Morocco,walking,2020-04-24,16.39
+country/region,Netherlands,driving,2020-04-24,67.43
+country/region,Netherlands,transit,2020-04-24,25.83
+country/region,Netherlands,walking,2020-04-24,70.59
+country/region,New Zealand,driving,2020-04-24,16.95
+country/region,New Zealand,transit,2020-04-24,12.89
+country/region,New Zealand,walking,2020-04-24,27.71
+country/region,Norway,driving,2020-04-24,95.99
+country/region,Norway,transit,2020-04-24,47.37
+country/region,Norway,walking,2020-04-24,74.38
+country/region,Philippines,driving,2020-04-24,18.18
+country/region,Philippines,transit,2020-04-24,18.61
+country/region,Philippines,walking,2020-04-24,20.66
+country/region,Poland,driving,2020-04-24,61.28
+country/region,Poland,walking,2020-04-24,45.26
+country/region,Portugal,driving,2020-04-24,32.13
+country/region,Portugal,walking,2020-04-24,17.39
+country/region,Republic of Korea,driving,2020-04-24,71.99
+country/region,Republic of Korea,walking,2020-04-24,55.51
+country/region,Romania,driving,2020-04-24,35.73
+country/region,Romania,walking,2020-04-24,29.51
+country/region,Russia,driving,2020-04-24,64.28
+country/region,Russia,walking,2020-04-24,50.71
+country/region,Saudi Arabia,driving,2020-04-24,31.79
+country/region,Saudi Arabia,walking,2020-04-24,41.53
+country/region,Serbia,driving,2020-04-24,38.58
+country/region,Serbia,walking,2020-04-24,36.01
+country/region,Singapore,driving,2020-04-24,37.86
+country/region,Singapore,transit,2020-04-24,12.57
+country/region,Singapore,walking,2020-04-24,25.87
+country/region,Slovakia,driving,2020-04-24,76.76
+country/region,Slovakia,transit,2020-04-24,45.67
+country/region,Slovakia,walking,2020-04-24,73.88
+country/region,Slovenia,driving,2020-04-24,51.99
+country/region,Slovenia,walking,2020-04-24,66.44
+country/region,South Africa,driving,2020-04-24,24.78
+country/region,South Africa,walking,2020-04-24,27.5
+country/region,Spain,driving,2020-04-24,24.36
+country/region,Spain,transit,2020-04-24,10.1
+country/region,Spain,walking,2020-04-24,16.94
+country/region,Sweden,driving,2020-04-24,105.29
+country/region,Sweden,transit,2020-04-24,60.62
+country/region,Sweden,walking,2020-04-24,85.18
+country/region,Switzerland,driving,2020-04-24,76.14
+country/region,Switzerland,transit,2020-04-24,36.07
+country/region,Switzerland,walking,2020-04-24,75.27
+country/region,Taiwan,driving,2020-04-24,96.47
+country/region,Taiwan,transit,2020-04-24,64.15
+country/region,Taiwan,walking,2020-04-24,92.28
+country/region,Thailand,driving,2020-04-24,45.73
+country/region,Thailand,walking,2020-04-24,27.48
+country/region,Turkey,driving,2020-04-24,15.92
+country/region,Turkey,walking,2020-04-24,15.66
+country/region,UK,driving,2020-04-24,45.69
+country/region,UK,transit,2020-04-24,16.63
+country/region,UK,walking,2020-04-24,49.85
+country/region,United States,driving,2020-04-24,76.68
+country/region,United States,transit,2020-04-24,25.99
+country/region,United States,walking,2020-04-24,58.89
+country/region,Ukraine,driving,2020-04-24,77.47
+country/region,Ukraine,walking,2020-04-24,58.27
+country/region,United Arab Emirates,driving,2020-04-24,40.26
+country/region,United Arab Emirates,walking,2020-04-24,42.25
+country/region,Uruguay,driving,2020-04-24,48.61
+country/region,Uruguay,walking,2020-04-24,34.19
+country/region,Vietnam,driving,2020-04-24,70.48
+country/region,Vietnam,walking,2020-04-24,66.31
+city,Amsterdam,driving,2020-04-24,52.63
+city,Amsterdam,transit,2020-04-24,14.84
+city,Amsterdam,walking,2020-04-24,32.7
+city,Athens,driving,2020-04-24,34.35
+city,Athens,walking,2020-04-24,42.97
+city,Atlanta,driving,2020-04-24,80.63
+city,Atlanta,transit,2020-04-24,45.62
+city,Atlanta,walking,2020-04-24,75.26
+city,Auckland,driving,2020-04-24,16.92
+city,Auckland,transit,2020-04-24,11.55
+city,Auckland,walking,2020-04-24,31.24
+city,Baltimore,driving,2020-04-24,77.55
+city,Baltimore,transit,2020-04-24,42.81
+city,Baltimore,walking,2020-04-24,74.12
+city,Bangkok,driving,2020-04-24,43.87
+city,Bangkok,walking,2020-04-24,22.08
+city,Barcelona,driving,2020-04-24,19.56
+city,Barcelona,transit,2020-04-24,12.79
+city,Barcelona,walking,2020-04-24,9.99
+city,Berlin,driving,2020-04-24,64.87
+city,Berlin,transit,2020-04-24,31.23
+city,Berlin,walking,2020-04-24,49.04
+city,Birmingham - UK,driving,2020-04-24,47.05
+city,Birmingham - UK,transit,2020-04-24,19.56
+city,Birmingham - UK,walking,2020-04-24,55.76
+city,Bochum - Dortmund,driving,2020-04-24,67.4
+city,Bochum - Dortmund,transit,2020-04-24,76.79
+city,Bochum - Dortmund,walking,2020-04-24,79
+city,Boston,driving,2020-04-24,50.9
+city,Boston,transit,2020-04-24,16.91
+city,Boston,walking,2020-04-24,31.24
+city,Brisbane,driving,2020-04-24,44.83
+city,Brisbane,transit,2020-04-24,21.35
+city,Brisbane,walking,2020-04-24,39.4
+city,Brussels,driving,2020-04-24,38.56
+city,Brussels,transit,2020-04-24,20.01
+city,Brussels,walking,2020-04-24,37.22
+city,Buenos Aires,driving,2020-04-24,29.39
+city,Buenos Aires,walking,2020-04-24,14.16
+city,Cairo,driving,2020-04-24,24.68
+city,Cairo,walking,2020-04-24,24.93
+city,Calgary,driving,2020-04-24,73.8
+city,Calgary,transit,2020-04-24,26.96
+city,Calgary,walking,2020-04-24,100.68
+city,Cape Town,driving,2020-04-24,20.17
+city,Cape Town,walking,2020-04-24,19.19
+city,Chicago,driving,2020-04-24,71.76
+city,Chicago,transit,2020-04-24,22.93
+city,Chicago,walking,2020-04-24,55.14
+city,Cologne,driving,2020-04-24,54.74
+city,Cologne,transit,2020-04-24,48.29
+city,Cologne,walking,2020-04-24,48.3
+city,Copenhagen,driving,2020-04-24,79.21
+city,Copenhagen,transit,2020-04-24,34.36
+city,Copenhagen,walking,2020-04-24,72.64
+city,Dallas,driving,2020-04-24,78.95
+city,Dallas,transit,2020-04-24,48.35
+city,Dallas,walking,2020-04-24,84.51
+city,Delhi,driving,2020-04-24,12.61
+city,Delhi,walking,2020-04-24,15.81
+city,Denver,driving,2020-04-24,65.02
+city,Denver,transit,2020-04-24,32.94
+city,Denver,walking,2020-04-24,62.7
+city,Detroit,driving,2020-04-24,64.16
+city,Detroit,transit,2020-04-24,33.88
+city,Detroit,walking,2020-04-24,83.03
+city,Dubai,driving,2020-04-24,34.19
+city,Dubai,walking,2020-04-24,35.85
+city,Dublin,driving,2020-04-24,32.1
+city,Dublin,transit,2020-04-24,9.75
+city,Dublin,walking,2020-04-24,25.38
+city,Dusseldorf,driving,2020-04-24,61.1
+city,Dusseldorf,transit,2020-04-24,51.9
+city,Dusseldorf,walking,2020-04-24,66.8
+city,Edmonton,driving,2020-04-24,82.5
+city,Edmonton,transit,2020-04-24,25.38
+city,Edmonton,walking,2020-04-24,111.79
+city,Frankfurt,driving,2020-04-24,61.29
+city,Frankfurt,walking,2020-04-24,63.46
+city,Fukuoka,driving,2020-04-24,72.17
+city,Fukuoka,transit,2020-04-24,53.64
+city,Fukuoka,walking,2020-04-24,58.3
+city,Guadalajara,driving,2020-04-24,45.85
+city,Guadalajara,walking,2020-04-24,42.76
+city,Halifax,driving,2020-04-24,73.39
+city,Halifax,transit,2020-04-24,18.22
+city,Halifax,walking,2020-04-24,43.26
+city,Hamburg,driving,2020-04-24,67.72
+city,Hamburg,transit,2020-04-24,60.88
+city,Hamburg,walking,2020-04-24,65.29
+city,Helsinki,driving,2020-04-24,83.39
+city,Helsinki,transit,2020-04-24,39.15
+city,Helsinki,walking,2020-04-24,70.86
+city,Houston,driving,2020-04-24,76.27
+city,Houston,transit,2020-04-24,44.74
+city,Houston,walking,2020-04-24,81.08
+city,Hsin-chu,driving,2020-04-24,109.66
+city,Hsin-chu,walking,2020-04-24,121.84
+city,Istanbul,driving,2020-04-24,10.53
+city,Istanbul,walking,2020-04-24,10.19
+city,Jakarta,driving,2020-04-24,37.83
+city,Jakarta,walking,2020-04-24,48.03
+city,Johannesburg,driving,2020-04-24,24.42
+city,Johannesburg,walking,2020-04-24,29.18
+city,Kuala Lumpur,driving,2020-04-24,35.01
+city,Kuala Lumpur,walking,2020-04-24,21.15
+city,Leeds,driving,2020-04-24,49.56
+city,Leeds,transit,2020-04-24,19.57
+city,Leeds,walking,2020-04-24,60.62
+city,Lille,driving,2020-04-24,32.6
+city,Lille,transit,2020-04-24,42.56
+city,Lille,walking,2020-04-24,21.66
+city,London,driving,2020-04-24,39.34
+city,London,transit,2020-04-24,14.57
+city,London,walking,2020-04-24,28.31
+city,Los Angeles,driving,2020-04-24,62.76
+city,Los Angeles,transit,2020-04-24,25.85
+city,Los Angeles,walking,2020-04-24,60.69
+city,Lyon,driving,2020-04-24,30.47
+city,Lyon,transit,2020-04-24,36.03
+city,Lyon,walking,2020-04-24,20.7
+city,Madrid,driving,2020-04-24,19.57
+city,Madrid,transit,2020-04-24,6.95
+city,Madrid,walking,2020-04-24,13.07
+city,Manchester,driving,2020-04-24,44.67
+city,Manchester,transit,2020-04-24,17.77
+city,Manchester,walking,2020-04-24,59.05
+city,Manila,driving,2020-04-24,19.36
+city,Manila,transit,2020-04-24,16.63
+city,Manila,walking,2020-04-24,18.65
+city,Melbourne,driving,2020-04-24,39.52
+city,Melbourne,transit,2020-04-24,16.34
+city,Melbourne,walking,2020-04-24,42.89
+city,Mexico City,driving,2020-04-24,33.35
+city,Mexico City,transit,2020-04-24,15.2
+city,Mexico City,walking,2020-04-24,22.52
+city,Miami,driving,2020-04-24,57.55
+city,Miami,transit,2020-04-24,32.98
+city,Miami,walking,2020-04-24,51.83
+city,Milan,driving,2020-04-24,21.51
+city,Milan,walking,2020-04-24,13.94
+city,Montreal,driving,2020-04-24,49.32
+city,Montreal,transit,2020-04-24,21.05
+city,Montreal,walking,2020-04-24,50.7
+city,Moscow,driving,2020-04-24,38.97
+city,Moscow,walking,2020-04-24,28.97
+city,Mumbai,driving,2020-04-24,12.01
+city,Mumbai,walking,2020-04-24,15.26
+city,Munich,driving,2020-04-24,55.52
+city,Munich,walking,2020-04-24,53.56
+city,Nagoya,driving,2020-04-24,78.5
+city,Nagoya,transit,2020-04-24,65.92
+city,Nagoya,walking,2020-04-24,73.6
+city,New York City,driving,2020-04-24,52.27
+city,New York City,transit,2020-04-24,13.83
+city,New York City,walking,2020-04-24,25.79
+city,Osaka,driving,2020-04-24,73.1
+city,Osaka,transit,2020-04-24,53.56
+city,Osaka,walking,2020-04-24,58.8
+city,Oslo,driving,2020-04-24,77.25
+city,Oslo,transit,2020-04-24,43.73
+city,Oslo,walking,2020-04-24,60.12
+city,Ottawa,driving,2020-04-24,55.73
+city,Ottawa,transit,2020-04-24,14.95
+city,Ottawa,walking,2020-04-24,48.8
+city,Paris,driving,2020-04-24,19.34
+city,Paris,transit,2020-04-24,11.19
+city,Paris,walking,2020-04-24,10.7
+city,Perth,driving,2020-04-24,53.71
+city,Perth,transit,2020-04-24,19.58
+city,Perth,walking,2020-04-24,48.83
+city,Philadelphia,driving,2020-04-24,66.79
+city,Philadelphia,transit,2020-04-24,26.32
+city,Philadelphia,walking,2020-04-24,53.84
+city,Rio de Janeiro,driving,2020-04-24,41.48
+city,Rio de Janeiro,transit,2020-04-24,17.39
+city,Rio de Janeiro,walking,2020-04-24,24.65
+city,Riyadh,driving,2020-04-24,30.78
+city,Riyadh,walking,2020-04-24,45.84
+city,Rome,driving,2020-04-24,19.59
+city,Rome,transit,2020-04-24,5.76
+city,Rome,walking,2020-04-24,10.01
+city,Rotterdam,driving,2020-04-24,66.58
+city,Rotterdam,transit,2020-04-24,37.5
+city,Rotterdam,walking,2020-04-24,86.05
+city,Saint Petersburg,driving,2020-04-24,55.74
+city,Saint Petersburg,walking,2020-04-24,35.98
+city,San Francisco - Bay Area,driving,2020-04-24,52.35
+city,San Francisco - Bay Area,transit,2020-04-24,21.32
+city,San Francisco - Bay Area,walking,2020-04-24,33.09
+city,Santiago,driving,2020-04-24,53.02
+city,Santiago,walking,2020-04-24,29.55
+city,Sao Paulo,driving,2020-04-24,44.93
+city,Sao Paulo,transit,2020-04-24,21.73
+city,Sao Paulo,walking,2020-04-24,28.23
+city,Seattle,driving,2020-04-24,74.79
+city,Seattle,transit,2020-04-24,18.34
+city,Seattle,walking,2020-04-24,53.89
+city,Seoul,driving,2020-04-24,65.23
+city,Seoul,walking,2020-04-24,49.15
+city,Stockholm,driving,2020-04-24,96.01
+city,Stockholm,transit,2020-04-24,57.13
+city,Stockholm,walking,2020-04-24,74.21
+city,Stuttgart,driving,2020-04-24,54.59
+city,Stuttgart,transit,2020-04-24,47.92
+city,Stuttgart,walking,2020-04-24,51.94
+city,Sydney,driving,2020-04-24,55.24
+city,Sydney,transit,2020-04-24,23.17
+city,Sydney,walking,2020-04-24,46.76
+city,Taichung,driving,2020-04-24,96.95
+city,Taichung,transit,2020-04-24,68.79
+city,Taichung,walking,2020-04-24,97.97
+city,Taipei,driving,2020-04-24,87.64
+city,Taipei,transit,2020-04-24,63.02
+city,Taipei,walking,2020-04-24,82.68
+city,Tel Aviv,driving,2020-04-24,35.92
+city,Tel Aviv,walking,2020-04-24,33.49
+city,Tijuana,driving,2020-04-24,52.69
+city,Tijuana,walking,2020-04-24,64.9
+city,Tokyo,driving,2020-04-24,74.2
+city,Tokyo,transit,2020-04-24,55.15
+city,Tokyo,walking,2020-04-24,69.48
+city,Toronto,driving,2020-04-24,53.44
+city,Toronto,transit,2020-04-24,18.77
+city,Toronto,walking,2020-04-24,42.61
+city,Toulouse,driving,2020-04-24,30.88
+city,Toulouse,transit,2020-04-24,37.88
+city,Toulouse,walking,2020-04-24,23.26
+city,Utrecht,driving,2020-04-24,57.92
+city,Utrecht,transit,2020-04-24,29.63
+city,Utrecht,walking,2020-04-24,83.23
+city,Vancouver,driving,2020-04-24,64.84
+city,Vancouver,transit,2020-04-24,20.6
+city,Vancouver,walking,2020-04-24,56.86
+city,Vienna,driving,2020-04-24,58.7
+city,Vienna,walking,2020-04-24,37.88
+city,Washington DC,driving,2020-04-24,60.32
+city,Washington DC,transit,2020-04-24,17.53
+city,Washington DC,walking,2020-04-24,41.55
+city,Zurich,driving,2020-04-24,81.56
+city,Zurich,transit,2020-04-24,36.02
+city,Zurich,walking,2020-04-24,76.72
