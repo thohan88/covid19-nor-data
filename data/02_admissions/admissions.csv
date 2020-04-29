@@ -13,8 +13,8 @@ date,health_org_name,admissions
 2020-03-08,Private med avtale med Helse Sør-Øst i Oslo,0
 2020-03-08,Sørlandet sykehus HF,0
 2020-03-08,St. Olavs hospital,0
-2020-03-08,Sykehuset Innlandet HF,0
 2020-03-08,Sykehuset i Vestfold HF,0
+2020-03-08,Sykehuset Innlandet HF,0
 2020-03-08,Sykehuset Østfold HF,0
 2020-03-08,Sykehuset Telemark HF,0
 2020-03-08,Universitetssykehuset Nord-Norge HF,0
@@ -33,8 +33,8 @@ date,health_org_name,admissions
 2020-03-09,Private med avtale med Helse Sør-Øst i Oslo,0
 2020-03-09,Sørlandet sykehus HF,0
 2020-03-09,St. Olavs hospital,0
-2020-03-09,Sykehuset Innlandet HF,0
 2020-03-09,Sykehuset i Vestfold HF,1
+2020-03-09,Sykehuset Innlandet HF,0
 2020-03-09,Sykehuset Østfold HF,0
 2020-03-09,Sykehuset Telemark HF,0
 2020-03-09,Universitetssykehuset Nord-Norge HF,0
@@ -53,8 +53,8 @@ date,health_org_name,admissions
 2020-03-10,Private med avtale med Helse Sør-Øst i Oslo,0
 2020-03-10,Sørlandet sykehus HF,0
 2020-03-10,St. Olavs hospital,0
-2020-03-10,Sykehuset Innlandet HF,0
 2020-03-10,Sykehuset i Vestfold HF,1
+2020-03-10,Sykehuset Innlandet HF,0
 2020-03-10,Sykehuset Østfold HF,0
 2020-03-10,Sykehuset Telemark HF,0
 2020-03-10,Universitetssykehuset Nord-Norge HF,0
@@ -73,8 +73,8 @@ date,health_org_name,admissions
 2020-03-11,Private med avtale med Helse Sør-Øst i Oslo,0
 2020-03-11,Sørlandet sykehus HF,0
 2020-03-11,St. Olavs hospital,0
-2020-03-11,Sykehuset Innlandet HF,0
 2020-03-11,Sykehuset i Vestfold HF,1
+2020-03-11,Sykehuset Innlandet HF,0
 2020-03-11,Sykehuset Østfold HF,2
 2020-03-11,Sykehuset Telemark HF,0
 2020-03-11,Universitetssykehuset Nord-Norge HF,0
@@ -93,8 +93,8 @@ date,health_org_name,admissions
 2020-03-12,Private med avtale med Helse Sør-Øst i Oslo,2
 2020-03-12,Sørlandet sykehus HF,4
 2020-03-12,St. Olavs hospital,1
-2020-03-12,Sykehuset Innlandet HF,0
 2020-03-12,Sykehuset i Vestfold HF,0
+2020-03-12,Sykehuset Innlandet HF,0
 2020-03-12,Sykehuset Østfold HF,0
 2020-03-12,Sykehuset Telemark HF,3
 2020-03-12,Universitetssykehuset Nord-Norge HF,0
@@ -113,8 +113,8 @@ date,health_org_name,admissions
 2020-03-13,Private med avtale med Helse Sør-Øst i Oslo,2
 2020-03-13,Sørlandet sykehus HF,1
 2020-03-13,St. Olavs hospital,1
-2020-03-13,Sykehuset Innlandet HF,0
 2020-03-13,Sykehuset i Vestfold HF,2
+2020-03-13,Sykehuset Innlandet HF,0
 2020-03-13,Sykehuset Østfold HF,3
 2020-03-13,Sykehuset Telemark HF,0
 2020-03-13,Universitetssykehuset Nord-Norge HF,0
@@ -133,8 +133,8 @@ date,health_org_name,admissions
 2020-03-14,Private med avtale med Helse Sør-Øst i Oslo,2
 2020-03-14,Sørlandet sykehus HF,2
 2020-03-14,St. Olavs hospital,1
-2020-03-14,Sykehuset Innlandet HF,0
 2020-03-14,Sykehuset i Vestfold HF,2
+2020-03-14,Sykehuset Innlandet HF,0
 2020-03-14,Sykehuset Østfold HF,3
 2020-03-14,Sykehuset Telemark HF,0
 2020-03-14,Universitetssykehuset Nord-Norge HF,0
@@ -153,8 +153,8 @@ date,health_org_name,admissions
 2020-03-15,Private med avtale med Helse Sør-Øst i Oslo,1
 2020-03-15,Sørlandet sykehus HF,3
 2020-03-15,St. Olavs hospital,1
-2020-03-15,Sykehuset Innlandet HF,2
 2020-03-15,Sykehuset i Vestfold HF,3
+2020-03-15,Sykehuset Innlandet HF,2
 2020-03-15,Sykehuset Østfold HF,4
 2020-03-15,Sykehuset Telemark HF,0
 2020-03-15,Universitetssykehuset Nord-Norge HF,0
@@ -173,8 +173,8 @@ date,health_org_name,admissions
 2020-03-16,Private med avtale med Helse Sør-Øst i Oslo,2
 2020-03-16,Sørlandet sykehus HF,3
 2020-03-16,St. Olavs hospital,1
-2020-03-16,Sykehuset Innlandet HF,2
 2020-03-16,Sykehuset i Vestfold HF,3
+2020-03-16,Sykehuset Innlandet HF,2
 2020-03-16,Sykehuset Østfold HF,4
 2020-03-16,Sykehuset Telemark HF,0
 2020-03-16,Universitetssykehuset Nord-Norge HF,0
@@ -193,8 +193,8 @@ date,health_org_name,admissions
 2020-03-17,Private med avtale med Helse Sør-Øst i Oslo,4
 2020-03-17,Sørlandet sykehus HF,4
 2020-03-17,St. Olavs hospital,1
-2020-03-17,Sykehuset Innlandet HF,3
 2020-03-17,Sykehuset i Vestfold HF,1
+2020-03-17,Sykehuset Innlandet HF,3
 2020-03-17,Sykehuset Østfold HF,6
 2020-03-17,Sykehuset Telemark HF,0
 2020-03-17,Universitetssykehuset Nord-Norge HF,0
@@ -213,8 +213,8 @@ date,health_org_name,admissions
 2020-03-18,Private med avtale med Helse Sør-Øst i Oslo,4
 2020-03-18,Sørlandet sykehus HF,5
 2020-03-18,St. Olavs hospital,1
-2020-03-18,Sykehuset Innlandet HF,2
 2020-03-18,Sykehuset i Vestfold HF,3
+2020-03-18,Sykehuset Innlandet HF,2
 2020-03-18,Sykehuset Østfold HF,8
 2020-03-18,Sykehuset Telemark HF,1
 2020-03-18,Universitetssykehuset Nord-Norge HF,0
@@ -233,8 +233,8 @@ date,health_org_name,admissions
 2020-03-19,Private med avtale med Helse Sør-Øst i Oslo,3
 2020-03-19,Sørlandet sykehus HF,4
 2020-03-19,St. Olavs hospital,4
-2020-03-19,Sykehuset Innlandet HF,6
 2020-03-19,Sykehuset i Vestfold HF,4
+2020-03-19,Sykehuset Innlandet HF,6
 2020-03-19,Sykehuset Østfold HF,9
 2020-03-19,Sykehuset Telemark HF,2
 2020-03-19,Universitetssykehuset Nord-Norge HF,0
@@ -253,8 +253,8 @@ date,health_org_name,admissions
 2020-03-20,Private med avtale med Helse Sør-Øst i Oslo,8
 2020-03-20,Sørlandet sykehus HF,3
 2020-03-20,St. Olavs hospital,5
-2020-03-20,Sykehuset Innlandet HF,6
 2020-03-20,Sykehuset i Vestfold HF,4
+2020-03-20,Sykehuset Innlandet HF,6
 2020-03-20,Sykehuset Østfold HF,9
 2020-03-20,Sykehuset Telemark HF,2
 2020-03-20,Universitetssykehuset Nord-Norge HF,1
@@ -273,8 +273,8 @@ date,health_org_name,admissions
 2020-03-21,Private med avtale med Helse Sør-Øst i Oslo,8
 2020-03-21,Sørlandet sykehus HF,5
 2020-03-21,St. Olavs hospital,5
-2020-03-21,Sykehuset Innlandet HF,8
 2020-03-21,Sykehuset i Vestfold HF,4
+2020-03-21,Sykehuset Innlandet HF,8
 2020-03-21,Sykehuset Østfold HF,8
 2020-03-21,Sykehuset Telemark HF,2
 2020-03-21,Universitetssykehuset Nord-Norge HF,1
@@ -293,8 +293,8 @@ date,health_org_name,admissions
 2020-03-22,Private med avtale med Helse Sør-Øst i Oslo,9
 2020-03-22,Sørlandet sykehus HF,6
 2020-03-22,St. Olavs hospital,5
-2020-03-22,Sykehuset Innlandet HF,8
 2020-03-22,Sykehuset i Vestfold HF,5
+2020-03-22,Sykehuset Innlandet HF,8
 2020-03-22,Sykehuset Østfold HF,9
 2020-03-22,Sykehuset Telemark HF,2
 2020-03-22,Universitetssykehuset Nord-Norge HF,2
@@ -313,8 +313,8 @@ date,health_org_name,admissions
 2020-03-23,Private med avtale med Helse Sør-Øst i Oslo,18
 2020-03-23,Sørlandet sykehus HF,8
 2020-03-23,St. Olavs hospital,5
-2020-03-23,Sykehuset Innlandet HF,8
 2020-03-23,Sykehuset i Vestfold HF,6
+2020-03-23,Sykehuset Innlandet HF,8
 2020-03-23,Sykehuset Østfold HF,10
 2020-03-23,Sykehuset Telemark HF,2
 2020-03-23,Universitetssykehuset Nord-Norge HF,2
@@ -333,8 +333,8 @@ date,health_org_name,admissions
 2020-03-24,Private med avtale med Helse Sør-Øst i Oslo,18
 2020-03-24,Sørlandet sykehus HF,7
 2020-03-24,St. Olavs hospital,6
-2020-03-24,Sykehuset Innlandet HF,12
 2020-03-24,Sykehuset i Vestfold HF,7
+2020-03-24,Sykehuset Innlandet HF,12
 2020-03-24,Sykehuset Østfold HF,15
 2020-03-24,Sykehuset Telemark HF,3
 2020-03-24,Universitetssykehuset Nord-Norge HF,2
@@ -353,8 +353,8 @@ date,health_org_name,admissions
 2020-03-25,Private med avtale med Helse Sør-Øst i Oslo,17
 2020-03-25,Sørlandet sykehus HF,7
 2020-03-25,St. Olavs hospital,8
-2020-03-25,Sykehuset Innlandet HF,13
 2020-03-25,Sykehuset i Vestfold HF,11
+2020-03-25,Sykehuset Innlandet HF,13
 2020-03-25,Sykehuset Østfold HF,15
 2020-03-25,Sykehuset Telemark HF,3
 2020-03-25,Universitetssykehuset Nord-Norge HF,2
@@ -373,8 +373,8 @@ date,health_org_name,admissions
 2020-03-26,Private med avtale med Helse Sør-Øst i Oslo,21
 2020-03-26,Sørlandet sykehus HF,8
 2020-03-26,St. Olavs hospital,8
-2020-03-26,Sykehuset Innlandet HF,16
 2020-03-26,Sykehuset i Vestfold HF,9
+2020-03-26,Sykehuset Innlandet HF,16
 2020-03-26,Sykehuset Østfold HF,19
 2020-03-26,Sykehuset Telemark HF,4
 2020-03-26,Universitetssykehuset Nord-Norge HF,4
@@ -393,8 +393,8 @@ date,health_org_name,admissions
 2020-03-27,Private med avtale med Helse Sør-Øst i Oslo,31
 2020-03-27,Sørlandet sykehus HF,12
 2020-03-27,St. Olavs hospital,9
-2020-03-27,Sykehuset Innlandet HF,15
 2020-03-27,Sykehuset i Vestfold HF,10
+2020-03-27,Sykehuset Innlandet HF,15
 2020-03-27,Sykehuset Østfold HF,21
 2020-03-27,Sykehuset Telemark HF,4
 2020-03-27,Universitetssykehuset Nord-Norge HF,7
@@ -413,8 +413,8 @@ date,health_org_name,admissions
 2020-03-28,Private med avtale med Helse Sør-Øst i Oslo,33
 2020-03-28,Sørlandet sykehus HF,13
 2020-03-28,St. Olavs hospital,10
-2020-03-28,Sykehuset Innlandet HF,12
 2020-03-28,Sykehuset i Vestfold HF,9
+2020-03-28,Sykehuset Innlandet HF,12
 2020-03-28,Sykehuset Østfold HF,21
 2020-03-28,Sykehuset Telemark HF,4
 2020-03-28,Universitetssykehuset Nord-Norge HF,6
@@ -433,8 +433,8 @@ date,health_org_name,admissions
 2020-03-29,Private med avtale med Helse Sør-Øst i Oslo,31
 2020-03-29,Sørlandet sykehus HF,12
 2020-03-29,St. Olavs hospital,12
-2020-03-29,Sykehuset Innlandet HF,13
 2020-03-29,Sykehuset i Vestfold HF,11
+2020-03-29,Sykehuset Innlandet HF,13
 2020-03-29,Sykehuset Østfold HF,21
 2020-03-29,Sykehuset Telemark HF,3
 2020-03-29,Universitetssykehuset Nord-Norge HF,9
@@ -453,8 +453,8 @@ date,health_org_name,admissions
 2020-03-30,Private med avtale med Helse Sør-Øst i Oslo,33
 2020-03-30,Sørlandet sykehus HF,13
 2020-03-30,St. Olavs hospital,12
-2020-03-30,Sykehuset Innlandet HF,17
 2020-03-30,Sykehuset i Vestfold HF,11
+2020-03-30,Sykehuset Innlandet HF,17
 2020-03-30,Sykehuset Østfold HF,19
 2020-03-30,Sykehuset Telemark HF,3
 2020-03-30,Universitetssykehuset Nord-Norge HF,8
@@ -473,8 +473,8 @@ date,health_org_name,admissions
 2020-03-31,Private med avtale med Helse Sør-Øst i Oslo,25
 2020-03-31,Sørlandet sykehus HF,12
 2020-03-31,St. Olavs hospital,10
-2020-03-31,Sykehuset Innlandet HF,13
 2020-03-31,Sykehuset i Vestfold HF,11
+2020-03-31,Sykehuset Innlandet HF,13
 2020-03-31,Sykehuset Østfold HF,23
 2020-03-31,Sykehuset Telemark HF,4
 2020-03-31,Universitetssykehuset Nord-Norge HF,9
@@ -493,8 +493,8 @@ date,health_org_name,admissions
 2020-04-01,Private med avtale med Helse Sør-Øst i Oslo,22
 2020-04-01,Sørlandet sykehus HF,14
 2020-04-01,St. Olavs hospital,10
-2020-04-01,Sykehuset Innlandet HF,17
 2020-04-01,Sykehuset i Vestfold HF,13
+2020-04-01,Sykehuset Innlandet HF,17
 2020-04-01,Sykehuset Østfold HF,23
 2020-04-01,Sykehuset Telemark HF,5
 2020-04-01,Universitetssykehuset Nord-Norge HF,10
@@ -513,8 +513,8 @@ date,health_org_name,admissions
 2020-04-02,Private med avtale med Helse Sør-Øst i Oslo,20
 2020-04-02,Sørlandet sykehus HF,16
 2020-04-02,St. Olavs hospital,12
-2020-04-02,Sykehuset Innlandet HF,18
 2020-04-02,Sykehuset i Vestfold HF,13
+2020-04-02,Sykehuset Innlandet HF,18
 2020-04-02,Sykehuset Østfold HF,22
 2020-04-02,Sykehuset Telemark HF,5
 2020-04-02,Universitetssykehuset Nord-Norge HF,9
@@ -533,8 +533,8 @@ date,health_org_name,admissions
 2020-04-03,Private med avtale med Helse Sør-Øst i Oslo,22
 2020-04-03,Sørlandet sykehus HF,10
 2020-04-03,St. Olavs hospital,9
-2020-04-03,Sykehuset Innlandet HF,16
 2020-04-03,Sykehuset i Vestfold HF,14
+2020-04-03,Sykehuset Innlandet HF,16
 2020-04-03,Sykehuset Østfold HF,22
 2020-04-03,Sykehuset Telemark HF,6
 2020-04-03,Universitetssykehuset Nord-Norge HF,10
@@ -553,8 +553,8 @@ date,health_org_name,admissions
 2020-04-04,Private med avtale med Helse Sør-Øst i Oslo,24
 2020-04-04,Sørlandet sykehus HF,11
 2020-04-04,St. Olavs hospital,8
-2020-04-04,Sykehuset Innlandet HF,16
 2020-04-04,Sykehuset i Vestfold HF,9
+2020-04-04,Sykehuset Innlandet HF,16
 2020-04-04,Sykehuset Østfold HF,20
 2020-04-04,Sykehuset Telemark HF,6
 2020-04-04,Universitetssykehuset Nord-Norge HF,10
@@ -573,8 +573,8 @@ date,health_org_name,admissions
 2020-04-05,Private med avtale med Helse Sør-Øst i Oslo,24
 2020-04-05,Sørlandet sykehus HF,12
 2020-04-05,St. Olavs hospital,10
-2020-04-05,Sykehuset Innlandet HF,14
 2020-04-05,Sykehuset i Vestfold HF,8
+2020-04-05,Sykehuset Innlandet HF,14
 2020-04-05,Sykehuset Østfold HF,20
 2020-04-05,Sykehuset Telemark HF,7
 2020-04-05,Universitetssykehuset Nord-Norge HF,10
@@ -593,8 +593,8 @@ date,health_org_name,admissions
 2020-04-06,Private med avtale med Helse Sør-Øst i Oslo,25
 2020-04-06,Sørlandet sykehus HF,12
 2020-04-06,St. Olavs hospital,12
-2020-04-06,Sykehuset Innlandet HF,15
 2020-04-06,Sykehuset i Vestfold HF,8
+2020-04-06,Sykehuset Innlandet HF,15
 2020-04-06,Sykehuset Østfold HF,20
 2020-04-06,Sykehuset Telemark HF,6
 2020-04-06,Universitetssykehuset Nord-Norge HF,10
@@ -613,8 +613,8 @@ date,health_org_name,admissions
 2020-04-07,Private med avtale med Helse Sør-Øst i Oslo,22
 2020-04-07,Sørlandet sykehus HF,9
 2020-04-07,St. Olavs hospital,12
-2020-04-07,Sykehuset Innlandet HF,13
 2020-04-07,Sykehuset i Vestfold HF,8
+2020-04-07,Sykehuset Innlandet HF,13
 2020-04-07,Sykehuset Østfold HF,16
 2020-04-07,Sykehuset Telemark HF,7
 2020-04-07,Universitetssykehuset Nord-Norge HF,9
@@ -633,8 +633,8 @@ date,health_org_name,admissions
 2020-04-08,Private med avtale med Helse Sør-Øst i Oslo,23
 2020-04-08,Sørlandet sykehus HF,6
 2020-04-08,St. Olavs hospital,12
-2020-04-08,Sykehuset Innlandet HF,12
 2020-04-08,Sykehuset i Vestfold HF,8
+2020-04-08,Sykehuset Innlandet HF,12
 2020-04-08,Sykehuset Østfold HF,14
 2020-04-08,Sykehuset Telemark HF,5
 2020-04-08,Universitetssykehuset Nord-Norge HF,9
@@ -653,8 +653,8 @@ date,health_org_name,admissions
 2020-04-09,Private med avtale med Helse Sør-Øst i Oslo,29
 2020-04-09,Sørlandet sykehus HF,9
 2020-04-09,St. Olavs hospital,10
-2020-04-09,Sykehuset Innlandet HF,12
 2020-04-09,Sykehuset i Vestfold HF,8
+2020-04-09,Sykehuset Innlandet HF,12
 2020-04-09,Sykehuset Østfold HF,14
 2020-04-09,Sykehuset Telemark HF,5
 2020-04-09,Universitetssykehuset Nord-Norge HF,8
@@ -673,8 +673,8 @@ date,health_org_name,admissions
 2020-04-10,Private med avtale med Helse Sør-Øst i Oslo,30
 2020-04-10,Sørlandet sykehus HF,9
 2020-04-10,St. Olavs hospital,10
-2020-04-10,Sykehuset Innlandet HF,11
 2020-04-10,Sykehuset i Vestfold HF,7
+2020-04-10,Sykehuset Innlandet HF,11
 2020-04-10,Sykehuset Østfold HF,11
 2020-04-10,Sykehuset Telemark HF,3
 2020-04-10,Universitetssykehuset Nord-Norge HF,8
@@ -693,8 +693,8 @@ date,health_org_name,admissions
 2020-04-11,Private med avtale med Helse Sør-Øst i Oslo,22
 2020-04-11,Sørlandet sykehus HF,8
 2020-04-11,St. Olavs hospital,10
-2020-04-11,Sykehuset Innlandet HF,10
 2020-04-11,Sykehuset i Vestfold HF,6
+2020-04-11,Sykehuset Innlandet HF,10
 2020-04-11,Sykehuset Østfold HF,12
 2020-04-11,Sykehuset Telemark HF,3
 2020-04-11,Universitetssykehuset Nord-Norge HF,7
@@ -713,8 +713,8 @@ date,health_org_name,admissions
 2020-04-12,Private med avtale med Helse Sør-Øst i Oslo,24
 2020-04-12,Sørlandet sykehus HF,8
 2020-04-12,St. Olavs hospital,9
-2020-04-12,Sykehuset Innlandet HF,10
 2020-04-12,Sykehuset i Vestfold HF,6
+2020-04-12,Sykehuset Innlandet HF,10
 2020-04-12,Sykehuset Østfold HF,14
 2020-04-12,Sykehuset Telemark HF,3
 2020-04-12,Universitetssykehuset Nord-Norge HF,6
@@ -733,8 +733,8 @@ date,health_org_name,admissions
 2020-04-13,Private med avtale med Helse Sør-Øst i Oslo,21
 2020-04-13,Sørlandet sykehus HF,7
 2020-04-13,St. Olavs hospital,9
-2020-04-13,Sykehuset Innlandet HF,9
 2020-04-13,Sykehuset i Vestfold HF,7
+2020-04-13,Sykehuset Innlandet HF,9
 2020-04-13,Sykehuset Østfold HF,13
 2020-04-13,Sykehuset Telemark HF,3
 2020-04-13,Universitetssykehuset Nord-Norge HF,7
@@ -753,8 +753,8 @@ date,health_org_name,admissions
 2020-04-14,Private med avtale med Helse Sør-Øst i Oslo,22
 2020-04-14,Sørlandet sykehus HF,6
 2020-04-14,St. Olavs hospital,10
-2020-04-14,Sykehuset Innlandet HF,9
 2020-04-14,Sykehuset i Vestfold HF,6
+2020-04-14,Sykehuset Innlandet HF,9
 2020-04-14,Sykehuset Østfold HF,10
 2020-04-14,Sykehuset Telemark HF,3
 2020-04-14,Universitetssykehuset Nord-Norge HF,7
@@ -773,8 +773,8 @@ date,health_org_name,admissions
 2020-04-15,Private med avtale med Helse Sør-Øst i Oslo,26
 2020-04-15,Sørlandet sykehus HF,6
 2020-04-15,St. Olavs hospital,8
-2020-04-15,Sykehuset Innlandet HF,9
 2020-04-15,Sykehuset i Vestfold HF,5
+2020-04-15,Sykehuset Innlandet HF,9
 2020-04-15,Sykehuset Østfold HF,9
 2020-04-15,Sykehuset Telemark HF,3
 2020-04-15,Universitetssykehuset Nord-Norge HF,6
@@ -793,8 +793,8 @@ date,health_org_name,admissions
 2020-04-16,Private med avtale med Helse Sør-Øst i Oslo,22
 2020-04-16,Sørlandet sykehus HF,5
 2020-04-16,St. Olavs hospital,6
-2020-04-16,Sykehuset Innlandet HF,11
 2020-04-16,Sykehuset i Vestfold HF,4
+2020-04-16,Sykehuset Innlandet HF,11
 2020-04-16,Sykehuset Østfold HF,11
 2020-04-16,Sykehuset Telemark HF,2
 2020-04-16,Universitetssykehuset Nord-Norge HF,7
@@ -813,8 +813,8 @@ date,health_org_name,admissions
 2020-04-17,Private med avtale med Helse Sør-Øst i Oslo,21
 2020-04-17,Sørlandet sykehus HF,4
 2020-04-17,St. Olavs hospital,4
-2020-04-17,Sykehuset Innlandet HF,11
 2020-04-17,Sykehuset i Vestfold HF,4
+2020-04-17,Sykehuset Innlandet HF,11
 2020-04-17,Sykehuset Østfold HF,10
 2020-04-17,Sykehuset Telemark HF,2
 2020-04-17,Universitetssykehuset Nord-Norge HF,7
@@ -833,8 +833,8 @@ date,health_org_name,admissions
 2020-04-18,Private med avtale med Helse Sør-Øst i Oslo,23
 2020-04-18,Sørlandet sykehus HF,4
 2020-04-18,St. Olavs hospital,2
-2020-04-18,Sykehuset Innlandet HF,9
 2020-04-18,Sykehuset i Vestfold HF,4
+2020-04-18,Sykehuset Innlandet HF,9
 2020-04-18,Sykehuset Østfold HF,8
 2020-04-18,Sykehuset Telemark HF,2
 2020-04-18,Universitetssykehuset Nord-Norge HF,5
@@ -853,8 +853,8 @@ date,health_org_name,admissions
 2020-04-19,Private med avtale med Helse Sør-Øst i Oslo,21
 2020-04-19,Sørlandet sykehus HF,3
 2020-04-19,St. Olavs hospital,2
-2020-04-19,Sykehuset Innlandet HF,10
 2020-04-19,Sykehuset i Vestfold HF,6
+2020-04-19,Sykehuset Innlandet HF,10
 2020-04-19,Sykehuset Østfold HF,8
 2020-04-19,Sykehuset Telemark HF,2
 2020-04-19,Universitetssykehuset Nord-Norge HF,6
@@ -873,8 +873,8 @@ date,health_org_name,admissions
 2020-04-20,Private med avtale med Helse Sør-Øst i Oslo,20
 2020-04-20,Sørlandet sykehus HF,5
 2020-04-20,St. Olavs hospital,2
-2020-04-20,Sykehuset Innlandet HF,10
 2020-04-20,Sykehuset i Vestfold HF,7
+2020-04-20,Sykehuset Innlandet HF,10
 2020-04-20,Sykehuset Østfold HF,8
 2020-04-20,Sykehuset Telemark HF,2
 2020-04-20,Universitetssykehuset Nord-Norge HF,6
@@ -893,8 +893,8 @@ date,health_org_name,admissions
 2020-04-21,Private med avtale med Helse Sør-Øst i Oslo,18
 2020-04-21,Sørlandet sykehus HF,5
 2020-04-21,St. Olavs hospital,2
-2020-04-21,Sykehuset Innlandet HF,8
 2020-04-21,Sykehuset i Vestfold HF,7
+2020-04-21,Sykehuset Innlandet HF,8
 2020-04-21,Sykehuset Østfold HF,4
 2020-04-21,Sykehuset Telemark HF,2
 2020-04-21,Universitetssykehuset Nord-Norge HF,6
@@ -913,8 +913,8 @@ date,health_org_name,admissions
 2020-04-22,Private med avtale med Helse Sør-Øst i Oslo,16
 2020-04-22,Sørlandet sykehus HF,3
 2020-04-22,St. Olavs hospital,2
-2020-04-22,Sykehuset Innlandet HF,7
 2020-04-22,Sykehuset i Vestfold HF,5
+2020-04-22,Sykehuset Innlandet HF,7
 2020-04-22,Sykehuset Østfold HF,4
 2020-04-22,Sykehuset Telemark HF,2
 2020-04-22,Universitetssykehuset Nord-Norge HF,6
@@ -933,8 +933,8 @@ date,health_org_name,admissions
 2020-04-23,Private med avtale med Helse Sør-Øst i Oslo,18
 2020-04-23,Sørlandet sykehus HF,2
 2020-04-23,St. Olavs hospital,2
-2020-04-23,Sykehuset Innlandet HF,7
 2020-04-23,Sykehuset i Vestfold HF,6
+2020-04-23,Sykehuset Innlandet HF,7
 2020-04-23,Sykehuset Østfold HF,4
 2020-04-23,Sykehuset Telemark HF,2
 2020-04-23,Universitetssykehuset Nord-Norge HF,6
@@ -953,8 +953,8 @@ date,health_org_name,admissions
 2020-04-24,Private med avtale med Helse Sør-Øst i Oslo,12
 2020-04-24,Sørlandet sykehus HF,4
 2020-04-24,St. Olavs hospital,2
-2020-04-24,Sykehuset Innlandet HF,6
 2020-04-24,Sykehuset i Vestfold HF,7
+2020-04-24,Sykehuset Innlandet HF,6
 2020-04-24,Sykehuset Østfold HF,4
 2020-04-24,Sykehuset Telemark HF,2
 2020-04-24,Universitetssykehuset Nord-Norge HF,6
@@ -973,8 +973,8 @@ date,health_org_name,admissions
 2020-04-25,Private med avtale med Helse Sør-Øst i Oslo,12
 2020-04-25,Sørlandet sykehus HF,4
 2020-04-25,St. Olavs hospital,2
-2020-04-25,Sykehuset Innlandet HF,6
 2020-04-25,Sykehuset i Vestfold HF,6
+2020-04-25,Sykehuset Innlandet HF,6
 2020-04-25,Sykehuset Østfold HF,6
 2020-04-25,Sykehuset Telemark HF,3
 2020-04-25,Universitetssykehuset Nord-Norge HF,6
@@ -993,8 +993,8 @@ date,health_org_name,admissions
 2020-04-26,Private med avtale med Helse Sør-Øst i Oslo,13
 2020-04-26,Sørlandet sykehus HF,4
 2020-04-26,St. Olavs hospital,2
-2020-04-26,Sykehuset Innlandet HF,6
 2020-04-26,Sykehuset i Vestfold HF,6
+2020-04-26,Sykehuset Innlandet HF,6
 2020-04-26,Sykehuset Østfold HF,6
 2020-04-26,Sykehuset Telemark HF,4
 2020-04-26,Universitetssykehuset Nord-Norge HF,6
@@ -1013,8 +1013,8 @@ date,health_org_name,admissions
 2020-04-27,Private med avtale med Helse Sør-Øst i Oslo,12
 2020-04-27,Sørlandet sykehus HF,4
 2020-04-27,St. Olavs hospital,2
-2020-04-27,Sykehuset Innlandet HF,6
 2020-04-27,Sykehuset i Vestfold HF,7
+2020-04-27,Sykehuset Innlandet HF,6
 2020-04-27,Sykehuset Østfold HF,6
 2020-04-27,Sykehuset Telemark HF,4
 2020-04-27,Universitetssykehuset Nord-Norge HF,5
@@ -1033,9 +1033,29 @@ date,health_org_name,admissions
 2020-04-28,Private med avtale med Helse Sør-Øst i Oslo,12
 2020-04-28,Sørlandet sykehus HF,3
 2020-04-28,St. Olavs hospital,2
-2020-04-28,Sykehuset Innlandet HF,7
 2020-04-28,Sykehuset i Vestfold HF,7
+2020-04-28,Sykehuset Innlandet HF,7
 2020-04-28,Sykehuset Østfold HF,6
 2020-04-28,Sykehuset Telemark HF,3
 2020-04-28,Universitetssykehuset Nord-Norge HF,5
 2020-04-28,Vestre Viken HF,8
+2020-04-29,Akershus universitetssykehus HF,16
+2020-04-29,Finnmarkssykehuset HF,0
+2020-04-29,Helgelandssykehuset HF,0
+2020-04-29,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,11
+2020-04-29,Helse Fonna HF,2
+2020-04-29,Helse Førde HF,1
+2020-04-29,Helse Møre og Romsdal,2
+2020-04-29,Helse Nord-Trøndelag,1
+2020-04-29,Helse Stavanger HF,1
+2020-04-29,Nordlandssykehuset HF,3
+2020-04-29,Oslo universitetssykehus HF,26
+2020-04-29,Private med avtale med Helse Sør-Øst i Oslo,15
+2020-04-29,Sørlandet sykehus HF,3
+2020-04-29,St. Olavs hospital,2
+2020-04-29,Sykehuset i Vestfold HF,5
+2020-04-29,Sykehuset Innlandet HF,6
+2020-04-29,Sykehuset Østfold HF,5
+2020-04-29,Sykehuset Telemark HF,2
+2020-04-29,Universitetssykehuset Nord-Norge HF,6
+2020-04-29,Vestre Viken HF,7
