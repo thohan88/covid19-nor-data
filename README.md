@@ -55,7 +55,7 @@ fully available source code.
 <td style="text-align: left;">Healthcare</td>
 <td style="text-align: left;">Infected</td>
 <td style="text-align: left;">MSIS</td>
-<td style="text-align: left;">2020-05-06</td>
+<td style="text-align: left;">2020-05-07</td>
 <td style="text-align: left;"><a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/01_infected/msis/municipality_and_district.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/01_infected/msis/municipality_and_district.xlsx">xlsx</a></td>
 <td style="text-align: left;"><a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/01_infected/msis/municipality_and_district.csv">preview</a></td>
 </tr>
@@ -63,7 +63,7 @@ fully available source code.
 <td style="text-align: left;">Healthcare</td>
 <td style="text-align: left;">Admissions</td>
 <td style="text-align: left;">Directorate of Health</td>
-<td style="text-align: left;">2020-05-06</td>
+<td style="text-align: left;">2020-05-07</td>
 <td style="text-align: left;"><a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/02_admissions/admissions.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/02_admissions/admissions.xlsx">xlsx</a></td>
 <td style="text-align: left;"><a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/02_admissions/admissions.csv">preview</a></td>
 </tr>
@@ -71,7 +71,7 @@ fully available source code.
 <td style="text-align: left;">Healthcare</td>
 <td style="text-align: left;">In respirator</td>
 <td style="text-align: left;">Directorate of Health</td>
-<td style="text-align: left;">2020-05-06</td>
+<td style="text-align: left;">2020-05-07</td>
 <td style="text-align: left;"><a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/02_admissions/admissions_with_respirators.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/02_admissions/admissions_with_respirators.xlsx">xlsx</a></td>
 <td style="text-align: left;"><a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/02_admissions/admissions_with_respirators.csv">preview</a></td>
 </tr>
@@ -79,7 +79,7 @@ fully available source code.
 <td style="text-align: left;">Healthcare</td>
 <td style="text-align: left;">Covid tests</td>
 <td style="text-align: left;">FHI</td>
-<td style="text-align: left;">2020-05-06</td>
+<td style="text-align: left;">2020-05-07</td>
 <td style="text-align: left;"><a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/03_covid_tests/national_tests.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/03_covid_tests/national_tests.xlsx">xlsx</a></td>
 <td style="text-align: left;"><a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/03_covid_tests/national_tests.csv">preview</a></td>
 </tr>
@@ -87,7 +87,7 @@ fully available source code.
 <td style="text-align: left;">Healthcare</td>
 <td style="text-align: left;">Covid deaths</td>
 <td style="text-align: left;">FHI</td>
-<td style="text-align: left;">2020-05-06</td>
+<td style="text-align: left;">2020-05-07</td>
 <td style="text-align: left;"><a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/04_deaths/deaths_total_fhi.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/04_deaths/deaths_total_fhi.xlsx">xlsx</a></td>
 <td style="text-align: left;"><a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/04_deaths/deaths_total_fhi.csv">preview</a></td>
 </tr>
@@ -95,7 +95,7 @@ fully available source code.
 <td style="text-align: left;">Mobility</td>
 <td style="text-align: left;">Apple Mobility</td>
 <td style="text-align: left;">Apple</td>
-<td style="text-align: left;">2020-05-06</td>
+<td style="text-align: left;">2020-05-07</td>
 <td style="text-align: left;"><a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/20_mobility/apple/mobility.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/20_mobility/apple/mobility.xlsx">xlsx</a></td>
 <td style="text-align: left;"><a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/20_mobility/apple/mobility.csv">preview</a></td>
 </tr>
@@ -103,7 +103,7 @@ fully available source code.
 <td style="text-align: left;">Mobility</td>
 <td style="text-align: left;">Google Mobility</td>
 <td style="text-align: left;">Google</td>
-<td style="text-align: left;">2020-05-06</td>
+<td style="text-align: left;">2020-05-07</td>
 <td style="text-align: left;"><a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/20_mobility/google/mobility.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/20_mobility/google/mobility.xlsx">xlsx</a></td>
 <td style="text-align: left;"><a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/20_mobility/google/mobility.csv">preview</a></td>
 </tr>
@@ -111,7 +111,7 @@ fully available source code.
 <td style="text-align: left;">Economics</td>
 <td style="text-align: left;">Unemployment benefits</td>
 <td style="text-align: left;">NAV</td>
-<td style="text-align: left;">2020-05-06</td>
+<td style="text-align: left;">2020-05-07</td>
 <td style="text-align: left;"><a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/10_employment/nav/applications_unemployment_benefits.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/10_employment/nav/applications_unemployment_benefits.xlsx">xlsx</a></td>
 <td style="text-align: left;"><a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/10_employment/nav/applications_unemployment_benefits.csv">preview</a></td>
 </tr>
