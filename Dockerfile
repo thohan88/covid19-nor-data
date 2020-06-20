@@ -47,7 +47,7 @@ RUN echo "PATH=${PATH}" >> /usr/local/lib/R/etc/Renviron && \
 
 # Add pip-packages
 RUN pip install --upgrade pip && \
-  pip install --no-cache-dir pandas==1.0.3 pyYAML==5.3.1 requests==2.23.0
+  pip install --no-cache-dir pandas==1.0.5 pyYAML==5.3.1 requests==2.23.0 openpyxl==3.0.3
 
 # Install reticulate
 RUN install2.r \ 
