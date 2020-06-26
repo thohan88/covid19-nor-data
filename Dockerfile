@@ -6,7 +6,6 @@ RUN apt-get update \
     libgdal-dev \
     libgeos-dev \
     libjq-dev \
-    liblwgeom-dev \
     libssl-dev \
     libudunits2-dev \
     libpoppler-cpp-dev \

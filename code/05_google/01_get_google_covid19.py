@@ -34,5 +34,5 @@ district = df.dropna(subset=['fylke_no', 'fylke_name']).drop(columns=['country_r
 district['fylke_no'] = district['fylke_no'].str.replace('NO-', '')
 district = district.melt(id_vars=['fylke_no', 'fylke_name', 'date'], var_name='category', value_name='mob_change')
 
-district.to_csv('data/20_mobility/google/mobility_district.csv', encoding='utf-8', index=False)
-district.to_excel('data/20_mobility/google/mobility_district.xlsx', encoding='utf-8', index=False)
+district.to_csv('data/20_mobility/google/mobility.csv', encoding='utf-8', index=False)
+district.to_excel('data/20_mobility/google/mobility.xlsx', encoding='utf-8', index=False)

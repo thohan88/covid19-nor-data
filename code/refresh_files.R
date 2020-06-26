@@ -13,6 +13,8 @@ files_data <- dir("code", full.names = TRUE, recursive = TRUE, pattern = "R$") %
 
 foo <- map(files_data$file_name, source_possibly)
 
+reticulate::py_run_file("code/05_google/01_get_google_covid19.py")
+
 ############################## #
 # Refresh examples
 ############################## #

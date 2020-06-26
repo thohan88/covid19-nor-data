@@ -13,6 +13,7 @@ library(jsonlite)
 library(gt)
 library(httr)
 library(rmarkdown)
+library(reticulate)
 
 ##################################### #
 # Process ----
