@@ -10,10 +10,10 @@ COVID-19-situtation in Norway is a mix of
 [Power
 BI-dashboards](https://www.helsedirektoratet.no/statistikk/antall-innlagte-pasienter-pa-sykehus-med-pavist-covid-19)
 and public registries. Further, much of the data is only released as
-cumulative statistics at aggregated levels (e.g.
-[MSIS](http://www.msis.no/)). The absence of detailed data has created a
-market for media outlets to release local “situation reports” behind
-paywalls (see:
+cumulative statistics at aggregated levels
+(e.g. [MSIS](http://www.msis.no/)). The absence of detailed data has
+created a market for media outlets to release local “situation reports”
+behind paywalls (see:
 [Aftenposten](https://www.aftenposten.no/norge/i/K3mnr4/i-det-meste-av-landet-bremser-viruset-opp-i-oslo-sprer-det-seg-raskt-fra-bydel-til-bydel)).
 This project is a an open-source effort to make data about the Covid-19
 situtation in Norway available to the public in a timely and coherent
@@ -108,6 +108,14 @@ fully available source code.
 <td style="text-align: left;"><a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/20_mobility/google/mobility.csv">preview</a></td>
 </tr>
 <tr class="even">
+<td style="text-align: left;">Mobility</td>
+<td style="text-align: left;">Google Mobility</td>
+<td style="text-align: left;">Google</td>
+<td style="text-align: left;">2020-06-26</td>
+<td style="text-align: left;"><a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/20_mobility/google/mobility_national.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/20_mobility/google/mobility_national.xlsx">xlsx</a></td>
+<td style="text-align: left;"><a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/20_mobility/google/mobility_national.csv">preview</a></td>
+</tr>
+<tr class="odd">
 <td style="text-align: left;">Economics</td>
 <td style="text-align: left;">Unemployment benefits</td>
 <td style="text-align: left;">NAV</td>

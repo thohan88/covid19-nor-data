@@ -1,0 +1,775 @@
+country_region_code,date,category,mob_change
+NO,2020-02-15,Retail & recreation,1.0
+NO,2020-02-16,Retail & recreation,-5.0
+NO,2020-02-17,Retail & recreation,2.0
+NO,2020-02-18,Retail & recreation,3.0
+NO,2020-02-19,Retail & recreation,6.0
+NO,2020-02-20,Retail & recreation,-1.0
+NO,2020-02-21,Retail & recreation,1.0
+NO,2020-02-22,Retail & recreation,-3.0
+NO,2020-02-23,Retail & recreation,-1.0
+NO,2020-02-24,Retail & recreation,1.0
+NO,2020-02-25,Retail & recreation,1.0
+NO,2020-02-26,Retail & recreation,2.0
+NO,2020-02-27,Retail & recreation,1.0
+NO,2020-02-28,Retail & recreation,1.0
+NO,2020-02-29,Retail & recreation,-4.0
+NO,2020-03-01,Retail & recreation,-10.0
+NO,2020-03-02,Retail & recreation,-2.0
+NO,2020-03-03,Retail & recreation,-1.0
+NO,2020-03-04,Retail & recreation,-3.0
+NO,2020-03-05,Retail & recreation,0.0
+NO,2020-03-06,Retail & recreation,-2.0
+NO,2020-03-07,Retail & recreation,-7.0
+NO,2020-03-08,Retail & recreation,-11.0
+NO,2020-03-09,Retail & recreation,-4.0
+NO,2020-03-10,Retail & recreation,-5.0
+NO,2020-03-11,Retail & recreation,-6.0
+NO,2020-03-12,Retail & recreation,-6.0
+NO,2020-03-13,Retail & recreation,-34.0
+NO,2020-03-14,Retail & recreation,-47.0
+NO,2020-03-15,Retail & recreation,-71.0
+NO,2020-03-16,Retail & recreation,-39.0
+NO,2020-03-17,Retail & recreation,-44.0
+NO,2020-03-18,Retail & recreation,-46.0
+NO,2020-03-19,Retail & recreation,-44.0
+NO,2020-03-20,Retail & recreation,-44.0
+NO,2020-03-21,Retail & recreation,-49.0
+NO,2020-03-22,Retail & recreation,-65.0
+NO,2020-03-23,Retail & recreation,-41.0
+NO,2020-03-24,Retail & recreation,-45.0
+NO,2020-03-25,Retail & recreation,-45.0
+NO,2020-03-26,Retail & recreation,-43.0
+NO,2020-03-27,Retail & recreation,-42.0
+NO,2020-03-28,Retail & recreation,-47.0
+NO,2020-03-29,Retail & recreation,-65.0
+NO,2020-03-30,Retail & recreation,-37.0
+NO,2020-03-31,Retail & recreation,-36.0
+NO,2020-04-01,Retail & recreation,-36.0
+NO,2020-04-02,Retail & recreation,-37.0
+NO,2020-04-03,Retail & recreation,-35.0
+NO,2020-04-04,Retail & recreation,-40.0
+NO,2020-04-05,Retail & recreation,-60.0
+NO,2020-04-06,Retail & recreation,-16.0
+NO,2020-04-07,Retail & recreation,-12.0
+NO,2020-04-08,Retail & recreation,-11.0
+NO,2020-04-09,Retail & recreation,-80.0
+NO,2020-04-10,Retail & recreation,-81.0
+NO,2020-04-11,Retail & recreation,-43.0
+NO,2020-04-12,Retail & recreation,-63.0
+NO,2020-04-13,Retail & recreation,-80.0
+NO,2020-04-14,Retail & recreation,-26.0
+NO,2020-04-15,Retail & recreation,-29.0
+NO,2020-04-16,Retail & recreation,-28.0
+NO,2020-04-17,Retail & recreation,-24.0
+NO,2020-04-18,Retail & recreation,-31.0
+NO,2020-04-19,Retail & recreation,-41.0
+NO,2020-04-20,Retail & recreation,-17.0
+NO,2020-04-21,Retail & recreation,-20.0
+NO,2020-04-22,Retail & recreation,-22.0
+NO,2020-04-23,Retail & recreation,-22.0
+NO,2020-04-24,Retail & recreation,-25.0
+NO,2020-04-25,Retail & recreation,-29.0
+NO,2020-04-26,Retail & recreation,-43.0
+NO,2020-04-27,Retail & recreation,-19.0
+NO,2020-04-28,Retail & recreation,-18.0
+NO,2020-04-29,Retail & recreation,-16.0
+NO,2020-04-30,Retail & recreation,-5.0
+NO,2020-05-01,Retail & recreation,-74.0
+NO,2020-05-02,Retail & recreation,-16.0
+NO,2020-05-03,Retail & recreation,-39.0
+NO,2020-05-04,Retail & recreation,-11.0
+NO,2020-05-05,Retail & recreation,-13.0
+NO,2020-05-06,Retail & recreation,-13.0
+NO,2020-05-07,Retail & recreation,-14.0
+NO,2020-05-08,Retail & recreation,-14.0
+NO,2020-05-09,Retail & recreation,-18.0
+NO,2020-05-10,Retail & recreation,-42.0
+NO,2020-05-11,Retail & recreation,-10.0
+NO,2020-05-12,Retail & recreation,-9.0
+NO,2020-05-13,Retail & recreation,-9.0
+NO,2020-05-14,Retail & recreation,-5.0
+NO,2020-05-15,Retail & recreation,-7.0
+NO,2020-05-16,Retail & recreation,-15.0
+NO,2020-05-17,Retail & recreation,-29.0
+NO,2020-05-18,Retail & recreation,-14.0
+NO,2020-05-19,Retail & recreation,-6.0
+NO,2020-05-20,Retail & recreation,9.0
+NO,2020-05-21,Retail & recreation,-61.0
+NO,2020-05-22,Retail & recreation,-1.0
+NO,2020-05-23,Retail & recreation,-16.0
+NO,2020-05-24,Retail & recreation,-26.0
+NO,2020-05-25,Retail & recreation,0.0
+NO,2020-05-26,Retail & recreation,-2.0
+NO,2020-05-27,Retail & recreation,-1.0
+NO,2020-05-28,Retail & recreation,0.0
+NO,2020-05-29,Retail & recreation,0.0
+NO,2020-05-30,Retail & recreation,-16.0
+NO,2020-05-31,Retail & recreation,-13.0
+NO,2020-06-01,Retail & recreation,-54.0
+NO,2020-06-02,Retail & recreation,7.0
+NO,2020-06-03,Retail & recreation,1.0
+NO,2020-06-04,Retail & recreation,-1.0
+NO,2020-06-05,Retail & recreation,-5.0
+NO,2020-06-06,Retail & recreation,-8.0
+NO,2020-06-07,Retail & recreation,-24.0
+NO,2020-06-08,Retail & recreation,2.0
+NO,2020-06-09,Retail & recreation,3.0
+NO,2020-06-10,Retail & recreation,3.0
+NO,2020-06-11,Retail & recreation,6.0
+NO,2020-06-12,Retail & recreation,8.0
+NO,2020-06-13,Retail & recreation,-6.0
+NO,2020-06-14,Retail & recreation,-4.0
+NO,2020-06-15,Retail & recreation,14.0
+NO,2020-06-16,Retail & recreation,13.0
+NO,2020-06-17,Retail & recreation,13.0
+NO,2020-06-18,Retail & recreation,16.0
+NO,2020-06-19,Retail & recreation,10.0
+NO,2020-06-20,Retail & recreation,-3.0
+NO,2020-06-21,Retail & recreation,-6.0
+NO,2020-06-22,Retail & recreation,20.0
+NO,2020-02-15,Grocery & pharmacy,1.0
+NO,2020-02-16,Grocery & pharmacy,3.0
+NO,2020-02-17,Grocery & pharmacy,0.0
+NO,2020-02-18,Grocery & pharmacy,-1.0
+NO,2020-02-19,Grocery & pharmacy,4.0
+NO,2020-02-20,Grocery & pharmacy,-2.0
+NO,2020-02-21,Grocery & pharmacy,-1.0
+NO,2020-02-22,Grocery & pharmacy,-1.0
+NO,2020-02-23,Grocery & pharmacy,9.0
+NO,2020-02-24,Grocery & pharmacy,1.0
+NO,2020-02-25,Grocery & pharmacy,1.0
+NO,2020-02-26,Grocery & pharmacy,2.0
+NO,2020-02-27,Grocery & pharmacy,3.0
+NO,2020-02-28,Grocery & pharmacy,3.0
+NO,2020-02-29,Grocery & pharmacy,-1.0
+NO,2020-03-01,Grocery & pharmacy,2.0
+NO,2020-03-02,Grocery & pharmacy,2.0
+NO,2020-03-03,Grocery & pharmacy,1.0
+NO,2020-03-04,Grocery & pharmacy,1.0
+NO,2020-03-05,Grocery & pharmacy,4.0
+NO,2020-03-06,Grocery & pharmacy,3.0
+NO,2020-03-07,Grocery & pharmacy,0.0
+NO,2020-03-08,Grocery & pharmacy,-2.0
+NO,2020-03-09,Grocery & pharmacy,2.0
+NO,2020-03-10,Grocery & pharmacy,2.0
+NO,2020-03-11,Grocery & pharmacy,9.0
+NO,2020-03-12,Grocery & pharmacy,51.0
+NO,2020-03-13,Grocery & pharmacy,5.0
+NO,2020-03-14,Grocery & pharmacy,-9.0
+NO,2020-03-15,Grocery & pharmacy,-39.0
+NO,2020-03-16,Grocery & pharmacy,-9.0
+NO,2020-03-17,Grocery & pharmacy,-15.0
+NO,2020-03-18,Grocery & pharmacy,-15.0
+NO,2020-03-19,Grocery & pharmacy,-11.0
+NO,2020-03-20,Grocery & pharmacy,-12.0
+NO,2020-03-21,Grocery & pharmacy,-10.0
+NO,2020-03-22,Grocery & pharmacy,-32.0
+NO,2020-03-23,Grocery & pharmacy,-14.0
+NO,2020-03-24,Grocery & pharmacy,-14.0
+NO,2020-03-25,Grocery & pharmacy,-13.0
+NO,2020-03-26,Grocery & pharmacy,-10.0
+NO,2020-03-27,Grocery & pharmacy,-9.0
+NO,2020-03-28,Grocery & pharmacy,-8.0
+NO,2020-03-29,Grocery & pharmacy,-32.0
+NO,2020-03-30,Grocery & pharmacy,-11.0
+NO,2020-03-31,Grocery & pharmacy,-7.0
+NO,2020-04-01,Grocery & pharmacy,-6.0
+NO,2020-04-02,Grocery & pharmacy,-4.0
+NO,2020-04-03,Grocery & pharmacy,-3.0
+NO,2020-04-04,Grocery & pharmacy,-3.0
+NO,2020-04-05,Grocery & pharmacy,-22.0
+NO,2020-04-06,Grocery & pharmacy,9.0
+NO,2020-04-07,Grocery & pharmacy,27.0
+NO,2020-04-08,Grocery & pharmacy,40.0
+NO,2020-04-09,Grocery & pharmacy,-80.0
+NO,2020-04-10,Grocery & pharmacy,-80.0
+NO,2020-04-11,Grocery & pharmacy,-2.0
+NO,2020-04-12,Grocery & pharmacy,-31.0
+NO,2020-04-13,Grocery & pharmacy,-80.0
+NO,2020-04-14,Grocery & pharmacy,7.0
+NO,2020-04-15,Grocery & pharmacy,-3.0
+NO,2020-04-16,Grocery & pharmacy,-2.0
+NO,2020-04-17,Grocery & pharmacy,3.0
+NO,2020-04-18,Grocery & pharmacy,3.0
+NO,2020-04-19,Grocery & pharmacy,
+NO,2020-04-20,Grocery & pharmacy,1.0
+NO,2020-04-21,Grocery & pharmacy,5.0
+NO,2020-04-22,Grocery & pharmacy,4.0
+NO,2020-04-23,Grocery & pharmacy,5.0
+NO,2020-04-24,Grocery & pharmacy,2.0
+NO,2020-04-25,Grocery & pharmacy,1.0
+NO,2020-04-26,Grocery & pharmacy,
+NO,2020-04-27,Grocery & pharmacy,-1.0
+NO,2020-04-28,Grocery & pharmacy,3.0
+NO,2020-04-29,Grocery & pharmacy,7.0
+NO,2020-04-30,Grocery & pharmacy,39.0
+NO,2020-05-01,Grocery & pharmacy,-78.0
+NO,2020-05-02,Grocery & pharmacy,17.0
+NO,2020-05-03,Grocery & pharmacy,
+NO,2020-05-04,Grocery & pharmacy,4.0
+NO,2020-05-05,Grocery & pharmacy,5.0
+NO,2020-05-06,Grocery & pharmacy,6.0
+NO,2020-05-07,Grocery & pharmacy,9.0
+NO,2020-05-08,Grocery & pharmacy,4.0
+NO,2020-05-09,Grocery & pharmacy,5.0
+NO,2020-05-10,Grocery & pharmacy,0.0
+NO,2020-05-11,Grocery & pharmacy,3.0
+NO,2020-05-12,Grocery & pharmacy,9.0
+NO,2020-05-13,Grocery & pharmacy,8.0
+NO,2020-05-14,Grocery & pharmacy,15.0
+NO,2020-05-15,Grocery & pharmacy,12.0
+NO,2020-05-16,Grocery & pharmacy,16.0
+NO,2020-05-17,Grocery & pharmacy,-22.0
+NO,2020-05-18,Grocery & pharmacy,-8.0
+NO,2020-05-19,Grocery & pharmacy,5.0
+NO,2020-05-20,Grocery & pharmacy,41.0
+NO,2020-05-21,Grocery & pharmacy,-70.0
+NO,2020-05-22,Grocery & pharmacy,15.0
+NO,2020-05-23,Grocery & pharmacy,2.0
+NO,2020-05-24,Grocery & pharmacy,9.0
+NO,2020-05-25,Grocery & pharmacy,10.0
+NO,2020-05-26,Grocery & pharmacy,8.0
+NO,2020-05-27,Grocery & pharmacy,11.0
+NO,2020-05-28,Grocery & pharmacy,16.0
+NO,2020-05-29,Grocery & pharmacy,18.0
+NO,2020-05-30,Grocery & pharmacy,2.0
+NO,2020-05-31,Grocery & pharmacy,49.0
+NO,2020-06-01,Grocery & pharmacy,-66.0
+NO,2020-06-02,Grocery & pharmacy,31.0
+NO,2020-06-03,Grocery & pharmacy,13.0
+NO,2020-06-04,Grocery & pharmacy,12.0
+NO,2020-06-05,Grocery & pharmacy,7.0
+NO,2020-06-06,Grocery & pharmacy,6.0
+NO,2020-06-07,Grocery & pharmacy,7.0
+NO,2020-06-08,Grocery & pharmacy,7.0
+NO,2020-06-09,Grocery & pharmacy,8.0
+NO,2020-06-10,Grocery & pharmacy,11.0
+NO,2020-06-11,Grocery & pharmacy,18.0
+NO,2020-06-12,Grocery & pharmacy,15.0
+NO,2020-06-13,Grocery & pharmacy,9.0
+NO,2020-06-14,Grocery & pharmacy,41.0
+NO,2020-06-15,Grocery & pharmacy,19.0
+NO,2020-06-16,Grocery & pharmacy,19.0
+NO,2020-06-17,Grocery & pharmacy,19.0
+NO,2020-06-18,Grocery & pharmacy,24.0
+NO,2020-06-19,Grocery & pharmacy,13.0
+NO,2020-06-20,Grocery & pharmacy,8.0
+NO,2020-06-21,Grocery & pharmacy,32.0
+NO,2020-06-22,Grocery & pharmacy,18.0
+NO,2020-02-15,Parks,26.0
+NO,2020-02-16,Parks,-34.0
+NO,2020-02-17,Parks,13.0
+NO,2020-02-18,Parks,15.0
+NO,2020-02-19,Parks,49.0
+NO,2020-02-20,Parks,-4.0
+NO,2020-02-21,Parks,12.0
+NO,2020-02-22,Parks,9.0
+NO,2020-02-23,Parks,0.0
+NO,2020-02-24,Parks,21.0
+NO,2020-02-25,Parks,13.0
+NO,2020-02-26,Parks,23.0
+NO,2020-02-27,Parks,14.0
+NO,2020-02-28,Parks,20.0
+NO,2020-02-29,Parks,2.0
+NO,2020-03-01,Parks,-30.0
+NO,2020-03-02,Parks,4.0
+NO,2020-03-03,Parks,6.0
+NO,2020-03-04,Parks,9.0
+NO,2020-03-05,Parks,26.0
+NO,2020-03-06,Parks,18.0
+NO,2020-03-07,Parks,29.0
+NO,2020-03-08,Parks,-37.0
+NO,2020-03-09,Parks,11.0
+NO,2020-03-10,Parks,-4.0
+NO,2020-03-11,Parks,10.0
+NO,2020-03-12,Parks,-1.0
+NO,2020-03-13,Parks,3.0
+NO,2020-03-14,Parks,26.0
+NO,2020-03-15,Parks,-50.0
+NO,2020-03-16,Parks,22.0
+NO,2020-03-17,Parks,10.0
+NO,2020-03-18,Parks,18.0
+NO,2020-03-19,Parks,24.0
+NO,2020-03-20,Parks,31.0
+NO,2020-03-21,Parks,80.0
+NO,2020-03-22,Parks,-8.0
+NO,2020-03-23,Parks,-1.0
+NO,2020-03-24,Parks,-8.0
+NO,2020-03-25,Parks,0.0
+NO,2020-03-26,Parks,29.0
+NO,2020-03-27,Parks,16.0
+NO,2020-03-28,Parks,29.0
+NO,2020-03-29,Parks,-5.0
+NO,2020-03-30,Parks,37.0
+NO,2020-03-31,Parks,23.0
+NO,2020-04-01,Parks,18.0
+NO,2020-04-02,Parks,-7.0
+NO,2020-04-03,Parks,13.0
+NO,2020-04-04,Parks,32.0
+NO,2020-04-05,Parks,14.0
+NO,2020-04-06,Parks,89.0
+NO,2020-04-07,Parks,104.0
+NO,2020-04-08,Parks,37.0
+NO,2020-04-09,Parks,166.0
+NO,2020-04-10,Parks,163.0
+NO,2020-04-11,Parks,-2.0
+NO,2020-04-12,Parks,12.0
+NO,2020-04-13,Parks,70.0
+NO,2020-04-14,Parks,3.0
+NO,2020-04-15,Parks,44.0
+NO,2020-04-16,Parks,53.0
+NO,2020-04-17,Parks,68.0
+NO,2020-04-18,Parks,99.0
+NO,2020-04-19,Parks,88.0
+NO,2020-04-20,Parks,106.0
+NO,2020-04-21,Parks,135.0
+NO,2020-04-22,Parks,130.0
+NO,2020-04-23,Parks,93.0
+NO,2020-04-24,Parks,56.0
+NO,2020-04-25,Parks,95.0
+NO,2020-04-26,Parks,48.0
+NO,2020-04-27,Parks,20.0
+NO,2020-04-28,Parks,48.0
+NO,2020-04-29,Parks,56.0
+NO,2020-04-30,Parks,51.0
+NO,2020-05-01,Parks,119.0
+NO,2020-05-02,Parks,95.0
+NO,2020-05-03,Parks,48.0
+NO,2020-05-04,Parks,51.0
+NO,2020-05-05,Parks,66.0
+NO,2020-05-06,Parks,74.0
+NO,2020-05-07,Parks,70.0
+NO,2020-05-08,Parks,64.0
+NO,2020-05-09,Parks,84.0
+NO,2020-05-10,Parks,2.0
+NO,2020-05-11,Parks,39.0
+NO,2020-05-12,Parks,27.0
+NO,2020-05-13,Parks,52.0
+NO,2020-05-14,Parks,43.0
+NO,2020-05-15,Parks,35.0
+NO,2020-05-16,Parks,21.0
+NO,2020-05-17,Parks,19.0
+NO,2020-05-18,Parks,61.0
+NO,2020-05-19,Parks,92.0
+NO,2020-05-20,Parks,127.0
+NO,2020-05-21,Parks,227.0
+NO,2020-05-22,Parks,92.0
+NO,2020-05-23,Parks,74.0
+NO,2020-05-24,Parks,27.0
+NO,2020-05-25,Parks,106.0
+NO,2020-05-26,Parks,74.0
+NO,2020-05-27,Parks,82.0
+NO,2020-05-28,Parks,98.0
+NO,2020-05-29,Parks,142.0
+NO,2020-05-30,Parks,210.0
+NO,2020-05-31,Parks,172.0
+NO,2020-06-01,Parks,314.0
+NO,2020-06-02,Parks,119.0
+NO,2020-06-03,Parks,97.0
+NO,2020-06-04,Parks,60.0
+NO,2020-06-05,Parks,42.0
+NO,2020-06-06,Parks,47.0
+NO,2020-06-07,Parks,11.0
+NO,2020-06-08,Parks,72.0
+NO,2020-06-09,Parks,104.0
+NO,2020-06-10,Parks,111.0
+NO,2020-06-11,Parks,153.0
+NO,2020-06-12,Parks,175.0
+NO,2020-06-13,Parks,207.0
+NO,2020-06-14,Parks,136.0
+NO,2020-06-15,Parks,181.0
+NO,2020-06-16,Parks,181.0
+NO,2020-06-17,Parks,173.0
+NO,2020-06-18,Parks,187.0
+NO,2020-06-19,Parks,190.0
+NO,2020-06-20,Parks,169.0
+NO,2020-06-21,Parks,51.0
+NO,2020-06-22,Parks,122.0
+NO,2020-02-15,Transit stations,7.0
+NO,2020-02-16,Transit stations,-5.0
+NO,2020-02-17,Transit stations,-5.0
+NO,2020-02-18,Transit stations,-5.0
+NO,2020-02-19,Transit stations,-1.0
+NO,2020-02-20,Transit stations,-9.0
+NO,2020-02-21,Transit stations,-4.0
+NO,2020-02-22,Transit stations,2.0
+NO,2020-02-23,Transit stations,7.0
+NO,2020-02-24,Transit stations,3.0
+NO,2020-02-25,Transit stations,-1.0
+NO,2020-02-26,Transit stations,1.0
+NO,2020-02-27,Transit stations,0.0
+NO,2020-02-28,Transit stations,1.0
+NO,2020-02-29,Transit stations,2.0
+NO,2020-03-01,Transit stations,-1.0
+NO,2020-03-02,Transit stations,0.0
+NO,2020-03-03,Transit stations,-2.0
+NO,2020-03-04,Transit stations,1.0
+NO,2020-03-05,Transit stations,3.0
+NO,2020-03-06,Transit stations,2.0
+NO,2020-03-07,Transit stations,1.0
+NO,2020-03-08,Transit stations,-9.0
+NO,2020-03-09,Transit stations,-2.0
+NO,2020-03-10,Transit stations,-7.0
+NO,2020-03-11,Transit stations,-9.0
+NO,2020-03-12,Transit stations,-20.0
+NO,2020-03-13,Transit stations,-39.0
+NO,2020-03-14,Transit stations,-37.0
+NO,2020-03-15,Transit stations,-54.0
+NO,2020-03-16,Transit stations,-49.0
+NO,2020-03-17,Transit stations,-53.0
+NO,2020-03-18,Transit stations,-55.0
+NO,2020-03-19,Transit stations,-56.0
+NO,2020-03-20,Transit stations,-55.0
+NO,2020-03-21,Transit stations,-42.0
+NO,2020-03-22,Transit stations,-57.0
+NO,2020-03-23,Transit stations,-58.0
+NO,2020-03-24,Transit stations,-59.0
+NO,2020-03-25,Transit stations,-58.0
+NO,2020-03-26,Transit stations,-56.0
+NO,2020-03-27,Transit stations,-57.0
+NO,2020-03-28,Transit stations,-50.0
+NO,2020-03-29,Transit stations,-57.0
+NO,2020-03-30,Transit stations,-53.0
+NO,2020-03-31,Transit stations,-52.0
+NO,2020-04-01,Transit stations,-54.0
+NO,2020-04-02,Transit stations,-58.0
+NO,2020-04-03,Transit stations,-53.0
+NO,2020-04-04,Transit stations,-46.0
+NO,2020-04-05,Transit stations,-52.0
+NO,2020-04-06,Transit stations,-46.0
+NO,2020-04-07,Transit stations,-44.0
+NO,2020-04-08,Transit stations,-52.0
+NO,2020-04-09,Transit stations,-58.0
+NO,2020-04-10,Transit stations,-58.0
+NO,2020-04-11,Transit stations,-55.0
+NO,2020-04-12,Transit stations,-52.0
+NO,2020-04-13,Transit stations,-63.0
+NO,2020-04-14,Transit stations,-52.0
+NO,2020-04-15,Transit stations,-47.0
+NO,2020-04-16,Transit stations,-48.0
+NO,2020-04-17,Transit stations,-44.0
+NO,2020-04-18,Transit stations,-30.0
+NO,2020-04-19,Transit stations,-32.0
+NO,2020-04-20,Transit stations,-37.0
+NO,2020-04-21,Transit stations,-34.0
+NO,2020-04-22,Transit stations,-36.0
+NO,2020-04-23,Transit stations,-38.0
+NO,2020-04-24,Transit stations,-42.0
+NO,2020-04-25,Transit stations,-29.0
+NO,2020-04-26,Transit stations,-37.0
+NO,2020-04-27,Transit stations,-41.0
+NO,2020-04-28,Transit stations,-38.0
+NO,2020-04-29,Transit stations,-35.0
+NO,2020-04-30,Transit stations,-34.0
+NO,2020-05-01,Transit stations,-55.0
+NO,2020-05-02,Transit stations,-25.0
+NO,2020-05-03,Transit stations,-34.0
+NO,2020-05-04,Transit stations,-35.0
+NO,2020-05-05,Transit stations,-33.0
+NO,2020-05-06,Transit stations,-32.0
+NO,2020-05-07,Transit stations,-34.0
+NO,2020-05-08,Transit stations,-33.0
+NO,2020-05-09,Transit stations,-22.0
+NO,2020-05-10,Transit stations,-44.0
+NO,2020-05-11,Transit stations,-33.0
+NO,2020-05-12,Transit stations,-34.0
+NO,2020-05-13,Transit stations,-30.0
+NO,2020-05-14,Transit stations,-31.0
+NO,2020-05-15,Transit stations,-32.0
+NO,2020-05-16,Transit stations,-30.0
+NO,2020-05-17,Transit stations,-22.0
+NO,2020-05-18,Transit stations,-30.0
+NO,2020-05-19,Transit stations,-26.0
+NO,2020-05-20,Transit stations,-17.0
+NO,2020-05-21,Transit stations,-44.0
+NO,2020-05-22,Transit stations,-36.0
+NO,2020-05-23,Transit stations,-27.0
+NO,2020-05-24,Transit stations,-29.0
+NO,2020-05-25,Transit stations,-24.0
+NO,2020-05-26,Transit stations,-27.0
+NO,2020-05-27,Transit stations,-26.0
+NO,2020-05-28,Transit stations,-24.0
+NO,2020-05-29,Transit stations,-17.0
+NO,2020-05-30,Transit stations,-4.0
+NO,2020-05-31,Transit stations,-12.0
+NO,2020-06-01,Transit stations,-31.0
+NO,2020-06-02,Transit stations,-19.0
+NO,2020-06-03,Transit stations,-22.0
+NO,2020-06-04,Transit stations,-26.0
+NO,2020-06-05,Transit stations,-27.0
+NO,2020-06-06,Transit stations,-24.0
+NO,2020-06-07,Transit stations,-34.0
+NO,2020-06-08,Transit stations,-24.0
+NO,2020-06-09,Transit stations,-22.0
+NO,2020-06-10,Transit stations,-21.0
+NO,2020-06-11,Transit stations,-18.0
+NO,2020-06-12,Transit stations,-12.0
+NO,2020-06-13,Transit stations,-1.0
+NO,2020-06-14,Transit stations,-8.0
+NO,2020-06-15,Transit stations,-13.0
+NO,2020-06-16,Transit stations,-13.0
+NO,2020-06-17,Transit stations,-13.0
+NO,2020-06-18,Transit stations,-12.0
+NO,2020-06-19,Transit stations,-9.0
+NO,2020-06-20,Transit stations,-3.0
+NO,2020-06-21,Transit stations,-21.0
+NO,2020-06-22,Transit stations,-18.0
+NO,2020-02-15,Workplace,-1.0
+NO,2020-02-16,Workplace,-3.0
+NO,2020-02-17,Workplace,-12.0
+NO,2020-02-18,Workplace,-11.0
+NO,2020-02-19,Workplace,-12.0
+NO,2020-02-20,Workplace,-14.0
+NO,2020-02-21,Workplace,-15.0
+NO,2020-02-22,Workplace,-4.0
+NO,2020-02-23,Workplace,-2.0
+NO,2020-02-24,Workplace,-5.0
+NO,2020-02-25,Workplace,-4.0
+NO,2020-02-26,Workplace,-4.0
+NO,2020-02-27,Workplace,-5.0
+NO,2020-02-28,Workplace,-5.0
+NO,2020-02-29,Workplace,-2.0
+NO,2020-03-01,Workplace,-1.0
+NO,2020-03-02,Workplace,-2.0
+NO,2020-03-03,Workplace,-1.0
+NO,2020-03-04,Workplace,-2.0
+NO,2020-03-05,Workplace,-2.0
+NO,2020-03-06,Workplace,-2.0
+NO,2020-03-07,Workplace,-2.0
+NO,2020-03-08,Workplace,-2.0
+NO,2020-03-09,Workplace,-2.0
+NO,2020-03-10,Workplace,-1.0
+NO,2020-03-11,Workplace,-3.0
+NO,2020-03-12,Workplace,-11.0
+NO,2020-03-13,Workplace,-36.0
+NO,2020-03-14,Workplace,-23.0
+NO,2020-03-15,Workplace,-27.0
+NO,2020-03-16,Workplace,-48.0
+NO,2020-03-17,Workplace,-51.0
+NO,2020-03-18,Workplace,-52.0
+NO,2020-03-19,Workplace,-52.0
+NO,2020-03-20,Workplace,-52.0
+NO,2020-03-21,Workplace,-33.0
+NO,2020-03-22,Workplace,-34.0
+NO,2020-03-23,Workplace,-52.0
+NO,2020-03-24,Workplace,-53.0
+NO,2020-03-25,Workplace,-52.0
+NO,2020-03-26,Workplace,-52.0
+NO,2020-03-27,Workplace,-50.0
+NO,2020-03-28,Workplace,-33.0
+NO,2020-03-29,Workplace,-34.0
+NO,2020-03-30,Workplace,-51.0
+NO,2020-03-31,Workplace,-51.0
+NO,2020-04-01,Workplace,-50.0
+NO,2020-04-02,Workplace,-50.0
+NO,2020-04-03,Workplace,-49.0
+NO,2020-04-04,Workplace,-31.0
+NO,2020-04-05,Workplace,-32.0
+NO,2020-04-06,Workplace,-58.0
+NO,2020-04-07,Workplace,-59.0
+NO,2020-04-08,Workplace,-64.0
+NO,2020-04-09,Workplace,-85.0
+NO,2020-04-10,Workplace,-85.0
+NO,2020-04-11,Workplace,-36.0
+NO,2020-04-12,Workplace,-34.0
+NO,2020-04-13,Workplace,-86.0
+NO,2020-04-14,Workplace,-47.0
+NO,2020-04-15,Workplace,-47.0
+NO,2020-04-16,Workplace,-46.0
+NO,2020-04-17,Workplace,-44.0
+NO,2020-04-18,Workplace,-21.0
+NO,2020-04-19,Workplace,-20.0
+NO,2020-04-20,Workplace,-43.0
+NO,2020-04-21,Workplace,-42.0
+NO,2020-04-22,Workplace,-42.0
+NO,2020-04-23,Workplace,-41.0
+NO,2020-04-24,Workplace,-41.0
+NO,2020-04-25,Workplace,-19.0
+NO,2020-04-26,Workplace,-19.0
+NO,2020-04-27,Workplace,-38.0
+NO,2020-04-28,Workplace,-37.0
+NO,2020-04-29,Workplace,-37.0
+NO,2020-04-30,Workplace,-38.0
+NO,2020-05-01,Workplace,-82.0
+NO,2020-05-02,Workplace,-16.0
+NO,2020-05-03,Workplace,-17.0
+NO,2020-05-04,Workplace,-36.0
+NO,2020-05-05,Workplace,-35.0
+NO,2020-05-06,Workplace,-34.0
+NO,2020-05-07,Workplace,-34.0
+NO,2020-05-08,Workplace,-32.0
+NO,2020-05-09,Workplace,-11.0
+NO,2020-05-10,Workplace,-15.0
+NO,2020-05-11,Workplace,-32.0
+NO,2020-05-12,Workplace,-29.0
+NO,2020-05-13,Workplace,-27.0
+NO,2020-05-14,Workplace,-27.0
+NO,2020-05-15,Workplace,-26.0
+NO,2020-05-16,Workplace,-10.0
+NO,2020-05-17,Workplace,-6.0
+NO,2020-05-18,Workplace,-27.0
+NO,2020-05-19,Workplace,-25.0
+NO,2020-05-20,Workplace,-25.0
+NO,2020-05-21,Workplace,-81.0
+NO,2020-05-22,Workplace,-49.0
+NO,2020-05-23,Workplace,-9.0
+NO,2020-05-24,Workplace,-8.0
+NO,2020-05-25,Workplace,-26.0
+NO,2020-05-26,Workplace,-23.0
+NO,2020-05-27,Workplace,-23.0
+NO,2020-05-28,Workplace,-23.0
+NO,2020-05-29,Workplace,-23.0
+NO,2020-05-30,Workplace,-3.0
+NO,2020-05-31,Workplace,-3.0
+NO,2020-06-01,Workplace,-80.0
+NO,2020-06-02,Workplace,-22.0
+NO,2020-06-03,Workplace,-21.0
+NO,2020-06-04,Workplace,-22.0
+NO,2020-06-05,Workplace,-21.0
+NO,2020-06-06,Workplace,-2.0
+NO,2020-06-07,Workplace,-4.0
+NO,2020-06-08,Workplace,-22.0
+NO,2020-06-09,Workplace,-21.0
+NO,2020-06-10,Workplace,-21.0
+NO,2020-06-11,Workplace,-22.0
+NO,2020-06-12,Workplace,-22.0
+NO,2020-06-13,Workplace,0.0
+NO,2020-06-14,Workplace,1.0
+NO,2020-06-15,Workplace,-23.0
+NO,2020-06-16,Workplace,-23.0
+NO,2020-06-17,Workplace,-23.0
+NO,2020-06-18,Workplace,-23.0
+NO,2020-06-19,Workplace,-24.0
+NO,2020-06-20,Workplace,-2.0
+NO,2020-06-21,Workplace,-3.0
+NO,2020-06-22,Workplace,-34.0
+NO,2020-02-15,Residential,-1.0
+NO,2020-02-16,Residential,1.0
+NO,2020-02-17,Residential,2.0
+NO,2020-02-18,Residential,1.0
+NO,2020-02-19,Residential,0.0
+NO,2020-02-20,Residential,2.0
+NO,2020-02-21,Residential,2.0
+NO,2020-02-22,Residential,0.0
+NO,2020-02-23,Residential,-2.0
+NO,2020-02-24,Residential,0.0
+NO,2020-02-25,Residential,1.0
+NO,2020-02-26,Residential,0.0
+NO,2020-02-27,Residential,1.0
+NO,2020-02-28,Residential,1.0
+NO,2020-02-29,Residential,0.0
+NO,2020-03-01,Residential,0.0
+NO,2020-03-02,Residential,1.0
+NO,2020-03-03,Residential,1.0
+NO,2020-03-04,Residential,1.0
+NO,2020-03-05,Residential,0.0
+NO,2020-03-06,Residential,0.0
+NO,2020-03-07,Residential,0.0
+NO,2020-03-08,Residential,1.0
+NO,2020-03-09,Residential,1.0
+NO,2020-03-10,Residential,2.0
+NO,2020-03-11,Residential,3.0
+NO,2020-03-12,Residential,5.0
+NO,2020-03-13,Residential,14.0
+NO,2020-03-14,Residential,8.0
+NO,2020-03-15,Residential,11.0
+NO,2020-03-16,Residential,18.0
+NO,2020-03-17,Residential,19.0
+NO,2020-03-18,Residential,20.0
+NO,2020-03-19,Residential,20.0
+NO,2020-03-20,Residential,21.0
+NO,2020-03-21,Residential,9.0
+NO,2020-03-22,Residential,12.0
+NO,2020-03-23,Residential,20.0
+NO,2020-03-24,Residential,20.0
+NO,2020-03-25,Residential,20.0
+NO,2020-03-26,Residential,20.0
+NO,2020-03-27,Residential,21.0
+NO,2020-03-28,Residential,10.0
+NO,2020-03-29,Residential,11.0
+NO,2020-03-30,Residential,18.0
+NO,2020-03-31,Residential,18.0
+NO,2020-04-01,Residential,19.0
+NO,2020-04-02,Residential,20.0
+NO,2020-04-03,Residential,19.0
+NO,2020-04-04,Residential,9.0
+NO,2020-04-05,Residential,11.0
+NO,2020-04-06,Residential,17.0
+NO,2020-04-07,Residential,16.0
+NO,2020-04-08,Residential,18.0
+NO,2020-04-09,Residential,25.0
+NO,2020-04-10,Residential,26.0
+NO,2020-04-11,Residential,9.0
+NO,2020-04-12,Residential,10.0
+NO,2020-04-13,Residential,27.0
+NO,2020-04-14,Residential,17.0
+NO,2020-04-15,Residential,17.0
+NO,2020-04-16,Residential,17.0
+NO,2020-04-17,Residential,16.0
+NO,2020-04-18,Residential,6.0
+NO,2020-04-19,Residential,6.0
+NO,2020-04-20,Residential,13.0
+NO,2020-04-21,Residential,12.0
+NO,2020-04-22,Residential,12.0
+NO,2020-04-23,Residential,13.0
+NO,2020-04-24,Residential,13.0
+NO,2020-04-25,Residential,5.0
+NO,2020-04-26,Residential,4.0
+NO,2020-04-27,Residential,13.0
+NO,2020-04-28,Residential,11.0
+NO,2020-04-29,Residential,12.0
+NO,2020-04-30,Residential,9.0
+NO,2020-05-01,Residential,24.0
+NO,2020-05-02,Residential,4.0
+NO,2020-05-03,Residential,2.0
+NO,2020-05-04,Residential,11.0
+NO,2020-05-05,Residential,11.0
+NO,2020-05-06,Residential,11.0
+NO,2020-05-07,Residential,11.0
+NO,2020-05-08,Residential,10.0
+NO,2020-05-09,Residential,3.0
+NO,2020-05-10,Residential,5.0
+NO,2020-05-11,Residential,11.0
+NO,2020-05-12,Residential,10.0
+NO,2020-05-13,Residential,10.0
+NO,2020-05-14,Residential,8.0
+NO,2020-05-15,Residential,9.0
+NO,2020-05-16,Residential,4.0
+NO,2020-05-17,Residential,1.0
+NO,2020-05-18,Residential,9.0
+NO,2020-05-19,Residential,7.0
+NO,2020-05-20,Residential,3.0
+NO,2020-05-21,Residential,19.0
+NO,2020-05-22,Residential,11.0
+NO,2020-05-23,Residential,3.0
+NO,2020-05-24,Residential,0.0
+NO,2020-05-25,Residential,6.0
+NO,2020-05-26,Residential,7.0
+NO,2020-05-27,Residential,7.0
+NO,2020-05-28,Residential,6.0
+NO,2020-05-29,Residential,2.0
+NO,2020-05-30,Residential,-3.0
+NO,2020-05-31,Residential,-3.0
+NO,2020-06-01,Residential,9.0
+NO,2020-06-02,Residential,3.0
+NO,2020-06-03,Residential,5.0
+NO,2020-06-04,Residential,6.0
+NO,2020-06-05,Residential,6.0
+NO,2020-06-06,Residential,2.0
+NO,2020-06-07,Residential,3.0
+NO,2020-06-08,Residential,6.0
+NO,2020-06-09,Residential,4.0
+NO,2020-06-10,Residential,4.0
+NO,2020-06-11,Residential,3.0
+NO,2020-06-12,Residential,0.0
+NO,2020-06-13,Residential,-4.0
+NO,2020-06-14,Residential,-6.0
+NO,2020-06-15,Residential,2.0
+NO,2020-06-16,Residential,2.0
+NO,2020-06-17,Residential,2.0
+NO,2020-06-18,Residential,1.0
+NO,2020-06-19,Residential,-1.0
+NO,2020-06-20,Residential,-4.0
+NO,2020-06-21,Residential,-2.0
+NO,2020-06-22,Residential,4.0
