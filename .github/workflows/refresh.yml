@@ -10,6 +10,7 @@ jobs:
     - name: Create local changes
       env:
         HDIR_API_KEY: ${{ secrets.HDIR_API_KEY }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         Rscript -e 'source("code/refresh_files.R")'
     - name: Commit files
