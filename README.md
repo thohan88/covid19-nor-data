@@ -108,14 +108,6 @@ fully available source code.
 <td style="text-align: left;"><a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/20_mobility/google/mobility.csv">preview</a></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Mobility</td>
-<td style="text-align: left;">Google Mobility</td>
-<td style="text-align: left;">Google</td>
-<td style="text-align: left;">2020-06-27</td>
-<td style="text-align: left;"><a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/20_mobility/google/mobility_national.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/20_mobility/google/mobility_national.xlsx">xlsx</a></td>
-<td style="text-align: left;"><a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/20_mobility/google/mobility_national.csv">preview</a></td>
-</tr>
-<tr class="odd">
 <td style="text-align: left;">Economics</td>
 <td style="text-align: left;">Unemployment benefits</td>
 <td style="text-align: left;">NAV</td>

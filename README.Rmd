@@ -25,6 +25,7 @@ tbl <- get_table_data("code/sources.json")
 tbl_subset <- tbl %>%  
   filter((label == "Infected" & basename == "municipality_and_district") | label != c("Infected")) %>% 
   filter((label == "Covid tests" & basename == "national_tests") | label != c("Covid tests")) %>% 
+  filter((label == "Google Mobility" & basename == "mobility") | label != c("Google Mobility")) %>% 
   mutate_at(vars(download, preview, source), map, htmltools::HTML) %>% 
   mutate_at(vars(category, label), as.character) %>% 
   mutate(preview = str_replace_all(preview, "\\<span.+\\>.+pan>", "preview")) %>% 
