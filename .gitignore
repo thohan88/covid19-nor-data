@@ -4,3 +4,6 @@
 .Ruserdata
 /R
 *.Rproj
+.vscode
+.venv
+__pycache__/
