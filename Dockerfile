@@ -34,7 +34,8 @@ ENV PYTHON_VENV_PATH $WORKON_HOME/r-python
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
     libpython3-dev \
-    python3-venv && \
+    python3-venv \
+    language-pack-nb && \
     rm -rf /var/lib/apt/lists/*
   
 RUN python3 -m venv ${PYTHON_VENV_PATH}
@@ -46,7 +47,7 @@ RUN echo "PATH=${PATH}" >> /usr/local/lib/R/etc/Renviron && \
 
 # Add pip-packages
 RUN pip install --upgrade pip && \
-  pip install --no-cache-dir pandas==1.0.5 pyYAML==5.3.1 requests==2.23.0 openpyxl==3.0.3
+  pip install --no-cache-dir pandas==1.0.5 pyYAML==5.3.1 requests==2.24.0 openpyxl==3.0.4 xlrd==1.2.0 lxml==4.5.1
 
 # Install reticulate
 RUN install2.r \ 

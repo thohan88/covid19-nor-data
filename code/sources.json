@@ -70,5 +70,14 @@
     "freq": "Daily",
     "desc": "Temporary layoff data is available from Norwegian Labour and Welfare Administration (NAV). Data is reported at the weekly level, but updated daily",
     "link": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/relatert-informasjon/soknader-om-dagpenger"
+  },
+  {
+    "label": "Business Compensation Scheme",
+    "category": "Economics",
+    "source": "Tax Administration",
+    "level": "District",
+    "freq": "Daily",
+    "desc": "The Business Compensation Scheme provides financial compensation for enterprises with large drops in revenue resulting from the virus outbreak.",
+    "link": "https://kompensasjonsordning.no/en/"
   }
 ] 

@@ -40,6 +40,14 @@ fully available source code.
 ### Available data
 
 <table>
+<colgroup>
+<col style="width: 2%" />
+<col style="width: 5%" />
+<col style="width: 4%" />
+<col style="width: 2%" />
+<col style="width: 58%" />
+<col style="width: 27%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Category</th>
@@ -108,6 +116,14 @@ fully available source code.
 <td style="text-align: left;"><a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/20_mobility/google/mobility.csv">preview</a></td>
 </tr>
 <tr class="even">
+<td style="text-align: left;">Economics</td>
+<td style="text-align: left;">Business Compensation Scheme</td>
+<td style="text-align: left;">Tax Administration</td>
+<td style="text-align: left;">2020-07-02</td>
+<td style="text-align: left;"><a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/30_economics/tax_administration/business_compensation_scheme.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/30_economics/tax_administration/business_compensation_scheme.xlsx">xlsx</a></td>
+<td style="text-align: left;"><a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/30_economics/tax_administration/business_compensation_scheme.csv">preview</a></td>
+</tr>
+<tr class="odd">
 <td style="text-align: left;">Economics</td>
 <td style="text-align: left;">Unemployment benefits</td>
 <td style="text-align: left;">NAV</td>
