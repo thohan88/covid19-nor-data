@@ -169,8 +169,8 @@ For further information about the data sources, see this
 </tr>
 <tr class="even">
 <td style="text-align: left;">Lookup tables</td>
-<td style="text-align: left;">Lookup tables</td>
-<td style="text-align: left;"><a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/00_lookup_tables_and_maps/01_lookup_tables/standard_industrial_classification.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/NA">xlsx</a></td>
+<td style="text-align: left;">Standard Industrial Classification</td>
+<td style="text-align: left;"><a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/00_lookup_tables_and_maps/01_lookup_tables/standard_industrial_classification.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/00_lookup_tables_and_maps/01_lookup_tables/standard_industrial_classification.xlsx">xlsx</a></td>
 <td style="text-align: left;"><a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/00_lookup_tables_and_maps/01_lookup_tables/standard_industrial_classification.csv">preview</a></td>
 </tr>
 <tr class="odd">

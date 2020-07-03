@@ -53,6 +53,7 @@ get_table_data <- function(file_meta) {
     mutate(label    = case_when(str_detect(file_name_sans_ext, "/municipalities$")   ~ "Municipalities",
                                 str_detect(file_name_sans_ext, "/municipalities_districts$") ~ "Municipalities and districts",
                                 str_detect(file_name_sans_ext, "/msis$")             ~ "MSIS regions",
+                                str_detect(file_name_sans_ext, "/standard_industrial_classification$") ~ "Standard Industrial Classification",
                                 str_detect(file_name_sans_ext, "/02_maps/")          ~ "Maps",
                                 str_detect(file_name_sans_ext, "/01_lookup_tables/") ~ "Lookup tables",
                                 str_detect(file_name_sans_ext, "/01_infected/")      ~ "Infected",
@@ -76,7 +77,7 @@ get_table_data <- function(file_meta) {
            updated = format(Sys.Date(), "%Y-%m-%d"),
            category = fct_relevel(as.factor(category), "Healthcare", "Mobility", "Economics", "Lookup tables", "Maps"),
            label    = fct_relevel(as.factor(label), "Infected", "Admissions", "In respirator", "Covid tests", 
-                                  "Municipalities", "Municipalities and districts", "MSIS regions")) %>% 
+                                  "Municipalities", "Municipalities and districts", "MSIS regions", "Standard Industrial Classification")) %>% 
     arrange(category, label)
 }
 
