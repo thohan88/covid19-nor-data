@@ -75,9 +75,9 @@
     "label": "Business Compensation Scheme",
     "category": "Economics",
     "source": "Tax Administration",
-    "level": "District",
+    "level": "Counties",
     "freq": "Daily",
-    "desc": "The Business Compensation Scheme provides financial compensation for enterprises with large drops in revenue resulting from the virus outbreak.",
-    "link": "https://kompensasjonsordning.no/en/"
+    "desc": "The Business Compensation Scheme provides financial compensation for enterprises with large drops in revenue resulting from the virus outbreak. Information about the enterprises and the amounts they receive will be made publically available shortly after their applications have been approved. Information from the Compensation Scheme is updated daily.",
+    "link": "https://www.skatteetaten.no/en/presse/access-to-decisions-regarding-granted-subsidies/"
   }
 ] 
