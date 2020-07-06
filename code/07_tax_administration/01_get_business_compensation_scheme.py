@@ -30,7 +30,7 @@ mapping = {'Tildelingsdato': 'date',
 df = pd.read_csv(data, delimiter=';', dtype={'Naeringskode': str})
 df = df[columns].rename(columns=mapping).sort_values(by='date', ascending=False)
 
-df['date'] = pd.to_datetime(df.date, format='%Y-%m-%dT%H.%M.%SZ')
+df['date'] = pd.to_datetime(df.date, format='%Y-%m-%dT%H:%M:%SZ')
 df['period_month'] = pd.to_datetime(df.period_month, format='%B %Y')
 df['fylke_name'] = df['fylke_name'].fillna('Ukjent Fylke')
 
