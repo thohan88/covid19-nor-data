@@ -131,6 +131,14 @@ fully available source code.
 <td style="text-align: left;"><a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/10_employment/nav/applications_unemployment_benefits.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/10_employment/nav/applications_unemployment_benefits.xlsx">xlsx</a></td>
 <td style="text-align: left;"><a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/10_employment/nav/applications_unemployment_benefits.csv">preview</a></td>
 </tr>
+<tr class="even">
+<td style="text-align: left;">Economics</td>
+<td style="text-align: left;">Wage Compensation</td>
+<td style="text-align: left;">NAV</td>
+<td style="text-align: left;">2020-07-09</td>
+<td style="text-align: left;"><a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/30_economics/nav/wage_compensation.csv">csv</a> <a href = "https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/30_economics/nav/wage_compensation.xlsx">xlsx</a></td>
+<td style="text-align: left;"><a href = "https://github.com/thohan88/covid19-nor-data/blob/master/data/30_economics/nav/wage_compensation.csv">preview</a></td>
+</tr>
 </tbody>
 </table>
 

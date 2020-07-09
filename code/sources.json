@@ -79,5 +79,14 @@
     "freq": "Daily",
     "desc": "The Business Compensation Scheme provides financial compensation for enterprises with large drops in revenue resulting from the virus outbreak. Information about the enterprises and the amounts they receive will be made publically available shortly after their applications have been approved. Information from the Compensation Scheme is updated daily.",
     "link": "https://www.skatteetaten.no/en/presse/access-to-decisions-regarding-granted-subsidies/"
+  },
+  {
+    "label": "Wage Compensation",
+    "category": "Economics",
+    "source": "NAV",
+    "level": "National",
+    "freq": "Daily",
+    "desc": "Overview of all companies that have applied for wage compensation for their laid-off employees in accordance with the <i>Temporary Regulations on Wage Compensation for Layoffs to alleviate the consequences of COVID-19 - (<a href = \"https://lovdata.no/dokument/LTI/forskrift/2020-05-29-1102\">lønnskompensasjonsforskriften</a>)</i>.",
+    "link": "https://data.nav.no/datapakke/bc415e741ce8d6c11c3d4f2af11105ce"
   }
 ] 

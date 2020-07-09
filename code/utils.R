@@ -64,7 +64,8 @@ get_table_data <- function(file_meta) {
                                 str_detect(file_name_sans_ext, "/google")            ~ "Google Mobility",
                                 str_detect(file_name_sans_ext, "/apple")             ~ "Apple Mobility",
                                 str_detect(file_name_sans_ext, "/10_employment/")    ~ "Unemployment benefits",
-                                str_detect(file_name_sans_ext, "/30_economics/")     ~ "Business Compensation Scheme")) %>% 
+                                str_detect(file_name_sans_ext, "/business_compensation_scheme") ~ "Business Compensation Scheme",
+                                str_detect(file_name_sans_ext, "/wage_compensation$") ~ "Wage Compensation")) %>% 
     left_join(sources, by = "label") %>% 
     mutate(category = case_when(str_detect(file_name_sans_ext, "/02_maps/")          ~ "Maps",
                                 str_detect(file_name_sans_ext, "/01_lookup_tables/") ~ "Lookup tables",
