@@ -11697,6 +11697,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 914513626,ULMATEC SKIPSSERVICE AS AVD HERØY,Herøy,Møre og Romsdal,13
 914513626,ULMATEC SKIPSSERVICE AS AVD HERØY,Herøy (Møre og Romsdal),Møre og Romsdal,13
 914513669,STEEN BETONGPUMPING AS AVD AUKRA,Aukra,Møre og Romsdal,3
+914513758,"BARENTS SERVICE AS, ELESCO NORD",Båtsfjord,Troms og Finnmark - Romsa ja Finnmárku,1
 914514274,FALKANGER SKO AS AVD CITY LADE,Trondheim,Trøndelag - Trööndelage,11
 914515238,HEIMDAL TAKST AS,Trondheim,Trøndelag - Trööndelage,4
 914515270,GRØNHAUG RETAIL AS AVD SELECTED SØRLANDSSENTERET,Kristiansand,Agder,7
@@ -20543,7 +20544,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 919548797,NIMO AS,Drammen,Viken,4
 919549734,MG MONTASJE AS,Nes,Viken,1
 919551445,GREFSEN AUTO AS,Oslo,Oslo,1
-919552158,VEGA CONSULTANTS AS,Stavanger,Rogaland,3
+919552158,VEGA CONSULTANTS AS,Stavanger,Rogaland,4
 919552212,VEENRØNNING AS,Stavanger,Rogaland,2
 919552263,AMBERFISH AS,Tromsø,Troms og Finnmark - Romsa ja Finnmárku,1
 919552360,KAHUNA CREATIVE AS,Stavanger,Rogaland,1
@@ -23110,6 +23111,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 920813844,GULATING PUB GAMLEBYEN AS,Fredrikstad,Viken,10
 920814751,GEOSEIS AS,Sola,Rogaland,1
 920815278,JONAS B. LYNGDAL AS,Lyngdal,Agder,13
+920815537,TRAVEL RADAR AS,Oslo,Oslo,1
 920815596,NABO BYGG AS,Molde,Møre og Romsdal,2
 920815715,NESS BYGG AS,Sogndal,Vestland,1
 920815758,NOREMA KJØKKENSTUDIO HAMAR,Stange,Innlandet,6
