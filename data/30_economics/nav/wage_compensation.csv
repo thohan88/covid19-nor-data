@@ -3044,7 +3044,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 872207082,SKI KJEVEORTOPEDI AS,Nordre Follo,Viken,3
 872207112,2TAL AS AVD ALTA,Alta,Troms og Finnmark - Romsa ja Finnmárku,4
 872207422,BJARNE ØVERLAND AS AVD TRANSPORT/FLYFRAKT,Molde,Møre og Romsdal,1
-872208992,RENTEC INGENIØRFIRMA AS,Bergen,Vestland,14
+872208992,RENTEC INGENIØRFIRMA AS,Bergen,Vestland,15
 872210172,SENTRUM SALONGEN TRINE O NEVLAND,Hå,Rogaland,2
 872211322,SCANDIC BRYGGEN,Nordkapp,Troms og Finnmark - Romsa ja Finnmárku,1
 872212892,HAMAR ORTOPEDISKE AS,Hamar,Innlandet,7
@@ -10343,6 +10343,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 913758919,STYLT AS,Evje og Hornnes,Agder,2
 913759338,PIOTR LABUZ BYGG,Oslo,Oslo,1
 913761081,WE ARE LIVE AS,Oslo,Oslo,5
+913761286,KNUTER CATERING OG SERVICE AS,Austrheim,Vestland,1
 913761561,SASSY HAIR AS,Moss,Viken,3
 913761804,LIFE VORMSUND KIRSTEN TVEIT,Ullensaker,Viken,3
 913762541,FENRE NÆRINGSMEGLING AS,Moss,Viken,1
@@ -10880,7 +10881,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 914038790,LAKRIDS BY JOHAN BÜLOW NORGE AS,Oslo,Oslo,17
 914038898,APOTEK 1 HAMAR STADION,Hamar,Innlandet,1
 914039274,APOTEK 1 HORISONT,Bergen,Vestland,5
-914039452,PH DRIFT AS,Eidsvoll,Viken,1
+914039452,PH DRIFT AS,Eidsvoll,Viken,2
 914039711,FREDRIK & LOUISA AS AVD CITY LADE,Trondheim,Trøndelag - Trööndelage,2
 914039940,SOLBERG UTVIKLING,Askøy,Vestland,1
 914040027,QUALIFIED SOLUTIONS OSLO AS,Kristiansand,Agder,6
@@ -18266,6 +18267,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 918324860,APOTEK 1 BRYGATA NARVIK,Narvik,Nordland,2
 918325328,BURGER KING AVD 5061 NYGATA,Oslo,Oslo,21
 918325743,STANDARD GARANTI FORSIKRING AS,Asker,Viken,3
+918325964,ELMER'S PUB & BILJARD,Oslo,Oslo,5
 918326758,WORKPOOL AS,Oslo,Oslo,1
 918326863,ALEJANDRO FUENTES AS,Kristiansand,Agder,1
 918326901,HUMANA HELSE AS,Bærum,Viken,4
@@ -27058,7 +27060,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 922868735,AJ BYGG KOSOWSKA,Bergen,Vestland,1
 922869308,CREDON AS,Lillehammer,Innlandet,1
 922869677,INVAKO AS,Drammen,Viken,2
-922869820,DINESEN AUTO,Porsanger - Porsángu - Porsanki,Troms og Finnmark - Romsa ja Finnmárku,10
+922869820,DINESEN AUTO,Porsanger - Porsángu - Porsanki,Troms og Finnmark - Romsa ja Finnmárku,14
 922869847,B F LANDE AS,Sarpsborg,Viken,3
 922869995,SELBÆK MASKIN AS,Orkland,Trøndelag - Trööndelage,1
 922870020,KONGSTEINSGATEN RENOVERING AS,Stavanger,Rogaland,3
@@ -27249,6 +27251,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 923013024,HØLONDA AUTO AS,Melhus,Trøndelag - Trööndelage,2
 923013156,R8 HOME AS,Porsgrunn,Vestfold og Telemark,1
 923013253,MOKAS PERSONALRESTAURANTER AS AVD 22 TOPTEMP,Oslo,Oslo,1
+923013261,NORDANNO AS,Sandnes,Rogaland,1
 923013296,MOKAS PERSONALRESTAURANTER AS AVD 23 BLYSTAD,Oslo,Oslo,1
 923013814,HB BYGGSERVICE AS,Fredrikstad,Viken,1
 923013857,BUYSURE AS,Oslo,Oslo,3
@@ -28221,7 +28224,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 923758143,WINWINWIN AS,Bergen,Vestland,1
 923760385,PAINKILLER AS,Oslo,Oslo,6
 923760512,FRISELLA FRISØR AS,Oslo,Oslo,3
-923760539,TBE BEMANNING AS,Stavanger,Rogaland,1
+923760539,TBE BEMANNING AS,Stavanger,Rogaland,2
 923761721,ELITE SERVICE PARTNER AS AVD KIRKENES,Sør-Varanger,Troms og Finnmark - Romsa ja Finnmárku,1
 923764216,NB NORDVEST AS,Ålesund,Møre og Romsdal,1
 923767800,KOLLTVEIT BENSIN AS,Øygarden,Vestland,5
@@ -32453,7 +32456,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 971873256,NORDFJORD TURISTHOTELL,Stad,Vestland,17
 971873426,BØMLO-NYTT AS,Bømlo,Vestland,1
 971873442,PIBO OPTIK AS,Harstad,Troms og Finnmark - Romsa ja Finnmárku,5
-971873752,OLSEN KJELL MASKINFORRETNING AS,Oslo,Oslo,3
+971873752,OLSEN KJELL MASKINFORRETNING AS,Oslo,Oslo,4
 971873787,VAKUUM SERVICE AS,Lørenskog,Viken,3
 971873795,WÜRTH NORGE AS AVD 04 GJELLERÅSEN,Nittedal,Viken,321
 971873922,RUUDS TRANSPORT AS,Nord-Odal,Innlandet,3
@@ -38096,6 +38099,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 973060589,SHORTCUT ENEBAKK,Enebakk,Viken,1
 973060597,SHORTCUT MORTENSRUD,Oslo,Oslo,1
 973060864,SULLAND GJØVIK AS AVD SALG,Gjøvik,Innlandet,4
+973060872,SULLAND GJØVIK AS,Gjøvik,Innlandet,1
 973060872,SULLAND GJØVIK AS AVD VERKSTED,Gjøvik,Innlandet,5
 973060899,HANS & HENNES FRISØR AS,Sør-Odal,Innlandet,1
 973060929,FIRDA MEDIA AS AVD FØRDE,Sunnfjord,Vestland,10
