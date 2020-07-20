@@ -1895,6 +1895,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 821546362,KREMEN ARKADEN,Skien,Vestfold og Telemark,8
 821548292,EMOVERE AS,Stange,Innlandet,1
 821555442,NIDAROS ELEKTRO AS,Trondheim,Trøndelag - Trööndelage,5
+821558212,INGENIØR GEIR KARLSEN AS,Oslo,Oslo,1
 821559472,GRO'S CORNER AS,Øvre Eiker,Viken,1
 821560772,LÅSSENTERET AS AVD OSLO TVEITA,Oslo,Oslo,1
 821562422,SKY FITNESS FEVIK,Grimstad,Agder,1
@@ -1923,6 +1924,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 821681502,AVA NOR AS,Harstad,Troms og Finnmark - Romsa ja Finnmárku,2
 821686512,BURGER KING BROKELANDSHEIA AVD 5072,Gjerstad,Agder,7
 821692652,MARYANN RISBØL FRISØR AS,Harstad,Troms og Finnmark - Romsa ja Finnmárku,1
+821696372,TRYSILELVA RESTAURANT AS,Trysil,Innlandet,1
 821705452,LILLESTRØM EIENDOMSMEGLING AS,Lillestrøm,Viken,9
 821708672,J&R BYGG AS,Selbu,Trøndelag - Trööndelage,5
 821709202,NUGA SUSHI & NOODLES AS,Svalbard, ,1
@@ -3797,6 +3799,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 874297372,JÆGERGRUPPEN AS,Bergen,Vestland,3
 874299472,SKO-HUUSE AS AVD 02 LILLEHAMMER,Lillehammer,Innlandet,6
 874300152,DNV GL BUSINESS ASSURANCE NORWAY AS AVD HOVEDKONTOR,Bærum,Viken,9
+874301132,BYGDIN HØYFJELLSHOTELL AS,Vang,Innlandet,16
 874301272,LYCHE KONVOLUTT AS,Drammen,Viken,15
 874301302,TOYOTA DRAMMEN AS AVD BILSALG DRAMMEN,Drammen,Viken,8
 874304212,GLAMOX AS AVD OSLO,Oslo,Oslo,4
@@ -17805,6 +17808,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 918028218,Q.S.F AS,Molde,Møre og Romsdal,1
 918028269,SPESIALIST RENHOLD AS,Bærum,Viken,5
 918028684,OIIKU AS,Oslo,Oslo,3
+918028757,ANIMASKIN AS,Oslo,Oslo,4
 918028838,ANNERLEDES PERSONALRESTAURANTER AS AVD VIRKE,Oslo,Oslo,2
 918030034,VALUEE AS,Horten,Vestfold og Telemark,3
 918030166,SPÅTIND SKISENTER AS,Nordre Land,Innlandet,1
@@ -27066,7 +27070,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 922868735,AJ BYGG KOSOWSKA,Bergen,Vestland,1
 922869308,CREDON AS,Lillehammer,Innlandet,1
 922869677,INVAKO AS,Drammen,Viken,2
-922869820,DINESEN AUTO,Porsanger - Porsángu - Porsanki,Troms og Finnmark - Romsa ja Finnmárku,15
+922869820,DINESEN AUTO,Porsanger - Porsángu - Porsanki,Troms og Finnmark - Romsa ja Finnmárku,16
 922869847,B F LANDE AS,Sarpsborg,Viken,3
 922869995,SELBÆK MASKIN AS,Orkland,Trøndelag - Trööndelage,1
 922870020,KONGSTEINSGATEN RENOVERING AS,Stavanger,Rogaland,3
@@ -32764,6 +32768,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 971903260,AS SMITH-SIVERTSEN,Bergen,Vestland,1
 971903309,BÅT OG MOTOR AS,Hammerfest,Troms og Finnmark - Romsa ja Finnmárku,3
 971903422,LEIV SAND TRANSPORT AS AVD LEVANGER,Levanger,Trøndelag - Trööndelage,10
+971903511,SJØBUA RESTAURANT AS,Ålesund,Møre og Romsdal,1
 971903546,MARASOVIC SIME,Oslo,Oslo,3
 971903597,PETTERS HERREFRISØR,Hammerfest,Troms og Finnmark - Romsa ja Finnmárku,1
 971903767,MALERFIRMA O KJELSNES AS,Stord,Vestland,10
