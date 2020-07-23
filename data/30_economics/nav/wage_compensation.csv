@@ -4623,7 +4623,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 883267702,EXO AS AVDELING SLITU,Indre Østfold,Viken,6
 883327012,BRAKOHUS AS,Drammen,Viken,1
 883327802,GRINI UTVIKLING AS,Oslo,Oslo,3
-883329252,GABBRO NOR,Nesna,Nordland,10
+883329252,GABBRO NOR,Nesna,Nordland,11
 883338162,GODT BRØD GRUNERLØKKA AS AVD BAKERIUTSALG,Oslo,Oslo,11
 883353382,SPENST FØRDE AS,Sunnfjord,Vestland,6
 883359232,ALT'A SPORT AS,Alta,Troms og Finnmark - Romsa ja Finnmárku,4
@@ -6043,6 +6043,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 895341932,VITALIS AS,Oslo,Oslo,2
 895365572,HOME & COTTAGE AS AVD KRISTIANSAND,Kristiansand,Agder,8
 895370932,RØDTVEDT TANNHELSESENTER AS,Oslo,Oslo,3
+895371882,RUNE ANDERSEN TRANSPORT,Råde,Viken,1
 895372692,BÅDE OG REDAKSJONELL PRODUKSJON AS,Oslo,Oslo,1
 895373222,KILDEN BOWLING,Tønsberg,Vestfold og Telemark,13
 895375772,TROMSØ JERNBANESTASJON AS,Tromsø,Troms og Finnmark - Romsa ja Finnmárku,20
