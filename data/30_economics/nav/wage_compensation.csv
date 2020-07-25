@@ -17208,6 +17208,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 917650411,BAKER SAMSON AVD SÆTER,Oslo,Oslo,12
 917650721,NILLE AS AVD ØSTSIDEN STORSENTER,Fredrikstad,Viken,3
 917650748,CUBUS NORDFJOREID AVD 83E,Stad,Vestland,7
+917651418,OAB AS,Askvoll,Vestland,1
 917652325,BILTEKNIKK MYSEN AS,Indre Østfold,Viken,3
 917652619,ELEKTROIMPORTØREN AS AVD TROMSØ,Tromsø,Troms og Finnmark - Romsa ja Finnmárku,4
 917653267,ELEKTROIMPORTØREN AS AVD ÅSANE,Bergen,Vestland,3
@@ -32118,7 +32119,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 971825936,OPTIKAR NYMARK AS,Herøy (Møre og Romsdal),Møre og Romsdal,4
 971825995,ØKERN OPTIKK & UR AS,Oslo,Oslo,3
 971826096,ASKVOLL FJORDHOTELL AS,Askvoll,Vestland,3
-971826185,NYE HOTEL NORDKYN AS,Lebesby,Troms og Finnmark - Romsa ja Finnmárku,4
+971826185,NYE HOTEL NORDKYN AS,Lebesby,Troms og Finnmark - Romsa ja Finnmárku,5
 971826312,AS EPA MASKINSTASJON,Bjørnafjorden,Vestland,1
 971826355,PG FLOW SOLUTIONS AS,Holmestrand,Vestfold og Telemark,1
 971826355,PG FLOW SOLUTIONS AS AVD SANDE I VESTFOLD,Holmestrand,Vestfold og Telemark,11
@@ -34572,6 +34573,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 972065552,BOBBYS HAIR & COSMETICS AS,Oslo,Oslo,1
 972065641,TRENT-INVEST AS,Oslo,Oslo,7
 972066125,TUSTEN SKIHEISER AS,Molde,Møre og Romsdal,4
+972066265,BRØDR REMØ AS,Sula,Møre og Romsdal,1
 972066303,STRØMSHOLMEN SJØSPORTSENTER AS,Hustadvika,Møre og Romsdal,2
 972066435,PIGMENT KUNSTHANDEL AS,Ålesund,Møre og Romsdal,1
 972066478,SUNNMØRE TRANSPORT AS,Ålesund,Møre og Romsdal,4
@@ -38513,6 +38515,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 973085247,SKANSKA NORGE AS AVD BERGEN,Bergen,Vestland,5
 973085255,SKANSKA NORGE AS AVD BYGG NORD VEST REGION ROGALAND,Stavanger,Rogaland,3
 973085301,SKANSKA NORGE AS AVD DIV BYGG REGION SØR KRISTIANSAN,Kristiansand,Agder,5
+973085328,SKANSKA NORGE AS,Trondheim,Trøndelag - Trööndelage,1
 973085328,SKANSKA NORGE AS AVD MIDT-NORGE,Trondheim,Trøndelag - Trööndelage,11
 973085344,SKANSKA NORGE AS AVD DIV BYGG REGION NORD BODØ,Bodø,Nordland,5
 973085379,SKANSKA HUSFABRIKKEN AS,Steinkjer,Trøndelag - Trööndelage,1
@@ -47563,7 +47566,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 979586884,LINDEX AS AVD SKIBSGÅRDEN,Sortland,Nordland,2
 979587279,DENTAL SERVICE AS,Bergen,Vestland,3
 979591462,STOVNER FRIVILLIGSENTRAL,Oslo,Oslo,3
-979594534,LAMBERTSETER SVØMMEHALL AS,Oslo,Oslo,1
+979594534,LAMBERTSETER SVØMMEHALL AS,Oslo,Oslo,11
 979595891,TØMRERMESTER JO G STRAND AS,Alta,Troms og Finnmark - Romsa ja Finnmárku,3
 979595921,MAY SANDMO,Bodø,Nordland,2
 979595956,ADVOKATFIRMAET FOSS BRYNILDSEN DA,Oslo,Oslo,1
@@ -53801,6 +53804,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 985300429,BJØRN KVEIM AS,Asker,Viken,2
 985300755,BB PRODUKTER VVA AS AVD SEM,Tønsberg,Vestfold og Telemark,3
 985300984,SMI SNOW MAKERS AS,Drammen,Viken,1
+985302049,ELTEC INSTALLASJON AS,Arendal,Agder,1
 985302065,BLENDER AGENCY AS,Oslo,Oslo,13
 985302731,TRIPS OF NORWAY AS,Giske,Møre og Romsdal,2
 985304890,AVIATION AND SURVIVAL SUPPORT AS,Tønsberg,Vestfold og Telemark,4
