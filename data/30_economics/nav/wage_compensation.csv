@@ -3168,7 +3168,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 872334602,A TIL Å GRAFISK DESIGN OG MEDIA AS,Kinn,Vestland,3
 872335722,EBERG MOTOR AS,Trondheim,Trøndelag - Trööndelage,2
 872336052,CALAX AS,Oslo,Oslo,1
-872337512,P-HOTELS BERGEN AS,Bergen,Vestland,8
+872337512,P-HOTELS BERGEN AS,Bergen,Vestland,9
 872340602,ANTONIETTE AS,Trondheim,Trøndelag - Trööndelage,14
 872344772,INTERNATIONAL LIGHTING SYSTEMS AS,Bærum,Viken,6
 872345582,TOOLS AS AVD FINNSNES,Senja,Troms og Finnmark - Romsa ja Finnmárku,5
@@ -10568,7 +10568,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 913869397,AVENTI INSTALLATION AS,Oslo,Oslo,9
 913870042,TRYSILHUS UNIBO AS,Drammen,Viken,3
 913870131,OMNIBO AS,Drammen,Viken,3
-913870174,NORDIC GATEWAY AS,Bergen,Vestland,10
+913870174,NORDIC GATEWAY AS,Bergen,Vestland,11
 913870794,A-TEAM TRAFIKKSKOLE AS,Oslo,Oslo,2
 913871383,KOI FARGESTUDIO AS,Oslo,Oslo,5
 913871944,RESTAURANT SOPRANO AS,Alstahaug,Nordland,6
@@ -17682,6 +17682,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 917921342,HOVET REGNSKAP AS,Kristiansand,Agder,2
 917921393,LIFE SANDVIKA,Bærum,Viken,3
 917921423,ANN KRISTIN HARBOSEN AS,Kongsvinger,Innlandet,3
+917921423,BEGRAVELSESBYRÅET ANN KRISTIN,Kongsvinger,Innlandet,1
 917921520,DIN DATAPARTNER AS,Sandefjord,Vestfold og Telemark,1
 917921547,G-SPORT TORVBYEN,Fredrikstad,Viken,10
 917922241,PERMAR HAIR AS,Stavanger,Rogaland,1
@@ -26986,6 +26987,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 922759219,BEITOSTØLEN SPORTSHYTTER AS,Øystre Slidre,Innlandet,1
 922759448,MJM AS,Asker,Viken,4
 922759677,NORDINTERIØR AS,Nittedal,Viken,1
+922759715,DAWAT-E-ISLAMI NORWAY,Oslo,Oslo,2
 922760071,WG HARSTAD AS,Harstad,Troms og Finnmark - Romsa ja Finnmárku,1
 922760187,TANNFEEN NORGE AS AVD LILLESTRØM,Lillestrøm,Viken,3
 922760195,TANNFEEN NORGE AS AVD DRAMMEN,Drammen,Viken,4
@@ -55541,7 +55543,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 986808191,ALFA RØR AS,Stavanger,Rogaland,2
 986808280,LATTER,Oslo,Oslo,41
 986808426,KLIMATEAM AS,Røros,Trøndelag - Trööndelage,1
-986808671,BYGGMESTERAN AS AVD VERDAL,Verdal,Trøndelag - Trööndelage,1
+986808671,BYGGMESTERAN AS AVD VERDAL,Verdal,Trøndelag - Trööndelage,5
 986808817,BABUSJKA AS,Oslo,Oslo,6
 986808841,SMB CORPORATE AS,Oslo,Oslo,1
 986809503,KREMMER'N AS,Melhus,Trøndelag - Trööndelage,1
@@ -71666,7 +71668,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 999273629,PECUS AS AVD UTLEIE,Oslo,Oslo,24
 999273823,KARRIERE.NO AS AVD SVOLVÆR,Vågan,Nordland,1
 999273912,EVENTYRBRUA AS,Oslo,Oslo,36
-999278485,NADINE STORO SENTER,Oslo,Oslo,1
+999278485,NADINE STORO SENTER,Oslo,Oslo,2
 999278515,SHOEBALOO STORO SENTER,Oslo,Oslo,2
 999279090,ORBITA ØYELEGESENTER AVD OSLO,Oslo,Oslo,4
 999279295,VELUND AS,Rakkestad,Viken,1
