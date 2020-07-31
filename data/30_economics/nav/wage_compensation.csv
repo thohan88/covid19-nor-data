@@ -15719,7 +15719,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 916738838,BAVECO AS,Lier,Viken,1
 916738986,FLEKKERØY ELEKTRO AS,Kristiansand,Agder,4
 916739109,CHILI CHOCOLATE AS,Stavanger,Rogaland,2
-916740514,L.A NAILS,Oslo,Oslo,1
+916740514,L.A NAILS,Oslo,Oslo,2
 916741006,LOSEN BRYGGE AS,Larvik,Vestfold og Telemark,5
 916741308,TORE ØVERÅS OSLO AS,Oslo,Oslo,2
 916741383,CELT AS,Tønsberg,Vestfold og Telemark,1
@@ -22573,7 +22573,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 920455719,RUPANICOM AS,Lillestrøm,Viken,1
 920455972,EVOY AS,Kinn,Vestland,6
 920456340,GROW FRISØR OG BARBER AS,Sunnfjord,Vestland,2
-920456367,LMT INVEST AS,Oslo,Oslo,4
+920456367,LMT INVEST AS,Oslo,Oslo,5
 920456413,INDIE AS,Tromsø,Troms og Finnmark - Romsa ja Finnmárku,8
 920456510,ØYELEGE JOHAN WENDEL AS,Halden,Viken,2
 920456553,KJOSAVIK BUSS,Sandnes,Rogaland,7
@@ -26583,6 +26583,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 922412944,BILBØRSEN TROMSØ BILUTLEIE AS,Tromsø,Troms og Finnmark - Romsa ja Finnmárku,1
 922413940,SVERRESBORG MALERSERVICE AVD STJØRDAL,Stjørdal,Trøndelag - Trööndelage,3
 922414521,FEEL 24 TRENING AS,Bodø,Nordland,1
+922414610,ENKELOVERSIKT AS,Asker,Viken,1
 922418012,UNICUS HOLDING AS,Bærum,Viken,1
 922418071,ADOLFSEN SVEIN,Stange,Innlandet,1
 922418101,AVANTE AS,Eidsvoll,Viken,1
@@ -35450,7 +35451,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 972144959,HETLE AUTO ANR AS,Gloppen,Vestland,3
 972145033,TINGELING BARNEKLÆR,Sola,Rogaland,1
 972145181,TRØNDERLYS AS,Malvik,Trøndelag - Trööndelage,1
-972145203,PRIKKEN RENS AS,Ullensaker,Viken,2
+972145203,PRIKKEN RENS AS,Ullensaker,Viken,3
 972145254,SMS INTERIØR AS,Trondheim,Trøndelag - Trööndelage,10
 972145327,BOHUS HENRIKSEN KIRKENES,Sør-Varanger,Troms og Finnmark - Romsa ja Finnmárku,3
 972145793,BELLE AMIE BRUDESALONG AS,Øygarden,Vestland,4
