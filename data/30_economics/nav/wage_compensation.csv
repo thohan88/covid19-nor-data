@@ -19658,7 +19658,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 918943994,QUADRAT EIENDOM AS,Tromsø,Troms og Finnmark - Romsa ja Finnmárku,2
 918944559,VIEWMASTERS AS,Oslo,Oslo,5
 918945393,ØVERBYGG AS AVD VOSS,Voss,Vestland,1
-918945482,HONNI BAKES MAGDA FILONOWICZ,Nordkapp,Troms og Finnmark - Romsa ja Finnmárku,1
+918945482,HONNI BAKES MAGDA FILONOWICZ,Nordkapp,Troms og Finnmark - Romsa ja Finnmárku,2
 918945563,SAFE AT SEA AS AVD TENNFJORD,Ålesund,Møre og Romsdal,3
 918945679,LHM GRUPPEN AS,Asker,Viken,2
 918945849,SG LEGAL SEARCH AS,Kristiansand,Agder,1
@@ -41161,6 +41161,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 973496689,ÅSMUND HANSEN,Eidsvoll,Viken,10
 973496875,SOLFRID AUNE AS,Trondheim,Trøndelag - Trööndelage,1
 973496905,DRØYVOLD JOHNNY,Trondheim,Trøndelag - Trööndelage,1
+973496972,SNÅSA TAXI DA,Snåase - Snåsa,Trøndelag - Trööndelage,2
 973497138,ROMSDAL BRITT RANDI,Alta,Troms og Finnmark - Romsa ja Finnmárku,1
 973497448,SHERPA FILM NORWAY AS,Oslo,Oslo,1
 973498258,EIKUM HOTELL DRIFT AS,Luster,Vestland,1
@@ -41847,6 +41848,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 973814583,ECKHOFFS AS,Løten,Innlandet,2
 973814648,TRAFIKKSKOLESENTERET V/STEIN RØNNINGEN,Tynset,Innlandet,1
 973814915,ØDEGÅRD A/S,Ål,Viken,2
+973815555,NY LINJE AS,Kristiansand,Agder,1
 973815571,ORION AS,Senja,Troms og Finnmark - Romsa ja Finnmárku,1
 973815717,DU GODESTE AS AVD ADMINISTRASJON,Oslo,Oslo,8
 973815970,AVFALL NORGE,Oslo,Oslo,1
@@ -44254,7 +44256,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 974876264,RASMUSSEN TRANSPORT AS,Eigersund,Rogaland,7
 974876426,MOE PREBENTANNLEGE,Bergen,Vestland,1
 974876442,MANDRUP HENNING HASAGER,Bergen,Vestland,1
-974876582,C C DAMES FRISØRSALONG AS,Bergen,Vestland,2
+974876582,C C DAMES FRISØRSALONG AS,Bergen,Vestland,3
 974876620,ALIMAK GROUP NORWAY AS AVD BERGEN,Bergen,Vestland,18
 974876760,SVENDSEN FREDRIK CHRISTIAN,Bergen,Vestland,1
 974876795,NIRVANA,Bergen,Vestland,3
@@ -45543,6 +45545,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 976340574,LYSTAD TRANSPORT AS,Kongsvinger,Innlandet,1
 976342925,SISTE MOHIKANER AS,Oslo,Oslo,3
 976344715,MX SPORT RAGLAMYR AS,Haugesund,Rogaland,4
+976345797,KBUSS KNUT-GEORG SANDVIK,Lierne,Trøndelag - Trööndelage,1
 976347269,MULTI KRAFT AS,Lier,Viken,5
 976347870,NORGE EVENT AS,Oslo,Oslo,1
 976347900,ULF ARNE LARSEN TAXI,Porsanger - Porsángu - Porsanki,Troms og Finnmark - Romsa ja Finnmárku,1
@@ -57744,7 +57747,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 988548650,BØ BIL OG KAROSSERI AS,Midt-Telemark,Vestfold og Telemark,1
 988550566,NORSK GJENVINNING AS AVD TRONDHEIM,Trondheim,Trøndelag - Trööndelage,11
 988550671,NORSK GJENVINNING AS AVD TØNSBERG,Tønsberg,Vestfold og Telemark,3
-988550744,NORSK GJENVINNING AS AVD LARVIK,Larvik,Vestfold og Telemark,17
+988550744,NORSK GJENVINNING AS AVD LARVIK,Larvik,Vestfold og Telemark,19
 988550809,NORSK GJENVINNING AS AVD KRISTIANSAND,Kristiansand,Agder,12
 988551449,NORSK GJENVINNING AS AVD SARPSBORG,Sarpsborg,Viken,2
 988551554,NORSK GJENVINNING AS AVD OSLO H-31/35,Oslo,Oslo,61
@@ -59267,7 +59270,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 990029350,HASHTAGHAIR&WELLNESS AS,Bergen,Vestland,5
 990030510,END OF EUROPE AS,Vardø,Troms og Finnmark - Romsa ja Finnmárku,1
 990030928,MOHAMMAD ARIF,Oslo,Oslo,1
-990032106,ALLTID RENT-KANTINE OG RENHOLD AS,Lørenskog,Viken,1
+990032106,ALLTID RENT-KANTINE OG RENHOLD AS,Lørenskog,Viken,3
 990032203,GH - BOLIG AS,Molde,Møre og Romsdal,4
 990032548,NARVESEN BUTIKKEN 240,Moss,Viken,5
 990032696,INGUS BILOPPRETTING & LAKKERING AS,Oslo,Oslo,2
@@ -66823,7 +66826,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 996042715,SALTEN SHIPPING AS,Bodø,Nordland,1
 996043959,HÆHRE ENTREPRENØR AS AVD BILLINGSTAD,Asker,Viken,2
 996044513,TANNLEGE ELLEN NAKLING,Sandnes,Rogaland,1
-996044556,BAR VISJON AS,Stavanger,Rogaland,1
+996044556,BAR VISJON AS,Stavanger,Rogaland,2
 996044947,HOLMS TRAFIKKSKOLE AS,Stjørdal,Trøndelag - Trööndelage,3
 996045048,ADR ELEKTRO AS,Oslo,Oslo,1
 996045749,AVITRON NORGE AS,Bergen,Vestland,6
