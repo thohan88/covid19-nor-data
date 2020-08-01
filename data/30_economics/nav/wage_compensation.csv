@@ -2774,7 +2774,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 871945462,GAN MASKINFORRETNING AS,Lillestrøm,Viken,5
 871945772,WIGDAL TRANSPORT AS,Modum,Viken,3
 871949832,SØRENSEN BJØRN AS,Lier,Viken,2
-871950482,FUSER BAR & FOR,Lillestrøm,Viken,7
+871950482,FUSER BAR & FOR,Lillestrøm,Viken,8
 871950652,CARAVANÆSS AS,Sandnes,Rogaland,1
 871950822,RØRLEGGER 1 KRISTIANSUND AS,Kristiansund,Møre og Romsdal,8
 871952442,TRYSIL PUKKVERK AS,Trysil,Innlandet,5
@@ -28378,6 +28378,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 923706399,CASBYGG AS,Frogn,Viken,2
 923706437,BRN BEST RETAIL NORGE AS AVD BEST KIDS VINTERBRO,Ås,Viken,2
 923706577,AQUA BOREALIS AS,Lørenskog,Viken,1
+923706968,MAS ENTREPRENØR AS,Oslo,Oslo,1
 923707034,BLISTA TRANSPORT AS,Ålesund,Møre og Romsdal,2
 923707131,KRTT AS,Lillesand,Agder,1
 923707794,STUDIO KRØGER AS,Oslo,Oslo,1
