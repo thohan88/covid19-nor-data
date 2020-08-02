@@ -1,132 +1,132 @@
 date,health_org_name,region,admissions
-2020-03-08,Akershus universitetssykehus HF,Sør-Øst,2
+2020-03-08,Akershus universitetssykehus HF,Sør-Øst,0
 2020-03-09,Akershus universitetssykehus HF,Sør-Øst,0
-2020-03-10,Akershus universitetssykehus HF,Sør-Øst,0
+2020-03-10,Akershus universitetssykehus HF,Sør-Øst,2
 2020-03-11,Akershus universitetssykehus HF,Sør-Øst,2
-2020-03-12,Akershus universitetssykehus HF,Sør-Øst,2
+2020-03-12,Akershus universitetssykehus HF,Sør-Øst,3
 2020-03-13,Akershus universitetssykehus HF,Sør-Øst,3
-2020-03-14,Akershus universitetssykehus HF,Sør-Øst,3
-2020-03-15,Akershus universitetssykehus HF,Sør-Øst,5
-2020-03-16,Akershus universitetssykehus HF,Sør-Øst,7
-2020-03-17,Akershus universitetssykehus HF,Sør-Øst,8
-2020-03-18,Akershus universitetssykehus HF,Sør-Øst,10
-2020-03-19,Akershus universitetssykehus HF,Sør-Øst,9
-2020-03-20,Akershus universitetssykehus HF,Sør-Øst,10
-2020-03-21,Akershus universitetssykehus HF,Sør-Øst,18
-2020-03-22,Akershus universitetssykehus HF,Sør-Øst,20
-2020-03-23,Akershus universitetssykehus HF,Sør-Øst,23
-2020-03-24,Akershus universitetssykehus HF,Sør-Øst,31
-2020-03-25,Akershus universitetssykehus HF,Sør-Øst,30
-2020-03-26,Akershus universitetssykehus HF,Sør-Øst,42
-2020-03-27,Akershus universitetssykehus HF,Sør-Øst,49
+2020-03-14,Akershus universitetssykehus HF,Sør-Øst,5
+2020-03-15,Akershus universitetssykehus HF,Sør-Øst,7
+2020-03-16,Akershus universitetssykehus HF,Sør-Øst,8
+2020-03-17,Akershus universitetssykehus HF,Sør-Øst,10
+2020-03-18,Akershus universitetssykehus HF,Sør-Øst,9
+2020-03-19,Akershus universitetssykehus HF,Sør-Øst,10
+2020-03-20,Akershus universitetssykehus HF,Sør-Øst,18
+2020-03-21,Akershus universitetssykehus HF,Sør-Øst,20
+2020-03-22,Akershus universitetssykehus HF,Sør-Øst,23
+2020-03-23,Akershus universitetssykehus HF,Sør-Øst,31
+2020-03-24,Akershus universitetssykehus HF,Sør-Øst,30
+2020-03-25,Akershus universitetssykehus HF,Sør-Øst,42
+2020-03-26,Akershus universitetssykehus HF,Sør-Øst,49
+2020-03-27,Akershus universitetssykehus HF,Sør-Øst,60
 2020-03-28,Akershus universitetssykehus HF,Sør-Øst,60
-2020-03-29,Akershus universitetssykehus HF,Sør-Øst,60
+2020-03-29,Akershus universitetssykehus HF,Sør-Øst,64
 2020-03-30,Akershus universitetssykehus HF,Sør-Øst,64
-2020-03-31,Akershus universitetssykehus HF,Sør-Øst,64
-2020-04-01,Akershus universitetssykehus HF,Sør-Øst,63
-2020-04-02,Akershus universitetssykehus HF,Sør-Øst,62
+2020-03-31,Akershus universitetssykehus HF,Sør-Øst,63
+2020-04-01,Akershus universitetssykehus HF,Sør-Øst,62
+2020-04-02,Akershus universitetssykehus HF,Sør-Øst,60
 2020-04-03,Akershus universitetssykehus HF,Sør-Øst,60
-2020-04-04,Akershus universitetssykehus HF,Sør-Øst,60
-2020-04-05,Akershus universitetssykehus HF,Sør-Øst,59
-2020-04-06,Akershus universitetssykehus HF,Sør-Øst,58
-2020-04-07,Akershus universitetssykehus HF,Sør-Øst,55
-2020-04-08,Akershus universitetssykehus HF,Sør-Øst,48
-2020-04-09,Akershus universitetssykehus HF,Sør-Øst,39
-2020-04-10,Akershus universitetssykehus HF,Sør-Øst,33
-2020-04-11,Akershus universitetssykehus HF,Sør-Øst,31
-2020-04-12,Akershus universitetssykehus HF,Sør-Øst,26
+2020-04-04,Akershus universitetssykehus HF,Sør-Øst,59
+2020-04-05,Akershus universitetssykehus HF,Sør-Øst,58
+2020-04-06,Akershus universitetssykehus HF,Sør-Øst,55
+2020-04-07,Akershus universitetssykehus HF,Sør-Øst,48
+2020-04-08,Akershus universitetssykehus HF,Sør-Øst,39
+2020-04-09,Akershus universitetssykehus HF,Sør-Øst,33
+2020-04-10,Akershus universitetssykehus HF,Sør-Øst,31
+2020-04-11,Akershus universitetssykehus HF,Sør-Øst,26
+2020-04-12,Akershus universitetssykehus HF,Sør-Øst,29
 2020-04-13,Akershus universitetssykehus HF,Sør-Øst,29
-2020-04-14,Akershus universitetssykehus HF,Sør-Øst,29
-2020-04-15,Akershus universitetssykehus HF,Sør-Øst,31
-2020-04-16,Akershus universitetssykehus HF,Sør-Øst,24
-2020-04-17,Akershus universitetssykehus HF,Sør-Øst,20
-2020-04-18,Akershus universitetssykehus HF,Sør-Øst,19
-2020-04-19,Akershus universitetssykehus HF,Sør-Øst,15
-2020-04-20,Akershus universitetssykehus HF,Sør-Øst,14
-2020-04-21,Akershus universitetssykehus HF,Sør-Øst,19
-2020-04-22,Akershus universitetssykehus HF,Sør-Øst,20
+2020-04-14,Akershus universitetssykehus HF,Sør-Øst,31
+2020-04-15,Akershus universitetssykehus HF,Sør-Øst,24
+2020-04-16,Akershus universitetssykehus HF,Sør-Øst,20
+2020-04-17,Akershus universitetssykehus HF,Sør-Øst,19
+2020-04-18,Akershus universitetssykehus HF,Sør-Øst,15
+2020-04-19,Akershus universitetssykehus HF,Sør-Øst,14
+2020-04-20,Akershus universitetssykehus HF,Sør-Øst,19
+2020-04-21,Akershus universitetssykehus HF,Sør-Øst,20
+2020-04-22,Akershus universitetssykehus HF,Sør-Øst,16
 2020-04-23,Akershus universitetssykehus HF,Sør-Øst,16
 2020-04-24,Akershus universitetssykehus HF,Sør-Øst,16
-2020-04-25,Akershus universitetssykehus HF,Sør-Øst,16
-2020-04-26,Akershus universitetssykehus HF,Sør-Øst,15
-2020-04-27,Akershus universitetssykehus HF,Sør-Øst,14
+2020-04-25,Akershus universitetssykehus HF,Sør-Øst,15
+2020-04-26,Akershus universitetssykehus HF,Sør-Øst,14
+2020-04-27,Akershus universitetssykehus HF,Sør-Øst,19
 2020-04-28,Akershus universitetssykehus HF,Sør-Øst,19
-2020-04-29,Akershus universitetssykehus HF,Sør-Øst,19
+2020-04-29,Akershus universitetssykehus HF,Sør-Øst,16
 2020-04-30,Akershus universitetssykehus HF,Sør-Øst,16
-2020-05-01,Akershus universitetssykehus HF,Sør-Øst,16
-2020-05-02,Akershus universitetssykehus HF,Sør-Øst,12
+2020-05-01,Akershus universitetssykehus HF,Sør-Øst,12
+2020-05-02,Akershus universitetssykehus HF,Sør-Øst,11
 2020-05-03,Akershus universitetssykehus HF,Sør-Øst,11
-2020-05-04,Akershus universitetssykehus HF,Sør-Øst,11
-2020-05-05,Akershus universitetssykehus HF,Sør-Øst,9
+2020-05-04,Akershus universitetssykehus HF,Sør-Øst,9
+2020-05-05,Akershus universitetssykehus HF,Sør-Øst,6
 2020-05-06,Akershus universitetssykehus HF,Sør-Øst,6
 2020-05-07,Akershus universitetssykehus HF,Sør-Øst,6
 2020-05-08,Akershus universitetssykehus HF,Sør-Øst,6
-2020-05-09,Akershus universitetssykehus HF,Sør-Øst,6
+2020-05-09,Akershus universitetssykehus HF,Sør-Øst,8
 2020-05-10,Akershus universitetssykehus HF,Sør-Øst,8
-2020-05-11,Akershus universitetssykehus HF,Sør-Øst,8
+2020-05-11,Akershus universitetssykehus HF,Sør-Øst,5
 2020-05-12,Akershus universitetssykehus HF,Sør-Øst,5
-2020-05-13,Akershus universitetssykehus HF,Sør-Øst,5
-2020-05-14,Akershus universitetssykehus HF,Sør-Øst,6
-2020-05-15,Akershus universitetssykehus HF,Sør-Øst,7
+2020-05-13,Akershus universitetssykehus HF,Sør-Øst,6
+2020-05-14,Akershus universitetssykehus HF,Sør-Øst,7
+2020-05-15,Akershus universitetssykehus HF,Sør-Øst,8
 2020-05-16,Akershus universitetssykehus HF,Sør-Øst,8
 2020-05-17,Akershus universitetssykehus HF,Sør-Øst,8
 2020-05-18,Akershus universitetssykehus HF,Sør-Øst,8
-2020-05-19,Akershus universitetssykehus HF,Sør-Øst,8
-2020-05-20,Akershus universitetssykehus HF,Sør-Øst,5
-2020-05-21,Akershus universitetssykehus HF,Sør-Øst,6
+2020-05-19,Akershus universitetssykehus HF,Sør-Øst,5
+2020-05-20,Akershus universitetssykehus HF,Sør-Øst,6
+2020-05-21,Akershus universitetssykehus HF,Sør-Øst,5
 2020-05-22,Akershus universitetssykehus HF,Sør-Øst,5
-2020-05-23,Akershus universitetssykehus HF,Sør-Øst,5
-2020-05-24,Akershus universitetssykehus HF,Sør-Øst,1
-2020-05-25,Akershus universitetssykehus HF,Sør-Øst,3
-2020-05-26,Akershus universitetssykehus HF,Sør-Øst,5
-2020-05-27,Akershus universitetssykehus HF,Sør-Øst,4
-2020-05-28,Akershus universitetssykehus HF,Sør-Øst,6
-2020-05-29,Akershus universitetssykehus HF,Sør-Øst,8
-2020-05-30,Akershus universitetssykehus HF,Sør-Øst,5
-2020-05-31,Akershus universitetssykehus HF,Sør-Øst,6
+2020-05-23,Akershus universitetssykehus HF,Sør-Øst,1
+2020-05-24,Akershus universitetssykehus HF,Sør-Øst,3
+2020-05-25,Akershus universitetssykehus HF,Sør-Øst,5
+2020-05-26,Akershus universitetssykehus HF,Sør-Øst,4
+2020-05-27,Akershus universitetssykehus HF,Sør-Øst,6
+2020-05-28,Akershus universitetssykehus HF,Sør-Øst,8
+2020-05-29,Akershus universitetssykehus HF,Sør-Øst,5
+2020-05-30,Akershus universitetssykehus HF,Sør-Øst,6
+2020-05-31,Akershus universitetssykehus HF,Sør-Øst,4
 2020-06-01,Akershus universitetssykehus HF,Sør-Øst,4
-2020-06-02,Akershus universitetssykehus HF,Sør-Øst,4
+2020-06-02,Akershus universitetssykehus HF,Sør-Øst,5
 2020-06-03,Akershus universitetssykehus HF,Sør-Øst,5
 2020-06-04,Akershus universitetssykehus HF,Sør-Øst,5
-2020-06-05,Akershus universitetssykehus HF,Sør-Øst,5
-2020-06-08,Akershus universitetssykehus HF,Sør-Øst,2
-2020-06-09,Akershus universitetssykehus HF,Sør-Øst,3
+2020-06-05,Akershus universitetssykehus HF,Sør-Øst,2
+2020-06-08,Akershus universitetssykehus HF,Sør-Øst,3
+2020-06-09,Akershus universitetssykehus HF,Sør-Øst,1
 2020-06-10,Akershus universitetssykehus HF,Sør-Øst,1
-2020-06-11,Akershus universitetssykehus HF,Sør-Øst,1
-2020-06-12,Akershus universitetssykehus HF,Sør-Øst,4
+2020-06-11,Akershus universitetssykehus HF,Sør-Øst,4
+2020-06-12,Akershus universitetssykehus HF,Sør-Øst,5
 2020-06-15,Akershus universitetssykehus HF,Sør-Øst,5
 2020-06-16,Akershus universitetssykehus HF,Sør-Øst,5
 2020-06-17,Akershus universitetssykehus HF,Sør-Øst,5
 2020-06-18,Akershus universitetssykehus HF,Sør-Øst,5
-2020-06-19,Akershus universitetssykehus HF,Sør-Øst,5
-2020-06-22,Akershus universitetssykehus HF,Sør-Øst,6
+2020-06-19,Akershus universitetssykehus HF,Sør-Øst,6
+2020-06-22,Akershus universitetssykehus HF,Sør-Øst,4
 2020-06-23,Akershus universitetssykehus HF,Sør-Øst,4
-2020-06-24,Akershus universitetssykehus HF,Sør-Øst,4
-2020-06-25,Akershus universitetssykehus HF,Sør-Øst,6
+2020-06-24,Akershus universitetssykehus HF,Sør-Øst,6
+2020-06-25,Akershus universitetssykehus HF,Sør-Øst,7
 2020-06-26,Akershus universitetssykehus HF,Sør-Øst,7
-2020-06-29,Akershus universitetssykehus HF,Sør-Øst,7
+2020-06-29,Akershus universitetssykehus HF,Sør-Øst,5
 2020-06-30,Akershus universitetssykehus HF,Sør-Øst,5
-2020-07-01,Akershus universitetssykehus HF,Sør-Øst,5
-2020-07-02,Akershus universitetssykehus HF,Sør-Øst,6
-2020-07-03,Akershus universitetssykehus HF,Sør-Øst,8
-2020-07-06,Akershus universitetssykehus HF,Sør-Øst,5
+2020-07-01,Akershus universitetssykehus HF,Sør-Øst,6
+2020-07-02,Akershus universitetssykehus HF,Sør-Øst,8
+2020-07-03,Akershus universitetssykehus HF,Sør-Øst,5
+2020-07-06,Akershus universitetssykehus HF,Sør-Øst,3
 2020-07-07,Akershus universitetssykehus HF,Sør-Øst,3
 2020-07-08,Akershus universitetssykehus HF,Sør-Øst,3
-2020-07-09,Akershus universitetssykehus HF,Sør-Øst,3
-2020-07-10,Akershus universitetssykehus HF,Sør-Øst,2
-2020-07-13,Akershus universitetssykehus HF,Sør-Øst,1
+2020-07-09,Akershus universitetssykehus HF,Sør-Øst,2
+2020-07-10,Akershus universitetssykehus HF,Sør-Øst,1
+2020-07-13,Akershus universitetssykehus HF,Sør-Øst,2
 2020-07-14,Akershus universitetssykehus HF,Sør-Øst,2
 2020-07-15,Akershus universitetssykehus HF,Sør-Øst,2
 2020-07-16,Akershus universitetssykehus HF,Sør-Øst,2
 2020-07-17,Akershus universitetssykehus HF,Sør-Øst,2
 2020-07-20,Akershus universitetssykehus HF,Sør-Øst,2
-2020-07-21,Akershus universitetssykehus HF,Sør-Øst,2
+2020-07-21,Akershus universitetssykehus HF,Sør-Øst,1
 2020-07-22,Akershus universitetssykehus HF,Sør-Øst,1
 2020-07-23,Akershus universitetssykehus HF,Sør-Øst,1
 2020-07-24,Akershus universitetssykehus HF,Sør-Øst,1
-2020-07-27,Akershus universitetssykehus HF,Sør-Øst,1
-2020-07-28,Akershus universitetssykehus HF,Sør-Øst,2
-2020-07-29,Akershus universitetssykehus HF,Sør-Øst,1
+2020-07-27,Akershus universitetssykehus HF,Sør-Øst,2
+2020-07-28,Akershus universitetssykehus HF,Sør-Øst,1
+2020-07-29,Akershus universitetssykehus HF,Sør-Øst,2
 2020-07-30,Akershus universitetssykehus HF,Sør-Øst,2
 2020-07-31,Akershus universitetssykehus HF,Sør-Øst,2
 2020-03-08,Finnmarkssykehuset HF,Nord,0
@@ -138,36 +138,36 @@ date,health_org_name,region,admissions
 2020-03-14,Finnmarkssykehuset HF,Nord,0
 2020-03-15,Finnmarkssykehuset HF,Nord,0
 2020-03-16,Finnmarkssykehuset HF,Nord,0
-2020-03-17,Finnmarkssykehuset HF,Nord,0
-2020-03-18,Finnmarkssykehuset HF,Nord,3
+2020-03-17,Finnmarkssykehuset HF,Nord,3
+2020-03-18,Finnmarkssykehuset HF,Nord,2
 2020-03-19,Finnmarkssykehuset HF,Nord,2
 2020-03-20,Finnmarkssykehuset HF,Nord,2
-2020-03-21,Finnmarkssykehuset HF,Nord,2
-2020-03-22,Finnmarkssykehuset HF,Nord,1
+2020-03-21,Finnmarkssykehuset HF,Nord,1
+2020-03-22,Finnmarkssykehuset HF,Nord,0
 2020-03-23,Finnmarkssykehuset HF,Nord,0
 2020-03-24,Finnmarkssykehuset HF,Nord,0
 2020-03-25,Finnmarkssykehuset HF,Nord,0
 2020-03-26,Finnmarkssykehuset HF,Nord,0
 2020-03-27,Finnmarkssykehuset HF,Nord,0
-2020-03-28,Finnmarkssykehuset HF,Nord,0
+2020-03-28,Finnmarkssykehuset HF,Nord,1
 2020-03-29,Finnmarkssykehuset HF,Nord,1
 2020-03-30,Finnmarkssykehuset HF,Nord,1
-2020-03-31,Finnmarkssykehuset HF,Nord,1
+2020-03-31,Finnmarkssykehuset HF,Nord,2
 2020-04-01,Finnmarkssykehuset HF,Nord,2
 2020-04-02,Finnmarkssykehuset HF,Nord,2
 2020-04-03,Finnmarkssykehuset HF,Nord,2
-2020-04-04,Finnmarkssykehuset HF,Nord,2
+2020-04-04,Finnmarkssykehuset HF,Nord,0
 2020-04-05,Finnmarkssykehuset HF,Nord,0
 2020-04-06,Finnmarkssykehuset HF,Nord,0
 2020-04-07,Finnmarkssykehuset HF,Nord,0
-2020-04-08,Finnmarkssykehuset HF,Nord,0
+2020-04-08,Finnmarkssykehuset HF,Nord,1
 2020-04-09,Finnmarkssykehuset HF,Nord,1
 2020-04-10,Finnmarkssykehuset HF,Nord,1
 2020-04-11,Finnmarkssykehuset HF,Nord,1
-2020-04-12,Finnmarkssykehuset HF,Nord,1
+2020-04-12,Finnmarkssykehuset HF,Nord,2
 2020-04-13,Finnmarkssykehuset HF,Nord,2
 2020-04-14,Finnmarkssykehuset HF,Nord,2
-2020-04-15,Finnmarkssykehuset HF,Nord,2
+2020-04-15,Finnmarkssykehuset HF,Nord,1
 2020-04-16,Finnmarkssykehuset HF,Nord,1
 2020-04-17,Finnmarkssykehuset HF,Nord,1
 2020-04-18,Finnmarkssykehuset HF,Nord,1
@@ -176,7 +176,7 @@ date,health_org_name,region,admissions
 2020-04-21,Finnmarkssykehuset HF,Nord,1
 2020-04-22,Finnmarkssykehuset HF,Nord,1
 2020-04-23,Finnmarkssykehuset HF,Nord,1
-2020-04-24,Finnmarkssykehuset HF,Nord,1
+2020-04-24,Finnmarkssykehuset HF,Nord,0
 2020-04-25,Finnmarkssykehuset HF,Nord,0
 2020-04-26,Finnmarkssykehuset HF,Nord,0
 2020-04-27,Finnmarkssykehuset HF,Nord,0
@@ -276,12 +276,12 @@ date,health_org_name,region,admissions
 2020-03-22,Helgelandssykehuset HF,Nord,0
 2020-03-23,Helgelandssykehuset HF,Nord,0
 2020-03-24,Helgelandssykehuset HF,Nord,0
-2020-03-25,Helgelandssykehuset HF,Nord,0
+2020-03-25,Helgelandssykehuset HF,Nord,1
 2020-03-26,Helgelandssykehuset HF,Nord,1
 2020-03-27,Helgelandssykehuset HF,Nord,1
 2020-03-28,Helgelandssykehuset HF,Nord,1
 2020-03-29,Helgelandssykehuset HF,Nord,1
-2020-03-30,Helgelandssykehuset HF,Nord,1
+2020-03-30,Helgelandssykehuset HF,Nord,0
 2020-03-31,Helgelandssykehuset HF,Nord,0
 2020-04-01,Helgelandssykehuset HF,Nord,0
 2020-04-02,Helgelandssykehuset HF,Nord,0
@@ -291,10 +291,10 @@ date,health_org_name,region,admissions
 2020-04-06,Helgelandssykehuset HF,Nord,0
 2020-04-07,Helgelandssykehuset HF,Nord,0
 2020-04-08,Helgelandssykehuset HF,Nord,0
-2020-04-09,Helgelandssykehuset HF,Nord,0
+2020-04-09,Helgelandssykehuset HF,Nord,1
 2020-04-10,Helgelandssykehuset HF,Nord,1
 2020-04-11,Helgelandssykehuset HF,Nord,1
-2020-04-12,Helgelandssykehuset HF,Nord,1
+2020-04-12,Helgelandssykehuset HF,Nord,0
 2020-04-13,Helgelandssykehuset HF,Nord,0
 2020-04-14,Helgelandssykehuset HF,Nord,0
 2020-04-15,Helgelandssykehuset HF,Nord,0
@@ -374,12 +374,12 @@ date,health_org_name,region,admissions
 2020-07-08,Helgelandssykehuset HF,Nord,0
 2020-07-09,Helgelandssykehuset HF,Nord,0
 2020-07-10,Helgelandssykehuset HF,Nord,0
-2020-07-13,Helgelandssykehuset HF,Nord,0
+2020-07-13,Helgelandssykehuset HF,Nord,1
 2020-07-14,Helgelandssykehuset HF,Nord,1
 2020-07-15,Helgelandssykehuset HF,Nord,1
 2020-07-16,Helgelandssykehuset HF,Nord,1
 2020-07-17,Helgelandssykehuset HF,Nord,1
-2020-07-20,Helgelandssykehuset HF,Nord,1
+2020-07-20,Helgelandssykehuset HF,Nord,0
 2020-07-21,Helgelandssykehuset HF,Nord,0
 2020-07-22,Helgelandssykehuset HF,Nord,0
 2020-07-23,Helgelandssykehuset HF,Nord,0
@@ -392,78 +392,78 @@ date,health_org_name,region,admissions
 2020-03-08,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
 2020-03-09,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
 2020-03-10,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
-2020-03-11,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
-2020-03-12,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,1
-2020-03-13,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
-2020-03-14,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,1
+2020-03-11,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,1
+2020-03-12,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
+2020-03-13,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,1
+2020-03-14,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,4
 2020-03-15,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,4
 2020-03-16,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,4
-2020-03-17,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,4
-2020-03-18,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,5
-2020-03-19,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,6
-2020-03-20,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,7
-2020-03-21,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,11
-2020-03-22,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,14
-2020-03-23,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,17
-2020-03-24,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,18
-2020-03-25,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,19
+2020-03-17,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,5
+2020-03-18,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,6
+2020-03-19,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,7
+2020-03-20,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,11
+2020-03-21,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,14
+2020-03-22,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,17
+2020-03-23,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,18
+2020-03-24,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,19
+2020-03-25,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,22
 2020-03-26,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,22
 2020-03-27,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,22
-2020-03-28,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,22
-2020-03-29,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,19
-2020-03-30,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,20
-2020-03-31,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,23
-2020-04-01,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,17
+2020-03-28,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,19
+2020-03-29,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,20
+2020-03-30,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,23
+2020-03-31,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,17
+2020-04-01,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,18
 2020-04-02,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,18
 2020-04-03,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,18
-2020-04-04,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,18
-2020-04-05,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,13
-2020-04-06,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,14
-2020-04-07,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,15
-2020-04-08,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,12
-2020-04-09,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,15
+2020-04-04,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,13
+2020-04-05,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,14
+2020-04-06,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,15
+2020-04-07,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,12
+2020-04-08,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,15
+2020-04-09,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,16
 2020-04-10,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,16
-2020-04-11,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,16
+2020-04-11,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,13
 2020-04-12,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,13
-2020-04-13,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,13
+2020-04-13,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,12
 2020-04-14,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,12
 2020-04-15,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,12
-2020-04-16,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,12
-2020-04-17,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,14
-2020-04-18,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,13
-2020-04-19,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,12
+2020-04-16,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,14
+2020-04-17,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,13
+2020-04-18,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,12
+2020-04-19,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,17
 2020-04-20,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,17
-2020-04-21,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,17
+2020-04-21,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,15
 2020-04-22,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,15
-2020-04-23,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,15
-2020-04-24,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,14
-2020-04-25,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,15
-2020-04-26,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,11
-2020-04-27,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,13
+2020-04-23,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,14
+2020-04-24,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,15
+2020-04-25,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,11
+2020-04-26,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,13
+2020-04-27,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,12
 2020-04-28,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,12
-2020-04-29,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,12
-2020-04-30,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,11
-2020-05-01,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,9
+2020-04-29,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,11
+2020-04-30,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,9
+2020-05-01,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,8
 2020-05-02,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,8
 2020-05-03,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,8
 2020-05-04,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,8
-2020-05-05,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,8
-2020-05-06,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,9
+2020-05-05,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,9
+2020-05-06,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,8
 2020-05-07,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,8
 2020-05-08,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,8
 2020-05-09,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,8
-2020-05-10,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,8
+2020-05-10,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,7
 2020-05-11,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,7
 2020-05-12,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,7
-2020-05-13,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,7
+2020-05-13,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,5
 2020-05-14,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,5
-2020-05-15,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,5
+2020-05-15,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,4
 2020-05-16,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,4
 2020-05-17,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,4
 2020-05-18,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,4
-2020-05-19,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,4
-2020-05-20,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,3
-2020-05-21,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,1
+2020-05-19,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,3
+2020-05-20,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,1
+2020-05-21,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
 2020-05-22,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
 2020-05-23,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
 2020-05-24,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
@@ -480,15 +480,15 @@ date,health_org_name,region,admissions
 2020-06-04,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
 2020-06-05,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
 2020-06-08,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
-2020-06-09,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
+2020-06-09,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,1
 2020-06-10,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,1
 2020-06-11,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,1
 2020-06-12,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,1
-2020-06-15,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,1
+2020-06-15,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
 2020-06-16,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
-2020-06-17,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
-2020-06-18,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,1
-2020-06-19,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,2
+2020-06-17,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,1
+2020-06-18,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,2
+2020-06-19,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
 2020-06-22,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
 2020-06-23,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
 2020-06-24,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
@@ -509,9 +509,9 @@ date,health_org_name,region,admissions
 2020-07-15,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
 2020-07-16,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
 2020-07-17,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
-2020-07-20,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
+2020-07-20,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,1
 2020-07-21,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,1
-2020-07-22,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,1
+2020-07-22,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
 2020-07-23,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
 2020-07-24,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
 2020-07-27,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
@@ -526,46 +526,46 @@ date,health_org_name,region,admissions
 2020-03-12,Helse Fonna HF,Vest,0
 2020-03-13,Helse Fonna HF,Vest,0
 2020-03-14,Helse Fonna HF,Vest,0
-2020-03-15,Helse Fonna HF,Vest,0
+2020-03-15,Helse Fonna HF,Vest,1
 2020-03-16,Helse Fonna HF,Vest,1
 2020-03-17,Helse Fonna HF,Vest,1
 2020-03-18,Helse Fonna HF,Vest,1
-2020-03-19,Helse Fonna HF,Vest,1
-2020-03-20,Helse Fonna HF,Vest,2
+2020-03-19,Helse Fonna HF,Vest,2
+2020-03-20,Helse Fonna HF,Vest,3
 2020-03-21,Helse Fonna HF,Vest,3
 2020-03-22,Helse Fonna HF,Vest,3
-2020-03-23,Helse Fonna HF,Vest,3
-2020-03-24,Helse Fonna HF,Vest,6
+2020-03-23,Helse Fonna HF,Vest,6
+2020-03-24,Helse Fonna HF,Vest,9
 2020-03-25,Helse Fonna HF,Vest,9
 2020-03-26,Helse Fonna HF,Vest,9
-2020-03-27,Helse Fonna HF,Vest,9
-2020-03-28,Helse Fonna HF,Vest,10
+2020-03-27,Helse Fonna HF,Vest,10
+2020-03-28,Helse Fonna HF,Vest,9
 2020-03-29,Helse Fonna HF,Vest,9
 2020-03-30,Helse Fonna HF,Vest,9
-2020-03-31,Helse Fonna HF,Vest,9
-2020-04-01,Helse Fonna HF,Vest,8
-2020-04-02,Helse Fonna HF,Vest,9
+2020-03-31,Helse Fonna HF,Vest,8
+2020-04-01,Helse Fonna HF,Vest,9
+2020-04-02,Helse Fonna HF,Vest,8
 2020-04-03,Helse Fonna HF,Vest,8
-2020-04-04,Helse Fonna HF,Vest,8
-2020-04-05,Helse Fonna HF,Vest,7
+2020-04-04,Helse Fonna HF,Vest,7
+2020-04-05,Helse Fonna HF,Vest,6
 2020-04-06,Helse Fonna HF,Vest,6
-2020-04-07,Helse Fonna HF,Vest,6
+2020-04-07,Helse Fonna HF,Vest,4
 2020-04-08,Helse Fonna HF,Vest,4
 2020-04-09,Helse Fonna HF,Vest,4
 2020-04-10,Helse Fonna HF,Vest,4
 2020-04-11,Helse Fonna HF,Vest,4
 2020-04-12,Helse Fonna HF,Vest,4
-2020-04-13,Helse Fonna HF,Vest,4
+2020-04-13,Helse Fonna HF,Vest,3
 2020-04-14,Helse Fonna HF,Vest,3
-2020-04-15,Helse Fonna HF,Vest,3
-2020-04-16,Helse Fonna HF,Vest,4
+2020-04-15,Helse Fonna HF,Vest,4
+2020-04-16,Helse Fonna HF,Vest,3
 2020-04-17,Helse Fonna HF,Vest,3
 2020-04-18,Helse Fonna HF,Vest,3
 2020-04-19,Helse Fonna HF,Vest,3
 2020-04-20,Helse Fonna HF,Vest,3
 2020-04-21,Helse Fonna HF,Vest,3
 2020-04-22,Helse Fonna HF,Vest,3
-2020-04-23,Helse Fonna HF,Vest,3
+2020-04-23,Helse Fonna HF,Vest,2
 2020-04-24,Helse Fonna HF,Vest,2
 2020-04-25,Helse Fonna HF,Vest,2
 2020-04-26,Helse Fonna HF,Vest,2
@@ -574,8 +574,8 @@ date,health_org_name,region,admissions
 2020-04-29,Helse Fonna HF,Vest,2
 2020-04-30,Helse Fonna HF,Vest,2
 2020-05-01,Helse Fonna HF,Vest,2
-2020-05-02,Helse Fonna HF,Vest,2
-2020-05-03,Helse Fonna HF,Vest,3
+2020-05-02,Helse Fonna HF,Vest,3
+2020-05-03,Helse Fonna HF,Vest,2
 2020-05-04,Helse Fonna HF,Vest,2
 2020-05-05,Helse Fonna HF,Vest,2
 2020-05-06,Helse Fonna HF,Vest,2
@@ -592,7 +592,7 @@ date,health_org_name,region,admissions
 2020-05-17,Helse Fonna HF,Vest,2
 2020-05-18,Helse Fonna HF,Vest,2
 2020-05-19,Helse Fonna HF,Vest,2
-2020-05-20,Helse Fonna HF,Vest,2
+2020-05-20,Helse Fonna HF,Vest,1
 2020-05-21,Helse Fonna HF,Vest,1
 2020-05-22,Helse Fonna HF,Vest,1
 2020-05-23,Helse Fonna HF,Vest,1
@@ -602,7 +602,7 @@ date,health_org_name,region,admissions
 2020-05-27,Helse Fonna HF,Vest,1
 2020-05-28,Helse Fonna HF,Vest,1
 2020-05-29,Helse Fonna HF,Vest,1
-2020-05-30,Helse Fonna HF,Vest,1
+2020-05-30,Helse Fonna HF,Vest,0
 2020-05-31,Helse Fonna HF,Vest,0
 2020-06-01,Helse Fonna HF,Vest,0
 2020-06-02,Helse Fonna HF,Vest,0
@@ -612,8 +612,8 @@ date,health_org_name,region,admissions
 2020-06-08,Helse Fonna HF,Vest,0
 2020-06-09,Helse Fonna HF,Vest,0
 2020-06-10,Helse Fonna HF,Vest,0
-2020-06-11,Helse Fonna HF,Vest,0
-2020-06-12,Helse Fonna HF,Vest,1
+2020-06-11,Helse Fonna HF,Vest,1
+2020-06-12,Helse Fonna HF,Vest,0
 2020-06-15,Helse Fonna HF,Vest,0
 2020-06-16,Helse Fonna HF,Vest,0
 2020-06-17,Helse Fonna HF,Vest,0
@@ -639,11 +639,11 @@ date,health_org_name,region,admissions
 2020-07-15,Helse Fonna HF,Vest,0
 2020-07-16,Helse Fonna HF,Vest,0
 2020-07-17,Helse Fonna HF,Vest,0
-2020-07-20,Helse Fonna HF,Vest,0
+2020-07-20,Helse Fonna HF,Vest,1
 2020-07-21,Helse Fonna HF,Vest,1
 2020-07-22,Helse Fonna HF,Vest,1
 2020-07-23,Helse Fonna HF,Vest,1
-2020-07-24,Helse Fonna HF,Vest,1
+2020-07-24,Helse Fonna HF,Vest,0
 2020-07-27,Helse Fonna HF,Vest,0
 2020-07-28,Helse Fonna HF,Vest,0
 2020-07-29,Helse Fonna HF,Vest,0
@@ -667,21 +667,21 @@ date,health_org_name,region,admissions
 2020-03-23,Helse Førde HF,Vest,0
 2020-03-24,Helse Førde HF,Vest,0
 2020-03-25,Helse Førde HF,Vest,0
-2020-03-26,Helse Førde HF,Vest,0
+2020-03-26,Helse Førde HF,Vest,1
 2020-03-27,Helse Førde HF,Vest,1
 2020-03-28,Helse Førde HF,Vest,1
-2020-03-29,Helse Førde HF,Vest,1
+2020-03-29,Helse Førde HF,Vest,2
 2020-03-30,Helse Førde HF,Vest,2
-2020-03-31,Helse Førde HF,Vest,2
+2020-03-31,Helse Førde HF,Vest,1
 2020-04-01,Helse Førde HF,Vest,1
-2020-04-02,Helse Førde HF,Vest,1
+2020-04-02,Helse Førde HF,Vest,3
 2020-04-03,Helse Førde HF,Vest,3
-2020-04-04,Helse Førde HF,Vest,3
-2020-04-05,Helse Førde HF,Vest,4
+2020-04-04,Helse Førde HF,Vest,4
+2020-04-05,Helse Førde HF,Vest,2
 2020-04-06,Helse Førde HF,Vest,2
-2020-04-07,Helse Førde HF,Vest,2
+2020-04-07,Helse Førde HF,Vest,1
 2020-04-08,Helse Førde HF,Vest,1
-2020-04-09,Helse Førde HF,Vest,1
+2020-04-09,Helse Førde HF,Vest,2
 2020-04-10,Helse Førde HF,Vest,2
 2020-04-11,Helse Førde HF,Vest,2
 2020-04-12,Helse Førde HF,Vest,2
@@ -693,13 +693,13 @@ date,health_org_name,region,admissions
 2020-04-18,Helse Førde HF,Vest,2
 2020-04-19,Helse Førde HF,Vest,2
 2020-04-20,Helse Førde HF,Vest,2
-2020-04-21,Helse Førde HF,Vest,2
+2020-04-21,Helse Førde HF,Vest,1
 2020-04-22,Helse Førde HF,Vest,1
 2020-04-23,Helse Førde HF,Vest,1
 2020-04-24,Helse Førde HF,Vest,1
 2020-04-25,Helse Førde HF,Vest,1
-2020-04-26,Helse Førde HF,Vest,1
-2020-04-27,Helse Førde HF,Vest,2
+2020-04-26,Helse Førde HF,Vest,2
+2020-04-27,Helse Førde HF,Vest,1
 2020-04-28,Helse Førde HF,Vest,1
 2020-04-29,Helse Førde HF,Vest,1
 2020-04-30,Helse Førde HF,Vest,1
@@ -736,7 +736,7 @@ date,health_org_name,region,admissions
 2020-05-31,Helse Førde HF,Vest,1
 2020-06-01,Helse Førde HF,Vest,1
 2020-06-02,Helse Førde HF,Vest,1
-2020-06-03,Helse Førde HF,Vest,1
+2020-06-03,Helse Førde HF,Vest,0
 2020-06-04,Helse Førde HF,Vest,0
 2020-06-05,Helse Førde HF,Vest,0
 2020-06-08,Helse Førde HF,Vest,0
@@ -784,70 +784,70 @@ date,health_org_name,region,admissions
 2020-03-10,Helse Møre og Romsdal,Midt,0
 2020-03-11,Helse Møre og Romsdal,Midt,0
 2020-03-12,Helse Møre og Romsdal,Midt,0
-2020-03-13,Helse Møre og Romsdal,Midt,0
+2020-03-13,Helse Møre og Romsdal,Midt,1
 2020-03-14,Helse Møre og Romsdal,Midt,1
 2020-03-15,Helse Møre og Romsdal,Midt,1
 2020-03-16,Helse Møre og Romsdal,Midt,1
 2020-03-17,Helse Møre og Romsdal,Midt,1
-2020-03-18,Helse Møre og Romsdal,Midt,1
+2020-03-18,Helse Møre og Romsdal,Midt,2
 2020-03-19,Helse Møre og Romsdal,Midt,2
-2020-03-20,Helse Møre og Romsdal,Midt,2
+2020-03-20,Helse Møre og Romsdal,Midt,4
 2020-03-21,Helse Møre og Romsdal,Midt,4
 2020-03-22,Helse Møre og Romsdal,Midt,4
 2020-03-23,Helse Møre og Romsdal,Midt,4
-2020-03-24,Helse Møre og Romsdal,Midt,4
+2020-03-24,Helse Møre og Romsdal,Midt,3
 2020-03-25,Helse Møre og Romsdal,Midt,3
 2020-03-26,Helse Møre og Romsdal,Midt,3
-2020-03-27,Helse Møre og Romsdal,Midt,3
+2020-03-27,Helse Møre og Romsdal,Midt,6
 2020-03-28,Helse Møre og Romsdal,Midt,6
 2020-03-29,Helse Møre og Romsdal,Midt,6
 2020-03-30,Helse Møre og Romsdal,Midt,6
-2020-03-31,Helse Møre og Romsdal,Midt,6
-2020-04-01,Helse Møre og Romsdal,Midt,7
-2020-04-02,Helse Møre og Romsdal,Midt,8
+2020-03-31,Helse Møre og Romsdal,Midt,7
+2020-04-01,Helse Møre og Romsdal,Midt,8
+2020-04-02,Helse Møre og Romsdal,Midt,7
 2020-04-03,Helse Møre og Romsdal,Midt,7
-2020-04-04,Helse Møre og Romsdal,Midt,7
+2020-04-04,Helse Møre og Romsdal,Midt,8
 2020-04-05,Helse Møre og Romsdal,Midt,8
 2020-04-06,Helse Møre og Romsdal,Midt,8
-2020-04-07,Helse Møre og Romsdal,Midt,8
+2020-04-07,Helse Møre og Romsdal,Midt,9
 2020-04-08,Helse Møre og Romsdal,Midt,9
 2020-04-09,Helse Møre og Romsdal,Midt,9
 2020-04-10,Helse Møre og Romsdal,Midt,9
-2020-04-11,Helse Møre og Romsdal,Midt,9
-2020-04-12,Helse Møre og Romsdal,Midt,10
-2020-04-13,Helse Møre og Romsdal,Midt,8
+2020-04-11,Helse Møre og Romsdal,Midt,10
+2020-04-12,Helse Møre og Romsdal,Midt,8
+2020-04-13,Helse Møre og Romsdal,Midt,7
 2020-04-14,Helse Møre og Romsdal,Midt,7
-2020-04-15,Helse Møre og Romsdal,Midt,7
-2020-04-16,Helse Møre og Romsdal,Midt,5
+2020-04-15,Helse Møre og Romsdal,Midt,5
+2020-04-16,Helse Møre og Romsdal,Midt,6
 2020-04-17,Helse Møre og Romsdal,Midt,6
 2020-04-18,Helse Møre og Romsdal,Midt,6
 2020-04-19,Helse Møre og Romsdal,Midt,6
 2020-04-20,Helse Møre og Romsdal,Midt,6
 2020-04-21,Helse Møre og Romsdal,Midt,6
 2020-04-22,Helse Møre og Romsdal,Midt,6
-2020-04-23,Helse Møre og Romsdal,Midt,6
-2020-04-24,Helse Møre og Romsdal,Midt,7
-2020-04-25,Helse Møre og Romsdal,Midt,6
+2020-04-23,Helse Møre og Romsdal,Midt,7
+2020-04-24,Helse Møre og Romsdal,Midt,6
+2020-04-25,Helse Møre og Romsdal,Midt,5
 2020-04-26,Helse Møre og Romsdal,Midt,5
 2020-04-27,Helse Møre og Romsdal,Midt,5
-2020-04-28,Helse Møre og Romsdal,Midt,5
+2020-04-28,Helse Møre og Romsdal,Midt,2
 2020-04-29,Helse Møre og Romsdal,Midt,2
 2020-04-30,Helse Møre og Romsdal,Midt,2
-2020-05-01,Helse Møre og Romsdal,Midt,2
-2020-05-02,Helse Møre og Romsdal,Midt,1
+2020-05-01,Helse Møre og Romsdal,Midt,1
+2020-05-02,Helse Møre og Romsdal,Midt,3
 2020-05-03,Helse Møre og Romsdal,Midt,3
-2020-05-04,Helse Møre og Romsdal,Midt,3
+2020-05-04,Helse Møre og Romsdal,Midt,4
 2020-05-05,Helse Møre og Romsdal,Midt,4
 2020-05-06,Helse Møre og Romsdal,Midt,4
-2020-05-07,Helse Møre og Romsdal,Midt,4
+2020-05-07,Helse Møre og Romsdal,Midt,3
 2020-05-08,Helse Møre og Romsdal,Midt,3
 2020-05-09,Helse Møre og Romsdal,Midt,3
 2020-05-10,Helse Møre og Romsdal,Midt,3
 2020-05-11,Helse Møre og Romsdal,Midt,3
-2020-05-12,Helse Møre og Romsdal,Midt,3
-2020-05-13,Helse Møre og Romsdal,Midt,5
-2020-05-14,Helse Møre og Romsdal,Midt,4
-2020-05-15,Helse Møre og Romsdal,Midt,3
+2020-05-12,Helse Møre og Romsdal,Midt,5
+2020-05-13,Helse Møre og Romsdal,Midt,4
+2020-05-14,Helse Møre og Romsdal,Midt,3
+2020-05-15,Helse Møre og Romsdal,Midt,1
 2020-05-16,Helse Møre og Romsdal,Midt,1
 2020-05-17,Helse Møre og Romsdal,Midt,1
 2020-05-18,Helse Møre og Romsdal,Midt,1
@@ -864,9 +864,9 @@ date,health_org_name,region,admissions
 2020-05-29,Helse Møre og Romsdal,Midt,1
 2020-05-30,Helse Møre og Romsdal,Midt,1
 2020-05-31,Helse Møre og Romsdal,Midt,1
-2020-06-01,Helse Møre og Romsdal,Midt,1
+2020-06-01,Helse Møre og Romsdal,Midt,2
 2020-06-02,Helse Møre og Romsdal,Midt,2
-2020-06-03,Helse Møre og Romsdal,Midt,2
+2020-06-03,Helse Møre og Romsdal,Midt,1
 2020-06-04,Helse Møre og Romsdal,Midt,1
 2020-06-05,Helse Møre og Romsdal,Midt,1
 2020-06-08,Helse Møre og Romsdal,Midt,1
@@ -884,16 +884,16 @@ date,health_org_name,region,admissions
 2020-06-24,Helse Møre og Romsdal,Midt,1
 2020-06-25,Helse Møre og Romsdal,Midt,1
 2020-06-26,Helse Møre og Romsdal,Midt,1
-2020-06-29,Helse Møre og Romsdal,Midt,1
+2020-06-29,Helse Møre og Romsdal,Midt,3
 2020-06-30,Helse Møre og Romsdal,Midt,3
 2020-07-01,Helse Møre og Romsdal,Midt,3
 2020-07-02,Helse Møre og Romsdal,Midt,3
 2020-07-03,Helse Møre og Romsdal,Midt,3
-2020-07-06,Helse Møre og Romsdal,Midt,3
+2020-07-06,Helse Møre og Romsdal,Midt,2
 2020-07-07,Helse Møre og Romsdal,Midt,2
-2020-07-08,Helse Møre og Romsdal,Midt,2
+2020-07-08,Helse Møre og Romsdal,Midt,1
 2020-07-09,Helse Møre og Romsdal,Midt,1
-2020-07-10,Helse Møre og Romsdal,Midt,1
+2020-07-10,Helse Møre og Romsdal,Midt,0
 2020-07-13,Helse Møre og Romsdal,Midt,0
 2020-07-14,Helse Møre og Romsdal,Midt,0
 2020-07-15,Helse Møre og Romsdal,Midt,0
@@ -911,40 +911,40 @@ date,health_org_name,region,admissions
 2020-07-31,Helse Møre og Romsdal,Midt,0
 2020-03-08,Helse Nord-Trøndelag,Midt,0
 2020-03-09,Helse Nord-Trøndelag,Midt,0
-2020-03-10,Helse Nord-Trøndelag,Midt,0
+2020-03-10,Helse Nord-Trøndelag,Midt,1
 2020-03-11,Helse Nord-Trøndelag,Midt,1
 2020-03-12,Helse Nord-Trøndelag,Midt,1
-2020-03-13,Helse Nord-Trøndelag,Midt,1
-2020-03-14,Helse Nord-Trøndelag,Midt,0
+2020-03-13,Helse Nord-Trøndelag,Midt,0
+2020-03-14,Helse Nord-Trøndelag,Midt,1
 2020-03-15,Helse Nord-Trøndelag,Midt,1
 2020-03-16,Helse Nord-Trøndelag,Midt,1
 2020-03-17,Helse Nord-Trøndelag,Midt,1
-2020-03-18,Helse Nord-Trøndelag,Midt,1
+2020-03-18,Helse Nord-Trøndelag,Midt,3
 2020-03-19,Helse Nord-Trøndelag,Midt,3
-2020-03-20,Helse Nord-Trøndelag,Midt,3
+2020-03-20,Helse Nord-Trøndelag,Midt,4
 2020-03-21,Helse Nord-Trøndelag,Midt,4
 2020-03-22,Helse Nord-Trøndelag,Midt,4
-2020-03-23,Helse Nord-Trøndelag,Midt,4
+2020-03-23,Helse Nord-Trøndelag,Midt,2
 2020-03-24,Helse Nord-Trøndelag,Midt,2
 2020-03-25,Helse Nord-Trøndelag,Midt,2
-2020-03-26,Helse Nord-Trøndelag,Midt,2
-2020-03-27,Helse Nord-Trøndelag,Midt,1
+2020-03-26,Helse Nord-Trøndelag,Midt,1
+2020-03-27,Helse Nord-Trøndelag,Midt,2
 2020-03-28,Helse Nord-Trøndelag,Midt,2
 2020-03-29,Helse Nord-Trøndelag,Midt,2
-2020-03-30,Helse Nord-Trøndelag,Midt,2
-2020-03-31,Helse Nord-Trøndelag,Midt,1
+2020-03-30,Helse Nord-Trøndelag,Midt,1
+2020-03-31,Helse Nord-Trøndelag,Midt,3
 2020-04-01,Helse Nord-Trøndelag,Midt,3
 2020-04-02,Helse Nord-Trøndelag,Midt,3
-2020-04-03,Helse Nord-Trøndelag,Midt,3
+2020-04-03,Helse Nord-Trøndelag,Midt,4
 2020-04-04,Helse Nord-Trøndelag,Midt,4
 2020-04-05,Helse Nord-Trøndelag,Midt,4
-2020-04-06,Helse Nord-Trøndelag,Midt,4
-2020-04-07,Helse Nord-Trøndelag,Midt,5
+2020-04-06,Helse Nord-Trøndelag,Midt,5
+2020-04-07,Helse Nord-Trøndelag,Midt,4
 2020-04-08,Helse Nord-Trøndelag,Midt,4
 2020-04-09,Helse Nord-Trøndelag,Midt,4
-2020-04-10,Helse Nord-Trøndelag,Midt,4
+2020-04-10,Helse Nord-Trøndelag,Midt,5
 2020-04-11,Helse Nord-Trøndelag,Midt,5
-2020-04-12,Helse Nord-Trøndelag,Midt,5
+2020-04-12,Helse Nord-Trøndelag,Midt,4
 2020-04-13,Helse Nord-Trøndelag,Midt,4
 2020-04-14,Helse Nord-Trøndelag,Midt,4
 2020-04-15,Helse Nord-Trøndelag,Midt,4
@@ -953,15 +953,15 @@ date,health_org_name,region,admissions
 2020-04-18,Helse Nord-Trøndelag,Midt,4
 2020-04-19,Helse Nord-Trøndelag,Midt,4
 2020-04-20,Helse Nord-Trøndelag,Midt,4
-2020-04-21,Helse Nord-Trøndelag,Midt,4
-2020-04-22,Helse Nord-Trøndelag,Midt,3
-2020-04-23,Helse Nord-Trøndelag,Midt,2
+2020-04-21,Helse Nord-Trøndelag,Midt,3
+2020-04-22,Helse Nord-Trøndelag,Midt,2
+2020-04-23,Helse Nord-Trøndelag,Midt,1
 2020-04-24,Helse Nord-Trøndelag,Midt,1
-2020-04-25,Helse Nord-Trøndelag,Midt,1
+2020-04-25,Helse Nord-Trøndelag,Midt,0
 2020-04-26,Helse Nord-Trøndelag,Midt,0
 2020-04-27,Helse Nord-Trøndelag,Midt,0
 2020-04-28,Helse Nord-Trøndelag,Midt,0
-2020-04-29,Helse Nord-Trøndelag,Midt,0
+2020-04-29,Helse Nord-Trøndelag,Midt,1
 2020-04-30,Helse Nord-Trøndelag,Midt,1
 2020-05-01,Helse Nord-Trøndelag,Midt,1
 2020-05-02,Helse Nord-Trøndelag,Midt,1
@@ -1008,7 +1008,7 @@ date,health_org_name,region,admissions
 2020-06-16,Helse Nord-Trøndelag,Midt,1
 2020-06-17,Helse Nord-Trøndelag,Midt,1
 2020-06-18,Helse Nord-Trøndelag,Midt,1
-2020-06-19,Helse Nord-Trøndelag,Midt,1
+2020-06-19,Helse Nord-Trøndelag,Midt,0
 2020-06-22,Helse Nord-Trøndelag,Midt,0
 2020-06-23,Helse Nord-Trøndelag,Midt,0
 2020-06-24,Helse Nord-Trøndelag,Midt,0
@@ -1044,46 +1044,46 @@ date,health_org_name,region,admissions
 2020-03-10,Helse Stavanger HF,Vest,0
 2020-03-11,Helse Stavanger HF,Vest,0
 2020-03-12,Helse Stavanger HF,Vest,0
-2020-03-13,Helse Stavanger HF,Vest,0
-2020-03-14,Helse Stavanger HF,Vest,2
+2020-03-13,Helse Stavanger HF,Vest,2
+2020-03-14,Helse Stavanger HF,Vest,1
 2020-03-15,Helse Stavanger HF,Vest,1
 2020-03-16,Helse Stavanger HF,Vest,1
-2020-03-17,Helse Stavanger HF,Vest,1
-2020-03-18,Helse Stavanger HF,Vest,7
-2020-03-19,Helse Stavanger HF,Vest,10
-2020-03-20,Helse Stavanger HF,Vest,9
-2020-03-21,Helse Stavanger HF,Vest,12
+2020-03-17,Helse Stavanger HF,Vest,7
+2020-03-18,Helse Stavanger HF,Vest,10
+2020-03-19,Helse Stavanger HF,Vest,9
+2020-03-20,Helse Stavanger HF,Vest,12
+2020-03-21,Helse Stavanger HF,Vest,15
 2020-03-22,Helse Stavanger HF,Vest,15
-2020-03-23,Helse Stavanger HF,Vest,15
-2020-03-24,Helse Stavanger HF,Vest,12
-2020-03-25,Helse Stavanger HF,Vest,16
+2020-03-23,Helse Stavanger HF,Vest,12
+2020-03-24,Helse Stavanger HF,Vest,16
+2020-03-25,Helse Stavanger HF,Vest,15
 2020-03-26,Helse Stavanger HF,Vest,15
-2020-03-27,Helse Stavanger HF,Vest,15
-2020-03-28,Helse Stavanger HF,Vest,13
+2020-03-27,Helse Stavanger HF,Vest,13
+2020-03-28,Helse Stavanger HF,Vest,11
 2020-03-29,Helse Stavanger HF,Vest,11
 2020-03-30,Helse Stavanger HF,Vest,11
-2020-03-31,Helse Stavanger HF,Vest,11
+2020-03-31,Helse Stavanger HF,Vest,14
 2020-04-01,Helse Stavanger HF,Vest,14
-2020-04-02,Helse Stavanger HF,Vest,14
+2020-04-02,Helse Stavanger HF,Vest,13
 2020-04-03,Helse Stavanger HF,Vest,13
 2020-04-04,Helse Stavanger HF,Vest,13
 2020-04-05,Helse Stavanger HF,Vest,13
-2020-04-06,Helse Stavanger HF,Vest,13
-2020-04-07,Helse Stavanger HF,Vest,10
-2020-04-08,Helse Stavanger HF,Vest,7
+2020-04-06,Helse Stavanger HF,Vest,10
+2020-04-07,Helse Stavanger HF,Vest,7
+2020-04-08,Helse Stavanger HF,Vest,5
 2020-04-09,Helse Stavanger HF,Vest,5
 2020-04-10,Helse Stavanger HF,Vest,5
-2020-04-11,Helse Stavanger HF,Vest,5
-2020-04-12,Helse Stavanger HF,Vest,4
+2020-04-11,Helse Stavanger HF,Vest,4
+2020-04-12,Helse Stavanger HF,Vest,5
 2020-04-13,Helse Stavanger HF,Vest,5
 2020-04-14,Helse Stavanger HF,Vest,5
-2020-04-15,Helse Stavanger HF,Vest,5
-2020-04-16,Helse Stavanger HF,Vest,6
-2020-04-17,Helse Stavanger HF,Vest,4
-2020-04-18,Helse Stavanger HF,Vest,3
-2020-04-19,Helse Stavanger HF,Vest,1
+2020-04-15,Helse Stavanger HF,Vest,6
+2020-04-16,Helse Stavanger HF,Vest,4
+2020-04-17,Helse Stavanger HF,Vest,3
+2020-04-18,Helse Stavanger HF,Vest,1
+2020-04-19,Helse Stavanger HF,Vest,2
 2020-04-20,Helse Stavanger HF,Vest,2
-2020-04-21,Helse Stavanger HF,Vest,2
+2020-04-21,Helse Stavanger HF,Vest,1
 2020-04-22,Helse Stavanger HF,Vest,1
 2020-04-23,Helse Stavanger HF,Vest,1
 2020-04-24,Helse Stavanger HF,Vest,1
@@ -1093,7 +1093,7 @@ date,health_org_name,region,admissions
 2020-04-28,Helse Stavanger HF,Vest,1
 2020-04-29,Helse Stavanger HF,Vest,1
 2020-04-30,Helse Stavanger HF,Vest,1
-2020-05-01,Helse Stavanger HF,Vest,1
+2020-05-01,Helse Stavanger HF,Vest,0
 2020-05-02,Helse Stavanger HF,Vest,0
 2020-05-03,Helse Stavanger HF,Vest,0
 2020-05-04,Helse Stavanger HF,Vest,0
@@ -1148,12 +1148,12 @@ date,health_org_name,region,admissions
 2020-06-30,Helse Stavanger HF,Vest,0
 2020-07-01,Helse Stavanger HF,Vest,0
 2020-07-02,Helse Stavanger HF,Vest,0
-2020-07-03,Helse Stavanger HF,Vest,0
+2020-07-03,Helse Stavanger HF,Vest,1
 2020-07-06,Helse Stavanger HF,Vest,1
 2020-07-07,Helse Stavanger HF,Vest,1
 2020-07-08,Helse Stavanger HF,Vest,1
 2020-07-09,Helse Stavanger HF,Vest,1
-2020-07-10,Helse Stavanger HF,Vest,1
+2020-07-10,Helse Stavanger HF,Vest,0
 2020-07-13,Helse Stavanger HF,Vest,0
 2020-07-14,Helse Stavanger HF,Vest,0
 2020-07-15,Helse Stavanger HF,Vest,0
@@ -1178,72 +1178,72 @@ date,health_org_name,region,admissions
 2020-03-14,Nordlandssykehuset HF,Nord,0
 2020-03-15,Nordlandssykehuset HF,Nord,0
 2020-03-16,Nordlandssykehuset HF,Nord,0
-2020-03-17,Nordlandssykehuset HF,Nord,0
+2020-03-17,Nordlandssykehuset HF,Nord,1
 2020-03-18,Nordlandssykehuset HF,Nord,1
-2020-03-19,Nordlandssykehuset HF,Nord,1
-2020-03-20,Nordlandssykehuset HF,Nord,2
+2020-03-19,Nordlandssykehuset HF,Nord,2
+2020-03-20,Nordlandssykehuset HF,Nord,1
 2020-03-21,Nordlandssykehuset HF,Nord,1
-2020-03-22,Nordlandssykehuset HF,Nord,1
+2020-03-22,Nordlandssykehuset HF,Nord,2
 2020-03-23,Nordlandssykehuset HF,Nord,2
 2020-03-24,Nordlandssykehuset HF,Nord,2
 2020-03-25,Nordlandssykehuset HF,Nord,2
 2020-03-26,Nordlandssykehuset HF,Nord,2
-2020-03-27,Nordlandssykehuset HF,Nord,2
-2020-03-28,Nordlandssykehuset HF,Nord,4
+2020-03-27,Nordlandssykehuset HF,Nord,4
+2020-03-28,Nordlandssykehuset HF,Nord,5
 2020-03-29,Nordlandssykehuset HF,Nord,5
 2020-03-30,Nordlandssykehuset HF,Nord,5
 2020-03-31,Nordlandssykehuset HF,Nord,5
 2020-04-01,Nordlandssykehuset HF,Nord,5
-2020-04-02,Nordlandssykehuset HF,Nord,5
+2020-04-02,Nordlandssykehuset HF,Nord,4
 2020-04-03,Nordlandssykehuset HF,Nord,4
-2020-04-04,Nordlandssykehuset HF,Nord,4
-2020-04-05,Nordlandssykehuset HF,Nord,5
+2020-04-04,Nordlandssykehuset HF,Nord,5
+2020-04-05,Nordlandssykehuset HF,Nord,6
 2020-04-06,Nordlandssykehuset HF,Nord,6
 2020-04-07,Nordlandssykehuset HF,Nord,6
-2020-04-08,Nordlandssykehuset HF,Nord,6
+2020-04-08,Nordlandssykehuset HF,Nord,5
 2020-04-09,Nordlandssykehuset HF,Nord,5
 2020-04-10,Nordlandssykehuset HF,Nord,5
 2020-04-11,Nordlandssykehuset HF,Nord,5
 2020-04-12,Nordlandssykehuset HF,Nord,5
 2020-04-13,Nordlandssykehuset HF,Nord,5
 2020-04-14,Nordlandssykehuset HF,Nord,5
-2020-04-15,Nordlandssykehuset HF,Nord,5
-2020-04-16,Nordlandssykehuset HF,Nord,6
+2020-04-15,Nordlandssykehuset HF,Nord,6
+2020-04-16,Nordlandssykehuset HF,Nord,4
 2020-04-17,Nordlandssykehuset HF,Nord,4
 2020-04-18,Nordlandssykehuset HF,Nord,4
 2020-04-19,Nordlandssykehuset HF,Nord,4
 2020-04-20,Nordlandssykehuset HF,Nord,4
 2020-04-21,Nordlandssykehuset HF,Nord,4
-2020-04-22,Nordlandssykehuset HF,Nord,4
+2020-04-22,Nordlandssykehuset HF,Nord,3
 2020-04-23,Nordlandssykehuset HF,Nord,3
 2020-04-24,Nordlandssykehuset HF,Nord,3
 2020-04-25,Nordlandssykehuset HF,Nord,3
-2020-04-26,Nordlandssykehuset HF,Nord,3
-2020-04-27,Nordlandssykehuset HF,Nord,4
+2020-04-26,Nordlandssykehuset HF,Nord,4
+2020-04-27,Nordlandssykehuset HF,Nord,3
 2020-04-28,Nordlandssykehuset HF,Nord,3
 2020-04-29,Nordlandssykehuset HF,Nord,3
-2020-04-30,Nordlandssykehuset HF,Nord,3
+2020-04-30,Nordlandssykehuset HF,Nord,2
 2020-05-01,Nordlandssykehuset HF,Nord,2
 2020-05-02,Nordlandssykehuset HF,Nord,2
 2020-05-03,Nordlandssykehuset HF,Nord,2
 2020-05-04,Nordlandssykehuset HF,Nord,2
-2020-05-05,Nordlandssykehuset HF,Nord,2
+2020-05-05,Nordlandssykehuset HF,Nord,1
 2020-05-06,Nordlandssykehuset HF,Nord,1
 2020-05-07,Nordlandssykehuset HF,Nord,1
 2020-05-08,Nordlandssykehuset HF,Nord,1
 2020-05-09,Nordlandssykehuset HF,Nord,1
 2020-05-10,Nordlandssykehuset HF,Nord,1
 2020-05-11,Nordlandssykehuset HF,Nord,1
-2020-05-12,Nordlandssykehuset HF,Nord,1
+2020-05-12,Nordlandssykehuset HF,Nord,0
 2020-05-13,Nordlandssykehuset HF,Nord,0
 2020-05-14,Nordlandssykehuset HF,Nord,0
 2020-05-15,Nordlandssykehuset HF,Nord,0
 2020-05-16,Nordlandssykehuset HF,Nord,0
 2020-05-17,Nordlandssykehuset HF,Nord,0
 2020-05-18,Nordlandssykehuset HF,Nord,0
-2020-05-19,Nordlandssykehuset HF,Nord,0
+2020-05-19,Nordlandssykehuset HF,Nord,1
 2020-05-20,Nordlandssykehuset HF,Nord,1
-2020-05-21,Nordlandssykehuset HF,Nord,1
+2020-05-21,Nordlandssykehuset HF,Nord,0
 2020-05-22,Nordlandssykehuset HF,Nord,0
 2020-05-23,Nordlandssykehuset HF,Nord,0
 2020-05-24,Nordlandssykehuset HF,Nord,0
@@ -1301,117 +1301,117 @@ date,health_org_name,region,admissions
 2020-07-31,Nordlandssykehuset HF,Nord,0
 2020-03-08,Oslo universitetssykehus HF,Sør-Øst,0
 2020-03-09,Oslo universitetssykehus HF,Sør-Øst,0
-2020-03-10,Oslo universitetssykehus HF,Sør-Øst,0
-2020-03-11,Oslo universitetssykehus HF,Sør-Øst,2
-2020-03-12,Oslo universitetssykehus HF,Sør-Øst,4
+2020-03-10,Oslo universitetssykehus HF,Sør-Øst,2
+2020-03-11,Oslo universitetssykehus HF,Sør-Øst,4
+2020-03-12,Oslo universitetssykehus HF,Sør-Øst,6
 2020-03-13,Oslo universitetssykehus HF,Sør-Øst,6
 2020-03-14,Oslo universitetssykehus HF,Sør-Øst,6
-2020-03-15,Oslo universitetssykehus HF,Sør-Øst,6
-2020-03-16,Oslo universitetssykehus HF,Sør-Øst,4
-2020-03-17,Oslo universitetssykehus HF,Sør-Øst,6
-2020-03-18,Oslo universitetssykehus HF,Sør-Øst,8
-2020-03-19,Oslo universitetssykehus HF,Sør-Øst,9
-2020-03-20,Oslo universitetssykehus HF,Sør-Øst,13
-2020-03-21,Oslo universitetssykehus HF,Sør-Øst,14
-2020-03-22,Oslo universitetssykehus HF,Sør-Øst,23
-2020-03-23,Oslo universitetssykehus HF,Sør-Øst,26
-2020-03-24,Oslo universitetssykehus HF,Sør-Øst,30
-2020-03-25,Oslo universitetssykehus HF,Sør-Øst,31
+2020-03-15,Oslo universitetssykehus HF,Sør-Øst,4
+2020-03-16,Oslo universitetssykehus HF,Sør-Øst,6
+2020-03-17,Oslo universitetssykehus HF,Sør-Øst,8
+2020-03-18,Oslo universitetssykehus HF,Sør-Øst,9
+2020-03-19,Oslo universitetssykehus HF,Sør-Øst,13
+2020-03-20,Oslo universitetssykehus HF,Sør-Øst,14
+2020-03-21,Oslo universitetssykehus HF,Sør-Øst,23
+2020-03-22,Oslo universitetssykehus HF,Sør-Øst,26
+2020-03-23,Oslo universitetssykehus HF,Sør-Øst,30
+2020-03-24,Oslo universitetssykehus HF,Sør-Øst,31
+2020-03-25,Oslo universitetssykehus HF,Sør-Øst,33
 2020-03-26,Oslo universitetssykehus HF,Sør-Øst,33
-2020-03-27,Oslo universitetssykehus HF,Sør-Øst,33
-2020-03-28,Oslo universitetssykehus HF,Sør-Øst,38
-2020-03-29,Oslo universitetssykehus HF,Sør-Øst,34
-2020-03-30,Oslo universitetssykehus HF,Sør-Øst,49
-2020-03-31,Oslo universitetssykehus HF,Sør-Øst,50
-2020-04-01,Oslo universitetssykehus HF,Sør-Øst,55
-2020-04-02,Oslo universitetssykehus HF,Sør-Øst,56
-2020-04-03,Oslo universitetssykehus HF,Sør-Øst,50
-2020-04-04,Oslo universitetssykehus HF,Sør-Øst,55
-2020-04-05,Oslo universitetssykehus HF,Sør-Øst,58
-2020-04-06,Oslo universitetssykehus HF,Sør-Øst,63
-2020-04-07,Oslo universitetssykehus HF,Sør-Øst,66
-2020-04-08,Oslo universitetssykehus HF,Sør-Øst,58
-2020-04-09,Oslo universitetssykehus HF,Sør-Øst,54
-2020-04-10,Oslo universitetssykehus HF,Sør-Øst,51
+2020-03-27,Oslo universitetssykehus HF,Sør-Øst,38
+2020-03-28,Oslo universitetssykehus HF,Sør-Øst,34
+2020-03-29,Oslo universitetssykehus HF,Sør-Øst,49
+2020-03-30,Oslo universitetssykehus HF,Sør-Øst,50
+2020-03-31,Oslo universitetssykehus HF,Sør-Øst,55
+2020-04-01,Oslo universitetssykehus HF,Sør-Øst,56
+2020-04-02,Oslo universitetssykehus HF,Sør-Øst,50
+2020-04-03,Oslo universitetssykehus HF,Sør-Øst,55
+2020-04-04,Oslo universitetssykehus HF,Sør-Øst,58
+2020-04-05,Oslo universitetssykehus HF,Sør-Øst,63
+2020-04-06,Oslo universitetssykehus HF,Sør-Øst,66
+2020-04-07,Oslo universitetssykehus HF,Sør-Øst,58
+2020-04-08,Oslo universitetssykehus HF,Sør-Øst,54
+2020-04-09,Oslo universitetssykehus HF,Sør-Øst,51
+2020-04-10,Oslo universitetssykehus HF,Sør-Øst,45
 2020-04-11,Oslo universitetssykehus HF,Sør-Øst,45
-2020-04-12,Oslo universitetssykehus HF,Sør-Øst,45
-2020-04-13,Oslo universitetssykehus HF,Sør-Øst,41
-2020-04-14,Oslo universitetssykehus HF,Sør-Øst,36
-2020-04-15,Oslo universitetssykehus HF,Sør-Øst,35
-2020-04-16,Oslo universitetssykehus HF,Sør-Øst,32
-2020-04-17,Oslo universitetssykehus HF,Sør-Øst,31
-2020-04-18,Oslo universitetssykehus HF,Sør-Øst,28
-2020-04-19,Oslo universitetssykehus HF,Sør-Øst,27
-2020-04-20,Oslo universitetssykehus HF,Sør-Øst,26
-2020-04-21,Oslo universitetssykehus HF,Sør-Øst,28
+2020-04-12,Oslo universitetssykehus HF,Sør-Øst,41
+2020-04-13,Oslo universitetssykehus HF,Sør-Øst,36
+2020-04-14,Oslo universitetssykehus HF,Sør-Øst,35
+2020-04-15,Oslo universitetssykehus HF,Sør-Øst,32
+2020-04-16,Oslo universitetssykehus HF,Sør-Øst,31
+2020-04-17,Oslo universitetssykehus HF,Sør-Øst,28
+2020-04-18,Oslo universitetssykehus HF,Sør-Øst,27
+2020-04-19,Oslo universitetssykehus HF,Sør-Øst,26
+2020-04-20,Oslo universitetssykehus HF,Sør-Øst,28
+2020-04-21,Oslo universitetssykehus HF,Sør-Øst,25
 2020-04-22,Oslo universitetssykehus HF,Sør-Øst,25
-2020-04-23,Oslo universitetssykehus HF,Sør-Øst,25
+2020-04-23,Oslo universitetssykehus HF,Sør-Øst,20
 2020-04-24,Oslo universitetssykehus HF,Sør-Øst,20
-2020-04-25,Oslo universitetssykehus HF,Sør-Øst,20
-2020-04-26,Oslo universitetssykehus HF,Sør-Øst,22
-2020-04-27,Oslo universitetssykehus HF,Sør-Øst,25
-2020-04-28,Oslo universitetssykehus HF,Sør-Øst,28
+2020-04-25,Oslo universitetssykehus HF,Sør-Øst,22
+2020-04-26,Oslo universitetssykehus HF,Sør-Øst,25
+2020-04-27,Oslo universitetssykehus HF,Sør-Øst,28
+2020-04-28,Oslo universitetssykehus HF,Sør-Øst,26
 2020-04-29,Oslo universitetssykehus HF,Sør-Øst,26
-2020-04-30,Oslo universitetssykehus HF,Sør-Øst,26
-2020-05-01,Oslo universitetssykehus HF,Sør-Øst,19
-2020-05-02,Oslo universitetssykehus HF,Sør-Øst,14
-2020-05-03,Oslo universitetssykehus HF,Sør-Øst,15
-2020-05-04,Oslo universitetssykehus HF,Sør-Øst,14
+2020-04-30,Oslo universitetssykehus HF,Sør-Øst,19
+2020-05-01,Oslo universitetssykehus HF,Sør-Øst,14
+2020-05-02,Oslo universitetssykehus HF,Sør-Øst,15
+2020-05-03,Oslo universitetssykehus HF,Sør-Øst,14
+2020-05-04,Oslo universitetssykehus HF,Sør-Øst,15
 2020-05-05,Oslo universitetssykehus HF,Sør-Øst,15
-2020-05-06,Oslo universitetssykehus HF,Sør-Øst,15
+2020-05-06,Oslo universitetssykehus HF,Sør-Øst,13
 2020-05-07,Oslo universitetssykehus HF,Sør-Øst,13
-2020-05-08,Oslo universitetssykehus HF,Sør-Øst,13
-2020-05-09,Oslo universitetssykehus HF,Sør-Øst,12
+2020-05-08,Oslo universitetssykehus HF,Sør-Øst,12
+2020-05-09,Oslo universitetssykehus HF,Sør-Øst,9
 2020-05-10,Oslo universitetssykehus HF,Sør-Øst,9
-2020-05-11,Oslo universitetssykehus HF,Sør-Øst,9
-2020-05-12,Oslo universitetssykehus HF,Sør-Øst,13
-2020-05-13,Oslo universitetssykehus HF,Sør-Øst,12
-2020-05-14,Oslo universitetssykehus HF,Sør-Øst,13
-2020-05-15,Oslo universitetssykehus HF,Sør-Øst,14
-2020-05-16,Oslo universitetssykehus HF,Sør-Øst,12
+2020-05-11,Oslo universitetssykehus HF,Sør-Øst,13
+2020-05-12,Oslo universitetssykehus HF,Sør-Øst,12
+2020-05-13,Oslo universitetssykehus HF,Sør-Øst,13
+2020-05-14,Oslo universitetssykehus HF,Sør-Øst,14
+2020-05-15,Oslo universitetssykehus HF,Sør-Øst,12
+2020-05-16,Oslo universitetssykehus HF,Sør-Øst,10
 2020-05-17,Oslo universitetssykehus HF,Sør-Øst,10
 2020-05-18,Oslo universitetssykehus HF,Sør-Øst,10
-2020-05-19,Oslo universitetssykehus HF,Sør-Øst,10
+2020-05-19,Oslo universitetssykehus HF,Sør-Øst,12
 2020-05-20,Oslo universitetssykehus HF,Sør-Øst,12
-2020-05-21,Oslo universitetssykehus HF,Sør-Øst,12
-2020-05-22,Oslo universitetssykehus HF,Sør-Øst,10
-2020-05-23,Oslo universitetssykehus HF,Sør-Øst,12
-2020-05-24,Oslo universitetssykehus HF,Sør-Øst,11
-2020-05-25,Oslo universitetssykehus HF,Sør-Øst,13
-2020-05-26,Oslo universitetssykehus HF,Sør-Øst,11
+2020-05-21,Oslo universitetssykehus HF,Sør-Øst,10
+2020-05-22,Oslo universitetssykehus HF,Sør-Øst,12
+2020-05-23,Oslo universitetssykehus HF,Sør-Øst,11
+2020-05-24,Oslo universitetssykehus HF,Sør-Øst,13
+2020-05-25,Oslo universitetssykehus HF,Sør-Øst,11
+2020-05-26,Oslo universitetssykehus HF,Sør-Øst,9
 2020-05-27,Oslo universitetssykehus HF,Sør-Øst,9
-2020-05-28,Oslo universitetssykehus HF,Sør-Øst,9
-2020-05-29,Oslo universitetssykehus HF,Sør-Øst,6
-2020-05-30,Oslo universitetssykehus HF,Sør-Øst,5
-2020-05-31,Oslo universitetssykehus HF,Sør-Øst,4
+2020-05-28,Oslo universitetssykehus HF,Sør-Øst,6
+2020-05-29,Oslo universitetssykehus HF,Sør-Øst,5
+2020-05-30,Oslo universitetssykehus HF,Sør-Øst,4
+2020-05-31,Oslo universitetssykehus HF,Sør-Øst,6
 2020-06-01,Oslo universitetssykehus HF,Sør-Øst,6
-2020-06-02,Oslo universitetssykehus HF,Sør-Øst,6
-2020-06-03,Oslo universitetssykehus HF,Sør-Øst,8
+2020-06-02,Oslo universitetssykehus HF,Sør-Øst,8
+2020-06-03,Oslo universitetssykehus HF,Sør-Øst,6
 2020-06-04,Oslo universitetssykehus HF,Sør-Øst,6
 2020-06-05,Oslo universitetssykehus HF,Sør-Øst,6
 2020-06-08,Oslo universitetssykehus HF,Sør-Øst,6
 2020-06-09,Oslo universitetssykehus HF,Sør-Øst,6
-2020-06-10,Oslo universitetssykehus HF,Sør-Øst,6
-2020-06-11,Oslo universitetssykehus HF,Sør-Øst,4
+2020-06-10,Oslo universitetssykehus HF,Sør-Øst,4
+2020-06-11,Oslo universitetssykehus HF,Sør-Øst,2
 2020-06-12,Oslo universitetssykehus HF,Sør-Øst,2
 2020-06-15,Oslo universitetssykehus HF,Sør-Øst,2
-2020-06-16,Oslo universitetssykehus HF,Sør-Øst,2
-2020-06-17,Oslo universitetssykehus HF,Sør-Øst,3
+2020-06-16,Oslo universitetssykehus HF,Sør-Øst,3
+2020-06-17,Oslo universitetssykehus HF,Sør-Øst,2
 2020-06-18,Oslo universitetssykehus HF,Sør-Øst,2
 2020-06-19,Oslo universitetssykehus HF,Sør-Øst,2
 2020-06-22,Oslo universitetssykehus HF,Sør-Øst,2
 2020-06-23,Oslo universitetssykehus HF,Sør-Øst,2
 2020-06-24,Oslo universitetssykehus HF,Sør-Øst,2
 2020-06-25,Oslo universitetssykehus HF,Sør-Øst,2
-2020-06-26,Oslo universitetssykehus HF,Sør-Øst,2
-2020-06-29,Oslo universitetssykehus HF,Sør-Øst,4
-2020-06-30,Oslo universitetssykehus HF,Sør-Øst,3
-2020-07-01,Oslo universitetssykehus HF,Sør-Øst,5
+2020-06-26,Oslo universitetssykehus HF,Sør-Øst,4
+2020-06-29,Oslo universitetssykehus HF,Sør-Øst,3
+2020-06-30,Oslo universitetssykehus HF,Sør-Øst,5
+2020-07-01,Oslo universitetssykehus HF,Sør-Øst,3
 2020-07-02,Oslo universitetssykehus HF,Sør-Øst,3
-2020-07-03,Oslo universitetssykehus HF,Sør-Øst,3
+2020-07-03,Oslo universitetssykehus HF,Sør-Øst,1
 2020-07-06,Oslo universitetssykehus HF,Sør-Øst,1
 2020-07-07,Oslo universitetssykehus HF,Sør-Øst,1
-2020-07-08,Oslo universitetssykehus HF,Sør-Øst,1
+2020-07-08,Oslo universitetssykehus HF,Sør-Øst,0
 2020-07-09,Oslo universitetssykehus HF,Sør-Øst,0
 2020-07-10,Oslo universitetssykehus HF,Sør-Øst,0
 2020-07-13,Oslo universitetssykehus HF,Sør-Øst,0
@@ -1419,93 +1419,93 @@ date,health_org_name,region,admissions
 2020-07-15,Oslo universitetssykehus HF,Sør-Øst,0
 2020-07-16,Oslo universitetssykehus HF,Sør-Øst,0
 2020-07-17,Oslo universitetssykehus HF,Sør-Øst,0
-2020-07-20,Oslo universitetssykehus HF,Sør-Øst,0
+2020-07-20,Oslo universitetssykehus HF,Sør-Øst,2
 2020-07-21,Oslo universitetssykehus HF,Sør-Øst,2
-2020-07-22,Oslo universitetssykehus HF,Sør-Øst,2
+2020-07-22,Oslo universitetssykehus HF,Sør-Øst,1
 2020-07-23,Oslo universitetssykehus HF,Sør-Øst,1
 2020-07-24,Oslo universitetssykehus HF,Sør-Øst,1
-2020-07-27,Oslo universitetssykehus HF,Sør-Øst,1
-2020-07-28,Oslo universitetssykehus HF,Sør-Øst,2
-2020-07-29,Oslo universitetssykehus HF,Sør-Øst,1
+2020-07-27,Oslo universitetssykehus HF,Sør-Øst,2
+2020-07-28,Oslo universitetssykehus HF,Sør-Øst,1
+2020-07-29,Oslo universitetssykehus HF,Sør-Øst,2
 2020-07-30,Oslo universitetssykehus HF,Sør-Øst,2
-2020-07-31,Oslo universitetssykehus HF,Sør-Øst,2
-2020-03-08,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,1
+2020-07-31,Oslo universitetssykehus HF,Sør-Øst,0
+2020-03-08,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,0
 2020-03-09,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,0
 2020-03-10,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,0
 2020-03-11,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,0
-2020-03-12,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,0
+2020-03-12,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,2
 2020-03-13,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,2
 2020-03-14,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,2
-2020-03-15,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,2
-2020-03-16,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,1
-2020-03-17,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,2
+2020-03-15,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,1
+2020-03-16,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,2
+2020-03-17,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,4
 2020-03-18,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,4
-2020-03-19,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,4
-2020-03-20,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,3
+2020-03-19,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,3
+2020-03-20,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,8
 2020-03-21,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,8
-2020-03-22,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,8
-2020-03-23,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,9
+2020-03-22,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,9
+2020-03-23,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,18
 2020-03-24,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,18
-2020-03-25,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,18
-2020-03-26,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,17
-2020-03-27,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,21
-2020-03-28,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,31
-2020-03-29,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,33
-2020-03-30,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,31
-2020-03-31,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,33
-2020-04-01,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,25
-2020-04-02,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,22
-2020-04-03,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,20
-2020-04-04,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,22
+2020-03-25,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,17
+2020-03-26,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,21
+2020-03-27,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,31
+2020-03-28,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,33
+2020-03-29,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,31
+2020-03-30,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,33
+2020-03-31,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,25
+2020-04-01,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,22
+2020-04-02,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,20
+2020-04-03,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,22
+2020-04-04,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,24
 2020-04-05,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,24
-2020-04-06,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,24
-2020-04-07,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,25
-2020-04-08,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,22
-2020-04-09,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,23
-2020-04-10,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,29
-2020-04-11,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,30
-2020-04-12,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,22
-2020-04-13,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,24
-2020-04-14,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,21
-2020-04-15,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,22
-2020-04-16,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,26
-2020-04-17,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,22
-2020-04-18,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,21
-2020-04-19,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,23
-2020-04-20,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,21
-2020-04-21,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,20
-2020-04-22,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,18
-2020-04-23,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,16
-2020-04-24,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,18
+2020-04-06,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,25
+2020-04-07,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,22
+2020-04-08,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,23
+2020-04-09,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,29
+2020-04-10,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,30
+2020-04-11,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,22
+2020-04-12,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,24
+2020-04-13,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,21
+2020-04-14,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,22
+2020-04-15,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,26
+2020-04-16,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,22
+2020-04-17,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,21
+2020-04-18,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,23
+2020-04-19,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,21
+2020-04-20,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,20
+2020-04-21,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,18
+2020-04-22,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,16
+2020-04-23,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,18
+2020-04-24,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,12
 2020-04-25,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,12
-2020-04-26,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,12
-2020-04-27,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,13
+2020-04-26,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,13
+2020-04-27,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,12
 2020-04-28,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,12
-2020-04-29,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,12
-2020-04-30,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,15
+2020-04-29,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,15
+2020-04-30,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,10
 2020-05-01,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,10
-2020-05-02,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,10
-2020-05-03,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,8
-2020-05-04,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,9
-2020-05-05,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,10
-2020-05-06,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,6
-2020-05-07,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,4
+2020-05-02,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,8
+2020-05-03,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,9
+2020-05-04,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,10
+2020-05-05,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,6
+2020-05-06,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,4
+2020-05-07,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,5
 2020-05-08,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,5
-2020-05-09,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,5
-2020-05-10,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,4
-2020-05-11,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,3
+2020-05-09,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,4
+2020-05-10,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,3
+2020-05-11,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,4
 2020-05-12,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,4
 2020-05-13,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,4
-2020-05-14,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,4
-2020-05-15,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,3
-2020-05-16,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,4
+2020-05-14,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,3
+2020-05-15,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,4
+2020-05-16,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,2
 2020-05-17,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,2
-2020-05-18,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,2
-2020-05-19,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,3
-2020-05-20,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,4
-2020-05-21,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,5
+2020-05-18,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,3
+2020-05-19,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,4
+2020-05-20,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,5
+2020-05-21,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,4
 2020-05-22,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,4
-2020-05-23,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,4
+2020-05-23,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,3
 2020-05-24,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,3
 2020-05-25,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,3
 2020-05-26,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,3
@@ -1520,26 +1520,26 @@ date,health_org_name,region,admissions
 2020-06-04,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,3
 2020-06-05,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,3
 2020-06-08,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,3
-2020-06-09,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,3
+2020-06-09,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,2
 2020-06-10,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,2
-2020-06-11,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,2
+2020-06-11,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,1
 2020-06-12,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,1
-2020-06-15,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,1
+2020-06-15,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,3
 2020-06-16,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,3
 2020-06-17,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,3
 2020-06-18,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,3
-2020-06-19,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,3
-2020-06-22,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,4
+2020-06-19,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,4
+2020-06-22,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,2
 2020-06-23,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,2
 2020-06-24,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,2
-2020-06-25,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,2
+2020-06-25,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,3
 2020-06-26,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,3
 2020-06-29,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,3
-2020-06-30,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,3
+2020-06-30,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,2
 2020-07-01,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,2
 2020-07-02,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,2
 2020-07-03,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,2
-2020-07-06,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,2
+2020-07-06,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,1
 2020-07-07,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,1
 2020-07-08,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,1
 2020-07-09,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,1
@@ -1548,83 +1548,83 @@ date,health_org_name,region,admissions
 2020-07-14,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,1
 2020-07-15,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,1
 2020-07-16,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,1
-2020-07-17,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,1
+2020-07-17,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,2
 2020-07-20,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,2
-2020-07-21,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,2
-2020-07-22,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,1
+2020-07-21,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,1
+2020-07-22,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,0
 2020-07-23,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,0
 2020-07-24,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,0
-2020-07-27,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,0
+2020-07-27,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,2
 2020-07-28,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,2
-2020-07-29,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,2
+2020-07-29,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,1
 2020-07-30,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,1
 2020-07-31,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,1
 2020-03-08,Sørlandet sykehus HF,Sør-Øst,0
 2020-03-09,Sørlandet sykehus HF,Sør-Øst,0
 2020-03-10,Sørlandet sykehus HF,Sør-Øst,0
 2020-03-11,Sørlandet sykehus HF,Sør-Øst,0
-2020-03-12,Sørlandet sykehus HF,Sør-Øst,0
-2020-03-13,Sørlandet sykehus HF,Sør-Øst,4
-2020-03-14,Sørlandet sykehus HF,Sør-Øst,1
-2020-03-15,Sørlandet sykehus HF,Sør-Øst,2
+2020-03-12,Sørlandet sykehus HF,Sør-Øst,4
+2020-03-13,Sørlandet sykehus HF,Sør-Øst,1
+2020-03-14,Sørlandet sykehus HF,Sør-Øst,2
+2020-03-15,Sørlandet sykehus HF,Sør-Øst,3
 2020-03-16,Sørlandet sykehus HF,Sør-Øst,3
-2020-03-17,Sørlandet sykehus HF,Sør-Øst,3
-2020-03-18,Sørlandet sykehus HF,Sør-Øst,4
-2020-03-19,Sørlandet sykehus HF,Sør-Øst,5
-2020-03-20,Sørlandet sykehus HF,Sør-Øst,4
-2020-03-21,Sørlandet sykehus HF,Sør-Øst,3
-2020-03-22,Sørlandet sykehus HF,Sør-Øst,5
-2020-03-23,Sørlandet sykehus HF,Sør-Øst,6
-2020-03-24,Sørlandet sykehus HF,Sør-Øst,8
+2020-03-17,Sørlandet sykehus HF,Sør-Øst,4
+2020-03-18,Sørlandet sykehus HF,Sør-Øst,5
+2020-03-19,Sørlandet sykehus HF,Sør-Øst,4
+2020-03-20,Sørlandet sykehus HF,Sør-Øst,3
+2020-03-21,Sørlandet sykehus HF,Sør-Øst,5
+2020-03-22,Sørlandet sykehus HF,Sør-Øst,6
+2020-03-23,Sørlandet sykehus HF,Sør-Øst,8
+2020-03-24,Sørlandet sykehus HF,Sør-Øst,7
 2020-03-25,Sørlandet sykehus HF,Sør-Øst,7
-2020-03-26,Sørlandet sykehus HF,Sør-Øst,7
-2020-03-27,Sørlandet sykehus HF,Sør-Øst,8
-2020-03-28,Sørlandet sykehus HF,Sør-Øst,12
-2020-03-29,Sørlandet sykehus HF,Sør-Øst,13
-2020-03-30,Sørlandet sykehus HF,Sør-Øst,12
-2020-03-31,Sørlandet sykehus HF,Sør-Øst,13
-2020-04-01,Sørlandet sykehus HF,Sør-Øst,12
-2020-04-02,Sørlandet sykehus HF,Sør-Øst,14
-2020-04-03,Sørlandet sykehus HF,Sør-Øst,16
-2020-04-04,Sørlandet sykehus HF,Sør-Øst,10
-2020-04-05,Sørlandet sykehus HF,Sør-Øst,11
+2020-03-26,Sørlandet sykehus HF,Sør-Øst,8
+2020-03-27,Sørlandet sykehus HF,Sør-Øst,12
+2020-03-28,Sørlandet sykehus HF,Sør-Øst,13
+2020-03-29,Sørlandet sykehus HF,Sør-Øst,12
+2020-03-30,Sørlandet sykehus HF,Sør-Øst,13
+2020-03-31,Sørlandet sykehus HF,Sør-Øst,12
+2020-04-01,Sørlandet sykehus HF,Sør-Øst,14
+2020-04-02,Sørlandet sykehus HF,Sør-Øst,16
+2020-04-03,Sørlandet sykehus HF,Sør-Øst,10
+2020-04-04,Sørlandet sykehus HF,Sør-Øst,11
+2020-04-05,Sørlandet sykehus HF,Sør-Øst,12
 2020-04-06,Sørlandet sykehus HF,Sør-Øst,12
-2020-04-07,Sørlandet sykehus HF,Sør-Øst,12
-2020-04-08,Sørlandet sykehus HF,Sør-Øst,9
-2020-04-09,Sørlandet sykehus HF,Sør-Øst,6
+2020-04-07,Sørlandet sykehus HF,Sør-Øst,9
+2020-04-08,Sørlandet sykehus HF,Sør-Øst,6
+2020-04-09,Sørlandet sykehus HF,Sør-Øst,9
 2020-04-10,Sørlandet sykehus HF,Sør-Øst,9
-2020-04-11,Sørlandet sykehus HF,Sør-Øst,9
+2020-04-11,Sørlandet sykehus HF,Sør-Øst,8
 2020-04-12,Sørlandet sykehus HF,Sør-Øst,8
-2020-04-13,Sørlandet sykehus HF,Sør-Øst,8
-2020-04-14,Sørlandet sykehus HF,Sør-Øst,7
+2020-04-13,Sørlandet sykehus HF,Sør-Øst,7
+2020-04-14,Sørlandet sykehus HF,Sør-Øst,6
 2020-04-15,Sørlandet sykehus HF,Sør-Øst,6
-2020-04-16,Sørlandet sykehus HF,Sør-Øst,6
-2020-04-17,Sørlandet sykehus HF,Sør-Øst,5
+2020-04-16,Sørlandet sykehus HF,Sør-Øst,5
+2020-04-17,Sørlandet sykehus HF,Sør-Øst,4
 2020-04-18,Sørlandet sykehus HF,Sør-Øst,4
-2020-04-19,Sørlandet sykehus HF,Sør-Øst,4
-2020-04-20,Sørlandet sykehus HF,Sør-Øst,3
+2020-04-19,Sørlandet sykehus HF,Sør-Øst,3
+2020-04-20,Sørlandet sykehus HF,Sør-Øst,5
 2020-04-21,Sørlandet sykehus HF,Sør-Øst,5
-2020-04-22,Sørlandet sykehus HF,Sør-Øst,5
-2020-04-23,Sørlandet sykehus HF,Sør-Øst,3
-2020-04-24,Sørlandet sykehus HF,Sør-Øst,2
+2020-04-22,Sørlandet sykehus HF,Sør-Øst,3
+2020-04-23,Sørlandet sykehus HF,Sør-Øst,2
+2020-04-24,Sørlandet sykehus HF,Sør-Øst,4
 2020-04-25,Sørlandet sykehus HF,Sør-Øst,4
 2020-04-26,Sørlandet sykehus HF,Sør-Øst,4
 2020-04-27,Sørlandet sykehus HF,Sør-Øst,4
-2020-04-28,Sørlandet sykehus HF,Sør-Øst,4
+2020-04-28,Sørlandet sykehus HF,Sør-Øst,3
 2020-04-29,Sørlandet sykehus HF,Sør-Øst,3
-2020-04-30,Sørlandet sykehus HF,Sør-Øst,3
-2020-05-01,Sørlandet sykehus HF,Sør-Øst,4
+2020-04-30,Sørlandet sykehus HF,Sør-Øst,4
+2020-05-01,Sørlandet sykehus HF,Sør-Øst,3
 2020-05-02,Sørlandet sykehus HF,Sør-Øst,3
 2020-05-03,Sørlandet sykehus HF,Sør-Øst,3
 2020-05-04,Sørlandet sykehus HF,Sør-Øst,3
 2020-05-05,Sørlandet sykehus HF,Sør-Øst,3
 2020-05-06,Sørlandet sykehus HF,Sør-Øst,3
 2020-05-07,Sørlandet sykehus HF,Sør-Øst,3
-2020-05-08,Sørlandet sykehus HF,Sør-Øst,3
-2020-05-09,Sørlandet sykehus HF,Sør-Øst,4
+2020-05-08,Sørlandet sykehus HF,Sør-Øst,4
+2020-05-09,Sørlandet sykehus HF,Sør-Øst,3
 2020-05-10,Sørlandet sykehus HF,Sør-Øst,3
 2020-05-11,Sørlandet sykehus HF,Sør-Øst,3
-2020-05-12,Sørlandet sykehus HF,Sør-Øst,3
+2020-05-12,Sørlandet sykehus HF,Sør-Øst,2
 2020-05-13,Sørlandet sykehus HF,Sør-Øst,2
 2020-05-14,Sørlandet sykehus HF,Sør-Øst,2
 2020-05-15,Sørlandet sykehus HF,Sør-Øst,2
@@ -1649,7 +1649,7 @@ date,health_org_name,region,admissions
 2020-06-03,Sørlandet sykehus HF,Sør-Øst,2
 2020-06-04,Sørlandet sykehus HF,Sør-Øst,2
 2020-06-05,Sørlandet sykehus HF,Sør-Øst,2
-2020-06-08,Sørlandet sykehus HF,Sør-Øst,2
+2020-06-08,Sørlandet sykehus HF,Sør-Øst,1
 2020-06-09,Sørlandet sykehus HF,Sør-Øst,1
 2020-06-10,Sørlandet sykehus HF,Sør-Øst,1
 2020-06-11,Sørlandet sykehus HF,Sør-Øst,1
@@ -1680,7 +1680,7 @@ date,health_org_name,region,admissions
 2020-07-16,Sørlandet sykehus HF,Sør-Øst,1
 2020-07-17,Sørlandet sykehus HF,Sør-Øst,1
 2020-07-20,Sørlandet sykehus HF,Sør-Øst,1
-2020-07-21,Sørlandet sykehus HF,Sør-Øst,1
+2020-07-21,Sørlandet sykehus HF,Sør-Øst,0
 2020-07-22,Sørlandet sykehus HF,Sør-Øst,0
 2020-07-23,Sørlandet sykehus HF,Sør-Øst,0
 2020-07-24,Sørlandet sykehus HF,Sør-Øst,0
@@ -1693,44 +1693,44 @@ date,health_org_name,region,admissions
 2020-03-09,St. Olavs hospital ,Midt,0
 2020-03-10,St. Olavs hospital ,Midt,0
 2020-03-11,St. Olavs hospital ,Midt,0
-2020-03-12,St. Olavs hospital ,Midt,0
+2020-03-12,St. Olavs hospital ,Midt,1
 2020-03-13,St. Olavs hospital ,Midt,1
 2020-03-14,St. Olavs hospital ,Midt,1
 2020-03-15,St. Olavs hospital ,Midt,1
 2020-03-16,St. Olavs hospital ,Midt,1
 2020-03-17,St. Olavs hospital ,Midt,1
 2020-03-18,St. Olavs hospital ,Midt,1
-2020-03-19,St. Olavs hospital ,Midt,1
-2020-03-20,St. Olavs hospital ,Midt,4
+2020-03-19,St. Olavs hospital ,Midt,4
+2020-03-20,St. Olavs hospital ,Midt,5
 2020-03-21,St. Olavs hospital ,Midt,5
 2020-03-22,St. Olavs hospital ,Midt,5
 2020-03-23,St. Olavs hospital ,Midt,5
-2020-03-24,St. Olavs hospital ,Midt,5
-2020-03-25,St. Olavs hospital ,Midt,6
+2020-03-24,St. Olavs hospital ,Midt,6
+2020-03-25,St. Olavs hospital ,Midt,8
 2020-03-26,St. Olavs hospital ,Midt,8
-2020-03-27,St. Olavs hospital ,Midt,8
-2020-03-28,St. Olavs hospital ,Midt,9
-2020-03-29,St. Olavs hospital ,Midt,10
+2020-03-27,St. Olavs hospital ,Midt,9
+2020-03-28,St. Olavs hospital ,Midt,10
+2020-03-29,St. Olavs hospital ,Midt,12
 2020-03-30,St. Olavs hospital ,Midt,12
-2020-03-31,St. Olavs hospital ,Midt,12
+2020-03-31,St. Olavs hospital ,Midt,10
 2020-04-01,St. Olavs hospital ,Midt,10
-2020-04-02,St. Olavs hospital ,Midt,10
-2020-04-03,St. Olavs hospital ,Midt,12
-2020-04-04,St. Olavs hospital ,Midt,9
-2020-04-05,St. Olavs hospital ,Midt,8
-2020-04-06,St. Olavs hospital ,Midt,10
+2020-04-02,St. Olavs hospital ,Midt,12
+2020-04-03,St. Olavs hospital ,Midt,9
+2020-04-04,St. Olavs hospital ,Midt,8
+2020-04-05,St. Olavs hospital ,Midt,10
+2020-04-06,St. Olavs hospital ,Midt,12
 2020-04-07,St. Olavs hospital ,Midt,12
 2020-04-08,St. Olavs hospital ,Midt,12
-2020-04-09,St. Olavs hospital ,Midt,12
+2020-04-09,St. Olavs hospital ,Midt,10
 2020-04-10,St. Olavs hospital ,Midt,10
 2020-04-11,St. Olavs hospital ,Midt,10
-2020-04-12,St. Olavs hospital ,Midt,10
+2020-04-12,St. Olavs hospital ,Midt,9
 2020-04-13,St. Olavs hospital ,Midt,9
-2020-04-14,St. Olavs hospital ,Midt,9
-2020-04-15,St. Olavs hospital ,Midt,10
-2020-04-16,St. Olavs hospital ,Midt,8
-2020-04-17,St. Olavs hospital ,Midt,6
-2020-04-18,St. Olavs hospital ,Midt,4
+2020-04-14,St. Olavs hospital ,Midt,10
+2020-04-15,St. Olavs hospital ,Midt,8
+2020-04-16,St. Olavs hospital ,Midt,6
+2020-04-17,St. Olavs hospital ,Midt,4
+2020-04-18,St. Olavs hospital ,Midt,2
 2020-04-19,St. Olavs hospital ,Midt,2
 2020-04-20,St. Olavs hospital ,Midt,2
 2020-04-21,St. Olavs hospital ,Midt,2
@@ -1742,7 +1742,7 @@ date,health_org_name,region,admissions
 2020-04-27,St. Olavs hospital ,Midt,2
 2020-04-28,St. Olavs hospital ,Midt,2
 2020-04-29,St. Olavs hospital ,Midt,2
-2020-04-30,St. Olavs hospital ,Midt,2
+2020-04-30,St. Olavs hospital ,Midt,1
 2020-05-01,St. Olavs hospital ,Midt,1
 2020-05-02,St. Olavs hospital ,Midt,1
 2020-05-03,St. Olavs hospital ,Midt,1
@@ -1751,24 +1751,24 @@ date,health_org_name,region,admissions
 2020-05-06,St. Olavs hospital ,Midt,1
 2020-05-07,St. Olavs hospital ,Midt,1
 2020-05-08,St. Olavs hospital ,Midt,1
-2020-05-09,St. Olavs hospital ,Midt,1
+2020-05-09,St. Olavs hospital ,Midt,3
 2020-05-10,St. Olavs hospital ,Midt,3
-2020-05-11,St. Olavs hospital ,Midt,3
-2020-05-12,St. Olavs hospital ,Midt,2
-2020-05-13,St. Olavs hospital ,Midt,3
-2020-05-14,St. Olavs hospital ,Midt,4
-2020-05-15,St. Olavs hospital ,Midt,5
+2020-05-11,St. Olavs hospital ,Midt,2
+2020-05-12,St. Olavs hospital ,Midt,3
+2020-05-13,St. Olavs hospital ,Midt,4
+2020-05-14,St. Olavs hospital ,Midt,5
+2020-05-15,St. Olavs hospital ,Midt,4
 2020-05-16,St. Olavs hospital ,Midt,4
-2020-05-17,St. Olavs hospital ,Midt,4
+2020-05-17,St. Olavs hospital ,Midt,3
 2020-05-18,St. Olavs hospital ,Midt,3
 2020-05-19,St. Olavs hospital ,Midt,3
 2020-05-20,St. Olavs hospital ,Midt,3
 2020-05-21,St. Olavs hospital ,Midt,3
 2020-05-22,St. Olavs hospital ,Midt,3
-2020-05-23,St. Olavs hospital ,Midt,3
+2020-05-23,St. Olavs hospital ,Midt,2
 2020-05-24,St. Olavs hospital ,Midt,2
 2020-05-25,St. Olavs hospital ,Midt,2
-2020-05-26,St. Olavs hospital ,Midt,2
+2020-05-26,St. Olavs hospital ,Midt,1
 2020-05-27,St. Olavs hospital ,Midt,1
 2020-05-28,St. Olavs hospital ,Midt,1
 2020-05-29,St. Olavs hospital ,Midt,1
@@ -1784,7 +1784,7 @@ date,health_org_name,region,admissions
 2020-06-10,St. Olavs hospital ,Midt,1
 2020-06-11,St. Olavs hospital ,Midt,1
 2020-06-12,St. Olavs hospital ,Midt,1
-2020-06-15,St. Olavs hospital ,Midt,1
+2020-06-15,St. Olavs hospital ,Midt,0
 2020-06-16,St. Olavs hospital ,Midt,0
 2020-06-17,St. Olavs hospital ,Midt,0
 2020-06-18,St. Olavs hospital ,Midt,0
@@ -1820,90 +1820,90 @@ date,health_org_name,region,admissions
 2020-07-30,St. Olavs hospital ,Midt,0
 2020-07-31,St. Olavs hospital ,Midt,0
 2020-03-08,Sykehuset i Vestfold HF,Sør-Øst,0
-2020-03-09,Sykehuset i Vestfold HF,Sør-Øst,0
+2020-03-09,Sykehuset i Vestfold HF,Sør-Øst,1
 2020-03-10,Sykehuset i Vestfold HF,Sør-Øst,1
 2020-03-11,Sykehuset i Vestfold HF,Sør-Øst,1
-2020-03-12,Sykehuset i Vestfold HF,Sør-Øst,1
-2020-03-13,Sykehuset i Vestfold HF,Sør-Øst,0
+2020-03-12,Sykehuset i Vestfold HF,Sør-Øst,0
+2020-03-13,Sykehuset i Vestfold HF,Sør-Øst,2
 2020-03-14,Sykehuset i Vestfold HF,Sør-Øst,2
-2020-03-15,Sykehuset i Vestfold HF,Sør-Øst,2
+2020-03-15,Sykehuset i Vestfold HF,Sør-Øst,3
 2020-03-16,Sykehuset i Vestfold HF,Sør-Øst,3
-2020-03-17,Sykehuset i Vestfold HF,Sør-Øst,3
-2020-03-18,Sykehuset i Vestfold HF,Sør-Øst,1
-2020-03-19,Sykehuset i Vestfold HF,Sør-Øst,3
+2020-03-17,Sykehuset i Vestfold HF,Sør-Øst,1
+2020-03-18,Sykehuset i Vestfold HF,Sør-Øst,3
+2020-03-19,Sykehuset i Vestfold HF,Sør-Øst,4
 2020-03-20,Sykehuset i Vestfold HF,Sør-Øst,4
 2020-03-21,Sykehuset i Vestfold HF,Sør-Øst,4
-2020-03-22,Sykehuset i Vestfold HF,Sør-Øst,4
-2020-03-23,Sykehuset i Vestfold HF,Sør-Øst,5
-2020-03-24,Sykehuset i Vestfold HF,Sør-Øst,6
-2020-03-25,Sykehuset i Vestfold HF,Sør-Øst,7
-2020-03-26,Sykehuset i Vestfold HF,Sør-Øst,11
-2020-03-27,Sykehuset i Vestfold HF,Sør-Øst,9
-2020-03-28,Sykehuset i Vestfold HF,Sør-Øst,10
-2020-03-29,Sykehuset i Vestfold HF,Sør-Øst,9
+2020-03-22,Sykehuset i Vestfold HF,Sør-Øst,5
+2020-03-23,Sykehuset i Vestfold HF,Sør-Øst,6
+2020-03-24,Sykehuset i Vestfold HF,Sør-Øst,7
+2020-03-25,Sykehuset i Vestfold HF,Sør-Øst,11
+2020-03-26,Sykehuset i Vestfold HF,Sør-Øst,9
+2020-03-27,Sykehuset i Vestfold HF,Sør-Øst,10
+2020-03-28,Sykehuset i Vestfold HF,Sør-Øst,9
+2020-03-29,Sykehuset i Vestfold HF,Sør-Øst,11
 2020-03-30,Sykehuset i Vestfold HF,Sør-Øst,11
 2020-03-31,Sykehuset i Vestfold HF,Sør-Øst,11
-2020-04-01,Sykehuset i Vestfold HF,Sør-Øst,11
+2020-04-01,Sykehuset i Vestfold HF,Sør-Øst,13
 2020-04-02,Sykehuset i Vestfold HF,Sør-Øst,13
-2020-04-03,Sykehuset i Vestfold HF,Sør-Øst,13
-2020-04-04,Sykehuset i Vestfold HF,Sør-Øst,14
-2020-04-05,Sykehuset i Vestfold HF,Sør-Øst,9
+2020-04-03,Sykehuset i Vestfold HF,Sør-Øst,14
+2020-04-04,Sykehuset i Vestfold HF,Sør-Øst,9
+2020-04-05,Sykehuset i Vestfold HF,Sør-Øst,8
 2020-04-06,Sykehuset i Vestfold HF,Sør-Øst,8
 2020-04-07,Sykehuset i Vestfold HF,Sør-Øst,8
 2020-04-08,Sykehuset i Vestfold HF,Sør-Øst,8
 2020-04-09,Sykehuset i Vestfold HF,Sør-Øst,8
-2020-04-10,Sykehuset i Vestfold HF,Sør-Øst,8
-2020-04-11,Sykehuset i Vestfold HF,Sør-Øst,7
+2020-04-10,Sykehuset i Vestfold HF,Sør-Øst,7
+2020-04-11,Sykehuset i Vestfold HF,Sør-Øst,6
 2020-04-12,Sykehuset i Vestfold HF,Sør-Øst,6
-2020-04-13,Sykehuset i Vestfold HF,Sør-Øst,6
-2020-04-14,Sykehuset i Vestfold HF,Sør-Øst,7
-2020-04-15,Sykehuset i Vestfold HF,Sør-Øst,6
-2020-04-16,Sykehuset i Vestfold HF,Sør-Øst,5
+2020-04-13,Sykehuset i Vestfold HF,Sør-Øst,7
+2020-04-14,Sykehuset i Vestfold HF,Sør-Øst,6
+2020-04-15,Sykehuset i Vestfold HF,Sør-Øst,5
+2020-04-16,Sykehuset i Vestfold HF,Sør-Øst,4
 2020-04-17,Sykehuset i Vestfold HF,Sør-Øst,4
 2020-04-18,Sykehuset i Vestfold HF,Sør-Øst,4
-2020-04-19,Sykehuset i Vestfold HF,Sør-Øst,4
-2020-04-20,Sykehuset i Vestfold HF,Sør-Øst,6
+2020-04-19,Sykehuset i Vestfold HF,Sør-Øst,6
+2020-04-20,Sykehuset i Vestfold HF,Sør-Øst,7
 2020-04-21,Sykehuset i Vestfold HF,Sør-Øst,7
-2020-04-22,Sykehuset i Vestfold HF,Sør-Øst,7
-2020-04-23,Sykehuset i Vestfold HF,Sør-Øst,5
-2020-04-24,Sykehuset i Vestfold HF,Sør-Øst,6
-2020-04-25,Sykehuset i Vestfold HF,Sør-Øst,7
+2020-04-22,Sykehuset i Vestfold HF,Sør-Øst,5
+2020-04-23,Sykehuset i Vestfold HF,Sør-Øst,6
+2020-04-24,Sykehuset i Vestfold HF,Sør-Øst,7
+2020-04-25,Sykehuset i Vestfold HF,Sør-Øst,6
 2020-04-26,Sykehuset i Vestfold HF,Sør-Øst,6
-2020-04-27,Sykehuset i Vestfold HF,Sør-Øst,6
+2020-04-27,Sykehuset i Vestfold HF,Sør-Øst,7
 2020-04-28,Sykehuset i Vestfold HF,Sør-Øst,7
-2020-04-29,Sykehuset i Vestfold HF,Sør-Øst,7
+2020-04-29,Sykehuset i Vestfold HF,Sør-Øst,5
 2020-04-30,Sykehuset i Vestfold HF,Sør-Øst,5
-2020-05-01,Sykehuset i Vestfold HF,Sør-Øst,5
+2020-05-01,Sykehuset i Vestfold HF,Sør-Øst,4
 2020-05-02,Sykehuset i Vestfold HF,Sør-Øst,4
 2020-05-03,Sykehuset i Vestfold HF,Sør-Øst,4
 2020-05-04,Sykehuset i Vestfold HF,Sør-Øst,4
-2020-05-05,Sykehuset i Vestfold HF,Sør-Øst,4
-2020-05-06,Sykehuset i Vestfold HF,Sør-Øst,3
+2020-05-05,Sykehuset i Vestfold HF,Sør-Øst,3
+2020-05-06,Sykehuset i Vestfold HF,Sør-Øst,2
 2020-05-07,Sykehuset i Vestfold HF,Sør-Øst,2
 2020-05-08,Sykehuset i Vestfold HF,Sør-Øst,2
 2020-05-09,Sykehuset i Vestfold HF,Sør-Øst,2
 2020-05-10,Sykehuset i Vestfold HF,Sør-Øst,2
 2020-05-11,Sykehuset i Vestfold HF,Sør-Øst,2
-2020-05-12,Sykehuset i Vestfold HF,Sør-Øst,2
+2020-05-12,Sykehuset i Vestfold HF,Sør-Øst,3
 2020-05-13,Sykehuset i Vestfold HF,Sør-Øst,3
-2020-05-14,Sykehuset i Vestfold HF,Sør-Øst,3
+2020-05-14,Sykehuset i Vestfold HF,Sør-Øst,4
 2020-05-15,Sykehuset i Vestfold HF,Sør-Øst,4
 2020-05-16,Sykehuset i Vestfold HF,Sør-Øst,4
-2020-05-17,Sykehuset i Vestfold HF,Sør-Øst,4
-2020-05-18,Sykehuset i Vestfold HF,Sør-Øst,5
+2020-05-17,Sykehuset i Vestfold HF,Sør-Øst,5
+2020-05-18,Sykehuset i Vestfold HF,Sør-Øst,4
 2020-05-19,Sykehuset i Vestfold HF,Sør-Øst,4
 2020-05-20,Sykehuset i Vestfold HF,Sør-Øst,4
 2020-05-21,Sykehuset i Vestfold HF,Sør-Øst,4
 2020-05-22,Sykehuset i Vestfold HF,Sør-Øst,4
 2020-05-23,Sykehuset i Vestfold HF,Sør-Øst,4
-2020-05-24,Sykehuset i Vestfold HF,Sør-Øst,4
+2020-05-24,Sykehuset i Vestfold HF,Sør-Øst,3
 2020-05-25,Sykehuset i Vestfold HF,Sør-Øst,3
 2020-05-26,Sykehuset i Vestfold HF,Sør-Øst,3
 2020-05-27,Sykehuset i Vestfold HF,Sør-Øst,3
 2020-05-28,Sykehuset i Vestfold HF,Sør-Øst,3
-2020-05-29,Sykehuset i Vestfold HF,Sør-Øst,3
+2020-05-29,Sykehuset i Vestfold HF,Sør-Øst,2
 2020-05-30,Sykehuset i Vestfold HF,Sør-Øst,2
-2020-05-31,Sykehuset i Vestfold HF,Sør-Øst,2
+2020-05-31,Sykehuset i Vestfold HF,Sør-Øst,1
 2020-06-01,Sykehuset i Vestfold HF,Sør-Øst,1
 2020-06-02,Sykehuset i Vestfold HF,Sør-Øst,1
 2020-06-03,Sykehuset i Vestfold HF,Sør-Øst,1
@@ -1918,7 +1918,7 @@ date,health_org_name,region,admissions
 2020-06-16,Sykehuset i Vestfold HF,Sør-Øst,1
 2020-06-17,Sykehuset i Vestfold HF,Sør-Øst,1
 2020-06-18,Sykehuset i Vestfold HF,Sør-Øst,1
-2020-06-19,Sykehuset i Vestfold HF,Sør-Øst,1
+2020-06-19,Sykehuset i Vestfold HF,Sør-Øst,0
 2020-06-22,Sykehuset i Vestfold HF,Sør-Øst,0
 2020-06-23,Sykehuset i Vestfold HF,Sør-Øst,0
 2020-06-24,Sykehuset i Vestfold HF,Sør-Øst,0
@@ -1956,93 +1956,93 @@ date,health_org_name,region,admissions
 2020-03-12,Sykehuset Innlandet HF,Sør-Øst,0
 2020-03-13,Sykehuset Innlandet HF,Sør-Øst,0
 2020-03-14,Sykehuset Innlandet HF,Sør-Øst,0
-2020-03-15,Sykehuset Innlandet HF,Sør-Øst,0
+2020-03-15,Sykehuset Innlandet HF,Sør-Øst,2
 2020-03-16,Sykehuset Innlandet HF,Sør-Øst,2
-2020-03-17,Sykehuset Innlandet HF,Sør-Øst,2
-2020-03-18,Sykehuset Innlandet HF,Sør-Øst,3
-2020-03-19,Sykehuset Innlandet HF,Sør-Øst,2
+2020-03-17,Sykehuset Innlandet HF,Sør-Øst,3
+2020-03-18,Sykehuset Innlandet HF,Sør-Øst,2
+2020-03-19,Sykehuset Innlandet HF,Sør-Øst,6
 2020-03-20,Sykehuset Innlandet HF,Sør-Øst,6
-2020-03-21,Sykehuset Innlandet HF,Sør-Øst,6
+2020-03-21,Sykehuset Innlandet HF,Sør-Øst,8
 2020-03-22,Sykehuset Innlandet HF,Sør-Øst,8
 2020-03-23,Sykehuset Innlandet HF,Sør-Øst,8
-2020-03-24,Sykehuset Innlandet HF,Sør-Øst,8
-2020-03-25,Sykehuset Innlandet HF,Sør-Øst,12
-2020-03-26,Sykehuset Innlandet HF,Sør-Øst,13
-2020-03-27,Sykehuset Innlandet HF,Sør-Øst,16
-2020-03-28,Sykehuset Innlandet HF,Sør-Øst,15
-2020-03-29,Sykehuset Innlandet HF,Sør-Øst,12
-2020-03-30,Sykehuset Innlandet HF,Sør-Øst,13
-2020-03-31,Sykehuset Innlandet HF,Sør-Øst,17
-2020-04-01,Sykehuset Innlandet HF,Sør-Øst,13
-2020-04-02,Sykehuset Innlandet HF,Sør-Øst,17
-2020-04-03,Sykehuset Innlandet HF,Sør-Øst,18
+2020-03-24,Sykehuset Innlandet HF,Sør-Øst,12
+2020-03-25,Sykehuset Innlandet HF,Sør-Øst,13
+2020-03-26,Sykehuset Innlandet HF,Sør-Øst,16
+2020-03-27,Sykehuset Innlandet HF,Sør-Øst,15
+2020-03-28,Sykehuset Innlandet HF,Sør-Øst,12
+2020-03-29,Sykehuset Innlandet HF,Sør-Øst,13
+2020-03-30,Sykehuset Innlandet HF,Sør-Øst,17
+2020-03-31,Sykehuset Innlandet HF,Sør-Øst,13
+2020-04-01,Sykehuset Innlandet HF,Sør-Øst,17
+2020-04-02,Sykehuset Innlandet HF,Sør-Øst,18
+2020-04-03,Sykehuset Innlandet HF,Sør-Øst,16
 2020-04-04,Sykehuset Innlandet HF,Sør-Øst,16
-2020-04-05,Sykehuset Innlandet HF,Sør-Øst,16
-2020-04-06,Sykehuset Innlandet HF,Sør-Øst,14
-2020-04-07,Sykehuset Innlandet HF,Sør-Øst,15
-2020-04-08,Sykehuset Innlandet HF,Sør-Øst,13
+2020-04-05,Sykehuset Innlandet HF,Sør-Øst,14
+2020-04-06,Sykehuset Innlandet HF,Sør-Øst,15
+2020-04-07,Sykehuset Innlandet HF,Sør-Øst,13
+2020-04-08,Sykehuset Innlandet HF,Sør-Øst,12
 2020-04-09,Sykehuset Innlandet HF,Sør-Øst,12
-2020-04-10,Sykehuset Innlandet HF,Sør-Øst,12
-2020-04-11,Sykehuset Innlandet HF,Sør-Øst,11
+2020-04-10,Sykehuset Innlandet HF,Sør-Øst,11
+2020-04-11,Sykehuset Innlandet HF,Sør-Øst,10
 2020-04-12,Sykehuset Innlandet HF,Sør-Øst,10
-2020-04-13,Sykehuset Innlandet HF,Sør-Øst,10
+2020-04-13,Sykehuset Innlandet HF,Sør-Øst,9
 2020-04-14,Sykehuset Innlandet HF,Sør-Øst,9
 2020-04-15,Sykehuset Innlandet HF,Sør-Øst,9
-2020-04-16,Sykehuset Innlandet HF,Sør-Øst,9
+2020-04-16,Sykehuset Innlandet HF,Sør-Øst,11
 2020-04-17,Sykehuset Innlandet HF,Sør-Øst,11
-2020-04-18,Sykehuset Innlandet HF,Sør-Øst,11
-2020-04-19,Sykehuset Innlandet HF,Sør-Øst,9
+2020-04-18,Sykehuset Innlandet HF,Sør-Øst,9
+2020-04-19,Sykehuset Innlandet HF,Sør-Øst,10
 2020-04-20,Sykehuset Innlandet HF,Sør-Øst,10
-2020-04-21,Sykehuset Innlandet HF,Sør-Øst,10
-2020-04-22,Sykehuset Innlandet HF,Sør-Øst,8
+2020-04-21,Sykehuset Innlandet HF,Sør-Øst,8
+2020-04-22,Sykehuset Innlandet HF,Sør-Øst,7
 2020-04-23,Sykehuset Innlandet HF,Sør-Øst,7
-2020-04-24,Sykehuset Innlandet HF,Sør-Øst,7
+2020-04-24,Sykehuset Innlandet HF,Sør-Øst,6
 2020-04-25,Sykehuset Innlandet HF,Sør-Øst,6
 2020-04-26,Sykehuset Innlandet HF,Sør-Øst,6
 2020-04-27,Sykehuset Innlandet HF,Sør-Øst,6
-2020-04-28,Sykehuset Innlandet HF,Sør-Øst,6
-2020-04-29,Sykehuset Innlandet HF,Sør-Øst,7
-2020-04-30,Sykehuset Innlandet HF,Sør-Øst,6
+2020-04-28,Sykehuset Innlandet HF,Sør-Øst,7
+2020-04-29,Sykehuset Innlandet HF,Sør-Øst,6
+2020-04-30,Sykehuset Innlandet HF,Sør-Øst,7
 2020-05-01,Sykehuset Innlandet HF,Sør-Øst,7
-2020-05-02,Sykehuset Innlandet HF,Sør-Øst,7
+2020-05-02,Sykehuset Innlandet HF,Sør-Øst,6
 2020-05-03,Sykehuset Innlandet HF,Sør-Øst,6
 2020-05-04,Sykehuset Innlandet HF,Sør-Øst,6
-2020-05-05,Sykehuset Innlandet HF,Sør-Øst,6
+2020-05-05,Sykehuset Innlandet HF,Sør-Øst,5
 2020-05-06,Sykehuset Innlandet HF,Sør-Øst,5
-2020-05-07,Sykehuset Innlandet HF,Sør-Øst,5
+2020-05-07,Sykehuset Innlandet HF,Sør-Øst,6
 2020-05-08,Sykehuset Innlandet HF,Sør-Øst,6
 2020-05-09,Sykehuset Innlandet HF,Sør-Øst,6
-2020-05-10,Sykehuset Innlandet HF,Sør-Øst,6
-2020-05-11,Sykehuset Innlandet HF,Sør-Øst,7
+2020-05-10,Sykehuset Innlandet HF,Sør-Øst,7
+2020-05-11,Sykehuset Innlandet HF,Sør-Øst,6
 2020-05-12,Sykehuset Innlandet HF,Sør-Øst,6
-2020-05-13,Sykehuset Innlandet HF,Sør-Øst,6
-2020-05-14,Sykehuset Innlandet HF,Sør-Øst,7
+2020-05-13,Sykehuset Innlandet HF,Sør-Øst,7
+2020-05-14,Sykehuset Innlandet HF,Sør-Øst,6
 2020-05-15,Sykehuset Innlandet HF,Sør-Øst,6
-2020-05-16,Sykehuset Innlandet HF,Sør-Øst,6
+2020-05-16,Sykehuset Innlandet HF,Sør-Øst,5
 2020-05-17,Sykehuset Innlandet HF,Sør-Øst,5
 2020-05-18,Sykehuset Innlandet HF,Sør-Øst,5
-2020-05-19,Sykehuset Innlandet HF,Sør-Øst,5
-2020-05-20,Sykehuset Innlandet HF,Sør-Øst,4
+2020-05-19,Sykehuset Innlandet HF,Sør-Øst,4
+2020-05-20,Sykehuset Innlandet HF,Sør-Øst,3
 2020-05-21,Sykehuset Innlandet HF,Sør-Øst,3
-2020-05-22,Sykehuset Innlandet HF,Sør-Øst,3
-2020-05-23,Sykehuset Innlandet HF,Sør-Øst,4
+2020-05-22,Sykehuset Innlandet HF,Sør-Øst,4
+2020-05-23,Sykehuset Innlandet HF,Sør-Øst,3
 2020-05-24,Sykehuset Innlandet HF,Sør-Øst,3
 2020-05-25,Sykehuset Innlandet HF,Sør-Øst,3
 2020-05-26,Sykehuset Innlandet HF,Sør-Øst,3
-2020-05-27,Sykehuset Innlandet HF,Sør-Øst,3
-2020-05-28,Sykehuset Innlandet HF,Sør-Øst,2
+2020-05-27,Sykehuset Innlandet HF,Sør-Øst,2
+2020-05-28,Sykehuset Innlandet HF,Sør-Øst,4
 2020-05-29,Sykehuset Innlandet HF,Sør-Øst,4
 2020-05-30,Sykehuset Innlandet HF,Sør-Øst,4
 2020-05-31,Sykehuset Innlandet HF,Sør-Øst,4
 2020-06-01,Sykehuset Innlandet HF,Sør-Øst,4
 2020-06-02,Sykehuset Innlandet HF,Sør-Øst,4
-2020-06-03,Sykehuset Innlandet HF,Sør-Øst,4
-2020-06-04,Sykehuset Innlandet HF,Sør-Øst,3
-2020-06-05,Sykehuset Innlandet HF,Sør-Øst,4
+2020-06-03,Sykehuset Innlandet HF,Sør-Øst,3
+2020-06-04,Sykehuset Innlandet HF,Sør-Øst,4
+2020-06-05,Sykehuset Innlandet HF,Sør-Øst,3
 2020-06-08,Sykehuset Innlandet HF,Sør-Øst,3
-2020-06-09,Sykehuset Innlandet HF,Sør-Øst,3
-2020-06-10,Sykehuset Innlandet HF,Sør-Øst,5
-2020-06-11,Sykehuset Innlandet HF,Sør-Øst,4
+2020-06-09,Sykehuset Innlandet HF,Sør-Øst,5
+2020-06-10,Sykehuset Innlandet HF,Sør-Øst,4
+2020-06-11,Sykehuset Innlandet HF,Sør-Øst,1
 2020-06-12,Sykehuset Innlandet HF,Sør-Øst,1
 2020-06-15,Sykehuset Innlandet HF,Sør-Øst,1
 2020-06-16,Sykehuset Innlandet HF,Sør-Øst,1
@@ -2051,30 +2051,30 @@ date,health_org_name,region,admissions
 2020-06-19,Sykehuset Innlandet HF,Sør-Øst,1
 2020-06-22,Sykehuset Innlandet HF,Sør-Øst,1
 2020-06-23,Sykehuset Innlandet HF,Sør-Øst,1
-2020-06-24,Sykehuset Innlandet HF,Sør-Øst,1
+2020-06-24,Sykehuset Innlandet HF,Sør-Øst,2
 2020-06-25,Sykehuset Innlandet HF,Sør-Øst,2
 2020-06-26,Sykehuset Innlandet HF,Sør-Øst,2
-2020-06-29,Sykehuset Innlandet HF,Sør-Øst,2
+2020-06-29,Sykehuset Innlandet HF,Sør-Øst,0
 2020-06-30,Sykehuset Innlandet HF,Sør-Øst,0
 2020-07-01,Sykehuset Innlandet HF,Sør-Øst,0
 2020-07-02,Sykehuset Innlandet HF,Sør-Øst,0
 2020-07-03,Sykehuset Innlandet HF,Sør-Øst,0
-2020-07-06,Sykehuset Innlandet HF,Sør-Øst,0
-2020-07-07,Sykehuset Innlandet HF,Sør-Øst,1
+2020-07-06,Sykehuset Innlandet HF,Sør-Øst,1
+2020-07-07,Sykehuset Innlandet HF,Sør-Øst,0
 2020-07-08,Sykehuset Innlandet HF,Sør-Øst,0
 2020-07-09,Sykehuset Innlandet HF,Sør-Øst,0
 2020-07-10,Sykehuset Innlandet HF,Sør-Øst,0
 2020-07-13,Sykehuset Innlandet HF,Sør-Øst,0
-2020-07-14,Sykehuset Innlandet HF,Sør-Øst,0
-2020-07-15,Sykehuset Innlandet HF,Sør-Øst,1
-2020-07-16,Sykehuset Innlandet HF,Sør-Øst,0
-2020-07-17,Sykehuset Innlandet HF,Sør-Øst,1
-2020-07-20,Sykehuset Innlandet HF,Sør-Øst,2
+2020-07-14,Sykehuset Innlandet HF,Sør-Øst,1
+2020-07-15,Sykehuset Innlandet HF,Sør-Øst,0
+2020-07-16,Sykehuset Innlandet HF,Sør-Øst,1
+2020-07-17,Sykehuset Innlandet HF,Sør-Øst,2
+2020-07-20,Sykehuset Innlandet HF,Sør-Øst,1
 2020-07-21,Sykehuset Innlandet HF,Sør-Øst,1
-2020-07-22,Sykehuset Innlandet HF,Sør-Øst,1
+2020-07-22,Sykehuset Innlandet HF,Sør-Øst,0
 2020-07-23,Sykehuset Innlandet HF,Sør-Øst,0
-2020-07-24,Sykehuset Innlandet HF,Sør-Øst,0
-2020-07-27,Sykehuset Innlandet HF,Sør-Øst,1
+2020-07-24,Sykehuset Innlandet HF,Sør-Øst,1
+2020-07-27,Sykehuset Innlandet HF,Sør-Øst,0
 2020-07-28,Sykehuset Innlandet HF,Sør-Øst,0
 2020-07-29,Sykehuset Innlandet HF,Sør-Øst,0
 2020-07-30,Sykehuset Innlandet HF,Sør-Øst,0
@@ -2082,80 +2082,80 @@ date,health_org_name,region,admissions
 2020-03-08,Sykehuset Østfold HF,Sør-Øst,0
 2020-03-09,Sykehuset Østfold HF,Sør-Øst,0
 2020-03-10,Sykehuset Østfold HF,Sør-Øst,0
-2020-03-11,Sykehuset Østfold HF,Sør-Øst,0
-2020-03-12,Sykehuset Østfold HF,Sør-Øst,2
-2020-03-13,Sykehuset Østfold HF,Sør-Øst,0
+2020-03-11,Sykehuset Østfold HF,Sør-Øst,2
+2020-03-12,Sykehuset Østfold HF,Sør-Øst,0
+2020-03-13,Sykehuset Østfold HF,Sør-Øst,3
 2020-03-14,Sykehuset Østfold HF,Sør-Øst,3
-2020-03-15,Sykehuset Østfold HF,Sør-Øst,3
+2020-03-15,Sykehuset Østfold HF,Sør-Øst,4
 2020-03-16,Sykehuset Østfold HF,Sør-Øst,4
-2020-03-17,Sykehuset Østfold HF,Sør-Øst,4
-2020-03-18,Sykehuset Østfold HF,Sør-Øst,6
-2020-03-19,Sykehuset Østfold HF,Sør-Øst,8
+2020-03-17,Sykehuset Østfold HF,Sør-Øst,6
+2020-03-18,Sykehuset Østfold HF,Sør-Øst,8
+2020-03-19,Sykehuset Østfold HF,Sør-Øst,9
 2020-03-20,Sykehuset Østfold HF,Sør-Øst,9
-2020-03-21,Sykehuset Østfold HF,Sør-Øst,9
-2020-03-22,Sykehuset Østfold HF,Sør-Øst,8
-2020-03-23,Sykehuset Østfold HF,Sør-Øst,9
-2020-03-24,Sykehuset Østfold HF,Sør-Øst,10
+2020-03-21,Sykehuset Østfold HF,Sør-Øst,8
+2020-03-22,Sykehuset Østfold HF,Sør-Øst,9
+2020-03-23,Sykehuset Østfold HF,Sør-Øst,10
+2020-03-24,Sykehuset Østfold HF,Sør-Øst,15
 2020-03-25,Sykehuset Østfold HF,Sør-Øst,15
-2020-03-26,Sykehuset Østfold HF,Sør-Øst,15
-2020-03-27,Sykehuset Østfold HF,Sør-Øst,19
+2020-03-26,Sykehuset Østfold HF,Sør-Øst,19
+2020-03-27,Sykehuset Østfold HF,Sør-Øst,21
 2020-03-28,Sykehuset Østfold HF,Sør-Øst,21
 2020-03-29,Sykehuset Østfold HF,Sør-Øst,21
-2020-03-30,Sykehuset Østfold HF,Sør-Øst,21
-2020-03-31,Sykehuset Østfold HF,Sør-Øst,19
+2020-03-30,Sykehuset Østfold HF,Sør-Øst,19
+2020-03-31,Sykehuset Østfold HF,Sør-Øst,23
 2020-04-01,Sykehuset Østfold HF,Sør-Øst,23
-2020-04-02,Sykehuset Østfold HF,Sør-Øst,23
+2020-04-02,Sykehuset Østfold HF,Sør-Øst,22
 2020-04-03,Sykehuset Østfold HF,Sør-Øst,22
-2020-04-04,Sykehuset Østfold HF,Sør-Øst,22
+2020-04-04,Sykehuset Østfold HF,Sør-Øst,20
 2020-04-05,Sykehuset Østfold HF,Sør-Øst,20
 2020-04-06,Sykehuset Østfold HF,Sør-Øst,20
-2020-04-07,Sykehuset Østfold HF,Sør-Øst,20
-2020-04-08,Sykehuset Østfold HF,Sør-Øst,16
+2020-04-07,Sykehuset Østfold HF,Sør-Øst,16
+2020-04-08,Sykehuset Østfold HF,Sør-Øst,14
 2020-04-09,Sykehuset Østfold HF,Sør-Øst,14
-2020-04-10,Sykehuset Østfold HF,Sør-Øst,14
-2020-04-11,Sykehuset Østfold HF,Sør-Øst,11
-2020-04-12,Sykehuset Østfold HF,Sør-Øst,12
-2020-04-13,Sykehuset Østfold HF,Sør-Øst,14
-2020-04-14,Sykehuset Østfold HF,Sør-Øst,13
-2020-04-15,Sykehuset Østfold HF,Sør-Øst,10
-2020-04-16,Sykehuset Østfold HF,Sør-Øst,9
-2020-04-17,Sykehuset Østfold HF,Sør-Øst,11
-2020-04-18,Sykehuset Østfold HF,Sør-Øst,10
+2020-04-10,Sykehuset Østfold HF,Sør-Øst,11
+2020-04-11,Sykehuset Østfold HF,Sør-Øst,12
+2020-04-12,Sykehuset Østfold HF,Sør-Øst,14
+2020-04-13,Sykehuset Østfold HF,Sør-Øst,13
+2020-04-14,Sykehuset Østfold HF,Sør-Øst,10
+2020-04-15,Sykehuset Østfold HF,Sør-Øst,9
+2020-04-16,Sykehuset Østfold HF,Sør-Øst,11
+2020-04-17,Sykehuset Østfold HF,Sør-Øst,10
+2020-04-18,Sykehuset Østfold HF,Sør-Øst,8
 2020-04-19,Sykehuset Østfold HF,Sør-Øst,8
 2020-04-20,Sykehuset Østfold HF,Sør-Øst,8
-2020-04-21,Sykehuset Østfold HF,Sør-Øst,8
+2020-04-21,Sykehuset Østfold HF,Sør-Øst,4
 2020-04-22,Sykehuset Østfold HF,Sør-Øst,4
 2020-04-23,Sykehuset Østfold HF,Sør-Øst,4
 2020-04-24,Sykehuset Østfold HF,Sør-Øst,4
-2020-04-25,Sykehuset Østfold HF,Sør-Øst,4
+2020-04-25,Sykehuset Østfold HF,Sør-Øst,6
 2020-04-26,Sykehuset Østfold HF,Sør-Øst,6
 2020-04-27,Sykehuset Østfold HF,Sør-Øst,6
 2020-04-28,Sykehuset Østfold HF,Sør-Øst,6
-2020-04-29,Sykehuset Østfold HF,Sør-Øst,6
+2020-04-29,Sykehuset Østfold HF,Sør-Øst,5
 2020-04-30,Sykehuset Østfold HF,Sør-Øst,5
-2020-05-01,Sykehuset Østfold HF,Sør-Øst,5
-2020-05-02,Sykehuset Østfold HF,Sør-Øst,4
+2020-05-01,Sykehuset Østfold HF,Sør-Øst,4
+2020-05-02,Sykehuset Østfold HF,Sør-Øst,3
 2020-05-03,Sykehuset Østfold HF,Sør-Øst,3
-2020-05-04,Sykehuset Østfold HF,Sør-Øst,3
-2020-05-05,Sykehuset Østfold HF,Sør-Øst,4
-2020-05-06,Sykehuset Østfold HF,Sør-Øst,3
-2020-05-07,Sykehuset Østfold HF,Sør-Øst,1
+2020-05-04,Sykehuset Østfold HF,Sør-Øst,4
+2020-05-05,Sykehuset Østfold HF,Sør-Øst,3
+2020-05-06,Sykehuset Østfold HF,Sør-Øst,1
+2020-05-07,Sykehuset Østfold HF,Sør-Øst,2
 2020-05-08,Sykehuset Østfold HF,Sør-Øst,2
 2020-05-09,Sykehuset Østfold HF,Sør-Øst,2
-2020-05-10,Sykehuset Østfold HF,Sør-Øst,2
-2020-05-11,Sykehuset Østfold HF,Sør-Øst,4
-2020-05-12,Sykehuset Østfold HF,Sør-Øst,3
-2020-05-13,Sykehuset Østfold HF,Sør-Øst,2
-2020-05-14,Sykehuset Østfold HF,Sør-Øst,3
-2020-05-15,Sykehuset Østfold HF,Sør-Øst,2
-2020-05-16,Sykehuset Østfold HF,Sør-Øst,3
+2020-05-10,Sykehuset Østfold HF,Sør-Øst,4
+2020-05-11,Sykehuset Østfold HF,Sør-Øst,3
+2020-05-12,Sykehuset Østfold HF,Sør-Øst,2
+2020-05-13,Sykehuset Østfold HF,Sør-Øst,3
+2020-05-14,Sykehuset Østfold HF,Sør-Øst,2
+2020-05-15,Sykehuset Østfold HF,Sør-Øst,3
+2020-05-16,Sykehuset Østfold HF,Sør-Øst,2
 2020-05-17,Sykehuset Østfold HF,Sør-Øst,2
 2020-05-18,Sykehuset Østfold HF,Sør-Øst,2
 2020-05-19,Sykehuset Østfold HF,Sør-Øst,2
 2020-05-20,Sykehuset Østfold HF,Sør-Øst,2
-2020-05-21,Sykehuset Østfold HF,Sør-Øst,2
+2020-05-21,Sykehuset Østfold HF,Sør-Øst,1
 2020-05-22,Sykehuset Østfold HF,Sør-Øst,1
-2020-05-23,Sykehuset Østfold HF,Sør-Øst,1
+2020-05-23,Sykehuset Østfold HF,Sør-Øst,0
 2020-05-24,Sykehuset Østfold HF,Sør-Øst,0
 2020-05-25,Sykehuset Østfold HF,Sør-Øst,0
 2020-05-26,Sykehuset Østfold HF,Sør-Øst,0
@@ -2163,40 +2163,40 @@ date,health_org_name,region,admissions
 2020-05-28,Sykehuset Østfold HF,Sør-Øst,0
 2020-05-29,Sykehuset Østfold HF,Sør-Øst,0
 2020-05-30,Sykehuset Østfold HF,Sør-Øst,0
-2020-05-31,Sykehuset Østfold HF,Sør-Øst,0
+2020-05-31,Sykehuset Østfold HF,Sør-Øst,1
 2020-06-01,Sykehuset Østfold HF,Sør-Øst,1
 2020-06-02,Sykehuset Østfold HF,Sør-Øst,1
 2020-06-03,Sykehuset Østfold HF,Sør-Øst,1
 2020-06-04,Sykehuset Østfold HF,Sør-Øst,1
-2020-06-05,Sykehuset Østfold HF,Sør-Øst,1
+2020-06-05,Sykehuset Østfold HF,Sør-Øst,0
 2020-06-08,Sykehuset Østfold HF,Sør-Øst,0
 2020-06-09,Sykehuset Østfold HF,Sør-Øst,0
 2020-06-10,Sykehuset Østfold HF,Sør-Øst,0
 2020-06-11,Sykehuset Østfold HF,Sør-Øst,0
 2020-06-12,Sykehuset Østfold HF,Sør-Øst,0
 2020-06-15,Sykehuset Østfold HF,Sør-Øst,0
-2020-06-16,Sykehuset Østfold HF,Sør-Øst,0
+2020-06-16,Sykehuset Østfold HF,Sør-Øst,1
 2020-06-17,Sykehuset Østfold HF,Sør-Øst,1
 2020-06-18,Sykehuset Østfold HF,Sør-Øst,1
 2020-06-19,Sykehuset Østfold HF,Sør-Øst,1
-2020-06-22,Sykehuset Østfold HF,Sør-Øst,1
+2020-06-22,Sykehuset Østfold HF,Sør-Øst,0
 2020-06-23,Sykehuset Østfold HF,Sør-Øst,0
 2020-06-24,Sykehuset Østfold HF,Sør-Øst,0
 2020-06-25,Sykehuset Østfold HF,Sør-Øst,0
 2020-06-26,Sykehuset Østfold HF,Sør-Øst,0
-2020-06-29,Sykehuset Østfold HF,Sør-Øst,0
-2020-06-30,Sykehuset Østfold HF,Sør-Øst,1
+2020-06-29,Sykehuset Østfold HF,Sør-Øst,1
+2020-06-30,Sykehuset Østfold HF,Sør-Øst,0
 2020-07-01,Sykehuset Østfold HF,Sør-Øst,0
 2020-07-02,Sykehuset Østfold HF,Sør-Øst,0
 2020-07-03,Sykehuset Østfold HF,Sør-Øst,0
 2020-07-06,Sykehuset Østfold HF,Sør-Øst,0
 2020-07-07,Sykehuset Østfold HF,Sør-Øst,0
-2020-07-08,Sykehuset Østfold HF,Sør-Øst,0
+2020-07-08,Sykehuset Østfold HF,Sør-Øst,1
 2020-07-09,Sykehuset Østfold HF,Sør-Øst,1
 2020-07-10,Sykehuset Østfold HF,Sør-Øst,1
 2020-07-13,Sykehuset Østfold HF,Sør-Øst,1
 2020-07-14,Sykehuset Østfold HF,Sør-Øst,1
-2020-07-15,Sykehuset Østfold HF,Sør-Øst,1
+2020-07-15,Sykehuset Østfold HF,Sør-Øst,0
 2020-07-16,Sykehuset Østfold HF,Sør-Øst,0
 2020-07-17,Sykehuset Østfold HF,Sør-Øst,0
 2020-07-20,Sykehuset Østfold HF,Sør-Øst,0
@@ -2204,51 +2204,51 @@ date,health_org_name,region,admissions
 2020-07-22,Sykehuset Østfold HF,Sør-Øst,0
 2020-07-23,Sykehuset Østfold HF,Sør-Øst,0
 2020-07-24,Sykehuset Østfold HF,Sør-Øst,0
-2020-07-27,Sykehuset Østfold HF,Sør-Øst,0
+2020-07-27,Sykehuset Østfold HF,Sør-Øst,1
 2020-07-28,Sykehuset Østfold HF,Sør-Øst,1
 2020-07-29,Sykehuset Østfold HF,Sør-Øst,1
 2020-07-30,Sykehuset Østfold HF,Sør-Øst,1
-2020-07-31,Sykehuset Østfold HF,Sør-Øst,1
+2020-07-31,Sykehuset Østfold HF,Sør-Øst,0
 2020-03-08,Sykehuset Telemark HF,Sør-Øst,0
 2020-03-09,Sykehuset Telemark HF,Sør-Øst,0
 2020-03-10,Sykehuset Telemark HF,Sør-Øst,0
 2020-03-11,Sykehuset Telemark HF,Sør-Øst,0
-2020-03-12,Sykehuset Telemark HF,Sør-Øst,0
-2020-03-13,Sykehuset Telemark HF,Sør-Øst,3
+2020-03-12,Sykehuset Telemark HF,Sør-Øst,3
+2020-03-13,Sykehuset Telemark HF,Sør-Øst,0
 2020-03-14,Sykehuset Telemark HF,Sør-Øst,0
 2020-03-15,Sykehuset Telemark HF,Sør-Øst,0
 2020-03-16,Sykehuset Telemark HF,Sør-Øst,0
 2020-03-17,Sykehuset Telemark HF,Sør-Øst,0
-2020-03-18,Sykehuset Telemark HF,Sør-Øst,0
-2020-03-19,Sykehuset Telemark HF,Sør-Øst,1
+2020-03-18,Sykehuset Telemark HF,Sør-Øst,1
+2020-03-19,Sykehuset Telemark HF,Sør-Øst,2
 2020-03-20,Sykehuset Telemark HF,Sør-Øst,2
 2020-03-21,Sykehuset Telemark HF,Sør-Øst,2
 2020-03-22,Sykehuset Telemark HF,Sør-Øst,2
 2020-03-23,Sykehuset Telemark HF,Sør-Øst,2
-2020-03-24,Sykehuset Telemark HF,Sør-Øst,2
+2020-03-24,Sykehuset Telemark HF,Sør-Øst,3
 2020-03-25,Sykehuset Telemark HF,Sør-Øst,3
-2020-03-26,Sykehuset Telemark HF,Sør-Øst,3
+2020-03-26,Sykehuset Telemark HF,Sør-Øst,4
 2020-03-27,Sykehuset Telemark HF,Sør-Øst,4
 2020-03-28,Sykehuset Telemark HF,Sør-Øst,4
-2020-03-29,Sykehuset Telemark HF,Sør-Øst,4
+2020-03-29,Sykehuset Telemark HF,Sør-Øst,3
 2020-03-30,Sykehuset Telemark HF,Sør-Øst,3
-2020-03-31,Sykehuset Telemark HF,Sør-Øst,3
-2020-04-01,Sykehuset Telemark HF,Sør-Øst,4
+2020-03-31,Sykehuset Telemark HF,Sør-Øst,4
+2020-04-01,Sykehuset Telemark HF,Sør-Øst,5
 2020-04-02,Sykehuset Telemark HF,Sør-Øst,5
-2020-04-03,Sykehuset Telemark HF,Sør-Øst,5
+2020-04-03,Sykehuset Telemark HF,Sør-Øst,6
 2020-04-04,Sykehuset Telemark HF,Sør-Øst,6
-2020-04-05,Sykehuset Telemark HF,Sør-Øst,6
-2020-04-06,Sykehuset Telemark HF,Sør-Øst,7
-2020-04-07,Sykehuset Telemark HF,Sør-Øst,6
-2020-04-08,Sykehuset Telemark HF,Sør-Øst,7
+2020-04-05,Sykehuset Telemark HF,Sør-Øst,7
+2020-04-06,Sykehuset Telemark HF,Sør-Øst,6
+2020-04-07,Sykehuset Telemark HF,Sør-Øst,7
+2020-04-08,Sykehuset Telemark HF,Sør-Øst,5
 2020-04-09,Sykehuset Telemark HF,Sør-Øst,5
-2020-04-10,Sykehuset Telemark HF,Sør-Øst,5
+2020-04-10,Sykehuset Telemark HF,Sør-Øst,3
 2020-04-11,Sykehuset Telemark HF,Sør-Øst,3
 2020-04-12,Sykehuset Telemark HF,Sør-Øst,3
 2020-04-13,Sykehuset Telemark HF,Sør-Øst,3
 2020-04-14,Sykehuset Telemark HF,Sør-Øst,3
 2020-04-15,Sykehuset Telemark HF,Sør-Øst,3
-2020-04-16,Sykehuset Telemark HF,Sør-Øst,3
+2020-04-16,Sykehuset Telemark HF,Sør-Øst,2
 2020-04-17,Sykehuset Telemark HF,Sør-Øst,2
 2020-04-18,Sykehuset Telemark HF,Sør-Øst,2
 2020-04-19,Sykehuset Telemark HF,Sør-Øst,2
@@ -2257,11 +2257,11 @@ date,health_org_name,region,admissions
 2020-04-22,Sykehuset Telemark HF,Sør-Øst,2
 2020-04-23,Sykehuset Telemark HF,Sør-Øst,2
 2020-04-24,Sykehuset Telemark HF,Sør-Øst,2
-2020-04-25,Sykehuset Telemark HF,Sør-Øst,2
-2020-04-26,Sykehuset Telemark HF,Sør-Øst,3
+2020-04-25,Sykehuset Telemark HF,Sør-Øst,3
+2020-04-26,Sykehuset Telemark HF,Sør-Øst,4
 2020-04-27,Sykehuset Telemark HF,Sør-Øst,4
-2020-04-28,Sykehuset Telemark HF,Sør-Øst,4
-2020-04-29,Sykehuset Telemark HF,Sør-Øst,3
+2020-04-28,Sykehuset Telemark HF,Sør-Øst,3
+2020-04-29,Sykehuset Telemark HF,Sør-Øst,2
 2020-04-30,Sykehuset Telemark HF,Sør-Øst,2
 2020-05-01,Sykehuset Telemark HF,Sør-Øst,2
 2020-05-02,Sykehuset Telemark HF,Sør-Øst,2
@@ -2270,12 +2270,12 @@ date,health_org_name,region,admissions
 2020-05-05,Sykehuset Telemark HF,Sør-Øst,2
 2020-05-06,Sykehuset Telemark HF,Sør-Øst,2
 2020-05-07,Sykehuset Telemark HF,Sør-Øst,2
-2020-05-08,Sykehuset Telemark HF,Sør-Øst,2
+2020-05-08,Sykehuset Telemark HF,Sør-Øst,1
 2020-05-09,Sykehuset Telemark HF,Sør-Øst,1
 2020-05-10,Sykehuset Telemark HF,Sør-Øst,1
 2020-05-11,Sykehuset Telemark HF,Sør-Øst,1
 2020-05-12,Sykehuset Telemark HF,Sør-Øst,1
-2020-05-13,Sykehuset Telemark HF,Sør-Øst,1
+2020-05-13,Sykehuset Telemark HF,Sør-Øst,0
 2020-05-14,Sykehuset Telemark HF,Sør-Øst,0
 2020-05-15,Sykehuset Telemark HF,Sør-Øst,0
 2020-05-16,Sykehuset Telemark HF,Sør-Øst,0
@@ -2351,37 +2351,37 @@ date,health_org_name,region,admissions
 2020-03-17,Universitetssykehuset Nord-Norge HF,Nord,0
 2020-03-18,Universitetssykehuset Nord-Norge HF,Nord,0
 2020-03-19,Universitetssykehuset Nord-Norge HF,Nord,0
-2020-03-20,Universitetssykehuset Nord-Norge HF,Nord,0
+2020-03-20,Universitetssykehuset Nord-Norge HF,Nord,1
 2020-03-21,Universitetssykehuset Nord-Norge HF,Nord,1
-2020-03-22,Universitetssykehuset Nord-Norge HF,Nord,1
+2020-03-22,Universitetssykehuset Nord-Norge HF,Nord,2
 2020-03-23,Universitetssykehuset Nord-Norge HF,Nord,2
 2020-03-24,Universitetssykehuset Nord-Norge HF,Nord,2
 2020-03-25,Universitetssykehuset Nord-Norge HF,Nord,2
-2020-03-26,Universitetssykehuset Nord-Norge HF,Nord,2
-2020-03-27,Universitetssykehuset Nord-Norge HF,Nord,4
-2020-03-28,Universitetssykehuset Nord-Norge HF,Nord,7
-2020-03-29,Universitetssykehuset Nord-Norge HF,Nord,6
-2020-03-30,Universitetssykehuset Nord-Norge HF,Nord,9
-2020-03-31,Universitetssykehuset Nord-Norge HF,Nord,8
-2020-04-01,Universitetssykehuset Nord-Norge HF,Nord,9
-2020-04-02,Universitetssykehuset Nord-Norge HF,Nord,10
-2020-04-03,Universitetssykehuset Nord-Norge HF,Nord,9
+2020-03-26,Universitetssykehuset Nord-Norge HF,Nord,4
+2020-03-27,Universitetssykehuset Nord-Norge HF,Nord,7
+2020-03-28,Universitetssykehuset Nord-Norge HF,Nord,6
+2020-03-29,Universitetssykehuset Nord-Norge HF,Nord,9
+2020-03-30,Universitetssykehuset Nord-Norge HF,Nord,8
+2020-03-31,Universitetssykehuset Nord-Norge HF,Nord,9
+2020-04-01,Universitetssykehuset Nord-Norge HF,Nord,10
+2020-04-02,Universitetssykehuset Nord-Norge HF,Nord,9
+2020-04-03,Universitetssykehuset Nord-Norge HF,Nord,10
 2020-04-04,Universitetssykehuset Nord-Norge HF,Nord,10
 2020-04-05,Universitetssykehuset Nord-Norge HF,Nord,10
 2020-04-06,Universitetssykehuset Nord-Norge HF,Nord,10
-2020-04-07,Universitetssykehuset Nord-Norge HF,Nord,10
+2020-04-07,Universitetssykehuset Nord-Norge HF,Nord,9
 2020-04-08,Universitetssykehuset Nord-Norge HF,Nord,9
-2020-04-09,Universitetssykehuset Nord-Norge HF,Nord,9
+2020-04-09,Universitetssykehuset Nord-Norge HF,Nord,8
 2020-04-10,Universitetssykehuset Nord-Norge HF,Nord,8
-2020-04-11,Universitetssykehuset Nord-Norge HF,Nord,8
-2020-04-12,Universitetssykehuset Nord-Norge HF,Nord,7
-2020-04-13,Universitetssykehuset Nord-Norge HF,Nord,6
+2020-04-11,Universitetssykehuset Nord-Norge HF,Nord,7
+2020-04-12,Universitetssykehuset Nord-Norge HF,Nord,6
+2020-04-13,Universitetssykehuset Nord-Norge HF,Nord,7
 2020-04-14,Universitetssykehuset Nord-Norge HF,Nord,7
-2020-04-15,Universitetssykehuset Nord-Norge HF,Nord,7
-2020-04-16,Universitetssykehuset Nord-Norge HF,Nord,6
+2020-04-15,Universitetssykehuset Nord-Norge HF,Nord,6
+2020-04-16,Universitetssykehuset Nord-Norge HF,Nord,7
 2020-04-17,Universitetssykehuset Nord-Norge HF,Nord,7
-2020-04-18,Universitetssykehuset Nord-Norge HF,Nord,7
-2020-04-19,Universitetssykehuset Nord-Norge HF,Nord,5
+2020-04-18,Universitetssykehuset Nord-Norge HF,Nord,5
+2020-04-19,Universitetssykehuset Nord-Norge HF,Nord,6
 2020-04-20,Universitetssykehuset Nord-Norge HF,Nord,6
 2020-04-21,Universitetssykehuset Nord-Norge HF,Nord,6
 2020-04-22,Universitetssykehuset Nord-Norge HF,Nord,6
@@ -2389,19 +2389,19 @@ date,health_org_name,region,admissions
 2020-04-24,Universitetssykehuset Nord-Norge HF,Nord,6
 2020-04-25,Universitetssykehuset Nord-Norge HF,Nord,6
 2020-04-26,Universitetssykehuset Nord-Norge HF,Nord,6
-2020-04-27,Universitetssykehuset Nord-Norge HF,Nord,6
+2020-04-27,Universitetssykehuset Nord-Norge HF,Nord,5
 2020-04-28,Universitetssykehuset Nord-Norge HF,Nord,5
-2020-04-29,Universitetssykehuset Nord-Norge HF,Nord,5
+2020-04-29,Universitetssykehuset Nord-Norge HF,Nord,6
 2020-04-30,Universitetssykehuset Nord-Norge HF,Nord,6
 2020-05-01,Universitetssykehuset Nord-Norge HF,Nord,6
 2020-05-02,Universitetssykehuset Nord-Norge HF,Nord,6
-2020-05-03,Universitetssykehuset Nord-Norge HF,Nord,6
+2020-05-03,Universitetssykehuset Nord-Norge HF,Nord,5
 2020-05-04,Universitetssykehuset Nord-Norge HF,Nord,5
 2020-05-05,Universitetssykehuset Nord-Norge HF,Nord,5
 2020-05-06,Universitetssykehuset Nord-Norge HF,Nord,5
 2020-05-07,Universitetssykehuset Nord-Norge HF,Nord,5
 2020-05-08,Universitetssykehuset Nord-Norge HF,Nord,5
-2020-05-09,Universitetssykehuset Nord-Norge HF,Nord,5
+2020-05-09,Universitetssykehuset Nord-Norge HF,Nord,4
 2020-05-10,Universitetssykehuset Nord-Norge HF,Nord,4
 2020-05-11,Universitetssykehuset Nord-Norge HF,Nord,4
 2020-05-12,Universitetssykehuset Nord-Norge HF,Nord,4
@@ -2413,14 +2413,14 @@ date,health_org_name,region,admissions
 2020-05-18,Universitetssykehuset Nord-Norge HF,Nord,4
 2020-05-19,Universitetssykehuset Nord-Norge HF,Nord,4
 2020-05-20,Universitetssykehuset Nord-Norge HF,Nord,4
-2020-05-21,Universitetssykehuset Nord-Norge HF,Nord,4
+2020-05-21,Universitetssykehuset Nord-Norge HF,Nord,3
 2020-05-22,Universitetssykehuset Nord-Norge HF,Nord,3
 2020-05-23,Universitetssykehuset Nord-Norge HF,Nord,3
 2020-05-24,Universitetssykehuset Nord-Norge HF,Nord,3
 2020-05-25,Universitetssykehuset Nord-Norge HF,Nord,3
 2020-05-26,Universitetssykehuset Nord-Norge HF,Nord,3
-2020-05-27,Universitetssykehuset Nord-Norge HF,Nord,3
-2020-05-28,Universitetssykehuset Nord-Norge HF,Nord,2
+2020-05-27,Universitetssykehuset Nord-Norge HF,Nord,2
+2020-05-28,Universitetssykehuset Nord-Norge HF,Nord,1
 2020-05-29,Universitetssykehuset Nord-Norge HF,Nord,1
 2020-05-30,Universitetssykehuset Nord-Norge HF,Nord,1
 2020-05-31,Universitetssykehuset Nord-Norge HF,Nord,1
@@ -2429,7 +2429,7 @@ date,health_org_name,region,admissions
 2020-06-03,Universitetssykehuset Nord-Norge HF,Nord,1
 2020-06-04,Universitetssykehuset Nord-Norge HF,Nord,1
 2020-06-05,Universitetssykehuset Nord-Norge HF,Nord,1
-2020-06-08,Universitetssykehuset Nord-Norge HF,Nord,1
+2020-06-08,Universitetssykehuset Nord-Norge HF,Nord,0
 2020-06-09,Universitetssykehuset Nord-Norge HF,Nord,0
 2020-06-10,Universitetssykehuset Nord-Norge HF,Nord,0
 2020-06-11,Universitetssykehuset Nord-Norge HF,Nord,0
@@ -2470,108 +2470,108 @@ date,health_org_name,region,admissions
 2020-07-30,Universitetssykehuset Nord-Norge HF,Nord,0
 2020-07-31,Universitetssykehuset Nord-Norge HF,Nord,0
 2020-03-08,Vestre Viken HF,Sør-Øst,0
-2020-03-09,Vestre Viken HF,Sør-Øst,0
-2020-03-10,Vestre Viken HF,Sør-Øst,1
+2020-03-09,Vestre Viken HF,Sør-Øst,1
+2020-03-10,Vestre Viken HF,Sør-Øst,2
 2020-03-11,Vestre Viken HF,Sør-Øst,2
-2020-03-12,Vestre Viken HF,Sør-Øst,2
-2020-03-13,Vestre Viken HF,Sør-Øst,3
-2020-03-14,Vestre Viken HF,Sør-Øst,5
-2020-03-15,Vestre Viken HF,Sør-Øst,7
-2020-03-16,Vestre Viken HF,Sør-Øst,8
-2020-03-17,Vestre Viken HF,Sør-Øst,13
-2020-03-18,Vestre Viken HF,Sør-Øst,12
-2020-03-19,Vestre Viken HF,Sør-Øst,15
-2020-03-20,Vestre Viken HF,Sør-Øst,20
-2020-03-21,Vestre Viken HF,Sør-Øst,23
-2020-03-22,Vestre Viken HF,Sør-Øst,22
+2020-03-12,Vestre Viken HF,Sør-Øst,3
+2020-03-13,Vestre Viken HF,Sør-Øst,5
+2020-03-14,Vestre Viken HF,Sør-Øst,7
+2020-03-15,Vestre Viken HF,Sør-Øst,8
+2020-03-16,Vestre Viken HF,Sør-Øst,13
+2020-03-17,Vestre Viken HF,Sør-Øst,12
+2020-03-18,Vestre Viken HF,Sør-Øst,15
+2020-03-19,Vestre Viken HF,Sør-Øst,20
+2020-03-20,Vestre Viken HF,Sør-Øst,23
+2020-03-21,Vestre Viken HF,Sør-Øst,22
+2020-03-22,Vestre Viken HF,Sør-Øst,29
 2020-03-23,Vestre Viken HF,Sør-Øst,29
-2020-03-24,Vestre Viken HF,Sør-Øst,29
-2020-03-25,Vestre Viken HF,Sør-Øst,30
-2020-03-26,Vestre Viken HF,Sør-Øst,32
-2020-03-27,Vestre Viken HF,Sør-Øst,41
-2020-03-28,Vestre Viken HF,Sør-Øst,37
-2020-03-29,Vestre Viken HF,Sør-Øst,34
-2020-03-30,Vestre Viken HF,Sør-Øst,35
-2020-03-31,Vestre Viken HF,Sør-Øst,33
-2020-04-01,Vestre Viken HF,Sør-Øst,35
-2020-04-02,Vestre Viken HF,Sør-Øst,33
+2020-03-24,Vestre Viken HF,Sør-Øst,30
+2020-03-25,Vestre Viken HF,Sør-Øst,32
+2020-03-26,Vestre Viken HF,Sør-Øst,41
+2020-03-27,Vestre Viken HF,Sør-Øst,37
+2020-03-28,Vestre Viken HF,Sør-Øst,34
+2020-03-29,Vestre Viken HF,Sør-Øst,35
+2020-03-30,Vestre Viken HF,Sør-Øst,33
+2020-03-31,Vestre Viken HF,Sør-Øst,35
+2020-04-01,Vestre Viken HF,Sør-Øst,33
+2020-04-02,Vestre Viken HF,Sør-Øst,35
 2020-04-03,Vestre Viken HF,Sør-Øst,35
-2020-04-04,Vestre Viken HF,Sør-Øst,35
+2020-04-04,Vestre Viken HF,Sør-Øst,31
 2020-04-05,Vestre Viken HF,Sør-Øst,31
-2020-04-06,Vestre Viken HF,Sør-Øst,31
-2020-04-07,Vestre Viken HF,Sør-Øst,33
-2020-04-08,Vestre Viken HF,Sør-Øst,32
-2020-04-09,Vestre Viken HF,Sør-Øst,24
-2020-04-10,Vestre Viken HF,Sør-Øst,26
-2020-04-11,Vestre Viken HF,Sør-Øst,21
-2020-04-12,Vestre Viken HF,Sør-Øst,20
-2020-04-13,Vestre Viken HF,Sør-Øst,21
-2020-04-14,Vestre Viken HF,Sør-Øst,23
+2020-04-06,Vestre Viken HF,Sør-Øst,33
+2020-04-07,Vestre Viken HF,Sør-Øst,32
+2020-04-08,Vestre Viken HF,Sør-Øst,24
+2020-04-09,Vestre Viken HF,Sør-Øst,26
+2020-04-10,Vestre Viken HF,Sør-Øst,21
+2020-04-11,Vestre Viken HF,Sør-Øst,20
+2020-04-12,Vestre Viken HF,Sør-Øst,21
+2020-04-13,Vestre Viken HF,Sør-Øst,23
+2020-04-14,Vestre Viken HF,Sør-Øst,22
 2020-04-15,Vestre Viken HF,Sør-Øst,22
-2020-04-16,Vestre Viken HF,Sør-Øst,22
-2020-04-17,Vestre Viken HF,Sør-Øst,18
-2020-04-18,Vestre Viken HF,Sør-Øst,19
+2020-04-16,Vestre Viken HF,Sør-Øst,18
+2020-04-17,Vestre Viken HF,Sør-Øst,19
+2020-04-18,Vestre Viken HF,Sør-Øst,16
 2020-04-19,Vestre Viken HF,Sør-Øst,16
-2020-04-20,Vestre Viken HF,Sør-Øst,16
-2020-04-21,Vestre Viken HF,Sør-Øst,14
-2020-04-22,Vestre Viken HF,Sør-Øst,13
-2020-04-23,Vestre Viken HF,Sør-Øst,11
-2020-04-24,Vestre Viken HF,Sør-Øst,10
-2020-04-25,Vestre Viken HF,Sør-Øst,12
+2020-04-20,Vestre Viken HF,Sør-Øst,14
+2020-04-21,Vestre Viken HF,Sør-Øst,13
+2020-04-22,Vestre Viken HF,Sør-Øst,11
+2020-04-23,Vestre Viken HF,Sør-Øst,10
+2020-04-24,Vestre Viken HF,Sør-Øst,12
+2020-04-25,Vestre Viken HF,Sør-Øst,9
 2020-04-26,Vestre Viken HF,Sør-Øst,9
-2020-04-27,Vestre Viken HF,Sør-Øst,9
+2020-04-27,Vestre Viken HF,Sør-Øst,8
 2020-04-28,Vestre Viken HF,Sør-Øst,8
-2020-04-29,Vestre Viken HF,Sør-Øst,8
-2020-04-30,Vestre Viken HF,Sør-Øst,7
-2020-05-01,Vestre Viken HF,Sør-Øst,5
+2020-04-29,Vestre Viken HF,Sør-Øst,7
+2020-04-30,Vestre Viken HF,Sør-Øst,5
+2020-05-01,Vestre Viken HF,Sør-Øst,4
 2020-05-02,Vestre Viken HF,Sør-Øst,4
-2020-05-03,Vestre Viken HF,Sør-Øst,4
+2020-05-03,Vestre Viken HF,Sør-Øst,5
 2020-05-04,Vestre Viken HF,Sør-Øst,5
-2020-05-05,Vestre Viken HF,Sør-Øst,5
-2020-05-06,Vestre Viken HF,Sør-Øst,4
-2020-05-07,Vestre Viken HF,Sør-Øst,3
-2020-05-08,Vestre Viken HF,Sør-Øst,2
+2020-05-05,Vestre Viken HF,Sør-Øst,4
+2020-05-06,Vestre Viken HF,Sør-Øst,3
+2020-05-07,Vestre Viken HF,Sør-Øst,2
+2020-05-08,Vestre Viken HF,Sør-Øst,1
 2020-05-09,Vestre Viken HF,Sør-Øst,1
 2020-05-10,Vestre Viken HF,Sør-Øst,1
 2020-05-11,Vestre Viken HF,Sør-Øst,1
 2020-05-12,Vestre Viken HF,Sør-Øst,1
-2020-05-13,Vestre Viken HF,Sør-Øst,1
+2020-05-13,Vestre Viken HF,Sør-Øst,2
 2020-05-14,Vestre Viken HF,Sør-Øst,2
 2020-05-15,Vestre Viken HF,Sør-Øst,2
 2020-05-16,Vestre Viken HF,Sør-Øst,2
 2020-05-17,Vestre Viken HF,Sør-Øst,2
 2020-05-18,Vestre Viken HF,Sør-Øst,2
 2020-05-19,Vestre Viken HF,Sør-Øst,2
-2020-05-20,Vestre Viken HF,Sør-Øst,2
-2020-05-21,Vestre Viken HF,Sør-Øst,4
-2020-05-22,Vestre Viken HF,Sør-Øst,2
-2020-05-23,Vestre Viken HF,Sør-Øst,3
+2020-05-20,Vestre Viken HF,Sør-Øst,4
+2020-05-21,Vestre Viken HF,Sør-Øst,2
+2020-05-22,Vestre Viken HF,Sør-Øst,3
+2020-05-23,Vestre Viken HF,Sør-Øst,2
 2020-05-24,Vestre Viken HF,Sør-Øst,2
-2020-05-25,Vestre Viken HF,Sør-Øst,2
-2020-05-26,Vestre Viken HF,Sør-Øst,4
-2020-05-27,Vestre Viken HF,Sør-Øst,5
+2020-05-25,Vestre Viken HF,Sør-Øst,4
+2020-05-26,Vestre Viken HF,Sør-Øst,5
+2020-05-27,Vestre Viken HF,Sør-Øst,4
 2020-05-28,Vestre Viken HF,Sør-Øst,4
-2020-05-29,Vestre Viken HF,Sør-Øst,4
-2020-05-30,Vestre Viken HF,Sør-Øst,3
+2020-05-29,Vestre Viken HF,Sør-Øst,3
+2020-05-30,Vestre Viken HF,Sør-Øst,2
 2020-05-31,Vestre Viken HF,Sør-Øst,2
 2020-06-01,Vestre Viken HF,Sør-Øst,2
 2020-06-02,Vestre Viken HF,Sør-Øst,2
 2020-06-03,Vestre Viken HF,Sør-Øst,2
-2020-06-04,Vestre Viken HF,Sør-Øst,2
-2020-06-05,Vestre Viken HF,Sør-Øst,3
+2020-06-04,Vestre Viken HF,Sør-Øst,3
+2020-06-05,Vestre Viken HF,Sør-Øst,1
 2020-06-08,Vestre Viken HF,Sør-Øst,1
 2020-06-09,Vestre Viken HF,Sør-Øst,1
 2020-06-10,Vestre Viken HF,Sør-Øst,1
 2020-06-11,Vestre Viken HF,Sør-Øst,1
 2020-06-12,Vestre Viken HF,Sør-Øst,1
-2020-06-15,Vestre Viken HF,Sør-Øst,1
-2020-06-16,Vestre Viken HF,Sør-Øst,3
+2020-06-15,Vestre Viken HF,Sør-Øst,3
+2020-06-16,Vestre Viken HF,Sør-Øst,1
 2020-06-17,Vestre Viken HF,Sør-Øst,1
 2020-06-18,Vestre Viken HF,Sør-Øst,1
 2020-06-19,Vestre Viken HF,Sør-Øst,1
-2020-06-22,Vestre Viken HF,Sør-Øst,1
-2020-06-23,Vestre Viken HF,Sør-Øst,2
-2020-06-24,Vestre Viken HF,Sør-Øst,1
+2020-06-22,Vestre Viken HF,Sør-Øst,2
+2020-06-23,Vestre Viken HF,Sør-Øst,1
+2020-06-24,Vestre Viken HF,Sør-Øst,2
 2020-06-25,Vestre Viken HF,Sør-Øst,2
 2020-06-26,Vestre Viken HF,Sør-Øst,2
 2020-06-29,Vestre Viken HF,Sør-Øst,2
@@ -2579,13 +2579,13 @@ date,health_org_name,region,admissions
 2020-07-01,Vestre Viken HF,Sør-Øst,2
 2020-07-02,Vestre Viken HF,Sør-Øst,2
 2020-07-03,Vestre Viken HF,Sør-Øst,2
-2020-07-06,Vestre Viken HF,Sør-Øst,2
-2020-07-07,Vestre Viken HF,Sør-Øst,1
+2020-07-06,Vestre Viken HF,Sør-Øst,1
+2020-07-07,Vestre Viken HF,Sør-Øst,0
 2020-07-08,Vestre Viken HF,Sør-Øst,0
-2020-07-09,Vestre Viken HF,Sør-Øst,0
-2020-07-10,Vestre Viken HF,Sør-Øst,1
-2020-07-13,Vestre Viken HF,Sør-Øst,0
-2020-07-14,Vestre Viken HF,Sør-Øst,1
+2020-07-09,Vestre Viken HF,Sør-Øst,1
+2020-07-10,Vestre Viken HF,Sør-Øst,0
+2020-07-13,Vestre Viken HF,Sør-Øst,1
+2020-07-14,Vestre Viken HF,Sør-Øst,0
 2020-07-15,Vestre Viken HF,Sør-Øst,0
 2020-07-16,Vestre Viken HF,Sør-Øst,0
 2020-07-17,Vestre Viken HF,Sør-Øst,0

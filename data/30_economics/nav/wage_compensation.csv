@@ -12126,6 +12126,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 914683890,SIGURD STRAY AS,Kristiansand,Agder,1
 914683955,STEWA AS,Fredrikstad,Viken,3
 914684684,STARAG INVEST AS,Stavanger,Rogaland,2
+914685095,TANNLEGE O. P. KLØVSTAD AS,Oslo,Oslo,1
 914685265,OSA AS,Bergen,Vestland,1
 914685451,BJA HOLDING AS,Senja,Troms og Finnmark - Romsa ja Finnmárku,1
 914685753,LILLY MAY AS,Porsgrunn,Vestfold og Telemark,2
@@ -24832,6 +24833,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 921518579,PORSGRUNNSVEIEN 188 AVD SKIEN HESSELBERGS,Skien,Vestfold og Telemark,5
 921518625,CT GOURMET AS,Melhus,Trøndelag - Trööndelage,3
 921518668,BIT AS AVD SELMA ELLEFSEN,Oslo,Oslo,7
+921519087,TT RØR AS,Lier,Viken,1
 921519257,J2D AS,Eidsvoll,Viken,2
 921519265,LA BAGUETTE OSLO CITY - AVD. 1341,Oslo,Oslo,8
 921519419,PAULSEN DRIFT AS,Alta,Troms og Finnmark - Romsa ja Finnmárku,1
@@ -29401,6 +29403,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 924872632,NOKAS AVIATION SECURITY AS AVD ÅLESUND,Ålesund,Møre og Romsdal,19
 924872748,NOKAS AVIATION SECURITY AS AVD FØRDE,Sunnfjord,Vestland,6
 924872764,NOKAS AVIATION SECURITY AS AVD MEHAMN,Gamvik,Troms og Finnmark - Romsa ja Finnmárku,3
+924872802,NOKAS AVIATION SECURITY AS AVD LEKNES,Vestvågøy,Nordland,2
 924872837,NOKAS AVIATION SECURITY AS AVD LAKSELV,Porsanger - Porsángu - Porsanki,Troms og Finnmark - Romsa ja Finnmárku,5
 924872888,NOKAS AVIATION SECURITY AS AVD KIRKENES,Sør-Varanger,Troms og Finnmark - Romsa ja Finnmárku,11
 924872942,NOKAS AVIATION SECURITY AS AVD HONNINGSVÅG,Nordkapp,Troms og Finnmark - Romsa ja Finnmárku,4
@@ -61512,6 +61515,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 991794123,VARANGER FIBER OG VARME AS,Vadsø,Troms og Finnmark - Romsa ja Finnmárku,1
 991794905,SKJETLEIN CONSULTING AS,Oslo,Oslo,1
 991795421,SOLID ÅKREHAMN,Karmøy,Rogaland,5
+991796282,HAMAR BOOKING,Hamar,Innlandet,1
 991796339,ACCESSORIZE OSLO SENTRALSTASJON,Oslo,Oslo,4
 991797289,BEST BØRSA AS,Skaun,Trøndelag - Trööndelage,4
 991804943,ME & MY COUSIN AS,Lillestrøm,Viken,5
@@ -62397,7 +62401,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 992486686,VESTLAND EIENDOMSMEGLING AS,Bergen,Vestland,5
 992486732,EIENDOMSMEGLER 1 MIDT-NORGE AS AVD VALENTINLYST,Trondheim,Trøndelag - Trööndelage,4
 992486775,LIFE ORKANGER AS,Orkland,Trøndelag - Trööndelage,4
-992486872,TØMRER TERJE AS,Lier,Viken,1
+992486872,TØMRER TERJE AS,Lier,Viken,2
 992487070,BAROKK SANDNES AS,Sandnes,Rogaland,1
 992487925,BARCELONA I BERGEN AS,Bergen,Vestland,1
 992489073,JACKY THORSEN,Kragerø,Vestfold og Telemark,1
