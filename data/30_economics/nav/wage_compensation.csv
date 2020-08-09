@@ -5315,6 +5315,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 889371102,SPEKTRUM FRISØR AS,Karmøy,Rogaland,8
 889372532,RISDAL TOURING AS,Evje og Hornnes,Agder,6
 889375582,MURMESTER ASKELAND AS,Tysvær,Rogaland,1
+889376872,FYSIODIREKTE AS,Asker,Viken,1
 889385022,FSI SOLSENTER AS,Øygarden,Vestland,12
 889392592,HÅRSTUA HARSTAD AS,Harstad,Troms og Finnmark - Romsa ja Finnmárku,1
 889409932,LINDEX AS AVD OTTA,Sel,Innlandet,3
@@ -31420,7 +31421,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 971759216,RUNDHAUG GJESTEGÅRD AS,Målselv,Troms og Finnmark - Romsa ja Finnmárku,3
 971759283,FOSS SPORT AS,Lillestrøm,Viken,8
 971759305,OLDERFJORD TURISTSENTER AS,Porsanger - Porsángu - Porsanki,Troms og Finnmark - Romsa ja Finnmárku,2
-971759348,RUSTAD HOTELL OG FJELLSTUE,Ringsaker,Innlandet,11
+971759348,RUSTAD HOTELL OG FJELLSTUE,Ringsaker,Innlandet,15
 971759356,RUSTADSTUEN SPORT AS,Lillehammer,Innlandet,5
 971759402,RUPRO AS,Orkland,Trøndelag - Trööndelage,13
 971759445,RUTEBILANE I BREKKE AS,Gulen,Vestland,2
@@ -56853,6 +56854,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 987586249,BEVER HOLDING AS,Kongsberg,Viken,1
 987587296,BO DESIGN VEST AS,Øygarden,Vestland,1
 987587512,ADVOKAT OLAV MARTIN JENTOFT JR AS,Bodø,Nordland,1
+987587806,TOPTEMP AS,Oslo,Oslo,1
 987587806,TOPTEMP AS AVD OSLO,Oslo,Oslo,45
 987588365,GUSTAVIAN AS,Asker,Viken,1
 987590432,DITHO EIENDOM AS,Drammen,Viken,2
@@ -57200,7 +57202,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 987926430,SE-MONT AS,Horten,Vestfold og Telemark,5
 987929898,FOLK OG RØVERE AS,Rana,Nordland,4
 987930616,STIFTELSEN TRONDHEIM JAZZFESTIVAL,Trondheim,Trøndelag - Trööndelage,1
-987931310,OSLO KRU AS,Oslo,Oslo,7
+987931310,OSLO KRU AS,Oslo,Oslo,8
 987931787,TECHLINK ELEKTRO AS,Sandefjord,Vestfold og Telemark,2
 987933593,KIM'S STUDIO AS,Nordre Follo,Viken,3
 987933879,SIS SPORTSSENTER AS,Stavanger,Rogaland,90
