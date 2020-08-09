@@ -31,7 +31,7 @@ def national_tests_lab():
     '''Laboratory data - Daily numbers of people tested for COVID-19 in Norway.'''
     datafile = get_fhi_datafiles('data_covid19_lab_by_time_')[-1]
 
-    df = pd.read_csv(datafile, usecols=['date', 'n_neg', 'n_pos'])
+    df = pd.read_csv(datafile, usecols=['date', 'n_neg', 'n_pos', 'pr100_pos'])
 
     df['n_tests'] = df['n_neg'] + df['n_pos']
     df['n_neg_cumulative'] = df['n_neg'].cumsum()
