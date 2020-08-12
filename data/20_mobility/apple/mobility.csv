@@ -3359,19 +3359,3 @@ sub-region,Trøndelag,driving,NA,NA,Norway,2020-08-09,249.21
 sub-region,Vestfold og Telemark,driving,NA,NA,Norway,2020-08-09,266.65
 sub-region,Vestland,driving,NA,NA,Norway,2020-08-09,305.84
 sub-region,Viken,driving,NA,NA,Norway,2020-08-09,181.78
-country/region,Norway,driving,Norge,NA,NA,2020-08-10,210.61
-country/region,Norway,transit,Norge,NA,NA,2020-08-10,163.76
-country/region,Norway,walking,Norge,NA,NA,2020-08-10,247.9
-city,Oslo,driving,NA,NA,Norway,2020-08-10,171.32
-city,Oslo,transit,NA,NA,Norway,2020-08-10,156.12
-city,Oslo,walking,NA,NA,Norway,2020-08-10,197.04
-sub-region,Agder,driving,NA,NA,Norway,2020-08-10,282.51
-sub-region,Innlandet,driving,NA,NA,Norway,2020-08-10,241.54
-sub-region,Møre og Romsdal,driving,NA,NA,Norway,2020-08-10,340.87
-sub-region,Nordland,driving,NA,NA,Norway,2020-08-10,358.77
-sub-region,Rogaland,driving,NA,NA,Norway,2020-08-10,206.34
-sub-region,Troms og Finnmark,driving,NA,NA,Norway,2020-08-10,219.9
-sub-region,Trøndelag,driving,NA,NA,Norway,2020-08-10,252.33
-sub-region,Vestfold og Telemark,driving,NA,NA,Norway,2020-08-10,206.9
-sub-region,Vestland,driving,NA,NA,Norway,2020-08-10,279.48
-sub-region,Viken,driving,NA,NA,Norway,2020-08-10,163.32
