@@ -182,6 +182,7 @@ fylke_no,fylke_name,date,category,mob_change
 42,Agder,2020-08-13,Retail & recreation,21.0
 42,Agder,2020-08-14,Retail & recreation,14.0
 42,Agder,2020-08-15,Retail & recreation,5.0
+42,Agder,2020-08-16,Retail & recreation,7.0
 34,Innlandet,2020-02-15,Retail & recreation,11.0
 34,Innlandet,2020-02-16,Retail & recreation,3.0
 34,Innlandet,2020-02-17,Retail & recreation,17.0
@@ -365,6 +366,7 @@ fylke_no,fylke_name,date,category,mob_change
 34,Innlandet,2020-08-13,Retail & recreation,18.0
 34,Innlandet,2020-08-14,Retail & recreation,14.0
 34,Innlandet,2020-08-15,Retail & recreation,7.0
+34,Innlandet,2020-08-16,Retail & recreation,22.0
 15,Møre og Romsdal,2020-02-15,Retail & recreation,5.0
 15,Møre og Romsdal,2020-02-16,Retail & recreation,3.0
 15,Møre og Romsdal,2020-02-17,Retail & recreation,5.0
@@ -548,6 +550,7 @@ fylke_no,fylke_name,date,category,mob_change
 15,Møre og Romsdal,2020-08-13,Retail & recreation,15.0
 15,Møre og Romsdal,2020-08-14,Retail & recreation,8.0
 15,Møre og Romsdal,2020-08-15,Retail & recreation,2.0
+15,Møre og Romsdal,2020-08-16,Retail & recreation,19.0
 18,Nordland,2020-02-15,Retail & recreation,4.0
 18,Nordland,2020-02-16,Retail & recreation,9.0
 18,Nordland,2020-02-17,Retail & recreation,7.0
@@ -731,6 +734,7 @@ fylke_no,fylke_name,date,category,mob_change
 18,Nordland,2020-08-13,Retail & recreation,28.0
 18,Nordland,2020-08-14,Retail & recreation,15.0
 18,Nordland,2020-08-15,Retail & recreation,14.0
+18,Nordland,2020-08-16,Retail & recreation,12.0
 03,Oslo,2020-02-15,Retail & recreation,-1.0
 03,Oslo,2020-02-16,Retail & recreation,-10.0
 03,Oslo,2020-02-17,Retail & recreation,1.0
@@ -914,6 +918,7 @@ fylke_no,fylke_name,date,category,mob_change
 03,Oslo,2020-08-13,Retail & recreation,-15.0
 03,Oslo,2020-08-14,Retail & recreation,-18.0
 03,Oslo,2020-08-15,Retail & recreation,-29.0
+03,Oslo,2020-08-16,Retail & recreation,-27.0
 11,Rogaland,2020-02-15,Retail & recreation,2.0
 11,Rogaland,2020-02-16,Retail & recreation,1.0
 11,Rogaland,2020-02-17,Retail & recreation,0.0
@@ -1097,189 +1102,191 @@ fylke_no,fylke_name,date,category,mob_change
 11,Rogaland,2020-08-13,Retail & recreation,3.0
 11,Rogaland,2020-08-14,Retail & recreation,-3.0
 11,Rogaland,2020-08-15,Retail & recreation,-16.0
-54,Troms og Finnmark,2020-02-15,Retail & recreation,6.0
-54,Troms og Finnmark,2020-02-16,Retail & recreation,7.0
-54,Troms og Finnmark,2020-02-17,Retail & recreation,2.0
-54,Troms og Finnmark,2020-02-18,Retail & recreation,1.0
-54,Troms og Finnmark,2020-02-19,Retail & recreation,8.0
-54,Troms og Finnmark,2020-02-20,Retail & recreation,5.0
-54,Troms og Finnmark,2020-02-21,Retail & recreation,4.0
-54,Troms og Finnmark,2020-02-22,Retail & recreation,5.0
-54,Troms og Finnmark,2020-02-23,Retail & recreation,8.0
-54,Troms og Finnmark,2020-02-24,Retail & recreation,-1.0
-54,Troms og Finnmark,2020-02-25,Retail & recreation,0.0
-54,Troms og Finnmark,2020-02-26,Retail & recreation,3.0
-54,Troms og Finnmark,2020-02-27,Retail & recreation,5.0
-54,Troms og Finnmark,2020-02-28,Retail & recreation,6.0
-54,Troms og Finnmark,2020-02-29,Retail & recreation,-4.0
-54,Troms og Finnmark,2020-03-01,Retail & recreation,4.0
-54,Troms og Finnmark,2020-03-02,Retail & recreation,3.0
-54,Troms og Finnmark,2020-03-03,Retail & recreation,2.0
-54,Troms og Finnmark,2020-03-04,Retail & recreation,5.0
-54,Troms og Finnmark,2020-03-05,Retail & recreation,7.0
-54,Troms og Finnmark,2020-03-06,Retail & recreation,1.0
-54,Troms og Finnmark,2020-03-07,Retail & recreation,-6.0
-54,Troms og Finnmark,2020-03-08,Retail & recreation,8.0
-54,Troms og Finnmark,2020-03-09,Retail & recreation,-3.0
-54,Troms og Finnmark,2020-03-10,Retail & recreation,-5.0
-54,Troms og Finnmark,2020-03-11,Retail & recreation,-1.0
-54,Troms og Finnmark,2020-03-12,Retail & recreation,-1.0
-54,Troms og Finnmark,2020-03-13,Retail & recreation,-35.0
-54,Troms og Finnmark,2020-03-14,Retail & recreation,-51.0
-54,Troms og Finnmark,2020-03-15,Retail & recreation,-69.0
-54,Troms og Finnmark,2020-03-16,Retail & recreation,-48.0
-54,Troms og Finnmark,2020-03-17,Retail & recreation,-49.0
-54,Troms og Finnmark,2020-03-18,Retail & recreation,-51.0
-54,Troms og Finnmark,2020-03-19,Retail & recreation,-49.0
-54,Troms og Finnmark,2020-03-20,Retail & recreation,-51.0
-54,Troms og Finnmark,2020-03-21,Retail & recreation,-59.0
-54,Troms og Finnmark,2020-03-22,Retail & recreation,-76.0
-54,Troms og Finnmark,2020-03-23,Retail & recreation,-46.0
-54,Troms og Finnmark,2020-03-24,Retail & recreation,-48.0
-54,Troms og Finnmark,2020-03-25,Retail & recreation,-48.0
-54,Troms og Finnmark,2020-03-26,Retail & recreation,-47.0
-54,Troms og Finnmark,2020-03-27,Retail & recreation,-47.0
-54,Troms og Finnmark,2020-03-28,Retail & recreation,-60.0
-54,Troms og Finnmark,2020-03-29,Retail & recreation,-74.0
-54,Troms og Finnmark,2020-03-30,Retail & recreation,-45.0
-54,Troms og Finnmark,2020-03-31,Retail & recreation,-49.0
-54,Troms og Finnmark,2020-04-01,Retail & recreation,-39.0
-54,Troms og Finnmark,2020-04-02,Retail & recreation,-37.0
-54,Troms og Finnmark,2020-04-03,Retail & recreation,-39.0
-54,Troms og Finnmark,2020-04-04,Retail & recreation,-51.0
-54,Troms og Finnmark,2020-04-05,Retail & recreation,-76.0
-54,Troms og Finnmark,2020-04-06,Retail & recreation,-26.0
-54,Troms og Finnmark,2020-04-07,Retail & recreation,-21.0
-54,Troms og Finnmark,2020-04-08,Retail & recreation,-25.0
-54,Troms og Finnmark,2020-04-09,Retail & recreation,-90.0
-54,Troms og Finnmark,2020-04-10,Retail & recreation,-91.0
-54,Troms og Finnmark,2020-04-11,Retail & recreation,-58.0
-54,Troms og Finnmark,2020-04-12,Retail & recreation,-77.0
-54,Troms og Finnmark,2020-04-13,Retail & recreation,-87.0
-54,Troms og Finnmark,2020-04-14,Retail & recreation,-31.0
-54,Troms og Finnmark,2020-04-15,Retail & recreation,-33.0
-54,Troms og Finnmark,2020-04-16,Retail & recreation,-38.0
-54,Troms og Finnmark,2020-04-17,Retail & recreation,-32.0
-54,Troms og Finnmark,2020-04-18,Retail & recreation,-41.0
-54,Troms og Finnmark,2020-04-19,Retail & recreation,-67.0
-54,Troms og Finnmark,2020-04-20,Retail & recreation,-27.0
-54,Troms og Finnmark,2020-04-21,Retail & recreation,-30.0
-54,Troms og Finnmark,2020-04-22,Retail & recreation,-30.0
-54,Troms og Finnmark,2020-04-23,Retail & recreation,-31.0
-54,Troms og Finnmark,2020-04-24,Retail & recreation,-34.0
-54,Troms og Finnmark,2020-04-25,Retail & recreation,-42.0
-54,Troms og Finnmark,2020-04-26,Retail & recreation,-66.0
-54,Troms og Finnmark,2020-04-27,Retail & recreation,-23.0
-54,Troms og Finnmark,2020-04-28,Retail & recreation,-23.0
-54,Troms og Finnmark,2020-04-29,Retail & recreation,-19.0
-54,Troms og Finnmark,2020-04-30,Retail & recreation,-12.0
-54,Troms og Finnmark,2020-05-01,Retail & recreation,-83.0
-54,Troms og Finnmark,2020-05-02,Retail & recreation,-33.0
-54,Troms og Finnmark,2020-05-03,Retail & recreation,-60.0
-54,Troms og Finnmark,2020-05-04,Retail & recreation,-17.0
-54,Troms og Finnmark,2020-05-05,Retail & recreation,-22.0
-54,Troms og Finnmark,2020-05-06,Retail & recreation,-19.0
-54,Troms og Finnmark,2020-05-07,Retail & recreation,-21.0
-54,Troms og Finnmark,2020-05-08,Retail & recreation,-20.0
-54,Troms og Finnmark,2020-05-09,Retail & recreation,-27.0
-54,Troms og Finnmark,2020-05-10,Retail & recreation,-47.0
-54,Troms og Finnmark,2020-05-11,Retail & recreation,-21.0
-54,Troms og Finnmark,2020-05-12,Retail & recreation,-17.0
-54,Troms og Finnmark,2020-05-13,Retail & recreation,-10.0
-54,Troms og Finnmark,2020-05-14,Retail & recreation,-9.0
-54,Troms og Finnmark,2020-05-15,Retail & recreation,-16.0
-54,Troms og Finnmark,2020-05-16,Retail & recreation,-22.0
-54,Troms og Finnmark,2020-05-17,Retail & recreation,-30.0
-54,Troms og Finnmark,2020-05-18,Retail & recreation,-17.0
-54,Troms og Finnmark,2020-05-19,Retail & recreation,-10.0
-54,Troms og Finnmark,2020-05-20,Retail & recreation,7.0
-54,Troms og Finnmark,2020-05-21,Retail & recreation,-73.0
-54,Troms og Finnmark,2020-05-22,Retail & recreation,-6.0
-54,Troms og Finnmark,2020-05-23,Retail & recreation,-31.0
-54,Troms og Finnmark,2020-05-24,Retail & recreation,-32.0
-54,Troms og Finnmark,2020-05-25,Retail & recreation,-2.0
-54,Troms og Finnmark,2020-05-26,Retail & recreation,-7.0
-54,Troms og Finnmark,2020-05-27,Retail & recreation,-2.0
-54,Troms og Finnmark,2020-05-28,Retail & recreation,-4.0
-54,Troms og Finnmark,2020-05-29,Retail & recreation,-4.0
-54,Troms og Finnmark,2020-05-30,Retail & recreation,-19.0
-54,Troms og Finnmark,2020-05-31,Retail & recreation,-38.0
-54,Troms og Finnmark,2020-06-01,Retail & recreation,-68.0
-54,Troms og Finnmark,2020-06-02,Retail & recreation,2.0
-54,Troms og Finnmark,2020-06-03,Retail & recreation,3.0
-54,Troms og Finnmark,2020-06-04,Retail & recreation,-1.0
-54,Troms og Finnmark,2020-06-05,Retail & recreation,-3.0
-54,Troms og Finnmark,2020-06-06,Retail & recreation,-16.0
-54,Troms og Finnmark,2020-06-07,Retail & recreation,-27.0
-54,Troms og Finnmark,2020-06-08,Retail & recreation,-2.0
-54,Troms og Finnmark,2020-06-09,Retail & recreation,-4.0
-54,Troms og Finnmark,2020-06-10,Retail & recreation,1.0
-54,Troms og Finnmark,2020-06-11,Retail & recreation,3.0
-54,Troms og Finnmark,2020-06-12,Retail & recreation,8.0
-54,Troms og Finnmark,2020-06-13,Retail & recreation,-16.0
-54,Troms og Finnmark,2020-06-14,Retail & recreation,-17.0
-54,Troms og Finnmark,2020-06-15,Retail & recreation,11.0
-54,Troms og Finnmark,2020-06-16,Retail & recreation,6.0
-54,Troms og Finnmark,2020-06-17,Retail & recreation,8.0
-54,Troms og Finnmark,2020-06-18,Retail & recreation,12.0
-54,Troms og Finnmark,2020-06-19,Retail & recreation,5.0
-54,Troms og Finnmark,2020-06-20,Retail & recreation,-14.0
-54,Troms og Finnmark,2020-06-21,Retail & recreation,-11.0
-54,Troms og Finnmark,2020-06-22,Retail & recreation,12.0
-54,Troms og Finnmark,2020-06-23,Retail & recreation,3.0
-54,Troms og Finnmark,2020-06-24,Retail & recreation,9.0
-54,Troms og Finnmark,2020-06-25,Retail & recreation,11.0
-54,Troms og Finnmark,2020-06-26,Retail & recreation,1.0
-54,Troms og Finnmark,2020-06-27,Retail & recreation,-11.0
-54,Troms og Finnmark,2020-06-28,Retail & recreation,-8.0
-54,Troms og Finnmark,2020-06-29,Retail & recreation,9.0
-54,Troms og Finnmark,2020-06-30,Retail & recreation,8.0
-54,Troms og Finnmark,2020-07-01,Retail & recreation,10.0
-54,Troms og Finnmark,2020-07-02,Retail & recreation,9.0
-54,Troms og Finnmark,2020-07-03,Retail & recreation,0.0
-54,Troms og Finnmark,2020-07-04,Retail & recreation,-10.0
-54,Troms og Finnmark,2020-07-05,Retail & recreation,-5.0
-54,Troms og Finnmark,2020-07-06,Retail & recreation,11.0
-54,Troms og Finnmark,2020-07-07,Retail & recreation,8.0
-54,Troms og Finnmark,2020-07-08,Retail & recreation,10.0
-54,Troms og Finnmark,2020-07-09,Retail & recreation,5.0
-54,Troms og Finnmark,2020-07-10,Retail & recreation,4.0
-54,Troms og Finnmark,2020-07-11,Retail & recreation,-13.0
-54,Troms og Finnmark,2020-07-12,Retail & recreation,2.0
-54,Troms og Finnmark,2020-07-13,Retail & recreation,20.0
-54,Troms og Finnmark,2020-07-14,Retail & recreation,5.0
-54,Troms og Finnmark,2020-07-15,Retail & recreation,13.0
-54,Troms og Finnmark,2020-07-16,Retail & recreation,9.0
-54,Troms og Finnmark,2020-07-17,Retail & recreation,6.0
-54,Troms og Finnmark,2020-07-18,Retail & recreation,-7.0
-54,Troms og Finnmark,2020-07-19,Retail & recreation,11.0
-54,Troms og Finnmark,2020-07-20,Retail & recreation,22.0
-54,Troms og Finnmark,2020-07-21,Retail & recreation,16.0
-54,Troms og Finnmark,2020-07-22,Retail & recreation,19.0
-54,Troms og Finnmark,2020-07-23,Retail & recreation,16.0
-54,Troms og Finnmark,2020-07-24,Retail & recreation,-3.0
-54,Troms og Finnmark,2020-07-25,Retail & recreation,-15.0
-54,Troms og Finnmark,2020-07-26,Retail & recreation,11.0
-54,Troms og Finnmark,2020-07-27,Retail & recreation,10.0
-54,Troms og Finnmark,2020-07-28,Retail & recreation,3.0
-54,Troms og Finnmark,2020-07-29,Retail & recreation,7.0
-54,Troms og Finnmark,2020-07-30,Retail & recreation,5.0
-54,Troms og Finnmark,2020-07-31,Retail & recreation,-3.0
-54,Troms og Finnmark,2020-08-01,Retail & recreation,-13.0
-54,Troms og Finnmark,2020-08-02,Retail & recreation,1.0
-54,Troms og Finnmark,2020-08-03,Retail & recreation,6.0
-54,Troms og Finnmark,2020-08-04,Retail & recreation,5.0
-54,Troms og Finnmark,2020-08-05,Retail & recreation,7.0
-54,Troms og Finnmark,2020-08-06,Retail & recreation,-1.0
-54,Troms og Finnmark,2020-08-07,Retail & recreation,-6.0
-54,Troms og Finnmark,2020-08-08,Retail & recreation,-23.0
-54,Troms og Finnmark,2020-08-09,Retail & recreation,-15.0
-54,Troms og Finnmark,2020-08-10,Retail & recreation,9.0
-54,Troms og Finnmark,2020-08-11,Retail & recreation,0.0
-54,Troms og Finnmark,2020-08-12,Retail & recreation,7.0
-54,Troms og Finnmark,2020-08-13,Retail & recreation,0.0
-54,Troms og Finnmark,2020-08-14,Retail & recreation,0.0
-54,Troms og Finnmark,2020-08-15,Retail & recreation,-10.0
+11,Rogaland,2020-08-16,Retail & recreation,-7.0
+54,Troms og Finnmark fylke,2020-02-15,Retail & recreation,6.0
+54,Troms og Finnmark fylke,2020-02-16,Retail & recreation,7.0
+54,Troms og Finnmark fylke,2020-02-17,Retail & recreation,2.0
+54,Troms og Finnmark fylke,2020-02-18,Retail & recreation,1.0
+54,Troms og Finnmark fylke,2020-02-19,Retail & recreation,8.0
+54,Troms og Finnmark fylke,2020-02-20,Retail & recreation,5.0
+54,Troms og Finnmark fylke,2020-02-21,Retail & recreation,4.0
+54,Troms og Finnmark fylke,2020-02-22,Retail & recreation,5.0
+54,Troms og Finnmark fylke,2020-02-23,Retail & recreation,8.0
+54,Troms og Finnmark fylke,2020-02-24,Retail & recreation,-1.0
+54,Troms og Finnmark fylke,2020-02-25,Retail & recreation,0.0
+54,Troms og Finnmark fylke,2020-02-26,Retail & recreation,3.0
+54,Troms og Finnmark fylke,2020-02-27,Retail & recreation,5.0
+54,Troms og Finnmark fylke,2020-02-28,Retail & recreation,6.0
+54,Troms og Finnmark fylke,2020-02-29,Retail & recreation,-4.0
+54,Troms og Finnmark fylke,2020-03-01,Retail & recreation,4.0
+54,Troms og Finnmark fylke,2020-03-02,Retail & recreation,3.0
+54,Troms og Finnmark fylke,2020-03-03,Retail & recreation,2.0
+54,Troms og Finnmark fylke,2020-03-04,Retail & recreation,5.0
+54,Troms og Finnmark fylke,2020-03-05,Retail & recreation,7.0
+54,Troms og Finnmark fylke,2020-03-06,Retail & recreation,1.0
+54,Troms og Finnmark fylke,2020-03-07,Retail & recreation,-6.0
+54,Troms og Finnmark fylke,2020-03-08,Retail & recreation,8.0
+54,Troms og Finnmark fylke,2020-03-09,Retail & recreation,-3.0
+54,Troms og Finnmark fylke,2020-03-10,Retail & recreation,-5.0
+54,Troms og Finnmark fylke,2020-03-11,Retail & recreation,-1.0
+54,Troms og Finnmark fylke,2020-03-12,Retail & recreation,-1.0
+54,Troms og Finnmark fylke,2020-03-13,Retail & recreation,-35.0
+54,Troms og Finnmark fylke,2020-03-14,Retail & recreation,-51.0
+54,Troms og Finnmark fylke,2020-03-15,Retail & recreation,-69.0
+54,Troms og Finnmark fylke,2020-03-16,Retail & recreation,-48.0
+54,Troms og Finnmark fylke,2020-03-17,Retail & recreation,-49.0
+54,Troms og Finnmark fylke,2020-03-18,Retail & recreation,-51.0
+54,Troms og Finnmark fylke,2020-03-19,Retail & recreation,-49.0
+54,Troms og Finnmark fylke,2020-03-20,Retail & recreation,-51.0
+54,Troms og Finnmark fylke,2020-03-21,Retail & recreation,-59.0
+54,Troms og Finnmark fylke,2020-03-22,Retail & recreation,-76.0
+54,Troms og Finnmark fylke,2020-03-23,Retail & recreation,-46.0
+54,Troms og Finnmark fylke,2020-03-24,Retail & recreation,-48.0
+54,Troms og Finnmark fylke,2020-03-25,Retail & recreation,-48.0
+54,Troms og Finnmark fylke,2020-03-26,Retail & recreation,-47.0
+54,Troms og Finnmark fylke,2020-03-27,Retail & recreation,-47.0
+54,Troms og Finnmark fylke,2020-03-28,Retail & recreation,-60.0
+54,Troms og Finnmark fylke,2020-03-29,Retail & recreation,-74.0
+54,Troms og Finnmark fylke,2020-03-30,Retail & recreation,-45.0
+54,Troms og Finnmark fylke,2020-03-31,Retail & recreation,-49.0
+54,Troms og Finnmark fylke,2020-04-01,Retail & recreation,-39.0
+54,Troms og Finnmark fylke,2020-04-02,Retail & recreation,-37.0
+54,Troms og Finnmark fylke,2020-04-03,Retail & recreation,-39.0
+54,Troms og Finnmark fylke,2020-04-04,Retail & recreation,-51.0
+54,Troms og Finnmark fylke,2020-04-05,Retail & recreation,-76.0
+54,Troms og Finnmark fylke,2020-04-06,Retail & recreation,-26.0
+54,Troms og Finnmark fylke,2020-04-07,Retail & recreation,-21.0
+54,Troms og Finnmark fylke,2020-04-08,Retail & recreation,-25.0
+54,Troms og Finnmark fylke,2020-04-09,Retail & recreation,-90.0
+54,Troms og Finnmark fylke,2020-04-10,Retail & recreation,-91.0
+54,Troms og Finnmark fylke,2020-04-11,Retail & recreation,-58.0
+54,Troms og Finnmark fylke,2020-04-12,Retail & recreation,-77.0
+54,Troms og Finnmark fylke,2020-04-13,Retail & recreation,-87.0
+54,Troms og Finnmark fylke,2020-04-14,Retail & recreation,-31.0
+54,Troms og Finnmark fylke,2020-04-15,Retail & recreation,-33.0
+54,Troms og Finnmark fylke,2020-04-16,Retail & recreation,-38.0
+54,Troms og Finnmark fylke,2020-04-17,Retail & recreation,-32.0
+54,Troms og Finnmark fylke,2020-04-18,Retail & recreation,-41.0
+54,Troms og Finnmark fylke,2020-04-19,Retail & recreation,-67.0
+54,Troms og Finnmark fylke,2020-04-20,Retail & recreation,-27.0
+54,Troms og Finnmark fylke,2020-04-21,Retail & recreation,-30.0
+54,Troms og Finnmark fylke,2020-04-22,Retail & recreation,-30.0
+54,Troms og Finnmark fylke,2020-04-23,Retail & recreation,-31.0
+54,Troms og Finnmark fylke,2020-04-24,Retail & recreation,-34.0
+54,Troms og Finnmark fylke,2020-04-25,Retail & recreation,-42.0
+54,Troms og Finnmark fylke,2020-04-26,Retail & recreation,-66.0
+54,Troms og Finnmark fylke,2020-04-27,Retail & recreation,-23.0
+54,Troms og Finnmark fylke,2020-04-28,Retail & recreation,-23.0
+54,Troms og Finnmark fylke,2020-04-29,Retail & recreation,-19.0
+54,Troms og Finnmark fylke,2020-04-30,Retail & recreation,-12.0
+54,Troms og Finnmark fylke,2020-05-01,Retail & recreation,-83.0
+54,Troms og Finnmark fylke,2020-05-02,Retail & recreation,-33.0
+54,Troms og Finnmark fylke,2020-05-03,Retail & recreation,-60.0
+54,Troms og Finnmark fylke,2020-05-04,Retail & recreation,-17.0
+54,Troms og Finnmark fylke,2020-05-05,Retail & recreation,-22.0
+54,Troms og Finnmark fylke,2020-05-06,Retail & recreation,-19.0
+54,Troms og Finnmark fylke,2020-05-07,Retail & recreation,-21.0
+54,Troms og Finnmark fylke,2020-05-08,Retail & recreation,-20.0
+54,Troms og Finnmark fylke,2020-05-09,Retail & recreation,-27.0
+54,Troms og Finnmark fylke,2020-05-10,Retail & recreation,-47.0
+54,Troms og Finnmark fylke,2020-05-11,Retail & recreation,-21.0
+54,Troms og Finnmark fylke,2020-05-12,Retail & recreation,-17.0
+54,Troms og Finnmark fylke,2020-05-13,Retail & recreation,-10.0
+54,Troms og Finnmark fylke,2020-05-14,Retail & recreation,-9.0
+54,Troms og Finnmark fylke,2020-05-15,Retail & recreation,-16.0
+54,Troms og Finnmark fylke,2020-05-16,Retail & recreation,-22.0
+54,Troms og Finnmark fylke,2020-05-17,Retail & recreation,-30.0
+54,Troms og Finnmark fylke,2020-05-18,Retail & recreation,-17.0
+54,Troms og Finnmark fylke,2020-05-19,Retail & recreation,-10.0
+54,Troms og Finnmark fylke,2020-05-20,Retail & recreation,7.0
+54,Troms og Finnmark fylke,2020-05-21,Retail & recreation,-73.0
+54,Troms og Finnmark fylke,2020-05-22,Retail & recreation,-6.0
+54,Troms og Finnmark fylke,2020-05-23,Retail & recreation,-31.0
+54,Troms og Finnmark fylke,2020-05-24,Retail & recreation,-32.0
+54,Troms og Finnmark fylke,2020-05-25,Retail & recreation,-2.0
+54,Troms og Finnmark fylke,2020-05-26,Retail & recreation,-7.0
+54,Troms og Finnmark fylke,2020-05-27,Retail & recreation,-2.0
+54,Troms og Finnmark fylke,2020-05-28,Retail & recreation,-4.0
+54,Troms og Finnmark fylke,2020-05-29,Retail & recreation,-4.0
+54,Troms og Finnmark fylke,2020-05-30,Retail & recreation,-19.0
+54,Troms og Finnmark fylke,2020-05-31,Retail & recreation,-38.0
+54,Troms og Finnmark fylke,2020-06-01,Retail & recreation,-68.0
+54,Troms og Finnmark fylke,2020-06-02,Retail & recreation,2.0
+54,Troms og Finnmark fylke,2020-06-03,Retail & recreation,3.0
+54,Troms og Finnmark fylke,2020-06-04,Retail & recreation,-1.0
+54,Troms og Finnmark fylke,2020-06-05,Retail & recreation,-3.0
+54,Troms og Finnmark fylke,2020-06-06,Retail & recreation,-16.0
+54,Troms og Finnmark fylke,2020-06-07,Retail & recreation,-27.0
+54,Troms og Finnmark fylke,2020-06-08,Retail & recreation,-2.0
+54,Troms og Finnmark fylke,2020-06-09,Retail & recreation,-4.0
+54,Troms og Finnmark fylke,2020-06-10,Retail & recreation,1.0
+54,Troms og Finnmark fylke,2020-06-11,Retail & recreation,3.0
+54,Troms og Finnmark fylke,2020-06-12,Retail & recreation,8.0
+54,Troms og Finnmark fylke,2020-06-13,Retail & recreation,-16.0
+54,Troms og Finnmark fylke,2020-06-14,Retail & recreation,-17.0
+54,Troms og Finnmark fylke,2020-06-15,Retail & recreation,11.0
+54,Troms og Finnmark fylke,2020-06-16,Retail & recreation,6.0
+54,Troms og Finnmark fylke,2020-06-17,Retail & recreation,8.0
+54,Troms og Finnmark fylke,2020-06-18,Retail & recreation,12.0
+54,Troms og Finnmark fylke,2020-06-19,Retail & recreation,5.0
+54,Troms og Finnmark fylke,2020-06-20,Retail & recreation,-14.0
+54,Troms og Finnmark fylke,2020-06-21,Retail & recreation,-11.0
+54,Troms og Finnmark fylke,2020-06-22,Retail & recreation,12.0
+54,Troms og Finnmark fylke,2020-06-23,Retail & recreation,3.0
+54,Troms og Finnmark fylke,2020-06-24,Retail & recreation,9.0
+54,Troms og Finnmark fylke,2020-06-25,Retail & recreation,11.0
+54,Troms og Finnmark fylke,2020-06-26,Retail & recreation,1.0
+54,Troms og Finnmark fylke,2020-06-27,Retail & recreation,-11.0
+54,Troms og Finnmark fylke,2020-06-28,Retail & recreation,-8.0
+54,Troms og Finnmark fylke,2020-06-29,Retail & recreation,9.0
+54,Troms og Finnmark fylke,2020-06-30,Retail & recreation,8.0
+54,Troms og Finnmark fylke,2020-07-01,Retail & recreation,10.0
+54,Troms og Finnmark fylke,2020-07-02,Retail & recreation,9.0
+54,Troms og Finnmark fylke,2020-07-03,Retail & recreation,0.0
+54,Troms og Finnmark fylke,2020-07-04,Retail & recreation,-10.0
+54,Troms og Finnmark fylke,2020-07-05,Retail & recreation,-5.0
+54,Troms og Finnmark fylke,2020-07-06,Retail & recreation,11.0
+54,Troms og Finnmark fylke,2020-07-07,Retail & recreation,8.0
+54,Troms og Finnmark fylke,2020-07-08,Retail & recreation,10.0
+54,Troms og Finnmark fylke,2020-07-09,Retail & recreation,5.0
+54,Troms og Finnmark fylke,2020-07-10,Retail & recreation,4.0
+54,Troms og Finnmark fylke,2020-07-11,Retail & recreation,-13.0
+54,Troms og Finnmark fylke,2020-07-12,Retail & recreation,2.0
+54,Troms og Finnmark fylke,2020-07-13,Retail & recreation,20.0
+54,Troms og Finnmark fylke,2020-07-14,Retail & recreation,5.0
+54,Troms og Finnmark fylke,2020-07-15,Retail & recreation,13.0
+54,Troms og Finnmark fylke,2020-07-16,Retail & recreation,9.0
+54,Troms og Finnmark fylke,2020-07-17,Retail & recreation,6.0
+54,Troms og Finnmark fylke,2020-07-18,Retail & recreation,-7.0
+54,Troms og Finnmark fylke,2020-07-19,Retail & recreation,11.0
+54,Troms og Finnmark fylke,2020-07-20,Retail & recreation,22.0
+54,Troms og Finnmark fylke,2020-07-21,Retail & recreation,16.0
+54,Troms og Finnmark fylke,2020-07-22,Retail & recreation,19.0
+54,Troms og Finnmark fylke,2020-07-23,Retail & recreation,16.0
+54,Troms og Finnmark fylke,2020-07-24,Retail & recreation,-3.0
+54,Troms og Finnmark fylke,2020-07-25,Retail & recreation,-15.0
+54,Troms og Finnmark fylke,2020-07-26,Retail & recreation,11.0
+54,Troms og Finnmark fylke,2020-07-27,Retail & recreation,10.0
+54,Troms og Finnmark fylke,2020-07-28,Retail & recreation,3.0
+54,Troms og Finnmark fylke,2020-07-29,Retail & recreation,7.0
+54,Troms og Finnmark fylke,2020-07-30,Retail & recreation,5.0
+54,Troms og Finnmark fylke,2020-07-31,Retail & recreation,-3.0
+54,Troms og Finnmark fylke,2020-08-01,Retail & recreation,-13.0
+54,Troms og Finnmark fylke,2020-08-02,Retail & recreation,1.0
+54,Troms og Finnmark fylke,2020-08-03,Retail & recreation,6.0
+54,Troms og Finnmark fylke,2020-08-04,Retail & recreation,5.0
+54,Troms og Finnmark fylke,2020-08-05,Retail & recreation,7.0
+54,Troms og Finnmark fylke,2020-08-06,Retail & recreation,-1.0
+54,Troms og Finnmark fylke,2020-08-07,Retail & recreation,-6.0
+54,Troms og Finnmark fylke,2020-08-08,Retail & recreation,-23.0
+54,Troms og Finnmark fylke,2020-08-09,Retail & recreation,-15.0
+54,Troms og Finnmark fylke,2020-08-10,Retail & recreation,9.0
+54,Troms og Finnmark fylke,2020-08-11,Retail & recreation,0.0
+54,Troms og Finnmark fylke,2020-08-12,Retail & recreation,7.0
+54,Troms og Finnmark fylke,2020-08-13,Retail & recreation,0.0
+54,Troms og Finnmark fylke,2020-08-14,Retail & recreation,0.0
+54,Troms og Finnmark fylke,2020-08-15,Retail & recreation,-10.0
+54,Troms og Finnmark fylke,2020-08-16,Retail & recreation,-26.0
 50,Trøndelag,2020-02-15,Retail & recreation,1.0
 50,Trøndelag,2020-02-16,Retail & recreation,1.0
 50,Trøndelag,2020-02-17,Retail & recreation,6.0
@@ -1463,6 +1470,7 @@ fylke_no,fylke_name,date,category,mob_change
 50,Trøndelag,2020-08-13,Retail & recreation,12.0
 50,Trøndelag,2020-08-14,Retail & recreation,4.0
 50,Trøndelag,2020-08-15,Retail & recreation,-6.0
+50,Trøndelag,2020-08-16,Retail & recreation,0.0
 38,Vestfold og Telemark,2020-02-15,Retail & recreation,0.0
 38,Vestfold og Telemark,2020-02-16,Retail & recreation,-10.0
 38,Vestfold og Telemark,2020-02-17,Retail & recreation,4.0
@@ -1646,6 +1654,7 @@ fylke_no,fylke_name,date,category,mob_change
 38,Vestfold og Telemark,2020-08-13,Retail & recreation,16.0
 38,Vestfold og Telemark,2020-08-14,Retail & recreation,12.0
 38,Vestfold og Telemark,2020-08-15,Retail & recreation,7.0
+38,Vestfold og Telemark,2020-08-16,Retail & recreation,25.0
 46,Vestland,2020-02-15,Retail & recreation,6.0
 46,Vestland,2020-02-16,Retail & recreation,0.0
 46,Vestland,2020-02-17,Retail & recreation,-1.0
@@ -1829,6 +1838,7 @@ fylke_no,fylke_name,date,category,mob_change
 46,Vestland,2020-08-13,Retail & recreation,7.0
 46,Vestland,2020-08-14,Retail & recreation,0.0
 46,Vestland,2020-08-15,Retail & recreation,-5.0
+46,Vestland,2020-08-16,Retail & recreation,11.0
 30,Viken,2020-02-15,Retail & recreation,-1.0
 30,Viken,2020-02-16,Retail & recreation,-15.0
 30,Viken,2020-02-17,Retail & recreation,1.0
@@ -2012,6 +2022,7 @@ fylke_no,fylke_name,date,category,mob_change
 30,Viken,2020-08-13,Retail & recreation,6.0
 30,Viken,2020-08-14,Retail & recreation,2.0
 30,Viken,2020-08-15,Retail & recreation,-8.0
+30,Viken,2020-08-16,Retail & recreation,2.0
 42,Agder,2020-02-15,Grocery & pharmacy,-3.0
 42,Agder,2020-02-16,Grocery & pharmacy,-8.0
 42,Agder,2020-02-17,Grocery & pharmacy,-2.0
@@ -2195,6 +2206,7 @@ fylke_no,fylke_name,date,category,mob_change
 42,Agder,2020-08-13,Grocery & pharmacy,23.0
 42,Agder,2020-08-14,Grocery & pharmacy,16.0
 42,Agder,2020-08-15,Grocery & pharmacy,13.0
+42,Agder,2020-08-16,Grocery & pharmacy,70.0
 34,Innlandet,2020-02-15,Grocery & pharmacy,10.0
 34,Innlandet,2020-02-16,Grocery & pharmacy,32.0
 34,Innlandet,2020-02-17,Grocery & pharmacy,14.0
@@ -2378,6 +2390,7 @@ fylke_no,fylke_name,date,category,mob_change
 34,Innlandet,2020-08-13,Grocery & pharmacy,16.0
 34,Innlandet,2020-08-14,Grocery & pharmacy,5.0
 34,Innlandet,2020-08-15,Grocery & pharmacy,8.0
+34,Innlandet,2020-08-16,Grocery & pharmacy,57.0
 15,Møre og Romsdal,2020-02-15,Grocery & pharmacy,3.0
 15,Møre og Romsdal,2020-02-16,Grocery & pharmacy,9.0
 15,Møre og Romsdal,2020-02-17,Grocery & pharmacy,2.0
@@ -2561,6 +2574,7 @@ fylke_no,fylke_name,date,category,mob_change
 15,Møre og Romsdal,2020-08-13,Grocery & pharmacy,15.0
 15,Møre og Romsdal,2020-08-14,Grocery & pharmacy,1.0
 15,Møre og Romsdal,2020-08-15,Grocery & pharmacy,1.0
+15,Møre og Romsdal,2020-08-16,Grocery & pharmacy,
 18,Nordland,2020-02-15,Grocery & pharmacy,1.0
 18,Nordland,2020-02-16,Grocery & pharmacy,10.0
 18,Nordland,2020-02-17,Grocery & pharmacy,5.0
@@ -2744,6 +2758,7 @@ fylke_no,fylke_name,date,category,mob_change
 18,Nordland,2020-08-13,Grocery & pharmacy,18.0
 18,Nordland,2020-08-14,Grocery & pharmacy,5.0
 18,Nordland,2020-08-15,Grocery & pharmacy,7.0
+18,Nordland,2020-08-16,Grocery & pharmacy,
 03,Oslo,2020-02-15,Grocery & pharmacy,-3.0
 03,Oslo,2020-02-16,Grocery & pharmacy,-8.0
 03,Oslo,2020-02-17,Grocery & pharmacy,-7.0
@@ -2927,6 +2942,7 @@ fylke_no,fylke_name,date,category,mob_change
 03,Oslo,2020-08-13,Grocery & pharmacy,0.0
 03,Oslo,2020-08-14,Grocery & pharmacy,-4.0
 03,Oslo,2020-08-15,Grocery & pharmacy,-11.0
+03,Oslo,2020-08-16,Grocery & pharmacy,7.0
 11,Rogaland,2020-02-15,Grocery & pharmacy,0.0
 11,Rogaland,2020-02-16,Grocery & pharmacy,0.0
 11,Rogaland,2020-02-17,Grocery & pharmacy,0.0
@@ -3110,189 +3126,191 @@ fylke_no,fylke_name,date,category,mob_change
 11,Rogaland,2020-08-13,Grocery & pharmacy,10.0
 11,Rogaland,2020-08-14,Grocery & pharmacy,1.0
 11,Rogaland,2020-08-15,Grocery & pharmacy,-4.0
-54,Troms og Finnmark,2020-02-15,Grocery & pharmacy,5.0
-54,Troms og Finnmark,2020-02-16,Grocery & pharmacy,10.0
-54,Troms og Finnmark,2020-02-17,Grocery & pharmacy,6.0
-54,Troms og Finnmark,2020-02-18,Grocery & pharmacy,5.0
-54,Troms og Finnmark,2020-02-19,Grocery & pharmacy,10.0
-54,Troms og Finnmark,2020-02-20,Grocery & pharmacy,5.0
-54,Troms og Finnmark,2020-02-21,Grocery & pharmacy,4.0
-54,Troms og Finnmark,2020-02-22,Grocery & pharmacy,5.0
-54,Troms og Finnmark,2020-02-23,Grocery & pharmacy,11.0
-54,Troms og Finnmark,2020-02-24,Grocery & pharmacy,3.0
-54,Troms og Finnmark,2020-02-25,Grocery & pharmacy,5.0
-54,Troms og Finnmark,2020-02-26,Grocery & pharmacy,5.0
-54,Troms og Finnmark,2020-02-27,Grocery & pharmacy,5.0
-54,Troms og Finnmark,2020-02-28,Grocery & pharmacy,5.0
-54,Troms og Finnmark,2020-02-29,Grocery & pharmacy,0.0
-54,Troms og Finnmark,2020-03-01,Grocery & pharmacy,12.0
-54,Troms og Finnmark,2020-03-02,Grocery & pharmacy,2.0
-54,Troms og Finnmark,2020-03-03,Grocery & pharmacy,4.0
-54,Troms og Finnmark,2020-03-04,Grocery & pharmacy,5.0
-54,Troms og Finnmark,2020-03-05,Grocery & pharmacy,5.0
-54,Troms og Finnmark,2020-03-06,Grocery & pharmacy,-1.0
-54,Troms og Finnmark,2020-03-07,Grocery & pharmacy,0.0
-54,Troms og Finnmark,2020-03-08,Grocery & pharmacy,12.0
-54,Troms og Finnmark,2020-03-09,Grocery & pharmacy,3.0
-54,Troms og Finnmark,2020-03-10,Grocery & pharmacy,3.0
-54,Troms og Finnmark,2020-03-11,Grocery & pharmacy,10.0
-54,Troms og Finnmark,2020-03-12,Grocery & pharmacy,42.0
-54,Troms og Finnmark,2020-03-13,Grocery & pharmacy,-5.0
-54,Troms og Finnmark,2020-03-14,Grocery & pharmacy,-13.0
-54,Troms og Finnmark,2020-03-15,Grocery & pharmacy,-40.0
-54,Troms og Finnmark,2020-03-16,Grocery & pharmacy,-17.0
-54,Troms og Finnmark,2020-03-17,Grocery & pharmacy,-17.0
-54,Troms og Finnmark,2020-03-18,Grocery & pharmacy,-17.0
-54,Troms og Finnmark,2020-03-19,Grocery & pharmacy,-15.0
-54,Troms og Finnmark,2020-03-20,Grocery & pharmacy,-18.0
-54,Troms og Finnmark,2020-03-21,Grocery & pharmacy,-17.0
-54,Troms og Finnmark,2020-03-22,Grocery & pharmacy,-47.0
-54,Troms og Finnmark,2020-03-23,Grocery & pharmacy,-16.0
-54,Troms og Finnmark,2020-03-24,Grocery & pharmacy,-15.0
-54,Troms og Finnmark,2020-03-25,Grocery & pharmacy,-14.0
-54,Troms og Finnmark,2020-03-26,Grocery & pharmacy,-13.0
-54,Troms og Finnmark,2020-03-27,Grocery & pharmacy,-12.0
-54,Troms og Finnmark,2020-03-28,Grocery & pharmacy,-21.0
-54,Troms og Finnmark,2020-03-29,Grocery & pharmacy,-46.0
-54,Troms og Finnmark,2020-03-30,Grocery & pharmacy,-15.0
-54,Troms og Finnmark,2020-03-31,Grocery & pharmacy,-15.0
-54,Troms og Finnmark,2020-04-01,Grocery & pharmacy,-2.0
-54,Troms og Finnmark,2020-04-02,Grocery & pharmacy,-3.0
-54,Troms og Finnmark,2020-04-03,Grocery & pharmacy,-7.0
-54,Troms og Finnmark,2020-04-04,Grocery & pharmacy,-10.0
-54,Troms og Finnmark,2020-04-05,Grocery & pharmacy,-45.0
-54,Troms og Finnmark,2020-04-06,Grocery & pharmacy,4.0
-54,Troms og Finnmark,2020-04-07,Grocery & pharmacy,20.0
-54,Troms og Finnmark,2020-04-08,Grocery & pharmacy,32.0
-54,Troms og Finnmark,2020-04-09,Grocery & pharmacy,-88.0
-54,Troms og Finnmark,2020-04-10,Grocery & pharmacy,-90.0
-54,Troms og Finnmark,2020-04-11,Grocery & pharmacy,-14.0
-54,Troms og Finnmark,2020-04-12,Grocery & pharmacy,-43.0
-54,Troms og Finnmark,2020-04-13,Grocery & pharmacy,-87.0
-54,Troms og Finnmark,2020-04-14,Grocery & pharmacy,9.0
-54,Troms og Finnmark,2020-04-15,Grocery & pharmacy,-4.0
-54,Troms og Finnmark,2020-04-16,Grocery & pharmacy,-7.0
-54,Troms og Finnmark,2020-04-17,Grocery & pharmacy,-5.0
-54,Troms og Finnmark,2020-04-18,Grocery & pharmacy,-3.0
-54,Troms og Finnmark,2020-04-19,Grocery & pharmacy,-28.0
-54,Troms og Finnmark,2020-04-20,Grocery & pharmacy,-2.0
-54,Troms og Finnmark,2020-04-21,Grocery & pharmacy,2.0
-54,Troms og Finnmark,2020-04-22,Grocery & pharmacy,1.0
-54,Troms og Finnmark,2020-04-23,Grocery & pharmacy,-1.0
-54,Troms og Finnmark,2020-04-24,Grocery & pharmacy,-3.0
-54,Troms og Finnmark,2020-04-25,Grocery & pharmacy,-6.0
-54,Troms og Finnmark,2020-04-26,Grocery & pharmacy,-27.0
-54,Troms og Finnmark,2020-04-27,Grocery & pharmacy,0.0
-54,Troms og Finnmark,2020-04-28,Grocery & pharmacy,2.0
-54,Troms og Finnmark,2020-04-29,Grocery & pharmacy,11.0
-54,Troms og Finnmark,2020-04-30,Grocery & pharmacy,40.0
-54,Troms og Finnmark,2020-05-01,Grocery & pharmacy,-85.0
-54,Troms og Finnmark,2020-05-02,Grocery & pharmacy,10.0
-54,Troms og Finnmark,2020-05-03,Grocery & pharmacy,-21.0
-54,Troms og Finnmark,2020-05-04,Grocery & pharmacy,3.0
-54,Troms og Finnmark,2020-05-05,Grocery & pharmacy,2.0
-54,Troms og Finnmark,2020-05-06,Grocery & pharmacy,5.0
-54,Troms og Finnmark,2020-05-07,Grocery & pharmacy,4.0
-54,Troms og Finnmark,2020-05-08,Grocery & pharmacy,2.0
-54,Troms og Finnmark,2020-05-09,Grocery & pharmacy,3.0
-54,Troms og Finnmark,2020-05-10,Grocery & pharmacy,4.0
-54,Troms og Finnmark,2020-05-11,Grocery & pharmacy,-1.0
-54,Troms og Finnmark,2020-05-12,Grocery & pharmacy,8.0
-54,Troms og Finnmark,2020-05-13,Grocery & pharmacy,12.0
-54,Troms og Finnmark,2020-05-14,Grocery & pharmacy,13.0
-54,Troms og Finnmark,2020-05-15,Grocery & pharmacy,7.0
-54,Troms og Finnmark,2020-05-16,Grocery & pharmacy,14.0
-54,Troms og Finnmark,2020-05-17,Grocery & pharmacy,-5.0
-54,Troms og Finnmark,2020-05-18,Grocery & pharmacy,-6.0
-54,Troms og Finnmark,2020-05-19,Grocery & pharmacy,6.0
-54,Troms og Finnmark,2020-05-20,Grocery & pharmacy,45.0
-54,Troms og Finnmark,2020-05-21,Grocery & pharmacy,-77.0
-54,Troms og Finnmark,2020-05-22,Grocery & pharmacy,14.0
-54,Troms og Finnmark,2020-05-23,Grocery & pharmacy,0.0
-54,Troms og Finnmark,2020-05-24,Grocery & pharmacy,17.0
-54,Troms og Finnmark,2020-05-25,Grocery & pharmacy,11.0
-54,Troms og Finnmark,2020-05-26,Grocery & pharmacy,9.0
-54,Troms og Finnmark,2020-05-27,Grocery & pharmacy,12.0
-54,Troms og Finnmark,2020-05-28,Grocery & pharmacy,10.0
-54,Troms og Finnmark,2020-05-29,Grocery & pharmacy,11.0
-54,Troms og Finnmark,2020-05-30,Grocery & pharmacy,-1.0
-54,Troms og Finnmark,2020-05-31,Grocery & pharmacy,11.0
-54,Troms og Finnmark,2020-06-01,Grocery & pharmacy,-75.0
-54,Troms og Finnmark,2020-06-02,Grocery & pharmacy,32.0
-54,Troms og Finnmark,2020-06-03,Grocery & pharmacy,15.0
-54,Troms og Finnmark,2020-06-04,Grocery & pharmacy,11.0
-54,Troms og Finnmark,2020-06-05,Grocery & pharmacy,8.0
-54,Troms og Finnmark,2020-06-06,Grocery & pharmacy,5.0
-54,Troms og Finnmark,2020-06-07,Grocery & pharmacy,3.0
-54,Troms og Finnmark,2020-06-08,Grocery & pharmacy,7.0
-54,Troms og Finnmark,2020-06-09,Grocery & pharmacy,8.0
-54,Troms og Finnmark,2020-06-10,Grocery & pharmacy,12.0
-54,Troms og Finnmark,2020-06-11,Grocery & pharmacy,15.0
-54,Troms og Finnmark,2020-06-12,Grocery & pharmacy,14.0
-54,Troms og Finnmark,2020-06-13,Grocery & pharmacy,6.0
-54,Troms og Finnmark,2020-06-14,Grocery & pharmacy,7.0
-54,Troms og Finnmark,2020-06-15,Grocery & pharmacy,16.0
-54,Troms og Finnmark,2020-06-16,Grocery & pharmacy,17.0
-54,Troms og Finnmark,2020-06-17,Grocery & pharmacy,21.0
-54,Troms og Finnmark,2020-06-18,Grocery & pharmacy,21.0
-54,Troms og Finnmark,2020-06-19,Grocery & pharmacy,9.0
-54,Troms og Finnmark,2020-06-20,Grocery & pharmacy,6.0
-54,Troms og Finnmark,2020-06-21,Grocery & pharmacy,
-54,Troms og Finnmark,2020-06-22,Grocery & pharmacy,17.0
-54,Troms og Finnmark,2020-06-23,Grocery & pharmacy,23.0
-54,Troms og Finnmark,2020-06-24,Grocery & pharmacy,14.0
-54,Troms og Finnmark,2020-06-25,Grocery & pharmacy,16.0
-54,Troms og Finnmark,2020-06-26,Grocery & pharmacy,3.0
-54,Troms og Finnmark,2020-06-27,Grocery & pharmacy,4.0
-54,Troms og Finnmark,2020-06-28,Grocery & pharmacy,18.0
-54,Troms og Finnmark,2020-06-29,Grocery & pharmacy,9.0
-54,Troms og Finnmark,2020-06-30,Grocery & pharmacy,9.0
-54,Troms og Finnmark,2020-07-01,Grocery & pharmacy,10.0
-54,Troms og Finnmark,2020-07-02,Grocery & pharmacy,7.0
-54,Troms og Finnmark,2020-07-03,Grocery & pharmacy,0.0
-54,Troms og Finnmark,2020-07-04,Grocery & pharmacy,0.0
-54,Troms og Finnmark,2020-07-05,Grocery & pharmacy,9.0
-54,Troms og Finnmark,2020-07-06,Grocery & pharmacy,10.0
-54,Troms og Finnmark,2020-07-07,Grocery & pharmacy,10.0
-54,Troms og Finnmark,2020-07-08,Grocery & pharmacy,14.0
-54,Troms og Finnmark,2020-07-09,Grocery & pharmacy,11.0
-54,Troms og Finnmark,2020-07-10,Grocery & pharmacy,4.0
-54,Troms og Finnmark,2020-07-11,Grocery & pharmacy,2.0
-54,Troms og Finnmark,2020-07-12,Grocery & pharmacy,13.0
-54,Troms og Finnmark,2020-07-13,Grocery & pharmacy,16.0
-54,Troms og Finnmark,2020-07-14,Grocery & pharmacy,15.0
-54,Troms og Finnmark,2020-07-15,Grocery & pharmacy,19.0
-54,Troms og Finnmark,2020-07-16,Grocery & pharmacy,13.0
-54,Troms og Finnmark,2020-07-17,Grocery & pharmacy,4.0
-54,Troms og Finnmark,2020-07-18,Grocery & pharmacy,5.0
-54,Troms og Finnmark,2020-07-19,Grocery & pharmacy,
-54,Troms og Finnmark,2020-07-20,Grocery & pharmacy,18.0
-54,Troms og Finnmark,2020-07-21,Grocery & pharmacy,13.0
-54,Troms og Finnmark,2020-07-22,Grocery & pharmacy,18.0
-54,Troms og Finnmark,2020-07-23,Grocery & pharmacy,13.0
-54,Troms og Finnmark,2020-07-24,Grocery & pharmacy,2.0
-54,Troms og Finnmark,2020-07-25,Grocery & pharmacy,3.0
-54,Troms og Finnmark,2020-07-26,Grocery & pharmacy,
-54,Troms og Finnmark,2020-07-27,Grocery & pharmacy,20.0
-54,Troms og Finnmark,2020-07-28,Grocery & pharmacy,18.0
-54,Troms og Finnmark,2020-07-29,Grocery & pharmacy,21.0
-54,Troms og Finnmark,2020-07-30,Grocery & pharmacy,17.0
-54,Troms og Finnmark,2020-07-31,Grocery & pharmacy,1.0
-54,Troms og Finnmark,2020-08-01,Grocery & pharmacy,2.0
-54,Troms og Finnmark,2020-08-02,Grocery & pharmacy,
-54,Troms og Finnmark,2020-08-03,Grocery & pharmacy,12.0
-54,Troms og Finnmark,2020-08-04,Grocery & pharmacy,11.0
-54,Troms og Finnmark,2020-08-05,Grocery & pharmacy,19.0
-54,Troms og Finnmark,2020-08-06,Grocery & pharmacy,12.0
-54,Troms og Finnmark,2020-08-07,Grocery & pharmacy,3.0
-54,Troms og Finnmark,2020-08-08,Grocery & pharmacy,0.0
-54,Troms og Finnmark,2020-08-09,Grocery & pharmacy,8.0
-54,Troms og Finnmark,2020-08-10,Grocery & pharmacy,17.0
-54,Troms og Finnmark,2020-08-11,Grocery & pharmacy,11.0
-54,Troms og Finnmark,2020-08-12,Grocery & pharmacy,16.0
-54,Troms og Finnmark,2020-08-13,Grocery & pharmacy,8.0
-54,Troms og Finnmark,2020-08-14,Grocery & pharmacy,0.0
-54,Troms og Finnmark,2020-08-15,Grocery & pharmacy,0.0
+11,Rogaland,2020-08-16,Grocery & pharmacy,15.0
+54,Troms og Finnmark fylke,2020-02-15,Grocery & pharmacy,5.0
+54,Troms og Finnmark fylke,2020-02-16,Grocery & pharmacy,10.0
+54,Troms og Finnmark fylke,2020-02-17,Grocery & pharmacy,6.0
+54,Troms og Finnmark fylke,2020-02-18,Grocery & pharmacy,5.0
+54,Troms og Finnmark fylke,2020-02-19,Grocery & pharmacy,10.0
+54,Troms og Finnmark fylke,2020-02-20,Grocery & pharmacy,5.0
+54,Troms og Finnmark fylke,2020-02-21,Grocery & pharmacy,4.0
+54,Troms og Finnmark fylke,2020-02-22,Grocery & pharmacy,5.0
+54,Troms og Finnmark fylke,2020-02-23,Grocery & pharmacy,11.0
+54,Troms og Finnmark fylke,2020-02-24,Grocery & pharmacy,3.0
+54,Troms og Finnmark fylke,2020-02-25,Grocery & pharmacy,5.0
+54,Troms og Finnmark fylke,2020-02-26,Grocery & pharmacy,5.0
+54,Troms og Finnmark fylke,2020-02-27,Grocery & pharmacy,5.0
+54,Troms og Finnmark fylke,2020-02-28,Grocery & pharmacy,5.0
+54,Troms og Finnmark fylke,2020-02-29,Grocery & pharmacy,0.0
+54,Troms og Finnmark fylke,2020-03-01,Grocery & pharmacy,12.0
+54,Troms og Finnmark fylke,2020-03-02,Grocery & pharmacy,2.0
+54,Troms og Finnmark fylke,2020-03-03,Grocery & pharmacy,4.0
+54,Troms og Finnmark fylke,2020-03-04,Grocery & pharmacy,5.0
+54,Troms og Finnmark fylke,2020-03-05,Grocery & pharmacy,5.0
+54,Troms og Finnmark fylke,2020-03-06,Grocery & pharmacy,-1.0
+54,Troms og Finnmark fylke,2020-03-07,Grocery & pharmacy,0.0
+54,Troms og Finnmark fylke,2020-03-08,Grocery & pharmacy,12.0
+54,Troms og Finnmark fylke,2020-03-09,Grocery & pharmacy,3.0
+54,Troms og Finnmark fylke,2020-03-10,Grocery & pharmacy,3.0
+54,Troms og Finnmark fylke,2020-03-11,Grocery & pharmacy,10.0
+54,Troms og Finnmark fylke,2020-03-12,Grocery & pharmacy,42.0
+54,Troms og Finnmark fylke,2020-03-13,Grocery & pharmacy,-5.0
+54,Troms og Finnmark fylke,2020-03-14,Grocery & pharmacy,-13.0
+54,Troms og Finnmark fylke,2020-03-15,Grocery & pharmacy,-40.0
+54,Troms og Finnmark fylke,2020-03-16,Grocery & pharmacy,-17.0
+54,Troms og Finnmark fylke,2020-03-17,Grocery & pharmacy,-17.0
+54,Troms og Finnmark fylke,2020-03-18,Grocery & pharmacy,-17.0
+54,Troms og Finnmark fylke,2020-03-19,Grocery & pharmacy,-15.0
+54,Troms og Finnmark fylke,2020-03-20,Grocery & pharmacy,-18.0
+54,Troms og Finnmark fylke,2020-03-21,Grocery & pharmacy,-17.0
+54,Troms og Finnmark fylke,2020-03-22,Grocery & pharmacy,-47.0
+54,Troms og Finnmark fylke,2020-03-23,Grocery & pharmacy,-16.0
+54,Troms og Finnmark fylke,2020-03-24,Grocery & pharmacy,-15.0
+54,Troms og Finnmark fylke,2020-03-25,Grocery & pharmacy,-14.0
+54,Troms og Finnmark fylke,2020-03-26,Grocery & pharmacy,-13.0
+54,Troms og Finnmark fylke,2020-03-27,Grocery & pharmacy,-12.0
+54,Troms og Finnmark fylke,2020-03-28,Grocery & pharmacy,-21.0
+54,Troms og Finnmark fylke,2020-03-29,Grocery & pharmacy,-46.0
+54,Troms og Finnmark fylke,2020-03-30,Grocery & pharmacy,-15.0
+54,Troms og Finnmark fylke,2020-03-31,Grocery & pharmacy,-15.0
+54,Troms og Finnmark fylke,2020-04-01,Grocery & pharmacy,-2.0
+54,Troms og Finnmark fylke,2020-04-02,Grocery & pharmacy,-3.0
+54,Troms og Finnmark fylke,2020-04-03,Grocery & pharmacy,-7.0
+54,Troms og Finnmark fylke,2020-04-04,Grocery & pharmacy,-10.0
+54,Troms og Finnmark fylke,2020-04-05,Grocery & pharmacy,-45.0
+54,Troms og Finnmark fylke,2020-04-06,Grocery & pharmacy,4.0
+54,Troms og Finnmark fylke,2020-04-07,Grocery & pharmacy,20.0
+54,Troms og Finnmark fylke,2020-04-08,Grocery & pharmacy,32.0
+54,Troms og Finnmark fylke,2020-04-09,Grocery & pharmacy,-88.0
+54,Troms og Finnmark fylke,2020-04-10,Grocery & pharmacy,-90.0
+54,Troms og Finnmark fylke,2020-04-11,Grocery & pharmacy,-14.0
+54,Troms og Finnmark fylke,2020-04-12,Grocery & pharmacy,-43.0
+54,Troms og Finnmark fylke,2020-04-13,Grocery & pharmacy,-87.0
+54,Troms og Finnmark fylke,2020-04-14,Grocery & pharmacy,9.0
+54,Troms og Finnmark fylke,2020-04-15,Grocery & pharmacy,-4.0
+54,Troms og Finnmark fylke,2020-04-16,Grocery & pharmacy,-7.0
+54,Troms og Finnmark fylke,2020-04-17,Grocery & pharmacy,-5.0
+54,Troms og Finnmark fylke,2020-04-18,Grocery & pharmacy,-3.0
+54,Troms og Finnmark fylke,2020-04-19,Grocery & pharmacy,-28.0
+54,Troms og Finnmark fylke,2020-04-20,Grocery & pharmacy,-2.0
+54,Troms og Finnmark fylke,2020-04-21,Grocery & pharmacy,2.0
+54,Troms og Finnmark fylke,2020-04-22,Grocery & pharmacy,1.0
+54,Troms og Finnmark fylke,2020-04-23,Grocery & pharmacy,-1.0
+54,Troms og Finnmark fylke,2020-04-24,Grocery & pharmacy,-3.0
+54,Troms og Finnmark fylke,2020-04-25,Grocery & pharmacy,-6.0
+54,Troms og Finnmark fylke,2020-04-26,Grocery & pharmacy,-27.0
+54,Troms og Finnmark fylke,2020-04-27,Grocery & pharmacy,0.0
+54,Troms og Finnmark fylke,2020-04-28,Grocery & pharmacy,2.0
+54,Troms og Finnmark fylke,2020-04-29,Grocery & pharmacy,11.0
+54,Troms og Finnmark fylke,2020-04-30,Grocery & pharmacy,40.0
+54,Troms og Finnmark fylke,2020-05-01,Grocery & pharmacy,-85.0
+54,Troms og Finnmark fylke,2020-05-02,Grocery & pharmacy,10.0
+54,Troms og Finnmark fylke,2020-05-03,Grocery & pharmacy,-21.0
+54,Troms og Finnmark fylke,2020-05-04,Grocery & pharmacy,3.0
+54,Troms og Finnmark fylke,2020-05-05,Grocery & pharmacy,2.0
+54,Troms og Finnmark fylke,2020-05-06,Grocery & pharmacy,5.0
+54,Troms og Finnmark fylke,2020-05-07,Grocery & pharmacy,4.0
+54,Troms og Finnmark fylke,2020-05-08,Grocery & pharmacy,2.0
+54,Troms og Finnmark fylke,2020-05-09,Grocery & pharmacy,3.0
+54,Troms og Finnmark fylke,2020-05-10,Grocery & pharmacy,4.0
+54,Troms og Finnmark fylke,2020-05-11,Grocery & pharmacy,-1.0
+54,Troms og Finnmark fylke,2020-05-12,Grocery & pharmacy,8.0
+54,Troms og Finnmark fylke,2020-05-13,Grocery & pharmacy,12.0
+54,Troms og Finnmark fylke,2020-05-14,Grocery & pharmacy,13.0
+54,Troms og Finnmark fylke,2020-05-15,Grocery & pharmacy,7.0
+54,Troms og Finnmark fylke,2020-05-16,Grocery & pharmacy,14.0
+54,Troms og Finnmark fylke,2020-05-17,Grocery & pharmacy,-5.0
+54,Troms og Finnmark fylke,2020-05-18,Grocery & pharmacy,-6.0
+54,Troms og Finnmark fylke,2020-05-19,Grocery & pharmacy,6.0
+54,Troms og Finnmark fylke,2020-05-20,Grocery & pharmacy,45.0
+54,Troms og Finnmark fylke,2020-05-21,Grocery & pharmacy,-77.0
+54,Troms og Finnmark fylke,2020-05-22,Grocery & pharmacy,14.0
+54,Troms og Finnmark fylke,2020-05-23,Grocery & pharmacy,0.0
+54,Troms og Finnmark fylke,2020-05-24,Grocery & pharmacy,17.0
+54,Troms og Finnmark fylke,2020-05-25,Grocery & pharmacy,11.0
+54,Troms og Finnmark fylke,2020-05-26,Grocery & pharmacy,9.0
+54,Troms og Finnmark fylke,2020-05-27,Grocery & pharmacy,12.0
+54,Troms og Finnmark fylke,2020-05-28,Grocery & pharmacy,10.0
+54,Troms og Finnmark fylke,2020-05-29,Grocery & pharmacy,11.0
+54,Troms og Finnmark fylke,2020-05-30,Grocery & pharmacy,-1.0
+54,Troms og Finnmark fylke,2020-05-31,Grocery & pharmacy,11.0
+54,Troms og Finnmark fylke,2020-06-01,Grocery & pharmacy,-75.0
+54,Troms og Finnmark fylke,2020-06-02,Grocery & pharmacy,32.0
+54,Troms og Finnmark fylke,2020-06-03,Grocery & pharmacy,15.0
+54,Troms og Finnmark fylke,2020-06-04,Grocery & pharmacy,11.0
+54,Troms og Finnmark fylke,2020-06-05,Grocery & pharmacy,8.0
+54,Troms og Finnmark fylke,2020-06-06,Grocery & pharmacy,5.0
+54,Troms og Finnmark fylke,2020-06-07,Grocery & pharmacy,3.0
+54,Troms og Finnmark fylke,2020-06-08,Grocery & pharmacy,7.0
+54,Troms og Finnmark fylke,2020-06-09,Grocery & pharmacy,8.0
+54,Troms og Finnmark fylke,2020-06-10,Grocery & pharmacy,12.0
+54,Troms og Finnmark fylke,2020-06-11,Grocery & pharmacy,15.0
+54,Troms og Finnmark fylke,2020-06-12,Grocery & pharmacy,14.0
+54,Troms og Finnmark fylke,2020-06-13,Grocery & pharmacy,6.0
+54,Troms og Finnmark fylke,2020-06-14,Grocery & pharmacy,7.0
+54,Troms og Finnmark fylke,2020-06-15,Grocery & pharmacy,16.0
+54,Troms og Finnmark fylke,2020-06-16,Grocery & pharmacy,17.0
+54,Troms og Finnmark fylke,2020-06-17,Grocery & pharmacy,21.0
+54,Troms og Finnmark fylke,2020-06-18,Grocery & pharmacy,21.0
+54,Troms og Finnmark fylke,2020-06-19,Grocery & pharmacy,9.0
+54,Troms og Finnmark fylke,2020-06-20,Grocery & pharmacy,6.0
+54,Troms og Finnmark fylke,2020-06-21,Grocery & pharmacy,
+54,Troms og Finnmark fylke,2020-06-22,Grocery & pharmacy,17.0
+54,Troms og Finnmark fylke,2020-06-23,Grocery & pharmacy,23.0
+54,Troms og Finnmark fylke,2020-06-24,Grocery & pharmacy,14.0
+54,Troms og Finnmark fylke,2020-06-25,Grocery & pharmacy,16.0
+54,Troms og Finnmark fylke,2020-06-26,Grocery & pharmacy,3.0
+54,Troms og Finnmark fylke,2020-06-27,Grocery & pharmacy,4.0
+54,Troms og Finnmark fylke,2020-06-28,Grocery & pharmacy,18.0
+54,Troms og Finnmark fylke,2020-06-29,Grocery & pharmacy,9.0
+54,Troms og Finnmark fylke,2020-06-30,Grocery & pharmacy,9.0
+54,Troms og Finnmark fylke,2020-07-01,Grocery & pharmacy,10.0
+54,Troms og Finnmark fylke,2020-07-02,Grocery & pharmacy,7.0
+54,Troms og Finnmark fylke,2020-07-03,Grocery & pharmacy,0.0
+54,Troms og Finnmark fylke,2020-07-04,Grocery & pharmacy,0.0
+54,Troms og Finnmark fylke,2020-07-05,Grocery & pharmacy,9.0
+54,Troms og Finnmark fylke,2020-07-06,Grocery & pharmacy,10.0
+54,Troms og Finnmark fylke,2020-07-07,Grocery & pharmacy,10.0
+54,Troms og Finnmark fylke,2020-07-08,Grocery & pharmacy,14.0
+54,Troms og Finnmark fylke,2020-07-09,Grocery & pharmacy,11.0
+54,Troms og Finnmark fylke,2020-07-10,Grocery & pharmacy,4.0
+54,Troms og Finnmark fylke,2020-07-11,Grocery & pharmacy,2.0
+54,Troms og Finnmark fylke,2020-07-12,Grocery & pharmacy,13.0
+54,Troms og Finnmark fylke,2020-07-13,Grocery & pharmacy,16.0
+54,Troms og Finnmark fylke,2020-07-14,Grocery & pharmacy,15.0
+54,Troms og Finnmark fylke,2020-07-15,Grocery & pharmacy,19.0
+54,Troms og Finnmark fylke,2020-07-16,Grocery & pharmacy,13.0
+54,Troms og Finnmark fylke,2020-07-17,Grocery & pharmacy,4.0
+54,Troms og Finnmark fylke,2020-07-18,Grocery & pharmacy,5.0
+54,Troms og Finnmark fylke,2020-07-19,Grocery & pharmacy,
+54,Troms og Finnmark fylke,2020-07-20,Grocery & pharmacy,18.0
+54,Troms og Finnmark fylke,2020-07-21,Grocery & pharmacy,13.0
+54,Troms og Finnmark fylke,2020-07-22,Grocery & pharmacy,18.0
+54,Troms og Finnmark fylke,2020-07-23,Grocery & pharmacy,13.0
+54,Troms og Finnmark fylke,2020-07-24,Grocery & pharmacy,2.0
+54,Troms og Finnmark fylke,2020-07-25,Grocery & pharmacy,3.0
+54,Troms og Finnmark fylke,2020-07-26,Grocery & pharmacy,
+54,Troms og Finnmark fylke,2020-07-27,Grocery & pharmacy,20.0
+54,Troms og Finnmark fylke,2020-07-28,Grocery & pharmacy,18.0
+54,Troms og Finnmark fylke,2020-07-29,Grocery & pharmacy,21.0
+54,Troms og Finnmark fylke,2020-07-30,Grocery & pharmacy,17.0
+54,Troms og Finnmark fylke,2020-07-31,Grocery & pharmacy,1.0
+54,Troms og Finnmark fylke,2020-08-01,Grocery & pharmacy,2.0
+54,Troms og Finnmark fylke,2020-08-02,Grocery & pharmacy,
+54,Troms og Finnmark fylke,2020-08-03,Grocery & pharmacy,12.0
+54,Troms og Finnmark fylke,2020-08-04,Grocery & pharmacy,11.0
+54,Troms og Finnmark fylke,2020-08-05,Grocery & pharmacy,19.0
+54,Troms og Finnmark fylke,2020-08-06,Grocery & pharmacy,12.0
+54,Troms og Finnmark fylke,2020-08-07,Grocery & pharmacy,3.0
+54,Troms og Finnmark fylke,2020-08-08,Grocery & pharmacy,0.0
+54,Troms og Finnmark fylke,2020-08-09,Grocery & pharmacy,8.0
+54,Troms og Finnmark fylke,2020-08-10,Grocery & pharmacy,17.0
+54,Troms og Finnmark fylke,2020-08-11,Grocery & pharmacy,11.0
+54,Troms og Finnmark fylke,2020-08-12,Grocery & pharmacy,16.0
+54,Troms og Finnmark fylke,2020-08-13,Grocery & pharmacy,8.0
+54,Troms og Finnmark fylke,2020-08-14,Grocery & pharmacy,0.0
+54,Troms og Finnmark fylke,2020-08-15,Grocery & pharmacy,0.0
+54,Troms og Finnmark fylke,2020-08-16,Grocery & pharmacy,-6.0
 50,Trøndelag,2020-02-15,Grocery & pharmacy,0.0
 50,Trøndelag,2020-02-16,Grocery & pharmacy,10.0
 50,Trøndelag,2020-02-17,Grocery & pharmacy,0.0
@@ -3476,6 +3494,7 @@ fylke_no,fylke_name,date,category,mob_change
 50,Trøndelag,2020-08-13,Grocery & pharmacy,16.0
 50,Trøndelag,2020-08-14,Grocery & pharmacy,6.0
 50,Trøndelag,2020-08-15,Grocery & pharmacy,3.0
+50,Trøndelag,2020-08-16,Grocery & pharmacy,37.0
 38,Vestfold og Telemark,2020-02-15,Grocery & pharmacy,1.0
 38,Vestfold og Telemark,2020-02-16,Grocery & pharmacy,-4.0
 38,Vestfold og Telemark,2020-02-17,Grocery & pharmacy,1.0
@@ -3659,6 +3678,7 @@ fylke_no,fylke_name,date,category,mob_change
 38,Vestfold og Telemark,2020-08-13,Grocery & pharmacy,23.0
 38,Vestfold og Telemark,2020-08-14,Grocery & pharmacy,15.0
 38,Vestfold og Telemark,2020-08-15,Grocery & pharmacy,14.0
+38,Vestfold og Telemark,2020-08-16,Grocery & pharmacy,77.0
 46,Vestland,2020-02-15,Grocery & pharmacy,2.0
 46,Vestland,2020-02-16,Grocery & pharmacy,4.0
 46,Vestland,2020-02-17,Grocery & pharmacy,-2.0
@@ -3842,6 +3862,7 @@ fylke_no,fylke_name,date,category,mob_change
 46,Vestland,2020-08-13,Grocery & pharmacy,12.0
 46,Vestland,2020-08-14,Grocery & pharmacy,3.0
 46,Vestland,2020-08-15,Grocery & pharmacy,1.0
+46,Vestland,2020-08-16,Grocery & pharmacy,63.0
 30,Viken,2020-02-15,Grocery & pharmacy,0.0
 30,Viken,2020-02-16,Grocery & pharmacy,-1.0
 30,Viken,2020-02-17,Grocery & pharmacy,-1.0
@@ -4025,6 +4046,7 @@ fylke_no,fylke_name,date,category,mob_change
 30,Viken,2020-08-13,Grocery & pharmacy,11.0
 30,Viken,2020-08-14,Grocery & pharmacy,2.0
 30,Viken,2020-08-15,Grocery & pharmacy,1.0
+30,Viken,2020-08-16,Grocery & pharmacy,31.0
 42,Agder,2020-02-15,Parks,-8.0
 42,Agder,2020-02-16,Parks,-55.0
 42,Agder,2020-02-17,Parks,-7.0
@@ -4208,6 +4230,7 @@ fylke_no,fylke_name,date,category,mob_change
 42,Agder,2020-08-13,Parks,213.0
 42,Agder,2020-08-14,Parks,250.0
 42,Agder,2020-08-15,Parks,223.0
+42,Agder,2020-08-16,Parks,101.0
 34,Innlandet,2020-02-15,Parks,67.0
 34,Innlandet,2020-02-16,Parks,-13.0
 34,Innlandet,2020-02-17,Parks,55.0
@@ -4391,6 +4414,7 @@ fylke_no,fylke_name,date,category,mob_change
 34,Innlandet,2020-08-13,Parks,187.0
 34,Innlandet,2020-08-14,Parks,262.0
 34,Innlandet,2020-08-15,Parks,295.0
+34,Innlandet,2020-08-16,Parks,231.0
 15,Møre og Romsdal,2020-02-15,Parks,56.0
 15,Møre og Romsdal,2020-02-16,Parks,19.0
 15,Møre og Romsdal,2020-02-17,Parks,-10.0
@@ -4574,6 +4598,7 @@ fylke_no,fylke_name,date,category,mob_change
 15,Møre og Romsdal,2020-08-13,Parks,
 15,Møre og Romsdal,2020-08-14,Parks,188.0
 15,Møre og Romsdal,2020-08-15,Parks,207.0
+15,Møre og Romsdal,2020-08-16,Parks,
 18,Nordland,2020-02-15,Parks,20.0
 18,Nordland,2020-02-16,Parks,-5.0
 18,Nordland,2020-02-17,Parks,22.0
@@ -4757,6 +4782,7 @@ fylke_no,fylke_name,date,category,mob_change
 18,Nordland,2020-08-13,Parks,185.0
 18,Nordland,2020-08-14,Parks,163.0
 18,Nordland,2020-08-15,Parks,138.0
+18,Nordland,2020-08-16,Parks,131.0
 03,Oslo,2020-02-15,Parks,10.0
 03,Oslo,2020-02-16,Parks,-48.0
 03,Oslo,2020-02-17,Parks,12.0
@@ -4940,6 +4966,7 @@ fylke_no,fylke_name,date,category,mob_change
 03,Oslo,2020-08-13,Parks,97.0
 03,Oslo,2020-08-14,Parks,138.0
 03,Oslo,2020-08-15,Parks,94.0
+03,Oslo,2020-08-16,Parks,50.0
 11,Rogaland,2020-02-15,Parks,33.0
 11,Rogaland,2020-02-16,Parks,-40.0
 11,Rogaland,2020-02-17,Parks,3.0
@@ -5123,189 +5150,191 @@ fylke_no,fylke_name,date,category,mob_change
 11,Rogaland,2020-08-13,Parks,174.0
 11,Rogaland,2020-08-14,Parks,134.0
 11,Rogaland,2020-08-15,Parks,278.0
-54,Troms og Finnmark,2020-02-15,Parks,38.0
-54,Troms og Finnmark,2020-02-16,Parks,20.0
-54,Troms og Finnmark,2020-02-17,Parks,25.0
-54,Troms og Finnmark,2020-02-18,Parks,21.0
-54,Troms og Finnmark,2020-02-19,Parks,39.0
-54,Troms og Finnmark,2020-02-20,Parks,26.0
-54,Troms og Finnmark,2020-02-21,Parks,21.0
-54,Troms og Finnmark,2020-02-22,Parks,17.0
-54,Troms og Finnmark,2020-02-23,Parks,20.0
-54,Troms og Finnmark,2020-02-24,Parks,20.0
-54,Troms og Finnmark,2020-02-25,Parks,25.0
-54,Troms og Finnmark,2020-02-26,Parks,22.0
-54,Troms og Finnmark,2020-02-27,Parks,51.0
-54,Troms og Finnmark,2020-02-28,Parks,28.0
-54,Troms og Finnmark,2020-02-29,Parks,24.0
-54,Troms og Finnmark,2020-03-01,Parks,67.0
-54,Troms og Finnmark,2020-03-02,Parks,23.0
-54,Troms og Finnmark,2020-03-03,Parks,58.0
-54,Troms og Finnmark,2020-03-04,Parks,43.0
-54,Troms og Finnmark,2020-03-05,Parks,27.0
-54,Troms og Finnmark,2020-03-06,Parks,26.0
-54,Troms og Finnmark,2020-03-07,Parks,43.0
-54,Troms og Finnmark,2020-03-08,Parks,65.0
-54,Troms og Finnmark,2020-03-09,Parks,12.0
-54,Troms og Finnmark,2020-03-10,Parks,18.0
-54,Troms og Finnmark,2020-03-11,Parks,16.0
-54,Troms og Finnmark,2020-03-12,Parks,5.0
-54,Troms og Finnmark,2020-03-13,Parks,-9.0
-54,Troms og Finnmark,2020-03-14,Parks,12.0
-54,Troms og Finnmark,2020-03-15,Parks,-16.0
-54,Troms og Finnmark,2020-03-16,Parks,-36.0
-54,Troms og Finnmark,2020-03-17,Parks,-19.0
-54,Troms og Finnmark,2020-03-18,Parks,-22.0
-54,Troms og Finnmark,2020-03-19,Parks,-13.0
-54,Troms og Finnmark,2020-03-20,Parks,-21.0
-54,Troms og Finnmark,2020-03-21,Parks,-24.0
-54,Troms og Finnmark,2020-03-22,Parks,-36.0
-54,Troms og Finnmark,2020-03-23,Parks,-34.0
-54,Troms og Finnmark,2020-03-24,Parks,-26.0
-54,Troms og Finnmark,2020-03-25,Parks,-19.0
-54,Troms og Finnmark,2020-03-26,Parks,-24.0
-54,Troms og Finnmark,2020-03-27,Parks,-23.0
-54,Troms og Finnmark,2020-03-28,Parks,-45.0
-54,Troms og Finnmark,2020-03-29,Parks,-24.0
-54,Troms og Finnmark,2020-03-30,Parks,-17.0
-54,Troms og Finnmark,2020-03-31,Parks,-41.0
-54,Troms og Finnmark,2020-04-01,Parks,17.0
-54,Troms og Finnmark,2020-04-02,Parks,12.0
-54,Troms og Finnmark,2020-04-03,Parks,3.0
-54,Troms og Finnmark,2020-04-04,Parks,21.0
-54,Troms og Finnmark,2020-04-05,Parks,19.0
-54,Troms og Finnmark,2020-04-06,Parks,29.0
-54,Troms og Finnmark,2020-04-07,Parks,13.0
-54,Troms og Finnmark,2020-04-08,Parks,8.0
-54,Troms og Finnmark,2020-04-09,Parks,67.0
-54,Troms og Finnmark,2020-04-10,Parks,36.0
-54,Troms og Finnmark,2020-04-11,Parks,41.0
-54,Troms og Finnmark,2020-04-12,Parks,19.0
-54,Troms og Finnmark,2020-04-13,Parks,-3.0
-54,Troms og Finnmark,2020-04-14,Parks,9.0
-54,Troms og Finnmark,2020-04-15,Parks,-8.0
-54,Troms og Finnmark,2020-04-16,Parks,46.0
-54,Troms og Finnmark,2020-04-17,Parks,-14.0
-54,Troms og Finnmark,2020-04-18,Parks,19.0
-54,Troms og Finnmark,2020-04-19,Parks,8.0
-54,Troms og Finnmark,2020-04-20,Parks,8.0
-54,Troms og Finnmark,2020-04-21,Parks,40.0
-54,Troms og Finnmark,2020-04-22,Parks,21.0
-54,Troms og Finnmark,2020-04-23,Parks,1.0
-54,Troms og Finnmark,2020-04-24,Parks,-2.0
-54,Troms og Finnmark,2020-04-25,Parks,-33.0
-54,Troms og Finnmark,2020-04-26,Parks,-10.0
-54,Troms og Finnmark,2020-04-27,Parks,-8.0
-54,Troms og Finnmark,2020-04-28,Parks,36.0
-54,Troms og Finnmark,2020-04-29,Parks,64.0
-54,Troms og Finnmark,2020-04-30,Parks,84.0
-54,Troms og Finnmark,2020-05-01,Parks,100.0
-54,Troms og Finnmark,2020-05-02,Parks,86.0
-54,Troms og Finnmark,2020-05-03,Parks,27.0
-54,Troms og Finnmark,2020-05-04,Parks,-12.0
-54,Troms og Finnmark,2020-05-05,Parks,-20.0
-54,Troms og Finnmark,2020-05-06,Parks,-12.0
-54,Troms og Finnmark,2020-05-07,Parks,-21.0
-54,Troms og Finnmark,2020-05-08,Parks,-11.0
-54,Troms og Finnmark,2020-05-09,Parks,18.0
-54,Troms og Finnmark,2020-05-10,Parks,45.0
-54,Troms og Finnmark,2020-05-11,Parks,-23.0
-54,Troms og Finnmark,2020-05-12,Parks,-25.0
-54,Troms og Finnmark,2020-05-13,Parks,17.0
-54,Troms og Finnmark,2020-05-14,Parks,-3.0
-54,Troms og Finnmark,2020-05-15,Parks,-30.0
-54,Troms og Finnmark,2020-05-16,Parks,37.0
-54,Troms og Finnmark,2020-05-17,Parks,7.0
-54,Troms og Finnmark,2020-05-18,Parks,11.0
-54,Troms og Finnmark,2020-05-19,Parks,10.0
-54,Troms og Finnmark,2020-05-20,Parks,32.0
-54,Troms og Finnmark,2020-05-21,Parks,103.0
-54,Troms og Finnmark,2020-05-22,Parks,64.0
-54,Troms og Finnmark,2020-05-23,Parks,60.0
-54,Troms og Finnmark,2020-05-24,Parks,45.0
-54,Troms og Finnmark,2020-05-25,Parks,22.0
-54,Troms og Finnmark,2020-05-26,Parks,26.0
-54,Troms og Finnmark,2020-05-27,Parks,15.0
-54,Troms og Finnmark,2020-05-28,Parks,-2.0
-54,Troms og Finnmark,2020-05-29,Parks,-10.0
-54,Troms og Finnmark,2020-05-30,Parks,9.0
-54,Troms og Finnmark,2020-05-31,Parks,87.0
-54,Troms og Finnmark,2020-06-01,Parks,135.0
-54,Troms og Finnmark,2020-06-02,Parks,15.0
-54,Troms og Finnmark,2020-06-03,Parks,37.0
-54,Troms og Finnmark,2020-06-04,Parks,35.0
-54,Troms og Finnmark,2020-06-05,Parks,44.0
-54,Troms og Finnmark,2020-06-06,Parks,68.0
-54,Troms og Finnmark,2020-06-07,Parks,29.0
-54,Troms og Finnmark,2020-06-08,Parks,22.0
-54,Troms og Finnmark,2020-06-09,Parks,31.0
-54,Troms og Finnmark,2020-06-10,Parks,47.0
-54,Troms og Finnmark,2020-06-11,Parks,35.0
-54,Troms og Finnmark,2020-06-12,Parks,58.0
-54,Troms og Finnmark,2020-06-13,Parks,105.0
-54,Troms og Finnmark,2020-06-14,Parks,51.0
-54,Troms og Finnmark,2020-06-15,Parks,43.0
-54,Troms og Finnmark,2020-06-16,Parks,76.0
-54,Troms og Finnmark,2020-06-17,Parks,101.0
-54,Troms og Finnmark,2020-06-18,Parks,63.0
-54,Troms og Finnmark,2020-06-19,Parks,52.0
-54,Troms og Finnmark,2020-06-20,Parks,114.0
-54,Troms og Finnmark,2020-06-21,Parks,139.0
-54,Troms og Finnmark,2020-06-22,Parks,108.0
-54,Troms og Finnmark,2020-06-23,Parks,127.0
-54,Troms og Finnmark,2020-06-24,Parks,98.0
-54,Troms og Finnmark,2020-06-25,Parks,72.0
-54,Troms og Finnmark,2020-06-26,Parks,36.0
-54,Troms og Finnmark,2020-06-27,Parks,80.0
-54,Troms og Finnmark,2020-06-28,Parks,123.0
-54,Troms og Finnmark,2020-06-29,Parks,84.0
-54,Troms og Finnmark,2020-06-30,Parks,49.0
-54,Troms og Finnmark,2020-07-01,Parks,43.0
-54,Troms og Finnmark,2020-07-02,Parks,53.0
-54,Troms og Finnmark,2020-07-03,Parks,104.0
-54,Troms og Finnmark,2020-07-04,Parks,71.0
-54,Troms og Finnmark,2020-07-05,Parks,111.0
-54,Troms og Finnmark,2020-07-06,Parks,128.0
-54,Troms og Finnmark,2020-07-07,Parks,139.0
-54,Troms og Finnmark,2020-07-08,Parks,160.0
-54,Troms og Finnmark,2020-07-09,Parks,167.0
-54,Troms og Finnmark,2020-07-10,Parks,121.0
-54,Troms og Finnmark,2020-07-11,Parks,159.0
-54,Troms og Finnmark,2020-07-12,Parks,118.0
-54,Troms og Finnmark,2020-07-13,Parks,191.0
-54,Troms og Finnmark,2020-07-14,Parks,237.0
-54,Troms og Finnmark,2020-07-15,Parks,225.0
-54,Troms og Finnmark,2020-07-16,Parks,206.0
-54,Troms og Finnmark,2020-07-17,Parks,135.0
-54,Troms og Finnmark,2020-07-18,Parks,161.0
-54,Troms og Finnmark,2020-07-19,Parks,161.0
-54,Troms og Finnmark,2020-07-20,Parks,166.0
-54,Troms og Finnmark,2020-07-21,Parks,136.0
-54,Troms og Finnmark,2020-07-22,Parks,145.0
-54,Troms og Finnmark,2020-07-23,Parks,135.0
-54,Troms og Finnmark,2020-07-24,Parks,206.0
-54,Troms og Finnmark,2020-07-25,Parks,205.0
-54,Troms og Finnmark,2020-07-26,Parks,225.0
-54,Troms og Finnmark,2020-07-27,Parks,
-54,Troms og Finnmark,2020-07-28,Parks,
-54,Troms og Finnmark,2020-07-29,Parks,
-54,Troms og Finnmark,2020-07-30,Parks,
-54,Troms og Finnmark,2020-07-31,Parks,192.0
-54,Troms og Finnmark,2020-08-01,Parks,158.0
-54,Troms og Finnmark,2020-08-02,Parks,203.0
-54,Troms og Finnmark,2020-08-03,Parks,
-54,Troms og Finnmark,2020-08-04,Parks,171.0
-54,Troms og Finnmark,2020-08-05,Parks,202.0
-54,Troms og Finnmark,2020-08-06,Parks,206.0
-54,Troms og Finnmark,2020-08-07,Parks,154.0
-54,Troms og Finnmark,2020-08-08,Parks,186.0
-54,Troms og Finnmark,2020-08-09,Parks,71.0
-54,Troms og Finnmark,2020-08-10,Parks,119.0
-54,Troms og Finnmark,2020-08-11,Parks,176.0
-54,Troms og Finnmark,2020-08-12,Parks,183.0
-54,Troms og Finnmark,2020-08-13,Parks,121.0
-54,Troms og Finnmark,2020-08-14,Parks,75.0
-54,Troms og Finnmark,2020-08-15,Parks,67.0
+11,Rogaland,2020-08-16,Parks,67.0
+54,Troms og Finnmark fylke,2020-02-15,Parks,38.0
+54,Troms og Finnmark fylke,2020-02-16,Parks,20.0
+54,Troms og Finnmark fylke,2020-02-17,Parks,25.0
+54,Troms og Finnmark fylke,2020-02-18,Parks,21.0
+54,Troms og Finnmark fylke,2020-02-19,Parks,39.0
+54,Troms og Finnmark fylke,2020-02-20,Parks,26.0
+54,Troms og Finnmark fylke,2020-02-21,Parks,21.0
+54,Troms og Finnmark fylke,2020-02-22,Parks,17.0
+54,Troms og Finnmark fylke,2020-02-23,Parks,20.0
+54,Troms og Finnmark fylke,2020-02-24,Parks,20.0
+54,Troms og Finnmark fylke,2020-02-25,Parks,25.0
+54,Troms og Finnmark fylke,2020-02-26,Parks,22.0
+54,Troms og Finnmark fylke,2020-02-27,Parks,51.0
+54,Troms og Finnmark fylke,2020-02-28,Parks,28.0
+54,Troms og Finnmark fylke,2020-02-29,Parks,24.0
+54,Troms og Finnmark fylke,2020-03-01,Parks,67.0
+54,Troms og Finnmark fylke,2020-03-02,Parks,23.0
+54,Troms og Finnmark fylke,2020-03-03,Parks,58.0
+54,Troms og Finnmark fylke,2020-03-04,Parks,43.0
+54,Troms og Finnmark fylke,2020-03-05,Parks,27.0
+54,Troms og Finnmark fylke,2020-03-06,Parks,26.0
+54,Troms og Finnmark fylke,2020-03-07,Parks,43.0
+54,Troms og Finnmark fylke,2020-03-08,Parks,65.0
+54,Troms og Finnmark fylke,2020-03-09,Parks,12.0
+54,Troms og Finnmark fylke,2020-03-10,Parks,18.0
+54,Troms og Finnmark fylke,2020-03-11,Parks,16.0
+54,Troms og Finnmark fylke,2020-03-12,Parks,5.0
+54,Troms og Finnmark fylke,2020-03-13,Parks,-9.0
+54,Troms og Finnmark fylke,2020-03-14,Parks,12.0
+54,Troms og Finnmark fylke,2020-03-15,Parks,-16.0
+54,Troms og Finnmark fylke,2020-03-16,Parks,-36.0
+54,Troms og Finnmark fylke,2020-03-17,Parks,-19.0
+54,Troms og Finnmark fylke,2020-03-18,Parks,-22.0
+54,Troms og Finnmark fylke,2020-03-19,Parks,-13.0
+54,Troms og Finnmark fylke,2020-03-20,Parks,-21.0
+54,Troms og Finnmark fylke,2020-03-21,Parks,-24.0
+54,Troms og Finnmark fylke,2020-03-22,Parks,-36.0
+54,Troms og Finnmark fylke,2020-03-23,Parks,-34.0
+54,Troms og Finnmark fylke,2020-03-24,Parks,-26.0
+54,Troms og Finnmark fylke,2020-03-25,Parks,-19.0
+54,Troms og Finnmark fylke,2020-03-26,Parks,-24.0
+54,Troms og Finnmark fylke,2020-03-27,Parks,-23.0
+54,Troms og Finnmark fylke,2020-03-28,Parks,-45.0
+54,Troms og Finnmark fylke,2020-03-29,Parks,-24.0
+54,Troms og Finnmark fylke,2020-03-30,Parks,-17.0
+54,Troms og Finnmark fylke,2020-03-31,Parks,-41.0
+54,Troms og Finnmark fylke,2020-04-01,Parks,17.0
+54,Troms og Finnmark fylke,2020-04-02,Parks,12.0
+54,Troms og Finnmark fylke,2020-04-03,Parks,3.0
+54,Troms og Finnmark fylke,2020-04-04,Parks,21.0
+54,Troms og Finnmark fylke,2020-04-05,Parks,19.0
+54,Troms og Finnmark fylke,2020-04-06,Parks,29.0
+54,Troms og Finnmark fylke,2020-04-07,Parks,13.0
+54,Troms og Finnmark fylke,2020-04-08,Parks,8.0
+54,Troms og Finnmark fylke,2020-04-09,Parks,67.0
+54,Troms og Finnmark fylke,2020-04-10,Parks,36.0
+54,Troms og Finnmark fylke,2020-04-11,Parks,41.0
+54,Troms og Finnmark fylke,2020-04-12,Parks,19.0
+54,Troms og Finnmark fylke,2020-04-13,Parks,-3.0
+54,Troms og Finnmark fylke,2020-04-14,Parks,9.0
+54,Troms og Finnmark fylke,2020-04-15,Parks,-8.0
+54,Troms og Finnmark fylke,2020-04-16,Parks,46.0
+54,Troms og Finnmark fylke,2020-04-17,Parks,-14.0
+54,Troms og Finnmark fylke,2020-04-18,Parks,19.0
+54,Troms og Finnmark fylke,2020-04-19,Parks,8.0
+54,Troms og Finnmark fylke,2020-04-20,Parks,8.0
+54,Troms og Finnmark fylke,2020-04-21,Parks,40.0
+54,Troms og Finnmark fylke,2020-04-22,Parks,21.0
+54,Troms og Finnmark fylke,2020-04-23,Parks,1.0
+54,Troms og Finnmark fylke,2020-04-24,Parks,-2.0
+54,Troms og Finnmark fylke,2020-04-25,Parks,-33.0
+54,Troms og Finnmark fylke,2020-04-26,Parks,-10.0
+54,Troms og Finnmark fylke,2020-04-27,Parks,-8.0
+54,Troms og Finnmark fylke,2020-04-28,Parks,36.0
+54,Troms og Finnmark fylke,2020-04-29,Parks,64.0
+54,Troms og Finnmark fylke,2020-04-30,Parks,84.0
+54,Troms og Finnmark fylke,2020-05-01,Parks,100.0
+54,Troms og Finnmark fylke,2020-05-02,Parks,86.0
+54,Troms og Finnmark fylke,2020-05-03,Parks,27.0
+54,Troms og Finnmark fylke,2020-05-04,Parks,-12.0
+54,Troms og Finnmark fylke,2020-05-05,Parks,-20.0
+54,Troms og Finnmark fylke,2020-05-06,Parks,-12.0
+54,Troms og Finnmark fylke,2020-05-07,Parks,-21.0
+54,Troms og Finnmark fylke,2020-05-08,Parks,-11.0
+54,Troms og Finnmark fylke,2020-05-09,Parks,18.0
+54,Troms og Finnmark fylke,2020-05-10,Parks,45.0
+54,Troms og Finnmark fylke,2020-05-11,Parks,-23.0
+54,Troms og Finnmark fylke,2020-05-12,Parks,-25.0
+54,Troms og Finnmark fylke,2020-05-13,Parks,17.0
+54,Troms og Finnmark fylke,2020-05-14,Parks,-3.0
+54,Troms og Finnmark fylke,2020-05-15,Parks,-30.0
+54,Troms og Finnmark fylke,2020-05-16,Parks,37.0
+54,Troms og Finnmark fylke,2020-05-17,Parks,7.0
+54,Troms og Finnmark fylke,2020-05-18,Parks,11.0
+54,Troms og Finnmark fylke,2020-05-19,Parks,10.0
+54,Troms og Finnmark fylke,2020-05-20,Parks,32.0
+54,Troms og Finnmark fylke,2020-05-21,Parks,103.0
+54,Troms og Finnmark fylke,2020-05-22,Parks,64.0
+54,Troms og Finnmark fylke,2020-05-23,Parks,60.0
+54,Troms og Finnmark fylke,2020-05-24,Parks,45.0
+54,Troms og Finnmark fylke,2020-05-25,Parks,22.0
+54,Troms og Finnmark fylke,2020-05-26,Parks,26.0
+54,Troms og Finnmark fylke,2020-05-27,Parks,15.0
+54,Troms og Finnmark fylke,2020-05-28,Parks,-2.0
+54,Troms og Finnmark fylke,2020-05-29,Parks,-10.0
+54,Troms og Finnmark fylke,2020-05-30,Parks,9.0
+54,Troms og Finnmark fylke,2020-05-31,Parks,87.0
+54,Troms og Finnmark fylke,2020-06-01,Parks,135.0
+54,Troms og Finnmark fylke,2020-06-02,Parks,15.0
+54,Troms og Finnmark fylke,2020-06-03,Parks,37.0
+54,Troms og Finnmark fylke,2020-06-04,Parks,35.0
+54,Troms og Finnmark fylke,2020-06-05,Parks,44.0
+54,Troms og Finnmark fylke,2020-06-06,Parks,68.0
+54,Troms og Finnmark fylke,2020-06-07,Parks,29.0
+54,Troms og Finnmark fylke,2020-06-08,Parks,22.0
+54,Troms og Finnmark fylke,2020-06-09,Parks,31.0
+54,Troms og Finnmark fylke,2020-06-10,Parks,47.0
+54,Troms og Finnmark fylke,2020-06-11,Parks,35.0
+54,Troms og Finnmark fylke,2020-06-12,Parks,58.0
+54,Troms og Finnmark fylke,2020-06-13,Parks,105.0
+54,Troms og Finnmark fylke,2020-06-14,Parks,51.0
+54,Troms og Finnmark fylke,2020-06-15,Parks,43.0
+54,Troms og Finnmark fylke,2020-06-16,Parks,76.0
+54,Troms og Finnmark fylke,2020-06-17,Parks,101.0
+54,Troms og Finnmark fylke,2020-06-18,Parks,63.0
+54,Troms og Finnmark fylke,2020-06-19,Parks,52.0
+54,Troms og Finnmark fylke,2020-06-20,Parks,114.0
+54,Troms og Finnmark fylke,2020-06-21,Parks,139.0
+54,Troms og Finnmark fylke,2020-06-22,Parks,108.0
+54,Troms og Finnmark fylke,2020-06-23,Parks,127.0
+54,Troms og Finnmark fylke,2020-06-24,Parks,98.0
+54,Troms og Finnmark fylke,2020-06-25,Parks,72.0
+54,Troms og Finnmark fylke,2020-06-26,Parks,36.0
+54,Troms og Finnmark fylke,2020-06-27,Parks,80.0
+54,Troms og Finnmark fylke,2020-06-28,Parks,123.0
+54,Troms og Finnmark fylke,2020-06-29,Parks,84.0
+54,Troms og Finnmark fylke,2020-06-30,Parks,49.0
+54,Troms og Finnmark fylke,2020-07-01,Parks,43.0
+54,Troms og Finnmark fylke,2020-07-02,Parks,53.0
+54,Troms og Finnmark fylke,2020-07-03,Parks,104.0
+54,Troms og Finnmark fylke,2020-07-04,Parks,71.0
+54,Troms og Finnmark fylke,2020-07-05,Parks,111.0
+54,Troms og Finnmark fylke,2020-07-06,Parks,128.0
+54,Troms og Finnmark fylke,2020-07-07,Parks,139.0
+54,Troms og Finnmark fylke,2020-07-08,Parks,160.0
+54,Troms og Finnmark fylke,2020-07-09,Parks,167.0
+54,Troms og Finnmark fylke,2020-07-10,Parks,121.0
+54,Troms og Finnmark fylke,2020-07-11,Parks,159.0
+54,Troms og Finnmark fylke,2020-07-12,Parks,118.0
+54,Troms og Finnmark fylke,2020-07-13,Parks,191.0
+54,Troms og Finnmark fylke,2020-07-14,Parks,237.0
+54,Troms og Finnmark fylke,2020-07-15,Parks,225.0
+54,Troms og Finnmark fylke,2020-07-16,Parks,206.0
+54,Troms og Finnmark fylke,2020-07-17,Parks,135.0
+54,Troms og Finnmark fylke,2020-07-18,Parks,161.0
+54,Troms og Finnmark fylke,2020-07-19,Parks,161.0
+54,Troms og Finnmark fylke,2020-07-20,Parks,166.0
+54,Troms og Finnmark fylke,2020-07-21,Parks,136.0
+54,Troms og Finnmark fylke,2020-07-22,Parks,145.0
+54,Troms og Finnmark fylke,2020-07-23,Parks,135.0
+54,Troms og Finnmark fylke,2020-07-24,Parks,206.0
+54,Troms og Finnmark fylke,2020-07-25,Parks,205.0
+54,Troms og Finnmark fylke,2020-07-26,Parks,225.0
+54,Troms og Finnmark fylke,2020-07-27,Parks,
+54,Troms og Finnmark fylke,2020-07-28,Parks,
+54,Troms og Finnmark fylke,2020-07-29,Parks,
+54,Troms og Finnmark fylke,2020-07-30,Parks,
+54,Troms og Finnmark fylke,2020-07-31,Parks,192.0
+54,Troms og Finnmark fylke,2020-08-01,Parks,158.0
+54,Troms og Finnmark fylke,2020-08-02,Parks,203.0
+54,Troms og Finnmark fylke,2020-08-03,Parks,
+54,Troms og Finnmark fylke,2020-08-04,Parks,171.0
+54,Troms og Finnmark fylke,2020-08-05,Parks,202.0
+54,Troms og Finnmark fylke,2020-08-06,Parks,206.0
+54,Troms og Finnmark fylke,2020-08-07,Parks,154.0
+54,Troms og Finnmark fylke,2020-08-08,Parks,186.0
+54,Troms og Finnmark fylke,2020-08-09,Parks,71.0
+54,Troms og Finnmark fylke,2020-08-10,Parks,119.0
+54,Troms og Finnmark fylke,2020-08-11,Parks,176.0
+54,Troms og Finnmark fylke,2020-08-12,Parks,183.0
+54,Troms og Finnmark fylke,2020-08-13,Parks,121.0
+54,Troms og Finnmark fylke,2020-08-14,Parks,75.0
+54,Troms og Finnmark fylke,2020-08-15,Parks,67.0
+54,Troms og Finnmark fylke,2020-08-16,Parks,29.0
 50,Trøndelag,2020-02-15,Parks,37.0
 50,Trøndelag,2020-02-16,Parks,58.0
 50,Trøndelag,2020-02-17,Parks,23.0
@@ -5489,6 +5518,7 @@ fylke_no,fylke_name,date,category,mob_change
 50,Trøndelag,2020-08-13,Parks,167.0
 50,Trøndelag,2020-08-14,Parks,184.0
 50,Trøndelag,2020-08-15,Parks,108.0
+50,Trøndelag,2020-08-16,Parks,240.0
 38,Vestfold og Telemark,2020-02-15,Parks,16.0
 38,Vestfold og Telemark,2020-02-16,Parks,-52.0
 38,Vestfold og Telemark,2020-02-17,Parks,30.0
@@ -5672,6 +5702,7 @@ fylke_no,fylke_name,date,category,mob_change
 38,Vestfold og Telemark,2020-08-13,Parks,231.0
 38,Vestfold og Telemark,2020-08-14,Parks,303.0
 38,Vestfold og Telemark,2020-08-15,Parks,
+38,Vestfold og Telemark,2020-08-16,Parks,160.0
 46,Vestland,2020-02-15,Parks,39.0
 46,Vestland,2020-02-16,Parks,-17.0
 46,Vestland,2020-02-17,Parks,-8.0
@@ -5855,6 +5886,7 @@ fylke_no,fylke_name,date,category,mob_change
 46,Vestland,2020-08-13,Parks,116.0
 46,Vestland,2020-08-14,Parks,133.0
 46,Vestland,2020-08-15,Parks,232.0
+46,Vestland,2020-08-16,Parks,177.0
 30,Viken,2020-02-15,Parks,14.0
 30,Viken,2020-02-16,Parks,-56.0
 30,Viken,2020-02-17,Parks,16.0
@@ -6038,6 +6070,7 @@ fylke_no,fylke_name,date,category,mob_change
 30,Viken,2020-08-13,Parks,197.0
 30,Viken,2020-08-14,Parks,265.0
 30,Viken,2020-08-15,Parks,289.0
+30,Viken,2020-08-16,Parks,149.0
 42,Agder,2020-02-15,Transit stations,-2.0
 42,Agder,2020-02-16,Transit stations,-18.0
 42,Agder,2020-02-17,Transit stations,-11.0
@@ -6221,6 +6254,7 @@ fylke_no,fylke_name,date,category,mob_change
 42,Agder,2020-08-13,Transit stations,16.0
 42,Agder,2020-08-14,Transit stations,19.0
 42,Agder,2020-08-15,Transit stations,47.0
+42,Agder,2020-08-16,Transit stations,19.0
 34,Innlandet,2020-02-15,Transit stations,20.0
 34,Innlandet,2020-02-16,Transit stations,-1.0
 34,Innlandet,2020-02-17,Transit stations,2.0
@@ -6404,6 +6438,7 @@ fylke_no,fylke_name,date,category,mob_change
 34,Innlandet,2020-08-13,Transit stations,-42.0
 34,Innlandet,2020-08-14,Transit stations,-36.0
 34,Innlandet,2020-08-15,Transit stations,-17.0
+34,Innlandet,2020-08-16,Transit stations,-26.0
 15,Møre og Romsdal,2020-02-15,Transit stations,19.0
 15,Møre og Romsdal,2020-02-16,Transit stations,2.0
 15,Møre og Romsdal,2020-02-17,Transit stations,-1.0
@@ -6587,6 +6622,7 @@ fylke_no,fylke_name,date,category,mob_change
 15,Møre og Romsdal,2020-08-13,Transit stations,17.0
 15,Møre og Romsdal,2020-08-14,Transit stations,23.0
 15,Møre og Romsdal,2020-08-15,Transit stations,55.0
+15,Møre og Romsdal,2020-08-16,Transit stations,34.0
 18,Nordland,2020-02-15,Transit stations,13.0
 18,Nordland,2020-02-16,Transit stations,14.0
 18,Nordland,2020-02-17,Transit stations,7.0
@@ -6770,6 +6806,7 @@ fylke_no,fylke_name,date,category,mob_change
 18,Nordland,2020-08-13,Transit stations,8.0
 18,Nordland,2020-08-14,Transit stations,8.0
 18,Nordland,2020-08-15,Transit stations,51.0
+18,Nordland,2020-08-16,Transit stations,17.0
 03,Oslo,2020-02-15,Transit stations,-1.0
 03,Oslo,2020-02-16,Transit stations,-13.0
 03,Oslo,2020-02-17,Transit stations,-8.0
@@ -6953,6 +6990,7 @@ fylke_no,fylke_name,date,category,mob_change
 03,Oslo,2020-08-13,Transit stations,-38.0
 03,Oslo,2020-08-14,Transit stations,-35.0
 03,Oslo,2020-08-15,Transit stations,-30.0
+03,Oslo,2020-08-16,Transit stations,-34.0
 11,Rogaland,2020-02-15,Transit stations,4.0
 11,Rogaland,2020-02-16,Transit stations,-5.0
 11,Rogaland,2020-02-17,Transit stations,0.0
@@ -7136,189 +7174,191 @@ fylke_no,fylke_name,date,category,mob_change
 11,Rogaland,2020-08-13,Transit stations,-18.0
 11,Rogaland,2020-08-14,Transit stations,-25.0
 11,Rogaland,2020-08-15,Transit stations,-1.0
-54,Troms og Finnmark,2020-02-15,Transit stations,32.0
-54,Troms og Finnmark,2020-02-16,Transit stations,15.0
-54,Troms og Finnmark,2020-02-17,Transit stations,15.0
-54,Troms og Finnmark,2020-02-18,Transit stations,16.0
-54,Troms og Finnmark,2020-02-19,Transit stations,24.0
-54,Troms og Finnmark,2020-02-20,Transit stations,23.0
-54,Troms og Finnmark,2020-02-21,Transit stations,15.0
-54,Troms og Finnmark,2020-02-22,Transit stations,23.0
-54,Troms og Finnmark,2020-02-23,Transit stations,29.0
-54,Troms og Finnmark,2020-02-24,Transit stations,30.0
-54,Troms og Finnmark,2020-02-25,Transit stations,29.0
-54,Troms og Finnmark,2020-02-26,Transit stations,30.0
-54,Troms og Finnmark,2020-02-27,Transit stations,35.0
-54,Troms og Finnmark,2020-02-28,Transit stations,27.0
-54,Troms og Finnmark,2020-02-29,Transit stations,35.0
-54,Troms og Finnmark,2020-03-01,Transit stations,29.0
-54,Troms og Finnmark,2020-03-02,Transit stations,16.0
-54,Troms og Finnmark,2020-03-03,Transit stations,25.0
-54,Troms og Finnmark,2020-03-04,Transit stations,25.0
-54,Troms og Finnmark,2020-03-05,Transit stations,20.0
-54,Troms og Finnmark,2020-03-06,Transit stations,16.0
-54,Troms og Finnmark,2020-03-07,Transit stations,36.0
-54,Troms og Finnmark,2020-03-08,Transit stations,31.0
-54,Troms og Finnmark,2020-03-09,Transit stations,17.0
-54,Troms og Finnmark,2020-03-10,Transit stations,4.0
-54,Troms og Finnmark,2020-03-11,Transit stations,5.0
-54,Troms og Finnmark,2020-03-12,Transit stations,8.0
-54,Troms og Finnmark,2020-03-13,Transit stations,-15.0
-54,Troms og Finnmark,2020-03-14,Transit stations,-16.0
-54,Troms og Finnmark,2020-03-15,Transit stations,-29.0
-54,Troms og Finnmark,2020-03-16,Transit stations,-40.0
-54,Troms og Finnmark,2020-03-17,Transit stations,-45.0
-54,Troms og Finnmark,2020-03-18,Transit stations,-51.0
-54,Troms og Finnmark,2020-03-19,Transit stations,-56.0
-54,Troms og Finnmark,2020-03-20,Transit stations,-59.0
-54,Troms og Finnmark,2020-03-21,Transit stations,-57.0
-54,Troms og Finnmark,2020-03-22,Transit stations,-69.0
-54,Troms og Finnmark,2020-03-23,Transit stations,-61.0
-54,Troms og Finnmark,2020-03-24,Transit stations,-61.0
-54,Troms og Finnmark,2020-03-25,Transit stations,-59.0
-54,Troms og Finnmark,2020-03-26,Transit stations,-61.0
-54,Troms og Finnmark,2020-03-27,Transit stations,-63.0
-54,Troms og Finnmark,2020-03-28,Transit stations,-67.0
-54,Troms og Finnmark,2020-03-29,Transit stations,-71.0
-54,Troms og Finnmark,2020-03-30,Transit stations,-60.0
-54,Troms og Finnmark,2020-03-31,Transit stations,-60.0
-54,Troms og Finnmark,2020-04-01,Transit stations,-56.0
-54,Troms og Finnmark,2020-04-02,Transit stations,-55.0
-54,Troms og Finnmark,2020-04-03,Transit stations,-60.0
-54,Troms og Finnmark,2020-04-04,Transit stations,-56.0
-54,Troms og Finnmark,2020-04-05,Transit stations,-63.0
-54,Troms og Finnmark,2020-04-06,Transit stations,-56.0
-54,Troms og Finnmark,2020-04-07,Transit stations,-52.0
-54,Troms og Finnmark,2020-04-08,Transit stations,-54.0
-54,Troms og Finnmark,2020-04-09,Transit stations,-71.0
-54,Troms og Finnmark,2020-04-10,Transit stations,-77.0
-54,Troms og Finnmark,2020-04-11,Transit stations,-56.0
-54,Troms og Finnmark,2020-04-12,Transit stations,-67.0
-54,Troms og Finnmark,2020-04-13,Transit stations,-67.0
-54,Troms og Finnmark,2020-04-14,Transit stations,-51.0
-54,Troms og Finnmark,2020-04-15,Transit stations,-51.0
-54,Troms og Finnmark,2020-04-16,Transit stations,-54.0
-54,Troms og Finnmark,2020-04-17,Transit stations,-59.0
-54,Troms og Finnmark,2020-04-18,Transit stations,-53.0
-54,Troms og Finnmark,2020-04-19,Transit stations,-57.0
-54,Troms og Finnmark,2020-04-20,Transit stations,-48.0
-54,Troms og Finnmark,2020-04-21,Transit stations,-45.0
-54,Troms og Finnmark,2020-04-22,Transit stations,-43.0
-54,Troms og Finnmark,2020-04-23,Transit stations,-48.0
-54,Troms og Finnmark,2020-04-24,Transit stations,-51.0
-54,Troms og Finnmark,2020-04-25,Transit stations,-56.0
-54,Troms og Finnmark,2020-04-26,Transit stations,-54.0
-54,Troms og Finnmark,2020-04-27,Transit stations,-47.0
-54,Troms og Finnmark,2020-04-28,Transit stations,-42.0
-54,Troms og Finnmark,2020-04-29,Transit stations,-35.0
-54,Troms og Finnmark,2020-04-30,Transit stations,-30.0
-54,Troms og Finnmark,2020-05-01,Transit stations,-59.0
-54,Troms og Finnmark,2020-05-02,Transit stations,-36.0
-54,Troms og Finnmark,2020-05-03,Transit stations,-41.0
-54,Troms og Finnmark,2020-05-04,Transit stations,-45.0
-54,Troms og Finnmark,2020-05-05,Transit stations,-47.0
-54,Troms og Finnmark,2020-05-06,Transit stations,-42.0
-54,Troms og Finnmark,2020-05-07,Transit stations,-44.0
-54,Troms og Finnmark,2020-05-08,Transit stations,-43.0
-54,Troms og Finnmark,2020-05-09,Transit stations,-41.0
-54,Troms og Finnmark,2020-05-10,Transit stations,-40.0
-54,Troms og Finnmark,2020-05-11,Transit stations,-46.0
-54,Troms og Finnmark,2020-05-12,Transit stations,-45.0
-54,Troms og Finnmark,2020-05-13,Transit stations,-34.0
-54,Troms og Finnmark,2020-05-14,Transit stations,-42.0
-54,Troms og Finnmark,2020-05-15,Transit stations,-46.0
-54,Troms og Finnmark,2020-05-16,Transit stations,-34.0
-54,Troms og Finnmark,2020-05-17,Transit stations,-42.0
-54,Troms og Finnmark,2020-05-18,Transit stations,-41.0
-54,Troms og Finnmark,2020-05-19,Transit stations,-34.0
-54,Troms og Finnmark,2020-05-20,Transit stations,-12.0
-54,Troms og Finnmark,2020-05-21,Transit stations,-47.0
-54,Troms og Finnmark,2020-05-22,Transit stations,-34.0
-54,Troms og Finnmark,2020-05-23,Transit stations,-27.0
-54,Troms og Finnmark,2020-05-24,Transit stations,-22.0
-54,Troms og Finnmark,2020-05-25,Transit stations,-32.0
-54,Troms og Finnmark,2020-05-26,Transit stations,-29.0
-54,Troms og Finnmark,2020-05-27,Transit stations,-26.0
-54,Troms og Finnmark,2020-05-28,Transit stations,-29.0
-54,Troms og Finnmark,2020-05-29,Transit stations,-32.0
-54,Troms og Finnmark,2020-05-30,Transit stations,-27.0
-54,Troms og Finnmark,2020-05-31,Transit stations,-35.0
-54,Troms og Finnmark,2020-06-01,Transit stations,-31.0
-54,Troms og Finnmark,2020-06-02,Transit stations,-25.0
-54,Troms og Finnmark,2020-06-03,Transit stations,-20.0
-54,Troms og Finnmark,2020-06-04,Transit stations,-27.0
-54,Troms og Finnmark,2020-06-05,Transit stations,-22.0
-54,Troms og Finnmark,2020-06-06,Transit stations,-25.0
-54,Troms og Finnmark,2020-06-07,Transit stations,-30.0
-54,Troms og Finnmark,2020-06-08,Transit stations,-27.0
-54,Troms og Finnmark,2020-06-09,Transit stations,-26.0
-54,Troms og Finnmark,2020-06-10,Transit stations,-18.0
-54,Troms og Finnmark,2020-06-11,Transit stations,-23.0
-54,Troms og Finnmark,2020-06-12,Transit stations,-20.0
-54,Troms og Finnmark,2020-06-13,Transit stations,-16.0
-54,Troms og Finnmark,2020-06-14,Transit stations,-25.0
-54,Troms og Finnmark,2020-06-15,Transit stations,-22.0
-54,Troms og Finnmark,2020-06-16,Transit stations,-14.0
-54,Troms og Finnmark,2020-06-17,Transit stations,-14.0
-54,Troms og Finnmark,2020-06-18,Transit stations,-14.0
-54,Troms og Finnmark,2020-06-19,Transit stations,-15.0
-54,Troms og Finnmark,2020-06-20,Transit stations,-7.0
-54,Troms og Finnmark,2020-06-21,Transit stations,-9.0
-54,Troms og Finnmark,2020-06-22,Transit stations,-11.0
-54,Troms og Finnmark,2020-06-23,Transit stations,-9.0
-54,Troms og Finnmark,2020-06-24,Transit stations,-4.0
-54,Troms og Finnmark,2020-06-25,Transit stations,-7.0
-54,Troms og Finnmark,2020-06-26,Transit stations,-14.0
-54,Troms og Finnmark,2020-06-27,Transit stations,-4.0
-54,Troms og Finnmark,2020-06-28,Transit stations,-3.0
-54,Troms og Finnmark,2020-06-29,Transit stations,-10.0
-54,Troms og Finnmark,2020-06-30,Transit stations,-17.0
-54,Troms og Finnmark,2020-07-01,Transit stations,-8.0
-54,Troms og Finnmark,2020-07-02,Transit stations,-11.0
-54,Troms og Finnmark,2020-07-03,Transit stations,-3.0
-54,Troms og Finnmark,2020-07-04,Transit stations,0.0
-54,Troms og Finnmark,2020-07-05,Transit stations,1.0
-54,Troms og Finnmark,2020-07-06,Transit stations,-4.0
-54,Troms og Finnmark,2020-07-07,Transit stations,-2.0
-54,Troms og Finnmark,2020-07-08,Transit stations,5.0
-54,Troms og Finnmark,2020-07-09,Transit stations,2.0
-54,Troms og Finnmark,2020-07-10,Transit stations,-5.0
-54,Troms og Finnmark,2020-07-11,Transit stations,19.0
-54,Troms og Finnmark,2020-07-12,Transit stations,7.0
-54,Troms og Finnmark,2020-07-13,Transit stations,8.0
-54,Troms og Finnmark,2020-07-14,Transit stations,9.0
-54,Troms og Finnmark,2020-07-15,Transit stations,12.0
-54,Troms og Finnmark,2020-07-16,Transit stations,5.0
-54,Troms og Finnmark,2020-07-17,Transit stations,2.0
-54,Troms og Finnmark,2020-07-18,Transit stations,31.0
-54,Troms og Finnmark,2020-07-19,Transit stations,20.0
-54,Troms og Finnmark,2020-07-20,Transit stations,7.0
-54,Troms og Finnmark,2020-07-21,Transit stations,-1.0
-54,Troms og Finnmark,2020-07-22,Transit stations,1.0
-54,Troms og Finnmark,2020-07-23,Transit stations,-3.0
-54,Troms og Finnmark,2020-07-24,Transit stations,6.0
-54,Troms og Finnmark,2020-07-25,Transit stations,32.0
-54,Troms og Finnmark,2020-07-26,Transit stations,30.0
-54,Troms og Finnmark,2020-07-27,Transit stations,21.0
-54,Troms og Finnmark,2020-07-28,Transit stations,13.0
-54,Troms og Finnmark,2020-07-29,Transit stations,19.0
-54,Troms og Finnmark,2020-07-30,Transit stations,11.0
-54,Troms og Finnmark,2020-07-31,Transit stations,7.0
-54,Troms og Finnmark,2020-08-01,Transit stations,24.0
-54,Troms og Finnmark,2020-08-02,Transit stations,19.0
-54,Troms og Finnmark,2020-08-03,Transit stations,14.0
-54,Troms og Finnmark,2020-08-04,Transit stations,7.0
-54,Troms og Finnmark,2020-08-05,Transit stations,8.0
-54,Troms og Finnmark,2020-08-06,Transit stations,7.0
-54,Troms og Finnmark,2020-08-07,Transit stations,3.0
-54,Troms og Finnmark,2020-08-08,Transit stations,27.0
-54,Troms og Finnmark,2020-08-09,Transit stations,-3.0
-54,Troms og Finnmark,2020-08-10,Transit stations,3.0
-54,Troms og Finnmark,2020-08-11,Transit stations,2.0
-54,Troms og Finnmark,2020-08-12,Transit stations,6.0
-54,Troms og Finnmark,2020-08-13,Transit stations,-9.0
-54,Troms og Finnmark,2020-08-14,Transit stations,-8.0
-54,Troms og Finnmark,2020-08-15,Transit stations,-1.0
+11,Rogaland,2020-08-16,Transit stations,-16.0
+54,Troms og Finnmark fylke,2020-02-15,Transit stations,32.0
+54,Troms og Finnmark fylke,2020-02-16,Transit stations,15.0
+54,Troms og Finnmark fylke,2020-02-17,Transit stations,15.0
+54,Troms og Finnmark fylke,2020-02-18,Transit stations,16.0
+54,Troms og Finnmark fylke,2020-02-19,Transit stations,24.0
+54,Troms og Finnmark fylke,2020-02-20,Transit stations,23.0
+54,Troms og Finnmark fylke,2020-02-21,Transit stations,15.0
+54,Troms og Finnmark fylke,2020-02-22,Transit stations,23.0
+54,Troms og Finnmark fylke,2020-02-23,Transit stations,29.0
+54,Troms og Finnmark fylke,2020-02-24,Transit stations,30.0
+54,Troms og Finnmark fylke,2020-02-25,Transit stations,29.0
+54,Troms og Finnmark fylke,2020-02-26,Transit stations,30.0
+54,Troms og Finnmark fylke,2020-02-27,Transit stations,35.0
+54,Troms og Finnmark fylke,2020-02-28,Transit stations,27.0
+54,Troms og Finnmark fylke,2020-02-29,Transit stations,35.0
+54,Troms og Finnmark fylke,2020-03-01,Transit stations,29.0
+54,Troms og Finnmark fylke,2020-03-02,Transit stations,16.0
+54,Troms og Finnmark fylke,2020-03-03,Transit stations,25.0
+54,Troms og Finnmark fylke,2020-03-04,Transit stations,25.0
+54,Troms og Finnmark fylke,2020-03-05,Transit stations,20.0
+54,Troms og Finnmark fylke,2020-03-06,Transit stations,16.0
+54,Troms og Finnmark fylke,2020-03-07,Transit stations,36.0
+54,Troms og Finnmark fylke,2020-03-08,Transit stations,31.0
+54,Troms og Finnmark fylke,2020-03-09,Transit stations,17.0
+54,Troms og Finnmark fylke,2020-03-10,Transit stations,4.0
+54,Troms og Finnmark fylke,2020-03-11,Transit stations,5.0
+54,Troms og Finnmark fylke,2020-03-12,Transit stations,8.0
+54,Troms og Finnmark fylke,2020-03-13,Transit stations,-15.0
+54,Troms og Finnmark fylke,2020-03-14,Transit stations,-16.0
+54,Troms og Finnmark fylke,2020-03-15,Transit stations,-29.0
+54,Troms og Finnmark fylke,2020-03-16,Transit stations,-40.0
+54,Troms og Finnmark fylke,2020-03-17,Transit stations,-45.0
+54,Troms og Finnmark fylke,2020-03-18,Transit stations,-51.0
+54,Troms og Finnmark fylke,2020-03-19,Transit stations,-56.0
+54,Troms og Finnmark fylke,2020-03-20,Transit stations,-59.0
+54,Troms og Finnmark fylke,2020-03-21,Transit stations,-57.0
+54,Troms og Finnmark fylke,2020-03-22,Transit stations,-69.0
+54,Troms og Finnmark fylke,2020-03-23,Transit stations,-61.0
+54,Troms og Finnmark fylke,2020-03-24,Transit stations,-61.0
+54,Troms og Finnmark fylke,2020-03-25,Transit stations,-59.0
+54,Troms og Finnmark fylke,2020-03-26,Transit stations,-61.0
+54,Troms og Finnmark fylke,2020-03-27,Transit stations,-63.0
+54,Troms og Finnmark fylke,2020-03-28,Transit stations,-67.0
+54,Troms og Finnmark fylke,2020-03-29,Transit stations,-71.0
+54,Troms og Finnmark fylke,2020-03-30,Transit stations,-60.0
+54,Troms og Finnmark fylke,2020-03-31,Transit stations,-60.0
+54,Troms og Finnmark fylke,2020-04-01,Transit stations,-56.0
+54,Troms og Finnmark fylke,2020-04-02,Transit stations,-55.0
+54,Troms og Finnmark fylke,2020-04-03,Transit stations,-60.0
+54,Troms og Finnmark fylke,2020-04-04,Transit stations,-56.0
+54,Troms og Finnmark fylke,2020-04-05,Transit stations,-63.0
+54,Troms og Finnmark fylke,2020-04-06,Transit stations,-56.0
+54,Troms og Finnmark fylke,2020-04-07,Transit stations,-52.0
+54,Troms og Finnmark fylke,2020-04-08,Transit stations,-54.0
+54,Troms og Finnmark fylke,2020-04-09,Transit stations,-71.0
+54,Troms og Finnmark fylke,2020-04-10,Transit stations,-77.0
+54,Troms og Finnmark fylke,2020-04-11,Transit stations,-56.0
+54,Troms og Finnmark fylke,2020-04-12,Transit stations,-67.0
+54,Troms og Finnmark fylke,2020-04-13,Transit stations,-67.0
+54,Troms og Finnmark fylke,2020-04-14,Transit stations,-51.0
+54,Troms og Finnmark fylke,2020-04-15,Transit stations,-51.0
+54,Troms og Finnmark fylke,2020-04-16,Transit stations,-54.0
+54,Troms og Finnmark fylke,2020-04-17,Transit stations,-59.0
+54,Troms og Finnmark fylke,2020-04-18,Transit stations,-53.0
+54,Troms og Finnmark fylke,2020-04-19,Transit stations,-57.0
+54,Troms og Finnmark fylke,2020-04-20,Transit stations,-48.0
+54,Troms og Finnmark fylke,2020-04-21,Transit stations,-45.0
+54,Troms og Finnmark fylke,2020-04-22,Transit stations,-43.0
+54,Troms og Finnmark fylke,2020-04-23,Transit stations,-48.0
+54,Troms og Finnmark fylke,2020-04-24,Transit stations,-51.0
+54,Troms og Finnmark fylke,2020-04-25,Transit stations,-56.0
+54,Troms og Finnmark fylke,2020-04-26,Transit stations,-54.0
+54,Troms og Finnmark fylke,2020-04-27,Transit stations,-47.0
+54,Troms og Finnmark fylke,2020-04-28,Transit stations,-42.0
+54,Troms og Finnmark fylke,2020-04-29,Transit stations,-35.0
+54,Troms og Finnmark fylke,2020-04-30,Transit stations,-30.0
+54,Troms og Finnmark fylke,2020-05-01,Transit stations,-59.0
+54,Troms og Finnmark fylke,2020-05-02,Transit stations,-36.0
+54,Troms og Finnmark fylke,2020-05-03,Transit stations,-41.0
+54,Troms og Finnmark fylke,2020-05-04,Transit stations,-45.0
+54,Troms og Finnmark fylke,2020-05-05,Transit stations,-47.0
+54,Troms og Finnmark fylke,2020-05-06,Transit stations,-42.0
+54,Troms og Finnmark fylke,2020-05-07,Transit stations,-44.0
+54,Troms og Finnmark fylke,2020-05-08,Transit stations,-43.0
+54,Troms og Finnmark fylke,2020-05-09,Transit stations,-41.0
+54,Troms og Finnmark fylke,2020-05-10,Transit stations,-40.0
+54,Troms og Finnmark fylke,2020-05-11,Transit stations,-46.0
+54,Troms og Finnmark fylke,2020-05-12,Transit stations,-45.0
+54,Troms og Finnmark fylke,2020-05-13,Transit stations,-34.0
+54,Troms og Finnmark fylke,2020-05-14,Transit stations,-42.0
+54,Troms og Finnmark fylke,2020-05-15,Transit stations,-46.0
+54,Troms og Finnmark fylke,2020-05-16,Transit stations,-34.0
+54,Troms og Finnmark fylke,2020-05-17,Transit stations,-42.0
+54,Troms og Finnmark fylke,2020-05-18,Transit stations,-41.0
+54,Troms og Finnmark fylke,2020-05-19,Transit stations,-34.0
+54,Troms og Finnmark fylke,2020-05-20,Transit stations,-12.0
+54,Troms og Finnmark fylke,2020-05-21,Transit stations,-47.0
+54,Troms og Finnmark fylke,2020-05-22,Transit stations,-34.0
+54,Troms og Finnmark fylke,2020-05-23,Transit stations,-27.0
+54,Troms og Finnmark fylke,2020-05-24,Transit stations,-22.0
+54,Troms og Finnmark fylke,2020-05-25,Transit stations,-32.0
+54,Troms og Finnmark fylke,2020-05-26,Transit stations,-29.0
+54,Troms og Finnmark fylke,2020-05-27,Transit stations,-26.0
+54,Troms og Finnmark fylke,2020-05-28,Transit stations,-29.0
+54,Troms og Finnmark fylke,2020-05-29,Transit stations,-32.0
+54,Troms og Finnmark fylke,2020-05-30,Transit stations,-27.0
+54,Troms og Finnmark fylke,2020-05-31,Transit stations,-35.0
+54,Troms og Finnmark fylke,2020-06-01,Transit stations,-31.0
+54,Troms og Finnmark fylke,2020-06-02,Transit stations,-25.0
+54,Troms og Finnmark fylke,2020-06-03,Transit stations,-20.0
+54,Troms og Finnmark fylke,2020-06-04,Transit stations,-27.0
+54,Troms og Finnmark fylke,2020-06-05,Transit stations,-22.0
+54,Troms og Finnmark fylke,2020-06-06,Transit stations,-25.0
+54,Troms og Finnmark fylke,2020-06-07,Transit stations,-30.0
+54,Troms og Finnmark fylke,2020-06-08,Transit stations,-27.0
+54,Troms og Finnmark fylke,2020-06-09,Transit stations,-26.0
+54,Troms og Finnmark fylke,2020-06-10,Transit stations,-18.0
+54,Troms og Finnmark fylke,2020-06-11,Transit stations,-23.0
+54,Troms og Finnmark fylke,2020-06-12,Transit stations,-20.0
+54,Troms og Finnmark fylke,2020-06-13,Transit stations,-16.0
+54,Troms og Finnmark fylke,2020-06-14,Transit stations,-25.0
+54,Troms og Finnmark fylke,2020-06-15,Transit stations,-22.0
+54,Troms og Finnmark fylke,2020-06-16,Transit stations,-14.0
+54,Troms og Finnmark fylke,2020-06-17,Transit stations,-14.0
+54,Troms og Finnmark fylke,2020-06-18,Transit stations,-14.0
+54,Troms og Finnmark fylke,2020-06-19,Transit stations,-15.0
+54,Troms og Finnmark fylke,2020-06-20,Transit stations,-7.0
+54,Troms og Finnmark fylke,2020-06-21,Transit stations,-9.0
+54,Troms og Finnmark fylke,2020-06-22,Transit stations,-11.0
+54,Troms og Finnmark fylke,2020-06-23,Transit stations,-9.0
+54,Troms og Finnmark fylke,2020-06-24,Transit stations,-4.0
+54,Troms og Finnmark fylke,2020-06-25,Transit stations,-7.0
+54,Troms og Finnmark fylke,2020-06-26,Transit stations,-14.0
+54,Troms og Finnmark fylke,2020-06-27,Transit stations,-4.0
+54,Troms og Finnmark fylke,2020-06-28,Transit stations,-3.0
+54,Troms og Finnmark fylke,2020-06-29,Transit stations,-10.0
+54,Troms og Finnmark fylke,2020-06-30,Transit stations,-17.0
+54,Troms og Finnmark fylke,2020-07-01,Transit stations,-8.0
+54,Troms og Finnmark fylke,2020-07-02,Transit stations,-11.0
+54,Troms og Finnmark fylke,2020-07-03,Transit stations,-3.0
+54,Troms og Finnmark fylke,2020-07-04,Transit stations,0.0
+54,Troms og Finnmark fylke,2020-07-05,Transit stations,1.0
+54,Troms og Finnmark fylke,2020-07-06,Transit stations,-4.0
+54,Troms og Finnmark fylke,2020-07-07,Transit stations,-2.0
+54,Troms og Finnmark fylke,2020-07-08,Transit stations,5.0
+54,Troms og Finnmark fylke,2020-07-09,Transit stations,2.0
+54,Troms og Finnmark fylke,2020-07-10,Transit stations,-5.0
+54,Troms og Finnmark fylke,2020-07-11,Transit stations,19.0
+54,Troms og Finnmark fylke,2020-07-12,Transit stations,7.0
+54,Troms og Finnmark fylke,2020-07-13,Transit stations,8.0
+54,Troms og Finnmark fylke,2020-07-14,Transit stations,9.0
+54,Troms og Finnmark fylke,2020-07-15,Transit stations,12.0
+54,Troms og Finnmark fylke,2020-07-16,Transit stations,5.0
+54,Troms og Finnmark fylke,2020-07-17,Transit stations,2.0
+54,Troms og Finnmark fylke,2020-07-18,Transit stations,31.0
+54,Troms og Finnmark fylke,2020-07-19,Transit stations,20.0
+54,Troms og Finnmark fylke,2020-07-20,Transit stations,7.0
+54,Troms og Finnmark fylke,2020-07-21,Transit stations,-1.0
+54,Troms og Finnmark fylke,2020-07-22,Transit stations,1.0
+54,Troms og Finnmark fylke,2020-07-23,Transit stations,-3.0
+54,Troms og Finnmark fylke,2020-07-24,Transit stations,6.0
+54,Troms og Finnmark fylke,2020-07-25,Transit stations,32.0
+54,Troms og Finnmark fylke,2020-07-26,Transit stations,30.0
+54,Troms og Finnmark fylke,2020-07-27,Transit stations,21.0
+54,Troms og Finnmark fylke,2020-07-28,Transit stations,13.0
+54,Troms og Finnmark fylke,2020-07-29,Transit stations,19.0
+54,Troms og Finnmark fylke,2020-07-30,Transit stations,11.0
+54,Troms og Finnmark fylke,2020-07-31,Transit stations,7.0
+54,Troms og Finnmark fylke,2020-08-01,Transit stations,24.0
+54,Troms og Finnmark fylke,2020-08-02,Transit stations,19.0
+54,Troms og Finnmark fylke,2020-08-03,Transit stations,14.0
+54,Troms og Finnmark fylke,2020-08-04,Transit stations,7.0
+54,Troms og Finnmark fylke,2020-08-05,Transit stations,8.0
+54,Troms og Finnmark fylke,2020-08-06,Transit stations,7.0
+54,Troms og Finnmark fylke,2020-08-07,Transit stations,3.0
+54,Troms og Finnmark fylke,2020-08-08,Transit stations,27.0
+54,Troms og Finnmark fylke,2020-08-09,Transit stations,-3.0
+54,Troms og Finnmark fylke,2020-08-10,Transit stations,3.0
+54,Troms og Finnmark fylke,2020-08-11,Transit stations,2.0
+54,Troms og Finnmark fylke,2020-08-12,Transit stations,6.0
+54,Troms og Finnmark fylke,2020-08-13,Transit stations,-9.0
+54,Troms og Finnmark fylke,2020-08-14,Transit stations,-8.0
+54,Troms og Finnmark fylke,2020-08-15,Transit stations,-1.0
+54,Troms og Finnmark fylke,2020-08-16,Transit stations,-16.0
 50,Trøndelag,2020-02-15,Transit stations,13.0
 50,Trøndelag,2020-02-16,Transit stations,8.0
 50,Trøndelag,2020-02-17,Transit stations,-3.0
@@ -7502,6 +7542,7 @@ fylke_no,fylke_name,date,category,mob_change
 50,Trøndelag,2020-08-13,Transit stations,-29.0
 50,Trøndelag,2020-08-14,Transit stations,-24.0
 50,Trøndelag,2020-08-15,Transit stations,-14.0
+50,Trøndelag,2020-08-16,Transit stations,-13.0
 38,Vestfold og Telemark,2020-02-15,Transit stations,13.0
 38,Vestfold og Telemark,2020-02-16,Transit stations,-8.0
 38,Vestfold og Telemark,2020-02-17,Transit stations,-2.0
@@ -7685,6 +7726,7 @@ fylke_no,fylke_name,date,category,mob_change
 38,Vestfold og Telemark,2020-08-13,Transit stations,-8.0
 38,Vestfold og Telemark,2020-08-14,Transit stations,3.0
 38,Vestfold og Telemark,2020-08-15,Transit stations,14.0
+38,Vestfold og Telemark,2020-08-16,Transit stations,6.0
 46,Vestland,2020-02-15,Transit stations,23.0
 46,Vestland,2020-02-16,Transit stations,2.0
 46,Vestland,2020-02-17,Transit stations,1.0
@@ -7868,6 +7910,7 @@ fylke_no,fylke_name,date,category,mob_change
 46,Vestland,2020-08-13,Transit stations,11.0
 46,Vestland,2020-08-14,Transit stations,9.0
 46,Vestland,2020-08-15,Transit stations,66.0
+46,Vestland,2020-08-16,Transit stations,40.0
 30,Viken,2020-02-15,Transit stations,5.0
 30,Viken,2020-02-16,Transit stations,-6.0
 30,Viken,2020-02-17,Transit stations,-5.0
@@ -8051,6 +8094,7 @@ fylke_no,fylke_name,date,category,mob_change
 30,Viken,2020-08-13,Transit stations,-35.0
 30,Viken,2020-08-14,Transit stations,-32.0
 30,Viken,2020-08-15,Transit stations,-15.0
+30,Viken,2020-08-16,Transit stations,-23.0
 42,Agder,2020-02-15,Workplace,-4.0
 42,Agder,2020-02-16,Workplace,-7.0
 42,Agder,2020-02-17,Workplace,-24.0
@@ -8234,6 +8278,7 @@ fylke_no,fylke_name,date,category,mob_change
 42,Agder,2020-08-13,Workplace,-31.0
 42,Agder,2020-08-14,Workplace,-31.0
 42,Agder,2020-08-15,Workplace,-2.0
+42,Agder,2020-08-16,Workplace,6.0
 34,Innlandet,2020-02-15,Workplace,-1.0
 34,Innlandet,2020-02-16,Workplace,0.0
 34,Innlandet,2020-02-17,Workplace,-11.0
@@ -8417,6 +8462,7 @@ fylke_no,fylke_name,date,category,mob_change
 34,Innlandet,2020-08-13,Workplace,-31.0
 34,Innlandet,2020-08-14,Workplace,-30.0
 34,Innlandet,2020-08-15,Workplace,-6.0
+34,Innlandet,2020-08-16,Workplace,-1.0
 15,Møre og Romsdal,2020-02-15,Workplace,0.0
 15,Møre og Romsdal,2020-02-16,Workplace,-2.0
 15,Møre og Romsdal,2020-02-17,Workplace,-19.0
@@ -8600,6 +8646,7 @@ fylke_no,fylke_name,date,category,mob_change
 15,Møre og Romsdal,2020-08-13,Workplace,-34.0
 15,Møre og Romsdal,2020-08-14,Workplace,-34.0
 15,Møre og Romsdal,2020-08-15,Workplace,-11.0
+15,Møre og Romsdal,2020-08-16,Workplace,-2.0
 18,Nordland,2020-02-15,Workplace,0.0
 18,Nordland,2020-02-16,Workplace,0.0
 18,Nordland,2020-02-17,Workplace,0.0
@@ -8783,6 +8830,7 @@ fylke_no,fylke_name,date,category,mob_change
 18,Nordland,2020-08-13,Workplace,-34.0
 18,Nordland,2020-08-14,Workplace,-34.0
 18,Nordland,2020-08-15,Workplace,-10.0
+18,Nordland,2020-08-16,Workplace,-2.0
 03,Oslo,2020-02-15,Workplace,-1.0
 03,Oslo,2020-02-16,Workplace,-3.0
 03,Oslo,2020-02-17,Workplace,-16.0
@@ -8966,6 +9014,7 @@ fylke_no,fylke_name,date,category,mob_change
 03,Oslo,2020-08-13,Workplace,-48.0
 03,Oslo,2020-08-14,Workplace,-48.0
 03,Oslo,2020-08-15,Workplace,-12.0
+03,Oslo,2020-08-16,Workplace,-8.0
 11,Rogaland,2020-02-15,Workplace,-1.0
 11,Rogaland,2020-02-16,Workplace,-3.0
 11,Rogaland,2020-02-17,Workplace,0.0
@@ -9149,189 +9198,191 @@ fylke_no,fylke_name,date,category,mob_change
 11,Rogaland,2020-08-13,Workplace,-36.0
 11,Rogaland,2020-08-14,Workplace,-37.0
 11,Rogaland,2020-08-15,Workplace,-8.0
-54,Troms og Finnmark,2020-02-15,Workplace,2.0
-54,Troms og Finnmark,2020-02-16,Workplace,0.0
-54,Troms og Finnmark,2020-02-17,Workplace,-1.0
-54,Troms og Finnmark,2020-02-18,Workplace,-1.0
-54,Troms og Finnmark,2020-02-19,Workplace,-3.0
-54,Troms og Finnmark,2020-02-20,Workplace,-6.0
-54,Troms og Finnmark,2020-02-21,Workplace,-6.0
-54,Troms og Finnmark,2020-02-22,Workplace,-1.0
-54,Troms og Finnmark,2020-02-23,Workplace,-1.0
-54,Troms og Finnmark,2020-02-24,Workplace,-2.0
-54,Troms og Finnmark,2020-02-25,Workplace,0.0
-54,Troms og Finnmark,2020-02-26,Workplace,0.0
-54,Troms og Finnmark,2020-02-27,Workplace,0.0
-54,Troms og Finnmark,2020-02-28,Workplace,-1.0
-54,Troms og Finnmark,2020-02-29,Workplace,0.0
-54,Troms og Finnmark,2020-03-01,Workplace,2.0
-54,Troms og Finnmark,2020-03-02,Workplace,-12.0
-54,Troms og Finnmark,2020-03-03,Workplace,-10.0
-54,Troms og Finnmark,2020-03-04,Workplace,-11.0
-54,Troms og Finnmark,2020-03-05,Workplace,-12.0
-54,Troms og Finnmark,2020-03-06,Workplace,-15.0
-54,Troms og Finnmark,2020-03-07,Workplace,1.0
-54,Troms og Finnmark,2020-03-08,Workplace,1.0
-54,Troms og Finnmark,2020-03-09,Workplace,-2.0
-54,Troms og Finnmark,2020-03-10,Workplace,-1.0
-54,Troms og Finnmark,2020-03-11,Workplace,-2.0
-54,Troms og Finnmark,2020-03-12,Workplace,-6.0
-54,Troms og Finnmark,2020-03-13,Workplace,-31.0
-54,Troms og Finnmark,2020-03-14,Workplace,-24.0
-54,Troms og Finnmark,2020-03-15,Workplace,-23.0
-54,Troms og Finnmark,2020-03-16,Workplace,-42.0
-54,Troms og Finnmark,2020-03-17,Workplace,-45.0
-54,Troms og Finnmark,2020-03-18,Workplace,-46.0
-54,Troms og Finnmark,2020-03-19,Workplace,-47.0
-54,Troms og Finnmark,2020-03-20,Workplace,-48.0
-54,Troms og Finnmark,2020-03-21,Workplace,-32.0
-54,Troms og Finnmark,2020-03-22,Workplace,-31.0
-54,Troms og Finnmark,2020-03-23,Workplace,-46.0
-54,Troms og Finnmark,2020-03-24,Workplace,-47.0
-54,Troms og Finnmark,2020-03-25,Workplace,-46.0
-54,Troms og Finnmark,2020-03-26,Workplace,-46.0
-54,Troms og Finnmark,2020-03-27,Workplace,-45.0
-54,Troms og Finnmark,2020-03-28,Workplace,-35.0
-54,Troms og Finnmark,2020-03-29,Workplace,-32.0
-54,Troms og Finnmark,2020-03-30,Workplace,-45.0
-54,Troms og Finnmark,2020-03-31,Workplace,-46.0
-54,Troms og Finnmark,2020-04-01,Workplace,-43.0
-54,Troms og Finnmark,2020-04-02,Workplace,-43.0
-54,Troms og Finnmark,2020-04-03,Workplace,-43.0
-54,Troms og Finnmark,2020-04-04,Workplace,-30.0
-54,Troms og Finnmark,2020-04-05,Workplace,-32.0
-54,Troms og Finnmark,2020-04-06,Workplace,-52.0
-54,Troms og Finnmark,2020-04-07,Workplace,-53.0
-54,Troms og Finnmark,2020-04-08,Workplace,-60.0
-54,Troms og Finnmark,2020-04-09,Workplace,-82.0
-54,Troms og Finnmark,2020-04-10,Workplace,-82.0
-54,Troms og Finnmark,2020-04-11,Workplace,-35.0
-54,Troms og Finnmark,2020-04-12,Workplace,-32.0
-54,Troms og Finnmark,2020-04-13,Workplace,-82.0
-54,Troms og Finnmark,2020-04-14,Workplace,-41.0
-54,Troms og Finnmark,2020-04-15,Workplace,-40.0
-54,Troms og Finnmark,2020-04-16,Workplace,-40.0
-54,Troms og Finnmark,2020-04-17,Workplace,-39.0
-54,Troms og Finnmark,2020-04-18,Workplace,-23.0
-54,Troms og Finnmark,2020-04-19,Workplace,-24.0
-54,Troms og Finnmark,2020-04-20,Workplace,-36.0
-54,Troms og Finnmark,2020-04-21,Workplace,-36.0
-54,Troms og Finnmark,2020-04-22,Workplace,-34.0
-54,Troms og Finnmark,2020-04-23,Workplace,-35.0
-54,Troms og Finnmark,2020-04-24,Workplace,-34.0
-54,Troms og Finnmark,2020-04-25,Workplace,-26.0
-54,Troms og Finnmark,2020-04-26,Workplace,-23.0
-54,Troms og Finnmark,2020-04-27,Workplace,-31.0
-54,Troms og Finnmark,2020-04-28,Workplace,-30.0
-54,Troms og Finnmark,2020-04-29,Workplace,-30.0
-54,Troms og Finnmark,2020-04-30,Workplace,-33.0
-54,Troms og Finnmark,2020-05-01,Workplace,-78.0
-54,Troms og Finnmark,2020-05-02,Workplace,-18.0
-54,Troms og Finnmark,2020-05-03,Workplace,-17.0
-54,Troms og Finnmark,2020-05-04,Workplace,-30.0
-54,Troms og Finnmark,2020-05-05,Workplace,-28.0
-54,Troms og Finnmark,2020-05-06,Workplace,-27.0
-54,Troms og Finnmark,2020-05-07,Workplace,-28.0
-54,Troms og Finnmark,2020-05-08,Workplace,-26.0
-54,Troms og Finnmark,2020-05-09,Workplace,-14.0
-54,Troms og Finnmark,2020-05-10,Workplace,-12.0
-54,Troms og Finnmark,2020-05-11,Workplace,-25.0
-54,Troms og Finnmark,2020-05-12,Workplace,-22.0
-54,Troms og Finnmark,2020-05-13,Workplace,-20.0
-54,Troms og Finnmark,2020-05-14,Workplace,-19.0
-54,Troms og Finnmark,2020-05-15,Workplace,-20.0
-54,Troms og Finnmark,2020-05-16,Workplace,-11.0
-54,Troms og Finnmark,2020-05-17,Workplace,-5.0
-54,Troms og Finnmark,2020-05-18,Workplace,-20.0
-54,Troms og Finnmark,2020-05-19,Workplace,-18.0
-54,Troms og Finnmark,2020-05-20,Workplace,-17.0
-54,Troms og Finnmark,2020-05-21,Workplace,-76.0
-54,Troms og Finnmark,2020-05-22,Workplace,-43.0
-54,Troms og Finnmark,2020-05-23,Workplace,-12.0
-54,Troms og Finnmark,2020-05-24,Workplace,-6.0
-54,Troms og Finnmark,2020-05-25,Workplace,-19.0
-54,Troms og Finnmark,2020-05-26,Workplace,-18.0
-54,Troms og Finnmark,2020-05-27,Workplace,-16.0
-54,Troms og Finnmark,2020-05-28,Workplace,-17.0
-54,Troms og Finnmark,2020-05-29,Workplace,-17.0
-54,Troms og Finnmark,2020-05-30,Workplace,-8.0
-54,Troms og Finnmark,2020-05-31,Workplace,-8.0
-54,Troms og Finnmark,2020-06-01,Workplace,-76.0
-54,Troms og Finnmark,2020-06-02,Workplace,-15.0
-54,Troms og Finnmark,2020-06-03,Workplace,-14.0
-54,Troms og Finnmark,2020-06-04,Workplace,-15.0
-54,Troms og Finnmark,2020-06-05,Workplace,-15.0
-54,Troms og Finnmark,2020-06-06,Workplace,-7.0
-54,Troms og Finnmark,2020-06-07,Workplace,-6.0
-54,Troms og Finnmark,2020-06-08,Workplace,-16.0
-54,Troms og Finnmark,2020-06-09,Workplace,-15.0
-54,Troms og Finnmark,2020-06-10,Workplace,-15.0
-54,Troms og Finnmark,2020-06-11,Workplace,-17.0
-54,Troms og Finnmark,2020-06-12,Workplace,-16.0
-54,Troms og Finnmark,2020-06-13,Workplace,-7.0
-54,Troms og Finnmark,2020-06-14,Workplace,-4.0
-54,Troms og Finnmark,2020-06-15,Workplace,-17.0
-54,Troms og Finnmark,2020-06-16,Workplace,-17.0
-54,Troms og Finnmark,2020-06-17,Workplace,-17.0
-54,Troms og Finnmark,2020-06-18,Workplace,-17.0
-54,Troms og Finnmark,2020-06-19,Workplace,-18.0
-54,Troms og Finnmark,2020-06-20,Workplace,-8.0
-54,Troms og Finnmark,2020-06-21,Workplace,-7.0
-54,Troms og Finnmark,2020-06-22,Workplace,-31.0
-54,Troms og Finnmark,2020-06-23,Workplace,-30.0
-54,Troms og Finnmark,2020-06-24,Workplace,-28.0
-54,Troms og Finnmark,2020-06-25,Workplace,-29.0
-54,Troms og Finnmark,2020-06-26,Workplace,-31.0
-54,Troms og Finnmark,2020-06-27,Workplace,-12.0
-54,Troms og Finnmark,2020-06-28,Workplace,-11.0
-54,Troms og Finnmark,2020-06-29,Workplace,-35.0
-54,Troms og Finnmark,2020-06-30,Workplace,-35.0
-54,Troms og Finnmark,2020-07-01,Workplace,-36.0
-54,Troms og Finnmark,2020-07-02,Workplace,-37.0
-54,Troms og Finnmark,2020-07-03,Workplace,-37.0
-54,Troms og Finnmark,2020-07-04,Workplace,-15.0
-54,Troms og Finnmark,2020-07-05,Workplace,-14.0
-54,Troms og Finnmark,2020-07-06,Workplace,-46.0
-54,Troms og Finnmark,2020-07-07,Workplace,-47.0
-54,Troms og Finnmark,2020-07-08,Workplace,-45.0
-54,Troms og Finnmark,2020-07-09,Workplace,-46.0
-54,Troms og Finnmark,2020-07-10,Workplace,-46.0
-54,Troms og Finnmark,2020-07-11,Workplace,-16.0
-54,Troms og Finnmark,2020-07-12,Workplace,-17.0
-54,Troms og Finnmark,2020-07-13,Workplace,-53.0
-54,Troms og Finnmark,2020-07-14,Workplace,-54.0
-54,Troms og Finnmark,2020-07-15,Workplace,-52.0
-54,Troms og Finnmark,2020-07-16,Workplace,-53.0
-54,Troms og Finnmark,2020-07-17,Workplace,-52.0
-54,Troms og Finnmark,2020-07-18,Workplace,-17.0
-54,Troms og Finnmark,2020-07-19,Workplace,-17.0
-54,Troms og Finnmark,2020-07-20,Workplace,-57.0
-54,Troms og Finnmark,2020-07-21,Workplace,-57.0
-54,Troms og Finnmark,2020-07-22,Workplace,-56.0
-54,Troms og Finnmark,2020-07-23,Workplace,-56.0
-54,Troms og Finnmark,2020-07-24,Workplace,-55.0
-54,Troms og Finnmark,2020-07-25,Workplace,-20.0
-54,Troms og Finnmark,2020-07-26,Workplace,-16.0
-54,Troms og Finnmark,2020-07-27,Workplace,-56.0
-54,Troms og Finnmark,2020-07-28,Workplace,-56.0
-54,Troms og Finnmark,2020-07-29,Workplace,-55.0
-54,Troms og Finnmark,2020-07-30,Workplace,-56.0
-54,Troms og Finnmark,2020-07-31,Workplace,-55.0
-54,Troms og Finnmark,2020-08-01,Workplace,-19.0
-54,Troms og Finnmark,2020-08-02,Workplace,-16.0
-54,Troms og Finnmark,2020-08-03,Workplace,-49.0
-54,Troms og Finnmark,2020-08-04,Workplace,-48.0
-54,Troms og Finnmark,2020-08-05,Workplace,-47.0
-54,Troms og Finnmark,2020-08-06,Workplace,-47.0
-54,Troms og Finnmark,2020-08-07,Workplace,-47.0
-54,Troms og Finnmark,2020-08-08,Workplace,-18.0
-54,Troms og Finnmark,2020-08-09,Workplace,-18.0
-54,Troms og Finnmark,2020-08-10,Workplace,-40.0
-54,Troms og Finnmark,2020-08-11,Workplace,-38.0
-54,Troms og Finnmark,2020-08-12,Workplace,-38.0
-54,Troms og Finnmark,2020-08-13,Workplace,-38.0
-54,Troms og Finnmark,2020-08-14,Workplace,-38.0
-54,Troms og Finnmark,2020-08-15,Workplace,-19.0
+11,Rogaland,2020-08-16,Workplace,-7.0
+54,Troms og Finnmark fylke,2020-02-15,Workplace,2.0
+54,Troms og Finnmark fylke,2020-02-16,Workplace,0.0
+54,Troms og Finnmark fylke,2020-02-17,Workplace,-1.0
+54,Troms og Finnmark fylke,2020-02-18,Workplace,-1.0
+54,Troms og Finnmark fylke,2020-02-19,Workplace,-3.0
+54,Troms og Finnmark fylke,2020-02-20,Workplace,-6.0
+54,Troms og Finnmark fylke,2020-02-21,Workplace,-6.0
+54,Troms og Finnmark fylke,2020-02-22,Workplace,-1.0
+54,Troms og Finnmark fylke,2020-02-23,Workplace,-1.0
+54,Troms og Finnmark fylke,2020-02-24,Workplace,-2.0
+54,Troms og Finnmark fylke,2020-02-25,Workplace,0.0
+54,Troms og Finnmark fylke,2020-02-26,Workplace,0.0
+54,Troms og Finnmark fylke,2020-02-27,Workplace,0.0
+54,Troms og Finnmark fylke,2020-02-28,Workplace,-1.0
+54,Troms og Finnmark fylke,2020-02-29,Workplace,0.0
+54,Troms og Finnmark fylke,2020-03-01,Workplace,2.0
+54,Troms og Finnmark fylke,2020-03-02,Workplace,-12.0
+54,Troms og Finnmark fylke,2020-03-03,Workplace,-10.0
+54,Troms og Finnmark fylke,2020-03-04,Workplace,-11.0
+54,Troms og Finnmark fylke,2020-03-05,Workplace,-12.0
+54,Troms og Finnmark fylke,2020-03-06,Workplace,-15.0
+54,Troms og Finnmark fylke,2020-03-07,Workplace,1.0
+54,Troms og Finnmark fylke,2020-03-08,Workplace,1.0
+54,Troms og Finnmark fylke,2020-03-09,Workplace,-2.0
+54,Troms og Finnmark fylke,2020-03-10,Workplace,-1.0
+54,Troms og Finnmark fylke,2020-03-11,Workplace,-2.0
+54,Troms og Finnmark fylke,2020-03-12,Workplace,-6.0
+54,Troms og Finnmark fylke,2020-03-13,Workplace,-31.0
+54,Troms og Finnmark fylke,2020-03-14,Workplace,-24.0
+54,Troms og Finnmark fylke,2020-03-15,Workplace,-23.0
+54,Troms og Finnmark fylke,2020-03-16,Workplace,-42.0
+54,Troms og Finnmark fylke,2020-03-17,Workplace,-45.0
+54,Troms og Finnmark fylke,2020-03-18,Workplace,-46.0
+54,Troms og Finnmark fylke,2020-03-19,Workplace,-47.0
+54,Troms og Finnmark fylke,2020-03-20,Workplace,-48.0
+54,Troms og Finnmark fylke,2020-03-21,Workplace,-32.0
+54,Troms og Finnmark fylke,2020-03-22,Workplace,-31.0
+54,Troms og Finnmark fylke,2020-03-23,Workplace,-46.0
+54,Troms og Finnmark fylke,2020-03-24,Workplace,-47.0
+54,Troms og Finnmark fylke,2020-03-25,Workplace,-46.0
+54,Troms og Finnmark fylke,2020-03-26,Workplace,-46.0
+54,Troms og Finnmark fylke,2020-03-27,Workplace,-45.0
+54,Troms og Finnmark fylke,2020-03-28,Workplace,-35.0
+54,Troms og Finnmark fylke,2020-03-29,Workplace,-32.0
+54,Troms og Finnmark fylke,2020-03-30,Workplace,-45.0
+54,Troms og Finnmark fylke,2020-03-31,Workplace,-46.0
+54,Troms og Finnmark fylke,2020-04-01,Workplace,-43.0
+54,Troms og Finnmark fylke,2020-04-02,Workplace,-43.0
+54,Troms og Finnmark fylke,2020-04-03,Workplace,-43.0
+54,Troms og Finnmark fylke,2020-04-04,Workplace,-30.0
+54,Troms og Finnmark fylke,2020-04-05,Workplace,-32.0
+54,Troms og Finnmark fylke,2020-04-06,Workplace,-52.0
+54,Troms og Finnmark fylke,2020-04-07,Workplace,-53.0
+54,Troms og Finnmark fylke,2020-04-08,Workplace,-60.0
+54,Troms og Finnmark fylke,2020-04-09,Workplace,-82.0
+54,Troms og Finnmark fylke,2020-04-10,Workplace,-82.0
+54,Troms og Finnmark fylke,2020-04-11,Workplace,-35.0
+54,Troms og Finnmark fylke,2020-04-12,Workplace,-32.0
+54,Troms og Finnmark fylke,2020-04-13,Workplace,-82.0
+54,Troms og Finnmark fylke,2020-04-14,Workplace,-41.0
+54,Troms og Finnmark fylke,2020-04-15,Workplace,-40.0
+54,Troms og Finnmark fylke,2020-04-16,Workplace,-40.0
+54,Troms og Finnmark fylke,2020-04-17,Workplace,-39.0
+54,Troms og Finnmark fylke,2020-04-18,Workplace,-23.0
+54,Troms og Finnmark fylke,2020-04-19,Workplace,-24.0
+54,Troms og Finnmark fylke,2020-04-20,Workplace,-36.0
+54,Troms og Finnmark fylke,2020-04-21,Workplace,-36.0
+54,Troms og Finnmark fylke,2020-04-22,Workplace,-34.0
+54,Troms og Finnmark fylke,2020-04-23,Workplace,-35.0
+54,Troms og Finnmark fylke,2020-04-24,Workplace,-34.0
+54,Troms og Finnmark fylke,2020-04-25,Workplace,-26.0
+54,Troms og Finnmark fylke,2020-04-26,Workplace,-23.0
+54,Troms og Finnmark fylke,2020-04-27,Workplace,-31.0
+54,Troms og Finnmark fylke,2020-04-28,Workplace,-30.0
+54,Troms og Finnmark fylke,2020-04-29,Workplace,-30.0
+54,Troms og Finnmark fylke,2020-04-30,Workplace,-33.0
+54,Troms og Finnmark fylke,2020-05-01,Workplace,-78.0
+54,Troms og Finnmark fylke,2020-05-02,Workplace,-18.0
+54,Troms og Finnmark fylke,2020-05-03,Workplace,-17.0
+54,Troms og Finnmark fylke,2020-05-04,Workplace,-30.0
+54,Troms og Finnmark fylke,2020-05-05,Workplace,-28.0
+54,Troms og Finnmark fylke,2020-05-06,Workplace,-27.0
+54,Troms og Finnmark fylke,2020-05-07,Workplace,-28.0
+54,Troms og Finnmark fylke,2020-05-08,Workplace,-26.0
+54,Troms og Finnmark fylke,2020-05-09,Workplace,-14.0
+54,Troms og Finnmark fylke,2020-05-10,Workplace,-12.0
+54,Troms og Finnmark fylke,2020-05-11,Workplace,-25.0
+54,Troms og Finnmark fylke,2020-05-12,Workplace,-22.0
+54,Troms og Finnmark fylke,2020-05-13,Workplace,-20.0
+54,Troms og Finnmark fylke,2020-05-14,Workplace,-19.0
+54,Troms og Finnmark fylke,2020-05-15,Workplace,-20.0
+54,Troms og Finnmark fylke,2020-05-16,Workplace,-11.0
+54,Troms og Finnmark fylke,2020-05-17,Workplace,-5.0
+54,Troms og Finnmark fylke,2020-05-18,Workplace,-20.0
+54,Troms og Finnmark fylke,2020-05-19,Workplace,-18.0
+54,Troms og Finnmark fylke,2020-05-20,Workplace,-17.0
+54,Troms og Finnmark fylke,2020-05-21,Workplace,-76.0
+54,Troms og Finnmark fylke,2020-05-22,Workplace,-43.0
+54,Troms og Finnmark fylke,2020-05-23,Workplace,-12.0
+54,Troms og Finnmark fylke,2020-05-24,Workplace,-6.0
+54,Troms og Finnmark fylke,2020-05-25,Workplace,-19.0
+54,Troms og Finnmark fylke,2020-05-26,Workplace,-18.0
+54,Troms og Finnmark fylke,2020-05-27,Workplace,-16.0
+54,Troms og Finnmark fylke,2020-05-28,Workplace,-17.0
+54,Troms og Finnmark fylke,2020-05-29,Workplace,-17.0
+54,Troms og Finnmark fylke,2020-05-30,Workplace,-8.0
+54,Troms og Finnmark fylke,2020-05-31,Workplace,-8.0
+54,Troms og Finnmark fylke,2020-06-01,Workplace,-76.0
+54,Troms og Finnmark fylke,2020-06-02,Workplace,-15.0
+54,Troms og Finnmark fylke,2020-06-03,Workplace,-14.0
+54,Troms og Finnmark fylke,2020-06-04,Workplace,-15.0
+54,Troms og Finnmark fylke,2020-06-05,Workplace,-15.0
+54,Troms og Finnmark fylke,2020-06-06,Workplace,-7.0
+54,Troms og Finnmark fylke,2020-06-07,Workplace,-6.0
+54,Troms og Finnmark fylke,2020-06-08,Workplace,-16.0
+54,Troms og Finnmark fylke,2020-06-09,Workplace,-15.0
+54,Troms og Finnmark fylke,2020-06-10,Workplace,-15.0
+54,Troms og Finnmark fylke,2020-06-11,Workplace,-17.0
+54,Troms og Finnmark fylke,2020-06-12,Workplace,-16.0
+54,Troms og Finnmark fylke,2020-06-13,Workplace,-7.0
+54,Troms og Finnmark fylke,2020-06-14,Workplace,-4.0
+54,Troms og Finnmark fylke,2020-06-15,Workplace,-17.0
+54,Troms og Finnmark fylke,2020-06-16,Workplace,-17.0
+54,Troms og Finnmark fylke,2020-06-17,Workplace,-17.0
+54,Troms og Finnmark fylke,2020-06-18,Workplace,-17.0
+54,Troms og Finnmark fylke,2020-06-19,Workplace,-18.0
+54,Troms og Finnmark fylke,2020-06-20,Workplace,-8.0
+54,Troms og Finnmark fylke,2020-06-21,Workplace,-7.0
+54,Troms og Finnmark fylke,2020-06-22,Workplace,-31.0
+54,Troms og Finnmark fylke,2020-06-23,Workplace,-30.0
+54,Troms og Finnmark fylke,2020-06-24,Workplace,-28.0
+54,Troms og Finnmark fylke,2020-06-25,Workplace,-29.0
+54,Troms og Finnmark fylke,2020-06-26,Workplace,-31.0
+54,Troms og Finnmark fylke,2020-06-27,Workplace,-12.0
+54,Troms og Finnmark fylke,2020-06-28,Workplace,-11.0
+54,Troms og Finnmark fylke,2020-06-29,Workplace,-35.0
+54,Troms og Finnmark fylke,2020-06-30,Workplace,-35.0
+54,Troms og Finnmark fylke,2020-07-01,Workplace,-36.0
+54,Troms og Finnmark fylke,2020-07-02,Workplace,-37.0
+54,Troms og Finnmark fylke,2020-07-03,Workplace,-37.0
+54,Troms og Finnmark fylke,2020-07-04,Workplace,-15.0
+54,Troms og Finnmark fylke,2020-07-05,Workplace,-14.0
+54,Troms og Finnmark fylke,2020-07-06,Workplace,-46.0
+54,Troms og Finnmark fylke,2020-07-07,Workplace,-47.0
+54,Troms og Finnmark fylke,2020-07-08,Workplace,-45.0
+54,Troms og Finnmark fylke,2020-07-09,Workplace,-46.0
+54,Troms og Finnmark fylke,2020-07-10,Workplace,-46.0
+54,Troms og Finnmark fylke,2020-07-11,Workplace,-16.0
+54,Troms og Finnmark fylke,2020-07-12,Workplace,-17.0
+54,Troms og Finnmark fylke,2020-07-13,Workplace,-53.0
+54,Troms og Finnmark fylke,2020-07-14,Workplace,-54.0
+54,Troms og Finnmark fylke,2020-07-15,Workplace,-52.0
+54,Troms og Finnmark fylke,2020-07-16,Workplace,-53.0
+54,Troms og Finnmark fylke,2020-07-17,Workplace,-52.0
+54,Troms og Finnmark fylke,2020-07-18,Workplace,-17.0
+54,Troms og Finnmark fylke,2020-07-19,Workplace,-17.0
+54,Troms og Finnmark fylke,2020-07-20,Workplace,-57.0
+54,Troms og Finnmark fylke,2020-07-21,Workplace,-57.0
+54,Troms og Finnmark fylke,2020-07-22,Workplace,-56.0
+54,Troms og Finnmark fylke,2020-07-23,Workplace,-56.0
+54,Troms og Finnmark fylke,2020-07-24,Workplace,-55.0
+54,Troms og Finnmark fylke,2020-07-25,Workplace,-20.0
+54,Troms og Finnmark fylke,2020-07-26,Workplace,-16.0
+54,Troms og Finnmark fylke,2020-07-27,Workplace,-56.0
+54,Troms og Finnmark fylke,2020-07-28,Workplace,-56.0
+54,Troms og Finnmark fylke,2020-07-29,Workplace,-55.0
+54,Troms og Finnmark fylke,2020-07-30,Workplace,-56.0
+54,Troms og Finnmark fylke,2020-07-31,Workplace,-55.0
+54,Troms og Finnmark fylke,2020-08-01,Workplace,-19.0
+54,Troms og Finnmark fylke,2020-08-02,Workplace,-16.0
+54,Troms og Finnmark fylke,2020-08-03,Workplace,-49.0
+54,Troms og Finnmark fylke,2020-08-04,Workplace,-48.0
+54,Troms og Finnmark fylke,2020-08-05,Workplace,-47.0
+54,Troms og Finnmark fylke,2020-08-06,Workplace,-47.0
+54,Troms og Finnmark fylke,2020-08-07,Workplace,-47.0
+54,Troms og Finnmark fylke,2020-08-08,Workplace,-18.0
+54,Troms og Finnmark fylke,2020-08-09,Workplace,-18.0
+54,Troms og Finnmark fylke,2020-08-10,Workplace,-40.0
+54,Troms og Finnmark fylke,2020-08-11,Workplace,-38.0
+54,Troms og Finnmark fylke,2020-08-12,Workplace,-38.0
+54,Troms og Finnmark fylke,2020-08-13,Workplace,-38.0
+54,Troms og Finnmark fylke,2020-08-14,Workplace,-38.0
+54,Troms og Finnmark fylke,2020-08-15,Workplace,-19.0
+54,Troms og Finnmark fylke,2020-08-16,Workplace,-14.0
 50,Trøndelag,2020-02-15,Workplace,0.0
 50,Trøndelag,2020-02-16,Workplace,-2.0
 50,Trøndelag,2020-02-17,Workplace,-17.0
@@ -9515,6 +9566,7 @@ fylke_no,fylke_name,date,category,mob_change
 50,Trøndelag,2020-08-13,Workplace,-37.0
 50,Trøndelag,2020-08-14,Workplace,-37.0
 50,Trøndelag,2020-08-15,Workplace,-12.0
+50,Trøndelag,2020-08-16,Workplace,-8.0
 38,Vestfold og Telemark,2020-02-15,Workplace,-3.0
 38,Vestfold og Telemark,2020-02-16,Workplace,-4.0
 38,Vestfold og Telemark,2020-02-17,Workplace,-21.0
@@ -9698,6 +9750,7 @@ fylke_no,fylke_name,date,category,mob_change
 38,Vestfold og Telemark,2020-08-13,Workplace,-29.0
 38,Vestfold og Telemark,2020-08-14,Workplace,-30.0
 38,Vestfold og Telemark,2020-08-15,Workplace,0.0
+38,Vestfold og Telemark,2020-08-16,Workplace,9.0
 46,Vestland,2020-02-15,Workplace,0.0
 46,Vestland,2020-02-16,Workplace,-1.0
 46,Vestland,2020-02-17,Workplace,-5.0
@@ -9881,6 +9934,7 @@ fylke_no,fylke_name,date,category,mob_change
 46,Vestland,2020-08-13,Workplace,-36.0
 46,Vestland,2020-08-14,Workplace,-36.0
 46,Vestland,2020-08-15,Workplace,-6.0
+46,Vestland,2020-08-16,Workplace,-4.0
 30,Viken,2020-02-15,Workplace,0.0
 30,Viken,2020-02-16,Workplace,-4.0
 30,Viken,2020-02-17,Workplace,-15.0
@@ -10064,6 +10118,7 @@ fylke_no,fylke_name,date,category,mob_change
 30,Viken,2020-08-13,Workplace,-39.0
 30,Viken,2020-08-14,Workplace,-39.0
 30,Viken,2020-08-15,Workplace,-5.0
+30,Viken,2020-08-16,Workplace,1.0
 42,Agder,2020-02-15,Residential,0.0
 42,Agder,2020-02-16,Residential,1.0
 42,Agder,2020-02-17,Residential,3.0
@@ -10247,6 +10302,7 @@ fylke_no,fylke_name,date,category,mob_change
 42,Agder,2020-08-13,Residential,1.0
 42,Agder,2020-08-14,Residential,-1.0
 42,Agder,2020-08-15,Residential,-5.0
+42,Agder,2020-08-16,Residential,-7.0
 34,Innlandet,2020-02-15,Residential,-1.0
 34,Innlandet,2020-02-16,Residential,1.0
 34,Innlandet,2020-02-17,Residential,2.0
@@ -10430,6 +10486,7 @@ fylke_no,fylke_name,date,category,mob_change
 34,Innlandet,2020-08-13,Residential,2.0
 34,Innlandet,2020-08-14,Residential,-1.0
 34,Innlandet,2020-08-15,Residential,-5.0
+34,Innlandet,2020-08-16,Residential,-6.0
 15,Møre og Romsdal,2020-02-15,Residential,-2.0
 15,Møre og Romsdal,2020-02-16,Residential,0.0
 15,Møre og Romsdal,2020-02-17,Residential,2.0
@@ -10613,6 +10670,7 @@ fylke_no,fylke_name,date,category,mob_change
 15,Møre og Romsdal,2020-08-13,Residential,4.0
 15,Møre og Romsdal,2020-08-14,Residential,1.0
 15,Møre og Romsdal,2020-08-15,Residential,-3.0
+15,Møre og Romsdal,2020-08-16,Residential,-4.0
 18,Nordland,2020-02-15,Residential,0.0
 18,Nordland,2020-02-16,Residential,-1.0
 18,Nordland,2020-02-17,Residential,0.0
@@ -10796,6 +10854,7 @@ fylke_no,fylke_name,date,category,mob_change
 18,Nordland,2020-08-13,Residential,1.0
 18,Nordland,2020-08-14,Residential,1.0
 18,Nordland,2020-08-15,Residential,-2.0
+18,Nordland,2020-08-16,Residential,-3.0
 03,Oslo,2020-02-15,Residential,-1.0
 03,Oslo,2020-02-16,Residential,1.0
 03,Oslo,2020-02-17,Residential,2.0
@@ -10979,6 +11038,7 @@ fylke_no,fylke_name,date,category,mob_change
 03,Oslo,2020-08-13,Residential,8.0
 03,Oslo,2020-08-14,Residential,6.0
 03,Oslo,2020-08-15,Residential,-3.0
+03,Oslo,2020-08-16,Residential,-2.0
 11,Rogaland,2020-02-15,Residential,-1.0
 11,Rogaland,2020-02-16,Residential,1.0
 11,Rogaland,2020-02-17,Residential,1.0
@@ -11162,189 +11222,191 @@ fylke_no,fylke_name,date,category,mob_change
 11,Rogaland,2020-08-13,Residential,3.0
 11,Rogaland,2020-08-14,Residential,3.0
 11,Rogaland,2020-08-15,Residential,-4.0
-54,Troms og Finnmark,2020-02-15,Residential,-1.0
-54,Troms og Finnmark,2020-02-16,Residential,-1.0
-54,Troms og Finnmark,2020-02-17,Residential,-1.0
-54,Troms og Finnmark,2020-02-18,Residential,0.0
-54,Troms og Finnmark,2020-02-19,Residential,-1.0
-54,Troms og Finnmark,2020-02-20,Residential,0.0
-54,Troms og Finnmark,2020-02-21,Residential,0.0
-54,Troms og Finnmark,2020-02-22,Residential,0.0
-54,Troms og Finnmark,2020-02-23,Residential,-2.0
-54,Troms og Finnmark,2020-02-24,Residential,0.0
-54,Troms og Finnmark,2020-02-25,Residential,-1.0
-54,Troms og Finnmark,2020-02-26,Residential,-1.0
-54,Troms og Finnmark,2020-02-27,Residential,-1.0
-54,Troms og Finnmark,2020-02-28,Residential,-1.0
-54,Troms og Finnmark,2020-02-29,Residential,-1.0
-54,Troms og Finnmark,2020-03-01,Residential,-3.0
-54,Troms og Finnmark,2020-03-02,Residential,1.0
-54,Troms og Finnmark,2020-03-03,Residential,0.0
-54,Troms og Finnmark,2020-03-04,Residential,0.0
-54,Troms og Finnmark,2020-03-05,Residential,1.0
-54,Troms og Finnmark,2020-03-06,Residential,2.0
-54,Troms og Finnmark,2020-03-07,Residential,-1.0
-54,Troms og Finnmark,2020-03-08,Residential,-4.0
-54,Troms og Finnmark,2020-03-09,Residential,0.0
-54,Troms og Finnmark,2020-03-10,Residential,0.0
-54,Troms og Finnmark,2020-03-11,Residential,0.0
-54,Troms og Finnmark,2020-03-12,Residential,2.0
-54,Troms og Finnmark,2020-03-13,Residential,12.0
-54,Troms og Finnmark,2020-03-14,Residential,6.0
-54,Troms og Finnmark,2020-03-15,Residential,7.0
-54,Troms og Finnmark,2020-03-16,Residential,16.0
-54,Troms og Finnmark,2020-03-17,Residential,16.0
-54,Troms og Finnmark,2020-03-18,Residential,16.0
-54,Troms og Finnmark,2020-03-19,Residential,17.0
-54,Troms og Finnmark,2020-03-20,Residential,18.0
-54,Troms og Finnmark,2020-03-21,Residential,9.0
-54,Troms og Finnmark,2020-03-22,Residential,10.0
-54,Troms og Finnmark,2020-03-23,Residential,16.0
-54,Troms og Finnmark,2020-03-24,Residential,17.0
-54,Troms og Finnmark,2020-03-25,Residential,16.0
-54,Troms og Finnmark,2020-03-26,Residential,17.0
-54,Troms og Finnmark,2020-03-27,Residential,17.0
-54,Troms og Finnmark,2020-03-28,Residential,11.0
-54,Troms og Finnmark,2020-03-29,Residential,10.0
-54,Troms og Finnmark,2020-03-30,Residential,15.0
-54,Troms og Finnmark,2020-03-31,Residential,16.0
-54,Troms og Finnmark,2020-04-01,Residential,13.0
-54,Troms og Finnmark,2020-04-02,Residential,13.0
-54,Troms og Finnmark,2020-04-03,Residential,15.0
-54,Troms og Finnmark,2020-04-04,Residential,6.0
-54,Troms og Finnmark,2020-04-05,Residential,8.0
-54,Troms og Finnmark,2020-04-06,Residential,13.0
-54,Troms og Finnmark,2020-04-07,Residential,13.0
-54,Troms og Finnmark,2020-04-08,Residential,14.0
-54,Troms og Finnmark,2020-04-09,Residential,22.0
-54,Troms og Finnmark,2020-04-10,Residential,25.0
-54,Troms og Finnmark,2020-04-11,Residential,5.0
-54,Troms og Finnmark,2020-04-12,Residential,6.0
-54,Troms og Finnmark,2020-04-13,Residential,22.0
-54,Troms og Finnmark,2020-04-14,Residential,11.0
-54,Troms og Finnmark,2020-04-15,Residential,13.0
-54,Troms og Finnmark,2020-04-16,Residential,12.0
-54,Troms og Finnmark,2020-04-17,Residential,14.0
-54,Troms og Finnmark,2020-04-18,Residential,5.0
-54,Troms og Finnmark,2020-04-19,Residential,6.0
-54,Troms og Finnmark,2020-04-20,Residential,11.0
-54,Troms og Finnmark,2020-04-21,Residential,9.0
-54,Troms og Finnmark,2020-04-22,Residential,10.0
-54,Troms og Finnmark,2020-04-23,Residential,11.0
-54,Troms og Finnmark,2020-04-24,Residential,11.0
-54,Troms og Finnmark,2020-04-25,Residential,7.0
-54,Troms og Finnmark,2020-04-26,Residential,4.0
-54,Troms og Finnmark,2020-04-27,Residential,9.0
-54,Troms og Finnmark,2020-04-28,Residential,7.0
-54,Troms og Finnmark,2020-04-29,Residential,6.0
-54,Troms og Finnmark,2020-04-30,Residential,3.0
-54,Troms og Finnmark,2020-05-01,Residential,19.0
-54,Troms og Finnmark,2020-05-02,Residential,0.0
-54,Troms og Finnmark,2020-05-03,Residential,-2.0
-54,Troms og Finnmark,2020-05-04,Residential,8.0
-54,Troms og Finnmark,2020-05-05,Residential,9.0
-54,Troms og Finnmark,2020-05-06,Residential,9.0
-54,Troms og Finnmark,2020-05-07,Residential,10.0
-54,Troms og Finnmark,2020-05-08,Residential,8.0
-54,Troms og Finnmark,2020-05-09,Residential,2.0
-54,Troms og Finnmark,2020-05-10,Residential,0.0
-54,Troms og Finnmark,2020-05-11,Residential,8.0
-54,Troms og Finnmark,2020-05-12,Residential,8.0
-54,Troms og Finnmark,2020-05-13,Residential,5.0
-54,Troms og Finnmark,2020-05-14,Residential,5.0
-54,Troms og Finnmark,2020-05-15,Residential,7.0
-54,Troms og Finnmark,2020-05-16,Residential,0.0
-54,Troms og Finnmark,2020-05-17,Residential,0.0
-54,Troms og Finnmark,2020-05-18,Residential,5.0
-54,Troms og Finnmark,2020-05-19,Residential,4.0
-54,Troms og Finnmark,2020-05-20,Residential,-1.0
-54,Troms og Finnmark,2020-05-21,Residential,15.0
-54,Troms og Finnmark,2020-05-22,Residential,5.0
-54,Troms og Finnmark,2020-05-23,Residential,-2.0
-54,Troms og Finnmark,2020-05-24,Residential,-6.0
-54,Troms og Finnmark,2020-05-25,Residential,3.0
-54,Troms og Finnmark,2020-05-26,Residential,3.0
-54,Troms og Finnmark,2020-05-27,Residential,3.0
-54,Troms og Finnmark,2020-05-28,Residential,4.0
-54,Troms og Finnmark,2020-05-29,Residential,2.0
-54,Troms og Finnmark,2020-05-30,Residential,-1.0
-54,Troms og Finnmark,2020-05-31,Residential,-1.0
-54,Troms og Finnmark,2020-06-01,Residential,5.0
-54,Troms og Finnmark,2020-06-02,Residential,1.0
-54,Troms og Finnmark,2020-06-03,Residential,2.0
-54,Troms og Finnmark,2020-06-04,Residential,2.0
-54,Troms og Finnmark,2020-06-05,Residential,0.0
-54,Troms og Finnmark,2020-06-06,Residential,-3.0
-54,Troms og Finnmark,2020-06-07,Residential,-3.0
-54,Troms og Finnmark,2020-06-08,Residential,2.0
-54,Troms og Finnmark,2020-06-09,Residential,2.0
-54,Troms og Finnmark,2020-06-10,Residential,1.0
-54,Troms og Finnmark,2020-06-11,Residential,2.0
-54,Troms og Finnmark,2020-06-12,Residential,-2.0
-54,Troms og Finnmark,2020-06-13,Residential,-5.0
-54,Troms og Finnmark,2020-06-14,Residential,-6.0
-54,Troms og Finnmark,2020-06-15,Residential,0.0
-54,Troms og Finnmark,2020-06-16,Residential,0.0
-54,Troms og Finnmark,2020-06-17,Residential,-1.0
-54,Troms og Finnmark,2020-06-18,Residential,-1.0
-54,Troms og Finnmark,2020-06-19,Residential,-2.0
-54,Troms og Finnmark,2020-06-20,Residential,-6.0
-54,Troms og Finnmark,2020-06-21,Residential,-9.0
-54,Troms og Finnmark,2020-06-22,Residential,-1.0
-54,Troms og Finnmark,2020-06-23,Residential,-2.0
-54,Troms og Finnmark,2020-06-24,Residential,0.0
-54,Troms og Finnmark,2020-06-25,Residential,1.0
-54,Troms og Finnmark,2020-06-26,Residential,1.0
-54,Troms og Finnmark,2020-06-27,Residential,-4.0
-54,Troms og Finnmark,2020-06-28,Residential,-6.0
-54,Troms og Finnmark,2020-06-29,Residential,1.0
-54,Troms og Finnmark,2020-06-30,Residential,3.0
-54,Troms og Finnmark,2020-07-01,Residential,3.0
-54,Troms og Finnmark,2020-07-02,Residential,3.0
-54,Troms og Finnmark,2020-07-03,Residential,0.0
-54,Troms og Finnmark,2020-07-04,Residential,-3.0
-54,Troms og Finnmark,2020-07-05,Residential,-5.0
-54,Troms og Finnmark,2020-07-06,Residential,3.0
-54,Troms og Finnmark,2020-07-07,Residential,2.0
-54,Troms og Finnmark,2020-07-08,Residential,2.0
-54,Troms og Finnmark,2020-07-09,Residential,2.0
-54,Troms og Finnmark,2020-07-10,Residential,1.0
-54,Troms og Finnmark,2020-07-11,Residential,-6.0
-54,Troms og Finnmark,2020-07-12,Residential,-5.0
-54,Troms og Finnmark,2020-07-13,Residential,2.0
-54,Troms og Finnmark,2020-07-14,Residential,1.0
-54,Troms og Finnmark,2020-07-15,Residential,2.0
-54,Troms og Finnmark,2020-07-16,Residential,2.0
-54,Troms og Finnmark,2020-07-17,Residential,2.0
-54,Troms og Finnmark,2020-07-18,Residential,-6.0
-54,Troms og Finnmark,2020-07-19,Residential,-5.0
-54,Troms og Finnmark,2020-07-20,Residential,3.0
-54,Troms og Finnmark,2020-07-21,Residential,5.0
-54,Troms og Finnmark,2020-07-22,Residential,5.0
-54,Troms og Finnmark,2020-07-23,Residential,6.0
-54,Troms og Finnmark,2020-07-24,Residential,2.0
-54,Troms og Finnmark,2020-07-25,Residential,-6.0
-54,Troms og Finnmark,2020-07-26,Residential,-8.0
-54,Troms og Finnmark,2020-07-27,Residential,1.0
-54,Troms og Finnmark,2020-07-28,Residential,1.0
-54,Troms og Finnmark,2020-07-29,Residential,1.0
-54,Troms og Finnmark,2020-07-30,Residential,1.0
-54,Troms og Finnmark,2020-07-31,Residential,1.0
-54,Troms og Finnmark,2020-08-01,Residential,-6.0
-54,Troms og Finnmark,2020-08-02,Residential,-7.0
-54,Troms og Finnmark,2020-08-03,Residential,1.0
-54,Troms og Finnmark,2020-08-04,Residential,3.0
-54,Troms og Finnmark,2020-08-05,Residential,2.0
-54,Troms og Finnmark,2020-08-06,Residential,2.0
-54,Troms og Finnmark,2020-08-07,Residential,1.0
-54,Troms og Finnmark,2020-08-08,Residential,-6.0
-54,Troms og Finnmark,2020-08-09,Residential,-3.0
-54,Troms og Finnmark,2020-08-10,Residential,2.0
-54,Troms og Finnmark,2020-08-11,Residential,1.0
-54,Troms og Finnmark,2020-08-12,Residential,0.0
-54,Troms og Finnmark,2020-08-13,Residential,1.0
-54,Troms og Finnmark,2020-08-14,Residential,2.0
-54,Troms og Finnmark,2020-08-15,Residential,-2.0
+11,Rogaland,2020-08-16,Residential,-4.0
+54,Troms og Finnmark fylke,2020-02-15,Residential,-1.0
+54,Troms og Finnmark fylke,2020-02-16,Residential,-1.0
+54,Troms og Finnmark fylke,2020-02-17,Residential,-1.0
+54,Troms og Finnmark fylke,2020-02-18,Residential,0.0
+54,Troms og Finnmark fylke,2020-02-19,Residential,-1.0
+54,Troms og Finnmark fylke,2020-02-20,Residential,0.0
+54,Troms og Finnmark fylke,2020-02-21,Residential,0.0
+54,Troms og Finnmark fylke,2020-02-22,Residential,0.0
+54,Troms og Finnmark fylke,2020-02-23,Residential,-2.0
+54,Troms og Finnmark fylke,2020-02-24,Residential,0.0
+54,Troms og Finnmark fylke,2020-02-25,Residential,-1.0
+54,Troms og Finnmark fylke,2020-02-26,Residential,-1.0
+54,Troms og Finnmark fylke,2020-02-27,Residential,-1.0
+54,Troms og Finnmark fylke,2020-02-28,Residential,-1.0
+54,Troms og Finnmark fylke,2020-02-29,Residential,-1.0
+54,Troms og Finnmark fylke,2020-03-01,Residential,-3.0
+54,Troms og Finnmark fylke,2020-03-02,Residential,1.0
+54,Troms og Finnmark fylke,2020-03-03,Residential,0.0
+54,Troms og Finnmark fylke,2020-03-04,Residential,0.0
+54,Troms og Finnmark fylke,2020-03-05,Residential,1.0
+54,Troms og Finnmark fylke,2020-03-06,Residential,2.0
+54,Troms og Finnmark fylke,2020-03-07,Residential,-1.0
+54,Troms og Finnmark fylke,2020-03-08,Residential,-4.0
+54,Troms og Finnmark fylke,2020-03-09,Residential,0.0
+54,Troms og Finnmark fylke,2020-03-10,Residential,0.0
+54,Troms og Finnmark fylke,2020-03-11,Residential,0.0
+54,Troms og Finnmark fylke,2020-03-12,Residential,2.0
+54,Troms og Finnmark fylke,2020-03-13,Residential,12.0
+54,Troms og Finnmark fylke,2020-03-14,Residential,6.0
+54,Troms og Finnmark fylke,2020-03-15,Residential,7.0
+54,Troms og Finnmark fylke,2020-03-16,Residential,16.0
+54,Troms og Finnmark fylke,2020-03-17,Residential,16.0
+54,Troms og Finnmark fylke,2020-03-18,Residential,16.0
+54,Troms og Finnmark fylke,2020-03-19,Residential,17.0
+54,Troms og Finnmark fylke,2020-03-20,Residential,18.0
+54,Troms og Finnmark fylke,2020-03-21,Residential,9.0
+54,Troms og Finnmark fylke,2020-03-22,Residential,10.0
+54,Troms og Finnmark fylke,2020-03-23,Residential,16.0
+54,Troms og Finnmark fylke,2020-03-24,Residential,17.0
+54,Troms og Finnmark fylke,2020-03-25,Residential,16.0
+54,Troms og Finnmark fylke,2020-03-26,Residential,17.0
+54,Troms og Finnmark fylke,2020-03-27,Residential,17.0
+54,Troms og Finnmark fylke,2020-03-28,Residential,11.0
+54,Troms og Finnmark fylke,2020-03-29,Residential,10.0
+54,Troms og Finnmark fylke,2020-03-30,Residential,15.0
+54,Troms og Finnmark fylke,2020-03-31,Residential,16.0
+54,Troms og Finnmark fylke,2020-04-01,Residential,13.0
+54,Troms og Finnmark fylke,2020-04-02,Residential,13.0
+54,Troms og Finnmark fylke,2020-04-03,Residential,15.0
+54,Troms og Finnmark fylke,2020-04-04,Residential,6.0
+54,Troms og Finnmark fylke,2020-04-05,Residential,8.0
+54,Troms og Finnmark fylke,2020-04-06,Residential,13.0
+54,Troms og Finnmark fylke,2020-04-07,Residential,13.0
+54,Troms og Finnmark fylke,2020-04-08,Residential,14.0
+54,Troms og Finnmark fylke,2020-04-09,Residential,22.0
+54,Troms og Finnmark fylke,2020-04-10,Residential,25.0
+54,Troms og Finnmark fylke,2020-04-11,Residential,5.0
+54,Troms og Finnmark fylke,2020-04-12,Residential,6.0
+54,Troms og Finnmark fylke,2020-04-13,Residential,22.0
+54,Troms og Finnmark fylke,2020-04-14,Residential,11.0
+54,Troms og Finnmark fylke,2020-04-15,Residential,13.0
+54,Troms og Finnmark fylke,2020-04-16,Residential,12.0
+54,Troms og Finnmark fylke,2020-04-17,Residential,14.0
+54,Troms og Finnmark fylke,2020-04-18,Residential,5.0
+54,Troms og Finnmark fylke,2020-04-19,Residential,6.0
+54,Troms og Finnmark fylke,2020-04-20,Residential,11.0
+54,Troms og Finnmark fylke,2020-04-21,Residential,9.0
+54,Troms og Finnmark fylke,2020-04-22,Residential,10.0
+54,Troms og Finnmark fylke,2020-04-23,Residential,11.0
+54,Troms og Finnmark fylke,2020-04-24,Residential,11.0
+54,Troms og Finnmark fylke,2020-04-25,Residential,7.0
+54,Troms og Finnmark fylke,2020-04-26,Residential,4.0
+54,Troms og Finnmark fylke,2020-04-27,Residential,9.0
+54,Troms og Finnmark fylke,2020-04-28,Residential,7.0
+54,Troms og Finnmark fylke,2020-04-29,Residential,6.0
+54,Troms og Finnmark fylke,2020-04-30,Residential,3.0
+54,Troms og Finnmark fylke,2020-05-01,Residential,19.0
+54,Troms og Finnmark fylke,2020-05-02,Residential,0.0
+54,Troms og Finnmark fylke,2020-05-03,Residential,-2.0
+54,Troms og Finnmark fylke,2020-05-04,Residential,8.0
+54,Troms og Finnmark fylke,2020-05-05,Residential,9.0
+54,Troms og Finnmark fylke,2020-05-06,Residential,9.0
+54,Troms og Finnmark fylke,2020-05-07,Residential,10.0
+54,Troms og Finnmark fylke,2020-05-08,Residential,8.0
+54,Troms og Finnmark fylke,2020-05-09,Residential,2.0
+54,Troms og Finnmark fylke,2020-05-10,Residential,0.0
+54,Troms og Finnmark fylke,2020-05-11,Residential,8.0
+54,Troms og Finnmark fylke,2020-05-12,Residential,8.0
+54,Troms og Finnmark fylke,2020-05-13,Residential,5.0
+54,Troms og Finnmark fylke,2020-05-14,Residential,5.0
+54,Troms og Finnmark fylke,2020-05-15,Residential,7.0
+54,Troms og Finnmark fylke,2020-05-16,Residential,0.0
+54,Troms og Finnmark fylke,2020-05-17,Residential,0.0
+54,Troms og Finnmark fylke,2020-05-18,Residential,5.0
+54,Troms og Finnmark fylke,2020-05-19,Residential,4.0
+54,Troms og Finnmark fylke,2020-05-20,Residential,-1.0
+54,Troms og Finnmark fylke,2020-05-21,Residential,15.0
+54,Troms og Finnmark fylke,2020-05-22,Residential,5.0
+54,Troms og Finnmark fylke,2020-05-23,Residential,-2.0
+54,Troms og Finnmark fylke,2020-05-24,Residential,-6.0
+54,Troms og Finnmark fylke,2020-05-25,Residential,3.0
+54,Troms og Finnmark fylke,2020-05-26,Residential,3.0
+54,Troms og Finnmark fylke,2020-05-27,Residential,3.0
+54,Troms og Finnmark fylke,2020-05-28,Residential,4.0
+54,Troms og Finnmark fylke,2020-05-29,Residential,2.0
+54,Troms og Finnmark fylke,2020-05-30,Residential,-1.0
+54,Troms og Finnmark fylke,2020-05-31,Residential,-1.0
+54,Troms og Finnmark fylke,2020-06-01,Residential,5.0
+54,Troms og Finnmark fylke,2020-06-02,Residential,1.0
+54,Troms og Finnmark fylke,2020-06-03,Residential,2.0
+54,Troms og Finnmark fylke,2020-06-04,Residential,2.0
+54,Troms og Finnmark fylke,2020-06-05,Residential,0.0
+54,Troms og Finnmark fylke,2020-06-06,Residential,-3.0
+54,Troms og Finnmark fylke,2020-06-07,Residential,-3.0
+54,Troms og Finnmark fylke,2020-06-08,Residential,2.0
+54,Troms og Finnmark fylke,2020-06-09,Residential,2.0
+54,Troms og Finnmark fylke,2020-06-10,Residential,1.0
+54,Troms og Finnmark fylke,2020-06-11,Residential,2.0
+54,Troms og Finnmark fylke,2020-06-12,Residential,-2.0
+54,Troms og Finnmark fylke,2020-06-13,Residential,-5.0
+54,Troms og Finnmark fylke,2020-06-14,Residential,-6.0
+54,Troms og Finnmark fylke,2020-06-15,Residential,0.0
+54,Troms og Finnmark fylke,2020-06-16,Residential,0.0
+54,Troms og Finnmark fylke,2020-06-17,Residential,-1.0
+54,Troms og Finnmark fylke,2020-06-18,Residential,-1.0
+54,Troms og Finnmark fylke,2020-06-19,Residential,-2.0
+54,Troms og Finnmark fylke,2020-06-20,Residential,-6.0
+54,Troms og Finnmark fylke,2020-06-21,Residential,-9.0
+54,Troms og Finnmark fylke,2020-06-22,Residential,-1.0
+54,Troms og Finnmark fylke,2020-06-23,Residential,-2.0
+54,Troms og Finnmark fylke,2020-06-24,Residential,0.0
+54,Troms og Finnmark fylke,2020-06-25,Residential,1.0
+54,Troms og Finnmark fylke,2020-06-26,Residential,1.0
+54,Troms og Finnmark fylke,2020-06-27,Residential,-4.0
+54,Troms og Finnmark fylke,2020-06-28,Residential,-6.0
+54,Troms og Finnmark fylke,2020-06-29,Residential,1.0
+54,Troms og Finnmark fylke,2020-06-30,Residential,3.0
+54,Troms og Finnmark fylke,2020-07-01,Residential,3.0
+54,Troms og Finnmark fylke,2020-07-02,Residential,3.0
+54,Troms og Finnmark fylke,2020-07-03,Residential,0.0
+54,Troms og Finnmark fylke,2020-07-04,Residential,-3.0
+54,Troms og Finnmark fylke,2020-07-05,Residential,-5.0
+54,Troms og Finnmark fylke,2020-07-06,Residential,3.0
+54,Troms og Finnmark fylke,2020-07-07,Residential,2.0
+54,Troms og Finnmark fylke,2020-07-08,Residential,2.0
+54,Troms og Finnmark fylke,2020-07-09,Residential,2.0
+54,Troms og Finnmark fylke,2020-07-10,Residential,1.0
+54,Troms og Finnmark fylke,2020-07-11,Residential,-6.0
+54,Troms og Finnmark fylke,2020-07-12,Residential,-5.0
+54,Troms og Finnmark fylke,2020-07-13,Residential,2.0
+54,Troms og Finnmark fylke,2020-07-14,Residential,1.0
+54,Troms og Finnmark fylke,2020-07-15,Residential,2.0
+54,Troms og Finnmark fylke,2020-07-16,Residential,2.0
+54,Troms og Finnmark fylke,2020-07-17,Residential,2.0
+54,Troms og Finnmark fylke,2020-07-18,Residential,-6.0
+54,Troms og Finnmark fylke,2020-07-19,Residential,-5.0
+54,Troms og Finnmark fylke,2020-07-20,Residential,3.0
+54,Troms og Finnmark fylke,2020-07-21,Residential,5.0
+54,Troms og Finnmark fylke,2020-07-22,Residential,5.0
+54,Troms og Finnmark fylke,2020-07-23,Residential,6.0
+54,Troms og Finnmark fylke,2020-07-24,Residential,2.0
+54,Troms og Finnmark fylke,2020-07-25,Residential,-6.0
+54,Troms og Finnmark fylke,2020-07-26,Residential,-8.0
+54,Troms og Finnmark fylke,2020-07-27,Residential,1.0
+54,Troms og Finnmark fylke,2020-07-28,Residential,1.0
+54,Troms og Finnmark fylke,2020-07-29,Residential,1.0
+54,Troms og Finnmark fylke,2020-07-30,Residential,1.0
+54,Troms og Finnmark fylke,2020-07-31,Residential,1.0
+54,Troms og Finnmark fylke,2020-08-01,Residential,-6.0
+54,Troms og Finnmark fylke,2020-08-02,Residential,-7.0
+54,Troms og Finnmark fylke,2020-08-03,Residential,1.0
+54,Troms og Finnmark fylke,2020-08-04,Residential,3.0
+54,Troms og Finnmark fylke,2020-08-05,Residential,2.0
+54,Troms og Finnmark fylke,2020-08-06,Residential,2.0
+54,Troms og Finnmark fylke,2020-08-07,Residential,1.0
+54,Troms og Finnmark fylke,2020-08-08,Residential,-6.0
+54,Troms og Finnmark fylke,2020-08-09,Residential,-3.0
+54,Troms og Finnmark fylke,2020-08-10,Residential,2.0
+54,Troms og Finnmark fylke,2020-08-11,Residential,1.0
+54,Troms og Finnmark fylke,2020-08-12,Residential,0.0
+54,Troms og Finnmark fylke,2020-08-13,Residential,1.0
+54,Troms og Finnmark fylke,2020-08-14,Residential,2.0
+54,Troms og Finnmark fylke,2020-08-15,Residential,-2.0
+54,Troms og Finnmark fylke,2020-08-16,Residential,-1.0
 50,Trøndelag,2020-02-15,Residential,-2.0
 50,Trøndelag,2020-02-16,Residential,-1.0
 50,Trøndelag,2020-02-17,Residential,2.0
@@ -11528,6 +11590,7 @@ fylke_no,fylke_name,date,category,mob_change
 50,Trøndelag,2020-08-13,Residential,3.0
 50,Trøndelag,2020-08-14,Residential,2.0
 50,Trøndelag,2020-08-15,Residential,-2.0
+50,Trøndelag,2020-08-16,Residential,-5.0
 38,Vestfold og Telemark,2020-02-15,Residential,0.0
 38,Vestfold og Telemark,2020-02-16,Residential,2.0
 38,Vestfold og Telemark,2020-02-17,Residential,3.0
@@ -11711,6 +11774,7 @@ fylke_no,fylke_name,date,category,mob_change
 38,Vestfold og Telemark,2020-08-13,Residential,2.0
 38,Vestfold og Telemark,2020-08-14,Residential,-1.0
 38,Vestfold og Telemark,2020-08-15,Residential,-4.0
+38,Vestfold og Telemark,2020-08-16,Residential,-6.0
 46,Vestland,2020-02-15,Residential,-1.0
 46,Vestland,2020-02-16,Residential,0.0
 46,Vestland,2020-02-17,Residential,1.0
@@ -11894,6 +11958,7 @@ fylke_no,fylke_name,date,category,mob_change
 46,Vestland,2020-08-13,Residential,4.0
 46,Vestland,2020-08-14,Residential,2.0
 46,Vestland,2020-08-15,Residential,-5.0
+46,Vestland,2020-08-16,Residential,-7.0
 30,Viken,2020-02-15,Residential,-1.0
 30,Viken,2020-02-16,Residential,2.0
 30,Viken,2020-02-17,Residential,2.0
@@ -12077,3 +12142,4 @@ fylke_no,fylke_name,date,category,mob_change
 30,Viken,2020-08-13,Residential,5.0
 30,Viken,2020-08-14,Residential,3.0
 30,Viken,2020-08-15,Residential,-3.0
+30,Viken,2020-08-16,Residential,-4.0
