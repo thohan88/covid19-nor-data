@@ -8065,7 +8065,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 912308103,ÆLT FLYT AS,Østre Toten,Innlandet,1
 912308383,KOMET FILM AS,Oslo,Oslo,2
 912308405,SWIMTAG NORDIC AS,Karmøy,Rogaland,1
-912309525,ACCESS OSLO AS,Ullensaker,Viken,4
+912309525,ACCESS OSLO AS,Ullensaker,Viken,5
 912309800,MELLOMVEIEN AS,Trondheim,Trøndelag - Trööndelage,9
 912310817,PETTERSEN GRUPPEN AS,Bergen,Vestland,3
 912311023,TORE FRØLAND AS,Asker,Viken,1
@@ -11991,6 +11991,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 914556805,ØLEN TAXI SIV AARVIK,Vindafjord,Rogaland,3
 914556821,MARGARIDA PAIS ARKITEKTUR AS,Ålesund,Møre og Romsdal,1
 914558476,SANDSØY SERVICEBÅT AS,Sande,Møre og Romsdal,2
+914558484,NINAS SUSHI AS,Tønsberg,Vestfold og Telemark,2
 914560276,PIPEOTECH AS,Tvedestrand,Agder,6
 914561582,RØROS F&B GROUP AS,Røros,Trøndelag - Trööndelage,6
 914562694,CLARION HOTEL AIR,Sola,Rogaland,43
@@ -52057,7 +52058,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 983119980,STABURSVIK BRIT,Harstad,Troms og Finnmark - Romsa ja Finnmárku,1
 983122116,SMØRSGÅRD TRENING OG HELSE,Porsgrunn,Vestfold og Telemark,1
 983123546,HAMMERSTAD MARGIT,Drammen,Viken,1
-983124542,STADION FYSIKALSKE INSTITUTT AS,Oslo,Oslo,2
+983124542,STADION FYSIKALSKE INSTITUTT AS,Oslo,Oslo,5
 983125646,HÅLAND AUDUN SVERRE,Alver,Vestland,2
 983128513,ANDERS RYE,Bærum,Viken,1
 983128807,TANNLEGE RAGNHILD SENNESET RINDARØY,Molde,Møre og Romsdal,1
