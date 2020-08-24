@@ -184,6 +184,10 @@ NO,2020-08-14,Retail & recreation,0.0
 NO,2020-08-15,Retail & recreation,-9.0
 NO,2020-08-16,Retail & recreation,-2.0
 NO,2020-08-17,Retail & recreation,6.0
+NO,2020-08-18,Retail & recreation,1.0
+NO,2020-08-19,Retail & recreation,4.0
+NO,2020-08-20,Retail & recreation,3.0
+NO,2020-08-21,Retail & recreation,-5.0
 NO,2020-02-15,Grocery & pharmacy,1.0
 NO,2020-02-16,Grocery & pharmacy,3.0
 NO,2020-02-17,Grocery & pharmacy,0.0
@@ -369,6 +373,10 @@ NO,2020-08-14,Grocery & pharmacy,3.0
 NO,2020-08-15,Grocery & pharmacy,1.0
 NO,2020-08-16,Grocery & pharmacy,35.0
 NO,2020-08-17,Grocery & pharmacy,10.0
+NO,2020-08-18,Grocery & pharmacy,8.0
+NO,2020-08-19,Grocery & pharmacy,12.0
+NO,2020-08-20,Grocery & pharmacy,9.0
+NO,2020-08-21,Grocery & pharmacy,2.0
 NO,2020-02-15,Parks,26.0
 NO,2020-02-16,Parks,-34.0
 NO,2020-02-17,Parks,13.0
@@ -554,6 +562,10 @@ NO,2020-08-14,Parks,180.0
 NO,2020-08-15,Parks,204.0
 NO,2020-08-16,Parks,118.0
 NO,2020-08-17,Parks,177.0
+NO,2020-08-18,Parks,186.0
+NO,2020-08-19,Parks,134.0
+NO,2020-08-20,Parks,124.0
+NO,2020-08-21,Parks,75.0
 NO,2020-02-15,Transit stations,7.0
 NO,2020-02-16,Transit stations,-5.0
 NO,2020-02-17,Transit stations,-5.0
@@ -739,6 +751,10 @@ NO,2020-08-14,Transit stations,-19.0
 NO,2020-08-15,Transit stations,-4.0
 NO,2020-08-16,Transit stations,-9.0
 NO,2020-08-17,Transit stations,-17.0
+NO,2020-08-18,Transit stations,-17.0
+NO,2020-08-19,Transit stations,-18.0
+NO,2020-08-20,Transit stations,-20.0
+NO,2020-08-21,Transit stations,-23.0
 NO,2020-02-15,Workplace,-1.0
 NO,2020-02-16,Workplace,-3.0
 NO,2020-02-17,Workplace,-12.0
@@ -924,6 +940,10 @@ NO,2020-08-14,Workplace,-37.0
 NO,2020-08-15,Workplace,-8.0
 NO,2020-08-16,Workplace,-3.0
 NO,2020-08-17,Workplace,-31.0
+NO,2020-08-18,Workplace,-29.0
+NO,2020-08-19,Workplace,-28.0
+NO,2020-08-20,Workplace,-29.0
+NO,2020-08-21,Workplace,-28.0
 NO,2020-02-15,Residential,-1.0
 NO,2020-02-16,Residential,1.0
 NO,2020-02-17,Residential,2.0
@@ -1109,3 +1129,7 @@ NO,2020-08-14,Residential,2.0
 NO,2020-08-15,Residential,-3.0
 NO,2020-08-16,Residential,-4.0
 NO,2020-08-17,Residential,2.0
+NO,2020-08-18,Residential,2.0
+NO,2020-08-19,Residential,3.0
+NO,2020-08-20,Residential,3.0
+NO,2020-08-21,Residential,4.0
