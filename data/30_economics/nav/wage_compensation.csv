@@ -5587,6 +5587,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 891287372,B RØTHE AS AVD SKOTØY STJØRDAL,Stjørdal,Trøndelag - Trööndelage,4
 891290942,BGN RETAIL AS AVD ZIZZI GUNERIUS,Oslo,Oslo,4
 891293712,WOW LAGUNEN AVD E49,Bergen,Vestland,3
+891305532,BYGGPARTNER HAMMERFEST AS,Hammerfest,Troms og Finnmark - Romsa ja Finnmárku,1
 891307152,STOMPEN BAKERI & KONDITORI AS,Hægebostad,Agder,3
 891316682,RAPIDO GROUP SCANDINAVIA,Færder,Vestfold og Telemark,1
 891317212,VARNA LEGESENTER DA,Moss,Viken,3
@@ -59528,7 +59529,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 989780727,FOTO FOR ALLE AS,Sandefjord,Vestfold og Telemark,2
 989780808,BJØRN ZAKARIASSEN AS,Lødingen,Nordland,3
 989781014,KLØFTA BILVASK & BILPLEIE ABDUKARIM ALI,Ullensaker,Viken,4
-989781219,ASKIMTORGET BUTIKKDRIFT AS,Indre Østfold,Viken,4
+989781219,ASKIMTORGET BUTIKKDRIFT AS,Indre Østfold,Viken,5
 989782002,MCDONALD'S VESTKANTEN AVD 69,Bergen,Vestland,8
 989782304,RASMUS TALLAKSEN AS AVD GRIMSTAD,Grimstad,Agder,3
 989786687,NITA SALONG AS,Moss,Viken,7
@@ -72457,7 +72458,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 999190839,SUNNFJORD SKOG AS,Sunnfjord,Vestland,8
 999190952,NUMEDAL ELEMENT AS,Rollag,Viken,6
 999191223,HK AGENTUR AS,Bærum,Viken,2
-999191304,DEN GLADE GRIS AS,Oslo,Oslo,26
+999191304,DEN GLADE GRIS AS,Oslo,Oslo,27
 999191649,GRØNN SPIRE AS,Trondheim,Trøndelag - Trööndelage,1
 999191908,BYGGMESTER GJERSTAD AS,Sandefjord,Vestfold og Telemark,1
 999192947,DROLLEHÅLÅ AS,Stavanger,Rogaland,6
