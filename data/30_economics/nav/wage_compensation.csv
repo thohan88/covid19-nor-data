@@ -3223,7 +3223,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 872378782,PIR II AS,Trondheim,Trøndelag - Trööndelage,1
 872379142,STUDIO NORDHORDLAND,Alver,Vestland,1
 872379282,SJØBODEN BERGEN AS,Bergen,Vestland,12
-872380752,PUBLICIA PRODUKSJON AS,Kristiansand,Agder,8
+872380752,PUBLICIA PRODUKSJON AS,Kristiansand,Agder,9
 872382682,STOKKAN LYS MIDTNORGE AS AVD TRONDHEIM,Trondheim,Trøndelag - Trööndelage,5
 872383522,NOR LOG THERMO AS AVD OSLO,Oslo,Oslo,3
 872386742,PROFIL MONTASJE AS,Skien,Vestfold og Telemark,9
@@ -7824,7 +7824,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 912138992,BIRI IDRETTSLAG,Gjøvik,Innlandet,2
 912140040,MOJO,Trondheim,Trøndelag - Trööndelage,18
 912140156,TERJE GRAN AS,Trondheim,Trøndelag - Trööndelage,1
-912143902,LEO HG AS,Lier,Viken,3
+912143902,LEO HG AS,Lier,Viken,4
 912144542,HM INVEST HOLDING AS,Oslo,Oslo,1
 912145220,KJELL NILSEN EIENDOM AS,Kongsvinger,Innlandet,1
 912145247,JO BUKVE TAXI,Luster,Vestland,5
@@ -29528,7 +29528,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 924577800,TUNTEC AS,Sandefjord,Vestfold og Telemark,1
 924578262,ELEMENTUM ASSET MANAGEMENT AS,Oslo,Oslo,3
 924578459,TAK OVER TAK AS,Stavanger,Rogaland,8
-924578602,FRONTICA ENGINEERING AS,Kristiansand,Agder,35
+924578602,FRONTICA ENGINEERING AS,Kristiansand,Agder,38
 924578939,NINA'S CAFÈ AS,Skjåk,Innlandet,1
 924579013,ADAM OG EVA NYGATA AS,Stavanger,Rogaland,2
 924579110,NYLAND INGER-JOHANNE AS,Stavanger,Rogaland,1
@@ -60698,6 +60698,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 990714983,ZANDRA MOTE AS,Horten,Vestfold og Telemark,1
 990715742,VERDAL SYNSSENTER AS,Verdal,Trøndelag - Trööndelage,4
 990716617,SAJJAD ALI,Oslo,Oslo,2
+990716641,CONSTRUCTOR NORGE AS,Ålesund,Møre og Romsdal,1
 990717176,LHH BUTIKK AS,Kristiansand,Agder,3
 990718490,DAGLIG DRIFT AS,Stavanger,Rogaland,1
 990719098,NOKAS AS AVD KRISTIANSAND,Kristiansand,Agder,15
@@ -66721,6 +66722,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 995484560,EMINENTIA REGNSKAP AS,Oslo,Oslo,4
 995484722,TRAFIKKDIRIGERING AS,Ullensaker,Viken,3
 995484897,HVIIT AS,Lørenskog,Viken,2
+995486210,UNIFLEX & POOLIA NORGE AS,Oslo,Oslo,1
 995486210,UNIFLEX & POOLIA NORGE AS AVD OSLO,Oslo,Oslo,9
 995487519,MARINE MONTERING AS,Larvik,Vestfold og Telemark,2
 995487675,EVAS,Bjørnafjorden,Vestland,1
