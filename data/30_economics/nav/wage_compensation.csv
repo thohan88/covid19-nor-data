@@ -19315,6 +19315,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 918637761,LIMBER AS,Oslo,Oslo,1
 918640134,AKER SOLUTIONS AS AVD KRISTIANSAND,Kristiansand,Agder,10
 918641548,NORDIC FISH AS,Ullensaker,Viken,1
+918642072,GETERA AS,Ullensaker,Viken,1
 918642293,NEW YORKER NORWAY AS AVD SARTOR STORSENTER,Øygarden,Vestland,5
 918643052,DYRLEGEN I NORD-SALTEN AS,Steigen,Nordland,1
 918643222,THE GOLDEN CHIMP AS,Oslo,Oslo,12
@@ -24806,6 +24807,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 921370512,KORNSPESIALISTEN AS,Sarpsborg,Viken,1
 921370741,ARKITRE AS,Verdal,Trøndelag - Trööndelage,2
 921370970,DIV BYGGSERVICE AS,Øygarden,Vestland,2
+921371020,ONSITE SERVICES AS,Tønsberg,Vestfold og Telemark,1
 921372205,ELDIP AS,Rælingen,Viken,3
 921372256,MI-MA THAIMAT RUNGROD AS,Ålesund,Møre og Romsdal,2
 921372388,STOA LEGESENTER DA,Arendal,Agder,1
@@ -51518,7 +51520,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 982429706,STEEN LARSEN,Sandefjord,Vestfold og Telemark,1
 982430070,NYGAARD REGNSKAP AS,Stavanger,Rogaland,1
 982431425,DIEBOLD NIXDORF AS AVD ENROSHANDEL,Oslo,Oslo,7
-982431476,FOCUS SECURITY AS,Sandefjord,Vestfold og Telemark,4
+982431476,FOCUS SECURITY AS,Sandefjord,Vestfold og Telemark,7
 982431921,ROSENBORG BAKERI AS AVD BYÅSEN,Trondheim,Trøndelag - Trööndelage,4
 982432766,DARBARA SINGH,Ås,Viken,1
 982435684,EDDA LEGESENTER DA,Trondheim,Trøndelag - Trööndelage,5
@@ -59721,7 +59723,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 989875469,KARMØY LIFT & MASKINUTLEIE AS,Karmøy,Rogaland,3
 989875515,POWERPUNCH AS,Nes,Viken,2
 989875752,VAROMA AS,Oslo,Oslo,15
-989875833,OSLO MEKANISKE VERKSTED AS,Oslo,Oslo,20
+989875833,OSLO MEKANISKE VERKSTED AS,Oslo,Oslo,21
 989875884,SAKS AS,Oslo,Oslo,7
 989876007,OPPLEV UNDREDAL AS,Aurland,Vestland,1
 989876023,NILS RUNE MICHELSEN,Bergen,Vestland,1
