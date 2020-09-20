@@ -5019,7 +5019,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 886284322,KID INTERIØR AS 78 AVD TYNSET,Tynset,Innlandet,3
 886296452,E&G DELICA AS,Oslo,Oslo,6
 886299702,NORCONSULT AS AVD TROMSØ,Tromsø,Troms og Finnmark - Romsa ja Finnmárku,2
-886300972,"FUGL FØNIKS - MAT, DRIKKE & BAR AS",Ørsta,Møre og Romsdal,26
+886300972,"FUGL FØNIKS - MAT, DRIKKE & BAR AS",Ørsta,Møre og Romsdal,27
 886307772,COOP MIDT NORGE SA AVD 0187 PRINCESS RØROS,Røros,Trøndelag - Trööndelage,5
 886318162,CHIK AS,Bergen,Vestland,1
 886330812,JAN SIKKO,Senja,Troms og Finnmark - Romsa ja Finnmárku,1
@@ -27350,6 +27350,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 922737053,RIO OG FRISK AS,Porsgrunn,Vestfold og Telemark,6
 922737576,MCARE NORWAY AS,Oslo,Oslo,3
 922737835,GRØNLAND HOLDING AS,Skien,Vestfold og Telemark,1
+922741743,HADDELAND ANLEGG AS,Farsund,Agder,1
 922742286,SIDELINE SPORTS AS,Ringsaker,Innlandet,1
 922742332,MARTECH CONSULTING AS,Vestby,Viken,1
 922742375,BUKT AS,Oslo,Oslo,3
@@ -47202,6 +47203,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 977309964,KÅLEN BETONGSAGING AS,Verdal,Trøndelag - Trööndelage,1
 977310520,TRANSPROVENCE AS,Oslo,Oslo,1
 977312582,YTTERDAL BIL AS,Fjord,Møre og Romsdal,1
+977313406,CLARION HOTEL & CONGRESS,Ullensaker,Viken,1
 977313406,CLARION HOTEL & CONGRESS OSLO AIRPORT AS,Ullensaker,Viken,8
 977313562,BERNT IVAR TORDHOL,Lesja,Innlandet,1
 977314119,AGDER DYKK AS,Arendal,Agder,1
