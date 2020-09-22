@@ -25615,7 +25615,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 921787596,TOUCHDOWN TROMSØ AS,Tromsø,Troms og Finnmark - Romsa ja Finnmárku,2
 921787782,SMART BYGG BERGEN AS,Bergen,Vestland,7
 921788037,ROMANZE BLOMSTER AS,Østre Toten,Innlandet,1
-921788398,CENTIGO CONSULTING AS,Oslo,Oslo,2
+921788398,CENTIGO CONSULTING AS,Oslo,Oslo,3
 921788487,PERSGAARD MØBLER AS,Nittedal,Viken,1
 921788754,JF BYGG AS,Enebakk,Viken,1
 921789068,HERRHARR AS,Oslo,Oslo,1
@@ -30395,6 +30395,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 971655623,AAS BILVERKSTED ERIKSEN AS,Ås,Viken,1
 971655909,STRANDE SVEIN GULLSMED AS,Molde,Møre og Romsdal,3
 971656034,LEIKEHUSET AS,Voss,Vestland,1
+971656247,GRINDE AS SIVILARKITEKTER MNAL,Oslo,Oslo,1
 971656301,TH A ABRAHAMSEN AS,Larvik,Vestfold og Telemark,4
 971656409,AGA FRISØRSALONG Inger Johannessen,Lillehammer,Innlandet,1
 971656441,AVISEN AGDER AS,Flekkefjord,Agder,5
@@ -64160,7 +64161,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 993308188,STRØMMEN IDRETTSFORENING FOTBALL,Lillestrøm,Viken,23
 993308528,MOLDE GLASSERVICE AS,Molde,Møre og Romsdal,2
 993309311,ANDERS LANGÅS AS,Arendal,Agder,1
-993310190,UTSIKTEN RESTAURANTDRIFT AS,Bergen,Vestland,67
+993310190,UTSIKTEN RESTAURANTDRIFT AS,Bergen,Vestland,68
 993310646,GUARDTEX - NORWAY AS,Skien,Vestfold og Telemark,3
 993312487,AS CHRISTIANIA GLASMAGASIN AVD JESSHEIM,Ullensaker,Viken,6
 993312517,MECA NORWAY AS AVD ARENDAL,Arendal,Agder,4
@@ -67093,7 +67094,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 995688387,GINGERSONS AS,Horten,Vestfold og Telemark,2
 995691507,NARVESEN BUTIKKEN 141,Trondheim,Trøndelag - Trööndelage,1
 995693151,CATOS RØRLEGGERSERVICE AS,Hadsel,Nordland,1
-995693372,DMC NORWAY AS,Bergen,Vestland,105
+995693372,DMC NORWAY AS,Bergen,Vestland,106
 995693534,HUD BY STRAND AS,Alstahaug,Nordland,1
 995694719,JS EIENDOM & HOLDING AS,Klepp,Rogaland,1
 995695022,FOX HOLDING AS,Trondheim,Trøndelag - Trööndelage,2
