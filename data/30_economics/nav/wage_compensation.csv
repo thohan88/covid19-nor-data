@@ -6565,7 +6565,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 898022382,AGDER LINJERYDDING GYLAND AS,Flekkefjord,Agder,5
 898026922,CONCORDE TV AS,Oslo,Oslo,5
 898027422,POWER ELEKTRO AS,Øvre Eiker,Viken,1
-898030792,SANCO HOLDING AS,Eidsvoll,Viken,9
+898030792,SANCO HOLDING AS,Eidsvoll,Viken,10
 898031292,ITX NORGE AS,Sandefjord,Vestfold og Telemark,1
 898031942,7 ELEVEN 7147 OSL ANKOMST,Ullensaker,Viken,11
 898033902,CLEAN 4 U AS,Ålesund,Møre og Romsdal,7
@@ -22886,6 +22886,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 920462588,KRAFT KAFE,Sauda,Rogaland,7
 920462707,ADVOKATKONTORET NORDENFJELDSKE AS AVDELING RØRVIK,Nærøysund,Trøndelag - Trööndelage,1
 920462804,ADVOKATKONTORET NORDENFJELDSKE AS AVDELING NAMSOS,Namsos,Trøndelag - Trööndelage,1
+920463177,PÅ HØYDEN AS,Bergen,Vestland,1
 920463266,BE FASHION AS,Surnadal,Møre og Romsdal,2
 920463398,FRANK SØNDERGAARD RENHOLD OG SERVICE,Oslo,Oslo,1
 920463401,PIECE BY PS AS,Oslo,Oslo,1
