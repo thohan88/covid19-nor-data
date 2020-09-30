@@ -10774,7 +10774,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 913904036,NORTH BORDER AS,Vestre Toten,Innlandet,1
 913904575,S.K.O. HOLDING AS,Haugesund,Rogaland,1
 913904974,JOY'S THAIMAT AS,Porsanger - Porsángu - Porsanki,Troms og Finnmark - Romsa ja Finnmárku,1
-913905660,HK SPESIALISTEN AS,Tønsberg,Vestfold og Telemark,2
+913905660,HK SPESIALISTEN AS,Tønsberg,Vestfold og Telemark,3
 913905938,SKANDISPORT SØR AS,Kristiansand,Agder,1
 913906055,JAPANSUSHI AS,Hamar,Innlandet,1
 913906152,FORENOM AS AVD OSLO,Oslo,Oslo,23
@@ -45556,7 +45556,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 975893251,EFFEKT VINDUSPUSS OG FASADE AS,Stavanger,Rogaland,1
 975893375,PEPPES PIZZA AVD 152 SKI,Nordre Follo,Viken,10
 975893669,BORGAN MARKETING AS,Oslo,Oslo,1
-975893677,BURGER KING AVD 5005 OSLO S,Oslo,Oslo,34
+975893677,BURGER KING AVD 5005 OSLO S,Oslo,Oslo,36
 975894010,AUSTLID FJELLSTUE OG HYTTER,Gausdal,Oppland,2
 975896404,SPILLING SKOG/TOR INGE SPILLING,Lindesnes,Agder,1
 975896501,DAG BAKKE,Ullensaker,Viken,6
@@ -62972,6 +62972,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 992336315,HIPRO AS,Porsgrunn,Vestfold og Telemark,1
 992336536,ORIS DENTAL AS AVD TØNSBERG,Tønsberg,Vestfold og Telemark,10
 992337249,ALTIWEB AS,Oslo,Oslo,1
+992337559,TØMRER1 Teddy Bjerring,Alta,Troms og Finnmark - Romsa ja Finnmárku,1
 992337990,ENDRE RØRVIK,Flekkefjord,Agder,1
 992338725,TEKNIKMAGASINET NORWAY AS AVD CITY SYD,Trondheim,Trøndelag - Trööndelage,4
 992338784,TEKNIKMAGASINET NORWAY AS AVD DOWN TOWN,Porsgrunn,Vestfold og Telemark,4
@@ -64249,6 +64250,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 993356883,JGL AS,Ullensaker,Viken,8
 993356891,ODEON KINO AS AVD SANDVIKA,Bærum,Viken,26
 993358614,UPSTAIRS AS AVD SØRLANDSSENTERET,Kristiansand,Agder,5
+993359858,SOUNDGARDEN HI FI AS,Sandnes,Rogaland,1
 993359858,SOUNDGARDEN HI FI AS AVD 120 FORUS,Sandnes,Rogaland,2
 993361798,ZAVANNA STOKKE AVD 838,Sandefjord,Vestfold og Telemark,5
 993361801,ZAVANNA HVALTORGET AVD 841,Sandefjord,Vestfold og Telemark,3
