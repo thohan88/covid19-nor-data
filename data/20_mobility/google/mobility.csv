@@ -208,23 +208,26 @@ fylke_no,fylke_name,date,category,mob_change
 42,Agder,2020-09-08,Retail & recreation,
 42,Agder,2020-09-09,Retail & recreation,
 42,Agder,2020-09-10,Retail & recreation,
-42,Agder,2020-09-11,Retail & recreation,
-42,Agder,2020-09-12,Retail & recreation,
-42,Agder,2020-09-13,Retail & recreation,
-42,Agder,2020-09-14,Retail & recreation,
-42,Agder,2020-09-15,Retail & recreation,
-42,Agder,2020-09-16,Retail & recreation,
-42,Agder,2020-09-17,Retail & recreation,
-42,Agder,2020-09-18,Retail & recreation,
-42,Agder,2020-09-19,Retail & recreation,
-42,Agder,2020-09-20,Retail & recreation,
-42,Agder,2020-09-21,Retail & recreation,
-42,Agder,2020-09-22,Retail & recreation,
-42,Agder,2020-09-23,Retail & recreation,
-42,Agder,2020-09-24,Retail & recreation,
-42,Agder,2020-09-25,Retail & recreation,
-42,Agder,2020-09-26,Retail & recreation,
-42,Agder,2020-09-27,Retail & recreation,
+42,Agder,2020-09-11,Retail & recreation,10.0
+42,Agder,2020-09-12,Retail & recreation,5.0
+42,Agder,2020-09-13,Retail & recreation,-4.0
+42,Agder,2020-09-14,Retail & recreation,6.0
+42,Agder,2020-09-15,Retail & recreation,6.0
+42,Agder,2020-09-16,Retail & recreation,3.0
+42,Agder,2020-09-17,Retail & recreation,9.0
+42,Agder,2020-09-18,Retail & recreation,8.0
+42,Agder,2020-09-19,Retail & recreation,1.0
+42,Agder,2020-09-20,Retail & recreation,3.0
+42,Agder,2020-09-21,Retail & recreation,7.0
+42,Agder,2020-09-22,Retail & recreation,2.0
+42,Agder,2020-09-23,Retail & recreation,-4.0
+42,Agder,2020-09-24,Retail & recreation,-1.0
+42,Agder,2020-09-25,Retail & recreation,0.0
+42,Agder,2020-09-26,Retail & recreation,-8.0
+42,Agder,2020-09-27,Retail & recreation,-16.0
+42,Agder,2020-09-28,Retail & recreation,4.0
+42,Agder,2020-09-29,Retail & recreation,2.0
+42,Agder,2020-09-30,Retail & recreation,1.0
 34,Innlandet,2020-02-15,Retail & recreation,11.0
 34,Innlandet,2020-02-16,Retail & recreation,3.0
 34,Innlandet,2020-02-17,Retail & recreation,17.0
@@ -413,44 +416,47 @@ fylke_no,fylke_name,date,category,mob_change
 34,Innlandet,2020-08-18,Retail & recreation,
 34,Innlandet,2020-08-19,Retail & recreation,
 34,Innlandet,2020-08-20,Retail & recreation,
-34,Innlandet,2020-08-21,Retail & recreation,
-34,Innlandet,2020-08-22,Retail & recreation,
+34,Innlandet,2020-08-21,Retail & recreation,5.0
+34,Innlandet,2020-08-22,Retail & recreation,8.0
 34,Innlandet,2020-08-23,Retail & recreation,
 34,Innlandet,2020-08-24,Retail & recreation,
 34,Innlandet,2020-08-25,Retail & recreation,
 34,Innlandet,2020-08-26,Retail & recreation,
 34,Innlandet,2020-08-27,Retail & recreation,
-34,Innlandet,2020-08-28,Retail & recreation,
-34,Innlandet,2020-08-29,Retail & recreation,
+34,Innlandet,2020-08-28,Retail & recreation,7.0
+34,Innlandet,2020-08-29,Retail & recreation,4.0
 34,Innlandet,2020-08-30,Retail & recreation,
 34,Innlandet,2020-08-31,Retail & recreation,
 34,Innlandet,2020-09-01,Retail & recreation,
 34,Innlandet,2020-09-02,Retail & recreation,
 34,Innlandet,2020-09-03,Retail & recreation,
-34,Innlandet,2020-09-04,Retail & recreation,
-34,Innlandet,2020-09-05,Retail & recreation,
+34,Innlandet,2020-09-04,Retail & recreation,4.0
+34,Innlandet,2020-09-05,Retail & recreation,1.0
 34,Innlandet,2020-09-06,Retail & recreation,
 34,Innlandet,2020-09-07,Retail & recreation,
 34,Innlandet,2020-09-08,Retail & recreation,
 34,Innlandet,2020-09-09,Retail & recreation,
 34,Innlandet,2020-09-10,Retail & recreation,
-34,Innlandet,2020-09-11,Retail & recreation,
-34,Innlandet,2020-09-12,Retail & recreation,
-34,Innlandet,2020-09-13,Retail & recreation,
-34,Innlandet,2020-09-14,Retail & recreation,
-34,Innlandet,2020-09-15,Retail & recreation,
-34,Innlandet,2020-09-16,Retail & recreation,
-34,Innlandet,2020-09-17,Retail & recreation,
-34,Innlandet,2020-09-18,Retail & recreation,
-34,Innlandet,2020-09-19,Retail & recreation,
-34,Innlandet,2020-09-20,Retail & recreation,
-34,Innlandet,2020-09-21,Retail & recreation,
-34,Innlandet,2020-09-22,Retail & recreation,
-34,Innlandet,2020-09-23,Retail & recreation,
-34,Innlandet,2020-09-24,Retail & recreation,
-34,Innlandet,2020-09-25,Retail & recreation,
-34,Innlandet,2020-09-26,Retail & recreation,
-34,Innlandet,2020-09-27,Retail & recreation,
+34,Innlandet,2020-09-11,Retail & recreation,10.0
+34,Innlandet,2020-09-12,Retail & recreation,8.0
+34,Innlandet,2020-09-13,Retail & recreation,3.0
+34,Innlandet,2020-09-14,Retail & recreation,10.0
+34,Innlandet,2020-09-15,Retail & recreation,11.0
+34,Innlandet,2020-09-16,Retail & recreation,8.0
+34,Innlandet,2020-09-17,Retail & recreation,6.0
+34,Innlandet,2020-09-18,Retail & recreation,11.0
+34,Innlandet,2020-09-19,Retail & recreation,7.0
+34,Innlandet,2020-09-20,Retail & recreation,9.0
+34,Innlandet,2020-09-21,Retail & recreation,8.0
+34,Innlandet,2020-09-22,Retail & recreation,6.0
+34,Innlandet,2020-09-23,Retail & recreation,5.0
+34,Innlandet,2020-09-24,Retail & recreation,1.0
+34,Innlandet,2020-09-25,Retail & recreation,4.0
+34,Innlandet,2020-09-26,Retail & recreation,5.0
+34,Innlandet,2020-09-27,Retail & recreation,-9.0
+34,Innlandet,2020-09-28,Retail & recreation,11.0
+34,Innlandet,2020-09-29,Retail & recreation,13.0
+34,Innlandet,2020-09-30,Retail & recreation,15.0
 15,Møre og Romsdal,2020-02-15,Retail & recreation,5.0
 15,Møre og Romsdal,2020-02-16,Retail & recreation,3.0
 15,Møre og Romsdal,2020-02-17,Retail & recreation,5.0
@@ -660,23 +666,26 @@ fylke_no,fylke_name,date,category,mob_change
 15,Møre og Romsdal,2020-09-08,Retail & recreation,
 15,Møre og Romsdal,2020-09-09,Retail & recreation,
 15,Møre og Romsdal,2020-09-10,Retail & recreation,
-15,Møre og Romsdal,2020-09-11,Retail & recreation,
-15,Møre og Romsdal,2020-09-12,Retail & recreation,
-15,Møre og Romsdal,2020-09-13,Retail & recreation,
-15,Møre og Romsdal,2020-09-14,Retail & recreation,
-15,Møre og Romsdal,2020-09-15,Retail & recreation,
-15,Møre og Romsdal,2020-09-16,Retail & recreation,
-15,Møre og Romsdal,2020-09-17,Retail & recreation,
-15,Møre og Romsdal,2020-09-18,Retail & recreation,
-15,Møre og Romsdal,2020-09-19,Retail & recreation,
-15,Møre og Romsdal,2020-09-20,Retail & recreation,
-15,Møre og Romsdal,2020-09-21,Retail & recreation,
-15,Møre og Romsdal,2020-09-22,Retail & recreation,
-15,Møre og Romsdal,2020-09-23,Retail & recreation,
-15,Møre og Romsdal,2020-09-24,Retail & recreation,
-15,Møre og Romsdal,2020-09-25,Retail & recreation,
-15,Møre og Romsdal,2020-09-26,Retail & recreation,
-15,Møre og Romsdal,2020-09-27,Retail & recreation,
+15,Møre og Romsdal,2020-09-11,Retail & recreation,6.0
+15,Møre og Romsdal,2020-09-12,Retail & recreation,2.0
+15,Møre og Romsdal,2020-09-13,Retail & recreation,1.0
+15,Møre og Romsdal,2020-09-14,Retail & recreation,6.0
+15,Møre og Romsdal,2020-09-15,Retail & recreation,5.0
+15,Møre og Romsdal,2020-09-16,Retail & recreation,4.0
+15,Møre og Romsdal,2020-09-17,Retail & recreation,7.0
+15,Møre og Romsdal,2020-09-18,Retail & recreation,6.0
+15,Møre og Romsdal,2020-09-19,Retail & recreation,-1.0
+15,Møre og Romsdal,2020-09-20,Retail & recreation,-3.0
+15,Møre og Romsdal,2020-09-21,Retail & recreation,2.0
+15,Møre og Romsdal,2020-09-22,Retail & recreation,4.0
+15,Møre og Romsdal,2020-09-23,Retail & recreation,1.0
+15,Møre og Romsdal,2020-09-24,Retail & recreation,2.0
+15,Møre og Romsdal,2020-09-25,Retail & recreation,4.0
+15,Møre og Romsdal,2020-09-26,Retail & recreation,0.0
+15,Møre og Romsdal,2020-09-27,Retail & recreation,16.0
+15,Møre og Romsdal,2020-09-28,Retail & recreation,2.0
+15,Møre og Romsdal,2020-09-29,Retail & recreation,2.0
+15,Møre og Romsdal,2020-09-30,Retail & recreation,3.0
 18,Nordland,2020-02-15,Retail & recreation,4.0
 18,Nordland,2020-02-16,Retail & recreation,9.0
 18,Nordland,2020-02-17,Retail & recreation,7.0
@@ -886,23 +895,26 @@ fylke_no,fylke_name,date,category,mob_change
 18,Nordland,2020-09-08,Retail & recreation,
 18,Nordland,2020-09-09,Retail & recreation,
 18,Nordland,2020-09-10,Retail & recreation,
-18,Nordland,2020-09-11,Retail & recreation,
-18,Nordland,2020-09-12,Retail & recreation,
-18,Nordland,2020-09-13,Retail & recreation,
-18,Nordland,2020-09-14,Retail & recreation,
-18,Nordland,2020-09-15,Retail & recreation,
-18,Nordland,2020-09-16,Retail & recreation,
-18,Nordland,2020-09-17,Retail & recreation,
-18,Nordland,2020-09-18,Retail & recreation,
-18,Nordland,2020-09-19,Retail & recreation,
-18,Nordland,2020-09-20,Retail & recreation,
-18,Nordland,2020-09-21,Retail & recreation,
-18,Nordland,2020-09-22,Retail & recreation,
-18,Nordland,2020-09-23,Retail & recreation,
-18,Nordland,2020-09-24,Retail & recreation,
-18,Nordland,2020-09-25,Retail & recreation,
-18,Nordland,2020-09-26,Retail & recreation,
-18,Nordland,2020-09-27,Retail & recreation,
+18,Nordland,2020-09-11,Retail & recreation,12.0
+18,Nordland,2020-09-12,Retail & recreation,9.0
+18,Nordland,2020-09-13,Retail & recreation,-9.0
+18,Nordland,2020-09-14,Retail & recreation,16.0
+18,Nordland,2020-09-15,Retail & recreation,14.0
+18,Nordland,2020-09-16,Retail & recreation,11.0
+18,Nordland,2020-09-17,Retail & recreation,20.0
+18,Nordland,2020-09-18,Retail & recreation,11.0
+18,Nordland,2020-09-19,Retail & recreation,12.0
+18,Nordland,2020-09-20,Retail & recreation,-10.0
+18,Nordland,2020-09-21,Retail & recreation,2.0
+18,Nordland,2020-09-22,Retail & recreation,12.0
+18,Nordland,2020-09-23,Retail & recreation,7.0
+18,Nordland,2020-09-24,Retail & recreation,11.0
+18,Nordland,2020-09-25,Retail & recreation,7.0
+18,Nordland,2020-09-26,Retail & recreation,3.0
+18,Nordland,2020-09-27,Retail & recreation,-5.0
+18,Nordland,2020-09-28,Retail & recreation,9.0
+18,Nordland,2020-09-29,Retail & recreation,10.0
+18,Nordland,2020-09-30,Retail & recreation,8.0
 03,Oslo,2020-02-15,Retail & recreation,-1.0
 03,Oslo,2020-02-16,Retail & recreation,-10.0
 03,Oslo,2020-02-17,Retail & recreation,1.0
@@ -1087,48 +1099,51 @@ fylke_no,fylke_name,date,category,mob_change
 03,Oslo,2020-08-14,Retail & recreation,-18.0
 03,Oslo,2020-08-15,Retail & recreation,-29.0
 03,Oslo,2020-08-16,Retail & recreation,-27.0
-03,Oslo,2020-08-17,Retail & recreation,
-03,Oslo,2020-08-18,Retail & recreation,
-03,Oslo,2020-08-19,Retail & recreation,
-03,Oslo,2020-08-20,Retail & recreation,
-03,Oslo,2020-08-21,Retail & recreation,
-03,Oslo,2020-08-22,Retail & recreation,
-03,Oslo,2020-08-23,Retail & recreation,
-03,Oslo,2020-08-24,Retail & recreation,
-03,Oslo,2020-08-25,Retail & recreation,
-03,Oslo,2020-08-26,Retail & recreation,
-03,Oslo,2020-08-27,Retail & recreation,
-03,Oslo,2020-08-28,Retail & recreation,
-03,Oslo,2020-08-29,Retail & recreation,
-03,Oslo,2020-08-30,Retail & recreation,
-03,Oslo,2020-08-31,Retail & recreation,
-03,Oslo,2020-09-01,Retail & recreation,
-03,Oslo,2020-09-02,Retail & recreation,
-03,Oslo,2020-09-03,Retail & recreation,
-03,Oslo,2020-09-04,Retail & recreation,
-03,Oslo,2020-09-05,Retail & recreation,
-03,Oslo,2020-09-06,Retail & recreation,
-03,Oslo,2020-09-07,Retail & recreation,
-03,Oslo,2020-09-08,Retail & recreation,
-03,Oslo,2020-09-09,Retail & recreation,
-03,Oslo,2020-09-10,Retail & recreation,
-03,Oslo,2020-09-11,Retail & recreation,
-03,Oslo,2020-09-12,Retail & recreation,
-03,Oslo,2020-09-13,Retail & recreation,
-03,Oslo,2020-09-14,Retail & recreation,
-03,Oslo,2020-09-15,Retail & recreation,
-03,Oslo,2020-09-16,Retail & recreation,
-03,Oslo,2020-09-17,Retail & recreation,
-03,Oslo,2020-09-18,Retail & recreation,
-03,Oslo,2020-09-19,Retail & recreation,
-03,Oslo,2020-09-20,Retail & recreation,
-03,Oslo,2020-09-21,Retail & recreation,
-03,Oslo,2020-09-22,Retail & recreation,
-03,Oslo,2020-09-23,Retail & recreation,
-03,Oslo,2020-09-24,Retail & recreation,
-03,Oslo,2020-09-25,Retail & recreation,
-03,Oslo,2020-09-26,Retail & recreation,
-03,Oslo,2020-09-27,Retail & recreation,
+03,Oslo,2020-08-17,Retail & recreation,-9.0
+03,Oslo,2020-08-18,Retail & recreation,-13.0
+03,Oslo,2020-08-19,Retail & recreation,-14.0
+03,Oslo,2020-08-20,Retail & recreation,-16.0
+03,Oslo,2020-08-21,Retail & recreation,-26.0
+03,Oslo,2020-08-22,Retail & recreation,-24.0
+03,Oslo,2020-08-23,Retail & recreation,-26.0
+03,Oslo,2020-08-24,Retail & recreation,-13.0
+03,Oslo,2020-08-25,Retail & recreation,-14.0
+03,Oslo,2020-08-26,Retail & recreation,-16.0
+03,Oslo,2020-08-27,Retail & recreation,-17.0
+03,Oslo,2020-08-28,Retail & recreation,-17.0
+03,Oslo,2020-08-29,Retail & recreation,-22.0
+03,Oslo,2020-08-30,Retail & recreation,-26.0
+03,Oslo,2020-08-31,Retail & recreation,-12.0
+03,Oslo,2020-09-01,Retail & recreation,-12.0
+03,Oslo,2020-09-02,Retail & recreation,-15.0
+03,Oslo,2020-09-03,Retail & recreation,-18.0
+03,Oslo,2020-09-04,Retail & recreation,-17.0
+03,Oslo,2020-09-05,Retail & recreation,-23.0
+03,Oslo,2020-09-06,Retail & recreation,-28.0
+03,Oslo,2020-09-07,Retail & recreation,-16.0
+03,Oslo,2020-09-08,Retail & recreation,-14.0
+03,Oslo,2020-09-09,Retail & recreation,-18.0
+03,Oslo,2020-09-10,Retail & recreation,-15.0
+03,Oslo,2020-09-11,Retail & recreation,-16.0
+03,Oslo,2020-09-12,Retail & recreation,-21.0
+03,Oslo,2020-09-13,Retail & recreation,-30.0
+03,Oslo,2020-09-14,Retail & recreation,-13.0
+03,Oslo,2020-09-15,Retail & recreation,-13.0
+03,Oslo,2020-09-16,Retail & recreation,-15.0
+03,Oslo,2020-09-17,Retail & recreation,-15.0
+03,Oslo,2020-09-18,Retail & recreation,-15.0
+03,Oslo,2020-09-19,Retail & recreation,-20.0
+03,Oslo,2020-09-20,Retail & recreation,-27.0
+03,Oslo,2020-09-21,Retail & recreation,-18.0
+03,Oslo,2020-09-22,Retail & recreation,-19.0
+03,Oslo,2020-09-23,Retail & recreation,-28.0
+03,Oslo,2020-09-24,Retail & recreation,-27.0
+03,Oslo,2020-09-25,Retail & recreation,-21.0
+03,Oslo,2020-09-26,Retail & recreation,-32.0
+03,Oslo,2020-09-27,Retail & recreation,-40.0
+03,Oslo,2020-09-28,Retail & recreation,-18.0
+03,Oslo,2020-09-29,Retail & recreation,-24.0
+03,Oslo,2020-09-30,Retail & recreation,-22.0
 11,Rogaland,2020-02-15,Retail & recreation,2.0
 11,Rogaland,2020-02-16,Retail & recreation,1.0
 11,Rogaland,2020-02-17,Retail & recreation,0.0
@@ -1313,48 +1328,51 @@ fylke_no,fylke_name,date,category,mob_change
 11,Rogaland,2020-08-14,Retail & recreation,-3.0
 11,Rogaland,2020-08-15,Retail & recreation,-16.0
 11,Rogaland,2020-08-16,Retail & recreation,-7.0
-11,Rogaland,2020-08-17,Retail & recreation,
-11,Rogaland,2020-08-18,Retail & recreation,
-11,Rogaland,2020-08-19,Retail & recreation,
-11,Rogaland,2020-08-20,Retail & recreation,
-11,Rogaland,2020-08-21,Retail & recreation,
-11,Rogaland,2020-08-22,Retail & recreation,
+11,Rogaland,2020-08-17,Retail & recreation,4.0
+11,Rogaland,2020-08-18,Retail & recreation,-1.0
+11,Rogaland,2020-08-19,Retail & recreation,1.0
+11,Rogaland,2020-08-20,Retail & recreation,1.0
+11,Rogaland,2020-08-21,Retail & recreation,-9.0
+11,Rogaland,2020-08-22,Retail & recreation,-9.0
 11,Rogaland,2020-08-23,Retail & recreation,
-11,Rogaland,2020-08-24,Retail & recreation,
-11,Rogaland,2020-08-25,Retail & recreation,
-11,Rogaland,2020-08-26,Retail & recreation,
-11,Rogaland,2020-08-27,Retail & recreation,
-11,Rogaland,2020-08-28,Retail & recreation,
-11,Rogaland,2020-08-29,Retail & recreation,
+11,Rogaland,2020-08-24,Retail & recreation,2.0
+11,Rogaland,2020-08-25,Retail & recreation,1.0
+11,Rogaland,2020-08-26,Retail & recreation,-2.0
+11,Rogaland,2020-08-27,Retail & recreation,-1.0
+11,Rogaland,2020-08-28,Retail & recreation,-6.0
+11,Rogaland,2020-08-29,Retail & recreation,-13.0
 11,Rogaland,2020-08-30,Retail & recreation,
-11,Rogaland,2020-08-31,Retail & recreation,
-11,Rogaland,2020-09-01,Retail & recreation,
-11,Rogaland,2020-09-02,Retail & recreation,
-11,Rogaland,2020-09-03,Retail & recreation,
-11,Rogaland,2020-09-04,Retail & recreation,
-11,Rogaland,2020-09-05,Retail & recreation,
+11,Rogaland,2020-08-31,Retail & recreation,0.0
+11,Rogaland,2020-09-01,Retail & recreation,0.0
+11,Rogaland,2020-09-02,Retail & recreation,-4.0
+11,Rogaland,2020-09-03,Retail & recreation,-5.0
+11,Rogaland,2020-09-04,Retail & recreation,-5.0
+11,Rogaland,2020-09-05,Retail & recreation,-10.0
 11,Rogaland,2020-09-06,Retail & recreation,
-11,Rogaland,2020-09-07,Retail & recreation,
-11,Rogaland,2020-09-08,Retail & recreation,
-11,Rogaland,2020-09-09,Retail & recreation,
-11,Rogaland,2020-09-10,Retail & recreation,
-11,Rogaland,2020-09-11,Retail & recreation,
-11,Rogaland,2020-09-12,Retail & recreation,
-11,Rogaland,2020-09-13,Retail & recreation,
-11,Rogaland,2020-09-14,Retail & recreation,
-11,Rogaland,2020-09-15,Retail & recreation,
-11,Rogaland,2020-09-16,Retail & recreation,
-11,Rogaland,2020-09-17,Retail & recreation,
-11,Rogaland,2020-09-18,Retail & recreation,
-11,Rogaland,2020-09-19,Retail & recreation,
-11,Rogaland,2020-09-20,Retail & recreation,
-11,Rogaland,2020-09-21,Retail & recreation,
-11,Rogaland,2020-09-22,Retail & recreation,
-11,Rogaland,2020-09-23,Retail & recreation,
-11,Rogaland,2020-09-24,Retail & recreation,
-11,Rogaland,2020-09-25,Retail & recreation,
-11,Rogaland,2020-09-26,Retail & recreation,
-11,Rogaland,2020-09-27,Retail & recreation,
+11,Rogaland,2020-09-07,Retail & recreation,-4.0
+11,Rogaland,2020-09-08,Retail & recreation,0.0
+11,Rogaland,2020-09-09,Retail & recreation,-5.0
+11,Rogaland,2020-09-10,Retail & recreation,-1.0
+11,Rogaland,2020-09-11,Retail & recreation,-4.0
+11,Rogaland,2020-09-12,Retail & recreation,-5.0
+11,Rogaland,2020-09-13,Retail & recreation,-14.0
+11,Rogaland,2020-09-14,Retail & recreation,1.0
+11,Rogaland,2020-09-15,Retail & recreation,4.0
+11,Rogaland,2020-09-16,Retail & recreation,-2.0
+11,Rogaland,2020-09-17,Retail & recreation,-1.0
+11,Rogaland,2020-09-18,Retail & recreation,-4.0
+11,Rogaland,2020-09-19,Retail & recreation,-9.0
+11,Rogaland,2020-09-20,Retail & recreation,5.0
+11,Rogaland,2020-09-21,Retail & recreation,0.0
+11,Rogaland,2020-09-22,Retail & recreation,0.0
+11,Rogaland,2020-09-23,Retail & recreation,-5.0
+11,Rogaland,2020-09-24,Retail & recreation,-7.0
+11,Rogaland,2020-09-25,Retail & recreation,-6.0
+11,Rogaland,2020-09-26,Retail & recreation,-9.0
+11,Rogaland,2020-09-27,Retail & recreation,-4.0
+11,Rogaland,2020-09-28,Retail & recreation,-5.0
+11,Rogaland,2020-09-29,Retail & recreation,-5.0
+11,Rogaland,2020-09-30,Retail & recreation,-4.0
 54,Troms og Finnmark fylke,2020-02-15,Retail & recreation,6.0
 54,Troms og Finnmark fylke,2020-02-16,Retail & recreation,7.0
 54,Troms og Finnmark fylke,2020-02-17,Retail & recreation,2.0
@@ -1564,23 +1582,26 @@ fylke_no,fylke_name,date,category,mob_change
 54,Troms og Finnmark fylke,2020-09-08,Retail & recreation,
 54,Troms og Finnmark fylke,2020-09-09,Retail & recreation,
 54,Troms og Finnmark fylke,2020-09-10,Retail & recreation,
-54,Troms og Finnmark fylke,2020-09-11,Retail & recreation,
-54,Troms og Finnmark fylke,2020-09-12,Retail & recreation,
-54,Troms og Finnmark fylke,2020-09-13,Retail & recreation,
-54,Troms og Finnmark fylke,2020-09-14,Retail & recreation,
-54,Troms og Finnmark fylke,2020-09-15,Retail & recreation,
-54,Troms og Finnmark fylke,2020-09-16,Retail & recreation,
-54,Troms og Finnmark fylke,2020-09-17,Retail & recreation,
-54,Troms og Finnmark fylke,2020-09-18,Retail & recreation,
-54,Troms og Finnmark fylke,2020-09-19,Retail & recreation,
-54,Troms og Finnmark fylke,2020-09-20,Retail & recreation,
-54,Troms og Finnmark fylke,2020-09-21,Retail & recreation,
-54,Troms og Finnmark fylke,2020-09-22,Retail & recreation,
-54,Troms og Finnmark fylke,2020-09-23,Retail & recreation,
-54,Troms og Finnmark fylke,2020-09-24,Retail & recreation,
-54,Troms og Finnmark fylke,2020-09-25,Retail & recreation,
-54,Troms og Finnmark fylke,2020-09-26,Retail & recreation,
-54,Troms og Finnmark fylke,2020-09-27,Retail & recreation,
+54,Troms og Finnmark fylke,2020-09-11,Retail & recreation,1.0
+54,Troms og Finnmark fylke,2020-09-12,Retail & recreation,-11.0
+54,Troms og Finnmark fylke,2020-09-13,Retail & recreation,-18.0
+54,Troms og Finnmark fylke,2020-09-14,Retail & recreation,-2.0
+54,Troms og Finnmark fylke,2020-09-15,Retail & recreation,-4.0
+54,Troms og Finnmark fylke,2020-09-16,Retail & recreation,-1.0
+54,Troms og Finnmark fylke,2020-09-17,Retail & recreation,-2.0
+54,Troms og Finnmark fylke,2020-09-18,Retail & recreation,-4.0
+54,Troms og Finnmark fylke,2020-09-19,Retail & recreation,-9.0
+54,Troms og Finnmark fylke,2020-09-20,Retail & recreation,-32.0
+54,Troms og Finnmark fylke,2020-09-21,Retail & recreation,-5.0
+54,Troms og Finnmark fylke,2020-09-22,Retail & recreation,-7.0
+54,Troms og Finnmark fylke,2020-09-23,Retail & recreation,-3.0
+54,Troms og Finnmark fylke,2020-09-24,Retail & recreation,-7.0
+54,Troms og Finnmark fylke,2020-09-25,Retail & recreation,-9.0
+54,Troms og Finnmark fylke,2020-09-26,Retail & recreation,-17.0
+54,Troms og Finnmark fylke,2020-09-27,Retail & recreation,-29.0
+54,Troms og Finnmark fylke,2020-09-28,Retail & recreation,-7.0
+54,Troms og Finnmark fylke,2020-09-29,Retail & recreation,-10.0
+54,Troms og Finnmark fylke,2020-09-30,Retail & recreation,-4.0
 50,Trøndelag,2020-02-15,Retail & recreation,1.0
 50,Trøndelag,2020-02-16,Retail & recreation,1.0
 50,Trøndelag,2020-02-17,Retail & recreation,6.0
@@ -1765,48 +1786,51 @@ fylke_no,fylke_name,date,category,mob_change
 50,Trøndelag,2020-08-14,Retail & recreation,4.0
 50,Trøndelag,2020-08-15,Retail & recreation,-6.0
 50,Trøndelag,2020-08-16,Retail & recreation,0.0
-50,Trøndelag,2020-08-17,Retail & recreation,
-50,Trøndelag,2020-08-18,Retail & recreation,
-50,Trøndelag,2020-08-19,Retail & recreation,
-50,Trøndelag,2020-08-20,Retail & recreation,
-50,Trøndelag,2020-08-21,Retail & recreation,
-50,Trøndelag,2020-08-22,Retail & recreation,
+50,Trøndelag,2020-08-17,Retail & recreation,9.0
+50,Trøndelag,2020-08-18,Retail & recreation,4.0
+50,Trøndelag,2020-08-19,Retail & recreation,7.0
+50,Trøndelag,2020-08-20,Retail & recreation,9.0
+50,Trøndelag,2020-08-21,Retail & recreation,0.0
+50,Trøndelag,2020-08-22,Retail & recreation,-6.0
 50,Trøndelag,2020-08-23,Retail & recreation,
-50,Trøndelag,2020-08-24,Retail & recreation,
-50,Trøndelag,2020-08-25,Retail & recreation,
-50,Trøndelag,2020-08-26,Retail & recreation,
-50,Trøndelag,2020-08-27,Retail & recreation,
-50,Trøndelag,2020-08-28,Retail & recreation,
-50,Trøndelag,2020-08-29,Retail & recreation,
+50,Trøndelag,2020-08-24,Retail & recreation,4.0
+50,Trøndelag,2020-08-25,Retail & recreation,3.0
+50,Trøndelag,2020-08-26,Retail & recreation,4.0
+50,Trøndelag,2020-08-27,Retail & recreation,1.0
+50,Trøndelag,2020-08-28,Retail & recreation,-3.0
+50,Trøndelag,2020-08-29,Retail & recreation,-11.0
 50,Trøndelag,2020-08-30,Retail & recreation,
-50,Trøndelag,2020-08-31,Retail & recreation,
-50,Trøndelag,2020-09-01,Retail & recreation,
-50,Trøndelag,2020-09-02,Retail & recreation,
-50,Trøndelag,2020-09-03,Retail & recreation,
-50,Trøndelag,2020-09-04,Retail & recreation,
-50,Trøndelag,2020-09-05,Retail & recreation,
+50,Trøndelag,2020-08-31,Retail & recreation,1.0
+50,Trøndelag,2020-09-01,Retail & recreation,1.0
+50,Trøndelag,2020-09-02,Retail & recreation,0.0
+50,Trøndelag,2020-09-03,Retail & recreation,-1.0
+50,Trøndelag,2020-09-04,Retail & recreation,-5.0
+50,Trøndelag,2020-09-05,Retail & recreation,-9.0
 50,Trøndelag,2020-09-06,Retail & recreation,
-50,Trøndelag,2020-09-07,Retail & recreation,
-50,Trøndelag,2020-09-08,Retail & recreation,
-50,Trøndelag,2020-09-09,Retail & recreation,
-50,Trøndelag,2020-09-10,Retail & recreation,
-50,Trøndelag,2020-09-11,Retail & recreation,
-50,Trøndelag,2020-09-12,Retail & recreation,
-50,Trøndelag,2020-09-13,Retail & recreation,
-50,Trøndelag,2020-09-14,Retail & recreation,
-50,Trøndelag,2020-09-15,Retail & recreation,
-50,Trøndelag,2020-09-16,Retail & recreation,
-50,Trøndelag,2020-09-17,Retail & recreation,
-50,Trøndelag,2020-09-18,Retail & recreation,
-50,Trøndelag,2020-09-19,Retail & recreation,
-50,Trøndelag,2020-09-20,Retail & recreation,
-50,Trøndelag,2020-09-21,Retail & recreation,
-50,Trøndelag,2020-09-22,Retail & recreation,
-50,Trøndelag,2020-09-23,Retail & recreation,
-50,Trøndelag,2020-09-24,Retail & recreation,
-50,Trøndelag,2020-09-25,Retail & recreation,
-50,Trøndelag,2020-09-26,Retail & recreation,
-50,Trøndelag,2020-09-27,Retail & recreation,
+50,Trøndelag,2020-09-07,Retail & recreation,-4.0
+50,Trøndelag,2020-09-08,Retail & recreation,-4.0
+50,Trøndelag,2020-09-09,Retail & recreation,-4.0
+50,Trøndelag,2020-09-10,Retail & recreation,-4.0
+50,Trøndelag,2020-09-11,Retail & recreation,0.0
+50,Trøndelag,2020-09-12,Retail & recreation,-6.0
+50,Trøndelag,2020-09-13,Retail & recreation,-15.0
+50,Trøndelag,2020-09-14,Retail & recreation,1.0
+50,Trøndelag,2020-09-15,Retail & recreation,1.0
+50,Trøndelag,2020-09-16,Retail & recreation,1.0
+50,Trøndelag,2020-09-17,Retail & recreation,1.0
+50,Trøndelag,2020-09-18,Retail & recreation,2.0
+50,Trøndelag,2020-09-19,Retail & recreation,-6.0
+50,Trøndelag,2020-09-20,Retail & recreation,-15.0
+50,Trøndelag,2020-09-21,Retail & recreation,-3.0
+50,Trøndelag,2020-09-22,Retail & recreation,-1.0
+50,Trøndelag,2020-09-23,Retail & recreation,-1.0
+50,Trøndelag,2020-09-24,Retail & recreation,-2.0
+50,Trøndelag,2020-09-25,Retail & recreation,-5.0
+50,Trøndelag,2020-09-26,Retail & recreation,-9.0
+50,Trøndelag,2020-09-27,Retail & recreation,-1.0
+50,Trøndelag,2020-09-28,Retail & recreation,-5.0
+50,Trøndelag,2020-09-29,Retail & recreation,-3.0
+50,Trøndelag,2020-09-30,Retail & recreation,0.0
 38,Vestfold og Telemark,2020-02-15,Retail & recreation,0.0
 38,Vestfold og Telemark,2020-02-16,Retail & recreation,-10.0
 38,Vestfold og Telemark,2020-02-17,Retail & recreation,4.0
@@ -1995,44 +2019,47 @@ fylke_no,fylke_name,date,category,mob_change
 38,Vestfold og Telemark,2020-08-18,Retail & recreation,
 38,Vestfold og Telemark,2020-08-19,Retail & recreation,
 38,Vestfold og Telemark,2020-08-20,Retail & recreation,
-38,Vestfold og Telemark,2020-08-21,Retail & recreation,
-38,Vestfold og Telemark,2020-08-22,Retail & recreation,
+38,Vestfold og Telemark,2020-08-21,Retail & recreation,1.0
+38,Vestfold og Telemark,2020-08-22,Retail & recreation,9.0
 38,Vestfold og Telemark,2020-08-23,Retail & recreation,
 38,Vestfold og Telemark,2020-08-24,Retail & recreation,
 38,Vestfold og Telemark,2020-08-25,Retail & recreation,
 38,Vestfold og Telemark,2020-08-26,Retail & recreation,
 38,Vestfold og Telemark,2020-08-27,Retail & recreation,
-38,Vestfold og Telemark,2020-08-28,Retail & recreation,
-38,Vestfold og Telemark,2020-08-29,Retail & recreation,
+38,Vestfold og Telemark,2020-08-28,Retail & recreation,7.0
+38,Vestfold og Telemark,2020-08-29,Retail & recreation,3.0
 38,Vestfold og Telemark,2020-08-30,Retail & recreation,
 38,Vestfold og Telemark,2020-08-31,Retail & recreation,
 38,Vestfold og Telemark,2020-09-01,Retail & recreation,
 38,Vestfold og Telemark,2020-09-02,Retail & recreation,
 38,Vestfold og Telemark,2020-09-03,Retail & recreation,
-38,Vestfold og Telemark,2020-09-04,Retail & recreation,
-38,Vestfold og Telemark,2020-09-05,Retail & recreation,
+38,Vestfold og Telemark,2020-09-04,Retail & recreation,7.0
+38,Vestfold og Telemark,2020-09-05,Retail & recreation,2.0
 38,Vestfold og Telemark,2020-09-06,Retail & recreation,
 38,Vestfold og Telemark,2020-09-07,Retail & recreation,
 38,Vestfold og Telemark,2020-09-08,Retail & recreation,
 38,Vestfold og Telemark,2020-09-09,Retail & recreation,
 38,Vestfold og Telemark,2020-09-10,Retail & recreation,
-38,Vestfold og Telemark,2020-09-11,Retail & recreation,
-38,Vestfold og Telemark,2020-09-12,Retail & recreation,
-38,Vestfold og Telemark,2020-09-13,Retail & recreation,
-38,Vestfold og Telemark,2020-09-14,Retail & recreation,
-38,Vestfold og Telemark,2020-09-15,Retail & recreation,
-38,Vestfold og Telemark,2020-09-16,Retail & recreation,
-38,Vestfold og Telemark,2020-09-17,Retail & recreation,
-38,Vestfold og Telemark,2020-09-18,Retail & recreation,
-38,Vestfold og Telemark,2020-09-19,Retail & recreation,
-38,Vestfold og Telemark,2020-09-20,Retail & recreation,
-38,Vestfold og Telemark,2020-09-21,Retail & recreation,
-38,Vestfold og Telemark,2020-09-22,Retail & recreation,
-38,Vestfold og Telemark,2020-09-23,Retail & recreation,
-38,Vestfold og Telemark,2020-09-24,Retail & recreation,
-38,Vestfold og Telemark,2020-09-25,Retail & recreation,
-38,Vestfold og Telemark,2020-09-26,Retail & recreation,
-38,Vestfold og Telemark,2020-09-27,Retail & recreation,
+38,Vestfold og Telemark,2020-09-11,Retail & recreation,8.0
+38,Vestfold og Telemark,2020-09-12,Retail & recreation,6.0
+38,Vestfold og Telemark,2020-09-13,Retail & recreation,-2.0
+38,Vestfold og Telemark,2020-09-14,Retail & recreation,7.0
+38,Vestfold og Telemark,2020-09-15,Retail & recreation,8.0
+38,Vestfold og Telemark,2020-09-16,Retail & recreation,3.0
+38,Vestfold og Telemark,2020-09-17,Retail & recreation,10.0
+38,Vestfold og Telemark,2020-09-18,Retail & recreation,12.0
+38,Vestfold og Telemark,2020-09-19,Retail & recreation,5.0
+38,Vestfold og Telemark,2020-09-20,Retail & recreation,9.0
+38,Vestfold og Telemark,2020-09-21,Retail & recreation,7.0
+38,Vestfold og Telemark,2020-09-22,Retail & recreation,4.0
+38,Vestfold og Telemark,2020-09-23,Retail & recreation,-4.0
+38,Vestfold og Telemark,2020-09-24,Retail & recreation,-1.0
+38,Vestfold og Telemark,2020-09-25,Retail & recreation,3.0
+38,Vestfold og Telemark,2020-09-26,Retail & recreation,0.0
+38,Vestfold og Telemark,2020-09-27,Retail & recreation,-10.0
+38,Vestfold og Telemark,2020-09-28,Retail & recreation,8.0
+38,Vestfold og Telemark,2020-09-29,Retail & recreation,6.0
+38,Vestfold og Telemark,2020-09-30,Retail & recreation,4.0
 46,Vestland,2020-02-15,Retail & recreation,6.0
 46,Vestland,2020-02-16,Retail & recreation,0.0
 46,Vestland,2020-02-17,Retail & recreation,-1.0
@@ -2217,48 +2244,51 @@ fylke_no,fylke_name,date,category,mob_change
 46,Vestland,2020-08-14,Retail & recreation,0.0
 46,Vestland,2020-08-15,Retail & recreation,-5.0
 46,Vestland,2020-08-16,Retail & recreation,11.0
-46,Vestland,2020-08-17,Retail & recreation,
-46,Vestland,2020-08-18,Retail & recreation,
-46,Vestland,2020-08-19,Retail & recreation,
-46,Vestland,2020-08-20,Retail & recreation,
-46,Vestland,2020-08-21,Retail & recreation,
-46,Vestland,2020-08-22,Retail & recreation,
+46,Vestland,2020-08-17,Retail & recreation,6.0
+46,Vestland,2020-08-18,Retail & recreation,-1.0
+46,Vestland,2020-08-19,Retail & recreation,5.0
+46,Vestland,2020-08-20,Retail & recreation,0.0
+46,Vestland,2020-08-21,Retail & recreation,-8.0
+46,Vestland,2020-08-22,Retail & recreation,-5.0
 46,Vestland,2020-08-23,Retail & recreation,
-46,Vestland,2020-08-24,Retail & recreation,
-46,Vestland,2020-08-25,Retail & recreation,
-46,Vestland,2020-08-26,Retail & recreation,
-46,Vestland,2020-08-27,Retail & recreation,
-46,Vestland,2020-08-28,Retail & recreation,
-46,Vestland,2020-08-29,Retail & recreation,
+46,Vestland,2020-08-24,Retail & recreation,1.0
+46,Vestland,2020-08-25,Retail & recreation,0.0
+46,Vestland,2020-08-26,Retail & recreation,1.0
+46,Vestland,2020-08-27,Retail & recreation,0.0
+46,Vestland,2020-08-28,Retail & recreation,-5.0
+46,Vestland,2020-08-29,Retail & recreation,-6.0
 46,Vestland,2020-08-30,Retail & recreation,
-46,Vestland,2020-08-31,Retail & recreation,
-46,Vestland,2020-09-01,Retail & recreation,
-46,Vestland,2020-09-02,Retail & recreation,
-46,Vestland,2020-09-03,Retail & recreation,
-46,Vestland,2020-09-04,Retail & recreation,
-46,Vestland,2020-09-05,Retail & recreation,
+46,Vestland,2020-08-31,Retail & recreation,1.0
+46,Vestland,2020-09-01,Retail & recreation,-3.0
+46,Vestland,2020-09-02,Retail & recreation,-2.0
+46,Vestland,2020-09-03,Retail & recreation,-6.0
+46,Vestland,2020-09-04,Retail & recreation,-9.0
+46,Vestland,2020-09-05,Retail & recreation,-7.0
 46,Vestland,2020-09-06,Retail & recreation,
-46,Vestland,2020-09-07,Retail & recreation,
-46,Vestland,2020-09-08,Retail & recreation,
-46,Vestland,2020-09-09,Retail & recreation,
-46,Vestland,2020-09-10,Retail & recreation,
-46,Vestland,2020-09-11,Retail & recreation,
-46,Vestland,2020-09-12,Retail & recreation,
-46,Vestland,2020-09-13,Retail & recreation,
-46,Vestland,2020-09-14,Retail & recreation,
-46,Vestland,2020-09-15,Retail & recreation,
-46,Vestland,2020-09-16,Retail & recreation,
-46,Vestland,2020-09-17,Retail & recreation,
-46,Vestland,2020-09-18,Retail & recreation,
-46,Vestland,2020-09-19,Retail & recreation,
-46,Vestland,2020-09-20,Retail & recreation,
-46,Vestland,2020-09-21,Retail & recreation,
-46,Vestland,2020-09-22,Retail & recreation,
-46,Vestland,2020-09-23,Retail & recreation,
-46,Vestland,2020-09-24,Retail & recreation,
-46,Vestland,2020-09-25,Retail & recreation,
-46,Vestland,2020-09-26,Retail & recreation,
-46,Vestland,2020-09-27,Retail & recreation,
+46,Vestland,2020-09-07,Retail & recreation,-4.0
+46,Vestland,2020-09-08,Retail & recreation,-7.0
+46,Vestland,2020-09-09,Retail & recreation,-9.0
+46,Vestland,2020-09-10,Retail & recreation,-8.0
+46,Vestland,2020-09-11,Retail & recreation,-16.0
+46,Vestland,2020-09-12,Retail & recreation,-14.0
+46,Vestland,2020-09-13,Retail & recreation,-21.0
+46,Vestland,2020-09-14,Retail & recreation,-9.0
+46,Vestland,2020-09-15,Retail & recreation,-9.0
+46,Vestland,2020-09-16,Retail & recreation,-6.0
+46,Vestland,2020-09-17,Retail & recreation,-8.0
+46,Vestland,2020-09-18,Retail & recreation,-11.0
+46,Vestland,2020-09-19,Retail & recreation,-12.0
+46,Vestland,2020-09-20,Retail & recreation,-15.0
+46,Vestland,2020-09-21,Retail & recreation,-6.0
+46,Vestland,2020-09-22,Retail & recreation,-8.0
+46,Vestland,2020-09-23,Retail & recreation,-7.0
+46,Vestland,2020-09-24,Retail & recreation,-12.0
+46,Vestland,2020-09-25,Retail & recreation,-9.0
+46,Vestland,2020-09-26,Retail & recreation,-11.0
+46,Vestland,2020-09-27,Retail & recreation,-9.0
+46,Vestland,2020-09-28,Retail & recreation,-7.0
+46,Vestland,2020-09-29,Retail & recreation,-11.0
+46,Vestland,2020-09-30,Retail & recreation,-4.0
 30,Viken,2020-02-15,Retail & recreation,-1.0
 30,Viken,2020-02-16,Retail & recreation,-15.0
 30,Viken,2020-02-17,Retail & recreation,1.0
@@ -2443,48 +2473,51 @@ fylke_no,fylke_name,date,category,mob_change
 30,Viken,2020-08-14,Retail & recreation,2.0
 30,Viken,2020-08-15,Retail & recreation,-8.0
 30,Viken,2020-08-16,Retail & recreation,2.0
-30,Viken,2020-08-17,Retail & recreation,
-30,Viken,2020-08-18,Retail & recreation,
-30,Viken,2020-08-19,Retail & recreation,
-30,Viken,2020-08-20,Retail & recreation,
-30,Viken,2020-08-21,Retail & recreation,
-30,Viken,2020-08-22,Retail & recreation,
-30,Viken,2020-08-23,Retail & recreation,
-30,Viken,2020-08-24,Retail & recreation,
-30,Viken,2020-08-25,Retail & recreation,
-30,Viken,2020-08-26,Retail & recreation,
-30,Viken,2020-08-27,Retail & recreation,
-30,Viken,2020-08-28,Retail & recreation,
-30,Viken,2020-08-29,Retail & recreation,
-30,Viken,2020-08-30,Retail & recreation,
-30,Viken,2020-08-31,Retail & recreation,
-30,Viken,2020-09-01,Retail & recreation,
-30,Viken,2020-09-02,Retail & recreation,
-30,Viken,2020-09-03,Retail & recreation,
-30,Viken,2020-09-04,Retail & recreation,
-30,Viken,2020-09-05,Retail & recreation,
-30,Viken,2020-09-06,Retail & recreation,
-30,Viken,2020-09-07,Retail & recreation,
-30,Viken,2020-09-08,Retail & recreation,
-30,Viken,2020-09-09,Retail & recreation,
-30,Viken,2020-09-10,Retail & recreation,
-30,Viken,2020-09-11,Retail & recreation,
-30,Viken,2020-09-12,Retail & recreation,
-30,Viken,2020-09-13,Retail & recreation,
-30,Viken,2020-09-14,Retail & recreation,
-30,Viken,2020-09-15,Retail & recreation,
-30,Viken,2020-09-16,Retail & recreation,
-30,Viken,2020-09-17,Retail & recreation,
-30,Viken,2020-09-18,Retail & recreation,
-30,Viken,2020-09-19,Retail & recreation,
-30,Viken,2020-09-20,Retail & recreation,
-30,Viken,2020-09-21,Retail & recreation,
-30,Viken,2020-09-22,Retail & recreation,
-30,Viken,2020-09-23,Retail & recreation,
-30,Viken,2020-09-24,Retail & recreation,
-30,Viken,2020-09-25,Retail & recreation,
-30,Viken,2020-09-26,Retail & recreation,
-30,Viken,2020-09-27,Retail & recreation,
+30,Viken,2020-08-17,Retail & recreation,8.0
+30,Viken,2020-08-18,Retail & recreation,4.0
+30,Viken,2020-08-19,Retail & recreation,5.0
+30,Viken,2020-08-20,Retail & recreation,4.0
+30,Viken,2020-08-21,Retail & recreation,-2.0
+30,Viken,2020-08-22,Retail & recreation,1.0
+30,Viken,2020-08-23,Retail & recreation,-3.0
+30,Viken,2020-08-24,Retail & recreation,6.0
+30,Viken,2020-08-25,Retail & recreation,6.0
+30,Viken,2020-08-26,Retail & recreation,4.0
+30,Viken,2020-08-27,Retail & recreation,2.0
+30,Viken,2020-08-28,Retail & recreation,3.0
+30,Viken,2020-08-29,Retail & recreation,-1.0
+30,Viken,2020-08-30,Retail & recreation,1.0
+30,Viken,2020-08-31,Retail & recreation,5.0
+30,Viken,2020-09-01,Retail & recreation,7.0
+30,Viken,2020-09-02,Retail & recreation,4.0
+30,Viken,2020-09-03,Retail & recreation,2.0
+30,Viken,2020-09-04,Retail & recreation,3.0
+30,Viken,2020-09-05,Retail & recreation,-3.0
+30,Viken,2020-09-06,Retail & recreation,-2.0
+30,Viken,2020-09-07,Retail & recreation,2.0
+30,Viken,2020-09-08,Retail & recreation,3.0
+30,Viken,2020-09-09,Retail & recreation,-1.0
+30,Viken,2020-09-10,Retail & recreation,3.0
+30,Viken,2020-09-11,Retail & recreation,4.0
+30,Viken,2020-09-12,Retail & recreation,0.0
+30,Viken,2020-09-13,Retail & recreation,-6.0
+30,Viken,2020-09-14,Retail & recreation,5.0
+30,Viken,2020-09-15,Retail & recreation,7.0
+30,Viken,2020-09-16,Retail & recreation,3.0
+30,Viken,2020-09-17,Retail & recreation,6.0
+30,Viken,2020-09-18,Retail & recreation,5.0
+30,Viken,2020-09-19,Retail & recreation,0.0
+30,Viken,2020-09-20,Retail & recreation,4.0
+30,Viken,2020-09-21,Retail & recreation,3.0
+30,Viken,2020-09-22,Retail & recreation,4.0
+30,Viken,2020-09-23,Retail & recreation,-2.0
+30,Viken,2020-09-24,Retail & recreation,-2.0
+30,Viken,2020-09-25,Retail & recreation,1.0
+30,Viken,2020-09-26,Retail & recreation,-5.0
+30,Viken,2020-09-27,Retail & recreation,-17.0
+30,Viken,2020-09-28,Retail & recreation,5.0
+30,Viken,2020-09-29,Retail & recreation,4.0
+30,Viken,2020-09-30,Retail & recreation,4.0
 42,Agder,2020-02-15,Grocery & pharmacy,-3.0
 42,Agder,2020-02-16,Grocery & pharmacy,-8.0
 42,Agder,2020-02-17,Grocery & pharmacy,-2.0
@@ -2669,48 +2702,51 @@ fylke_no,fylke_name,date,category,mob_change
 42,Agder,2020-08-14,Grocery & pharmacy,16.0
 42,Agder,2020-08-15,Grocery & pharmacy,13.0
 42,Agder,2020-08-16,Grocery & pharmacy,70.0
-42,Agder,2020-08-17,Grocery & pharmacy,
-42,Agder,2020-08-18,Grocery & pharmacy,
-42,Agder,2020-08-19,Grocery & pharmacy,
-42,Agder,2020-08-20,Grocery & pharmacy,
-42,Agder,2020-08-21,Grocery & pharmacy,
-42,Agder,2020-08-22,Grocery & pharmacy,
+42,Agder,2020-08-17,Grocery & pharmacy,15.0
+42,Agder,2020-08-18,Grocery & pharmacy,13.0
+42,Agder,2020-08-19,Grocery & pharmacy,19.0
+42,Agder,2020-08-20,Grocery & pharmacy,11.0
+42,Agder,2020-08-21,Grocery & pharmacy,6.0
+42,Agder,2020-08-22,Grocery & pharmacy,9.0
 42,Agder,2020-08-23,Grocery & pharmacy,
-42,Agder,2020-08-24,Grocery & pharmacy,
-42,Agder,2020-08-25,Grocery & pharmacy,
-42,Agder,2020-08-26,Grocery & pharmacy,
-42,Agder,2020-08-27,Grocery & pharmacy,
-42,Agder,2020-08-28,Grocery & pharmacy,
-42,Agder,2020-08-29,Grocery & pharmacy,
+42,Agder,2020-08-24,Grocery & pharmacy,8.0
+42,Agder,2020-08-25,Grocery & pharmacy,8.0
+42,Agder,2020-08-26,Grocery & pharmacy,12.0
+42,Agder,2020-08-27,Grocery & pharmacy,9.0
+42,Agder,2020-08-28,Grocery & pharmacy,8.0
+42,Agder,2020-08-29,Grocery & pharmacy,7.0
 42,Agder,2020-08-30,Grocery & pharmacy,
-42,Agder,2020-08-31,Grocery & pharmacy,
-42,Agder,2020-09-01,Grocery & pharmacy,
-42,Agder,2020-09-02,Grocery & pharmacy,
-42,Agder,2020-09-03,Grocery & pharmacy,
-42,Agder,2020-09-04,Grocery & pharmacy,
-42,Agder,2020-09-05,Grocery & pharmacy,
+42,Agder,2020-08-31,Grocery & pharmacy,5.0
+42,Agder,2020-09-01,Grocery & pharmacy,8.0
+42,Agder,2020-09-02,Grocery & pharmacy,8.0
+42,Agder,2020-09-03,Grocery & pharmacy,2.0
+42,Agder,2020-09-04,Grocery & pharmacy,7.0
+42,Agder,2020-09-05,Grocery & pharmacy,3.0
 42,Agder,2020-09-06,Grocery & pharmacy,
-42,Agder,2020-09-07,Grocery & pharmacy,
-42,Agder,2020-09-08,Grocery & pharmacy,
-42,Agder,2020-09-09,Grocery & pharmacy,
-42,Agder,2020-09-10,Grocery & pharmacy,
-42,Agder,2020-09-11,Grocery & pharmacy,
-42,Agder,2020-09-12,Grocery & pharmacy,
-42,Agder,2020-09-13,Grocery & pharmacy,
-42,Agder,2020-09-14,Grocery & pharmacy,
-42,Agder,2020-09-15,Grocery & pharmacy,
-42,Agder,2020-09-16,Grocery & pharmacy,
-42,Agder,2020-09-17,Grocery & pharmacy,
-42,Agder,2020-09-18,Grocery & pharmacy,
-42,Agder,2020-09-19,Grocery & pharmacy,
-42,Agder,2020-09-20,Grocery & pharmacy,
-42,Agder,2020-09-21,Grocery & pharmacy,
-42,Agder,2020-09-22,Grocery & pharmacy,
-42,Agder,2020-09-23,Grocery & pharmacy,
-42,Agder,2020-09-24,Grocery & pharmacy,
-42,Agder,2020-09-25,Grocery & pharmacy,
-42,Agder,2020-09-26,Grocery & pharmacy,
-42,Agder,2020-09-27,Grocery & pharmacy,
+42,Agder,2020-09-07,Grocery & pharmacy,2.0
+42,Agder,2020-09-08,Grocery & pharmacy,7.0
+42,Agder,2020-09-09,Grocery & pharmacy,7.0
+42,Agder,2020-09-10,Grocery & pharmacy,6.0
+42,Agder,2020-09-11,Grocery & pharmacy,6.0
+42,Agder,2020-09-12,Grocery & pharmacy,5.0
+42,Agder,2020-09-13,Grocery & pharmacy,17.0
+42,Agder,2020-09-14,Grocery & pharmacy,4.0
+42,Agder,2020-09-15,Grocery & pharmacy,9.0
+42,Agder,2020-09-16,Grocery & pharmacy,10.0
+42,Agder,2020-09-17,Grocery & pharmacy,8.0
+42,Agder,2020-09-18,Grocery & pharmacy,6.0
+42,Agder,2020-09-19,Grocery & pharmacy,7.0
+42,Agder,2020-09-20,Grocery & pharmacy,32.0
+42,Agder,2020-09-21,Grocery & pharmacy,3.0
+42,Agder,2020-09-22,Grocery & pharmacy,9.0
+42,Agder,2020-09-23,Grocery & pharmacy,8.0
+42,Agder,2020-09-24,Grocery & pharmacy,3.0
+42,Agder,2020-09-25,Grocery & pharmacy,3.0
+42,Agder,2020-09-26,Grocery & pharmacy,5.0
+42,Agder,2020-09-27,Grocery & pharmacy,16.0
+42,Agder,2020-09-28,Grocery & pharmacy,3.0
+42,Agder,2020-09-29,Grocery & pharmacy,7.0
+42,Agder,2020-09-30,Grocery & pharmacy,12.0
 34,Innlandet,2020-02-15,Grocery & pharmacy,10.0
 34,Innlandet,2020-02-16,Grocery & pharmacy,32.0
 34,Innlandet,2020-02-17,Grocery & pharmacy,14.0
@@ -2895,48 +2931,51 @@ fylke_no,fylke_name,date,category,mob_change
 34,Innlandet,2020-08-14,Grocery & pharmacy,5.0
 34,Innlandet,2020-08-15,Grocery & pharmacy,8.0
 34,Innlandet,2020-08-16,Grocery & pharmacy,57.0
-34,Innlandet,2020-08-17,Grocery & pharmacy,
-34,Innlandet,2020-08-18,Grocery & pharmacy,
-34,Innlandet,2020-08-19,Grocery & pharmacy,
-34,Innlandet,2020-08-20,Grocery & pharmacy,
-34,Innlandet,2020-08-21,Grocery & pharmacy,
-34,Innlandet,2020-08-22,Grocery & pharmacy,
+34,Innlandet,2020-08-17,Grocery & pharmacy,13.0
+34,Innlandet,2020-08-18,Grocery & pharmacy,8.0
+34,Innlandet,2020-08-19,Grocery & pharmacy,13.0
+34,Innlandet,2020-08-20,Grocery & pharmacy,8.0
+34,Innlandet,2020-08-21,Grocery & pharmacy,3.0
+34,Innlandet,2020-08-22,Grocery & pharmacy,6.0
 34,Innlandet,2020-08-23,Grocery & pharmacy,
-34,Innlandet,2020-08-24,Grocery & pharmacy,
-34,Innlandet,2020-08-25,Grocery & pharmacy,
-34,Innlandet,2020-08-26,Grocery & pharmacy,
-34,Innlandet,2020-08-27,Grocery & pharmacy,
-34,Innlandet,2020-08-28,Grocery & pharmacy,
-34,Innlandet,2020-08-29,Grocery & pharmacy,
+34,Innlandet,2020-08-24,Grocery & pharmacy,8.0
+34,Innlandet,2020-08-25,Grocery & pharmacy,7.0
+34,Innlandet,2020-08-26,Grocery & pharmacy,6.0
+34,Innlandet,2020-08-27,Grocery & pharmacy,7.0
+34,Innlandet,2020-08-28,Grocery & pharmacy,6.0
+34,Innlandet,2020-08-29,Grocery & pharmacy,4.0
 34,Innlandet,2020-08-30,Grocery & pharmacy,
-34,Innlandet,2020-08-31,Grocery & pharmacy,
-34,Innlandet,2020-09-01,Grocery & pharmacy,
-34,Innlandet,2020-09-02,Grocery & pharmacy,
-34,Innlandet,2020-09-03,Grocery & pharmacy,
-34,Innlandet,2020-09-04,Grocery & pharmacy,
-34,Innlandet,2020-09-05,Grocery & pharmacy,
+34,Innlandet,2020-08-31,Grocery & pharmacy,8.0
+34,Innlandet,2020-09-01,Grocery & pharmacy,7.0
+34,Innlandet,2020-09-02,Grocery & pharmacy,4.0
+34,Innlandet,2020-09-03,Grocery & pharmacy,7.0
+34,Innlandet,2020-09-04,Grocery & pharmacy,7.0
+34,Innlandet,2020-09-05,Grocery & pharmacy,4.0
 34,Innlandet,2020-09-06,Grocery & pharmacy,
-34,Innlandet,2020-09-07,Grocery & pharmacy,
-34,Innlandet,2020-09-08,Grocery & pharmacy,
-34,Innlandet,2020-09-09,Grocery & pharmacy,
-34,Innlandet,2020-09-10,Grocery & pharmacy,
-34,Innlandet,2020-09-11,Grocery & pharmacy,
-34,Innlandet,2020-09-12,Grocery & pharmacy,
-34,Innlandet,2020-09-13,Grocery & pharmacy,
-34,Innlandet,2020-09-14,Grocery & pharmacy,
-34,Innlandet,2020-09-15,Grocery & pharmacy,
-34,Innlandet,2020-09-16,Grocery & pharmacy,
-34,Innlandet,2020-09-17,Grocery & pharmacy,
-34,Innlandet,2020-09-18,Grocery & pharmacy,
-34,Innlandet,2020-09-19,Grocery & pharmacy,
-34,Innlandet,2020-09-20,Grocery & pharmacy,
-34,Innlandet,2020-09-21,Grocery & pharmacy,
-34,Innlandet,2020-09-22,Grocery & pharmacy,
-34,Innlandet,2020-09-23,Grocery & pharmacy,
-34,Innlandet,2020-09-24,Grocery & pharmacy,
-34,Innlandet,2020-09-25,Grocery & pharmacy,
-34,Innlandet,2020-09-26,Grocery & pharmacy,
-34,Innlandet,2020-09-27,Grocery & pharmacy,
+34,Innlandet,2020-09-07,Grocery & pharmacy,6.0
+34,Innlandet,2020-09-08,Grocery & pharmacy,7.0
+34,Innlandet,2020-09-09,Grocery & pharmacy,6.0
+34,Innlandet,2020-09-10,Grocery & pharmacy,10.0
+34,Innlandet,2020-09-11,Grocery & pharmacy,9.0
+34,Innlandet,2020-09-12,Grocery & pharmacy,8.0
+34,Innlandet,2020-09-13,Grocery & pharmacy,29.0
+34,Innlandet,2020-09-14,Grocery & pharmacy,9.0
+34,Innlandet,2020-09-15,Grocery & pharmacy,9.0
+34,Innlandet,2020-09-16,Grocery & pharmacy,5.0
+34,Innlandet,2020-09-17,Grocery & pharmacy,7.0
+34,Innlandet,2020-09-18,Grocery & pharmacy,9.0
+34,Innlandet,2020-09-19,Grocery & pharmacy,6.0
+34,Innlandet,2020-09-20,Grocery & pharmacy,30.0
+34,Innlandet,2020-09-21,Grocery & pharmacy,9.0
+34,Innlandet,2020-09-22,Grocery & pharmacy,7.0
+34,Innlandet,2020-09-23,Grocery & pharmacy,5.0
+34,Innlandet,2020-09-24,Grocery & pharmacy,5.0
+34,Innlandet,2020-09-25,Grocery & pharmacy,3.0
+34,Innlandet,2020-09-26,Grocery & pharmacy,8.0
+34,Innlandet,2020-09-27,Grocery & pharmacy,26.0
+34,Innlandet,2020-09-28,Grocery & pharmacy,13.0
+34,Innlandet,2020-09-29,Grocery & pharmacy,15.0
+34,Innlandet,2020-09-30,Grocery & pharmacy,16.0
 15,Møre og Romsdal,2020-02-15,Grocery & pharmacy,3.0
 15,Møre og Romsdal,2020-02-16,Grocery & pharmacy,9.0
 15,Møre og Romsdal,2020-02-17,Grocery & pharmacy,2.0
@@ -3121,48 +3160,51 @@ fylke_no,fylke_name,date,category,mob_change
 15,Møre og Romsdal,2020-08-14,Grocery & pharmacy,1.0
 15,Møre og Romsdal,2020-08-15,Grocery & pharmacy,1.0
 15,Møre og Romsdal,2020-08-16,Grocery & pharmacy,
-15,Møre og Romsdal,2020-08-17,Grocery & pharmacy,
-15,Møre og Romsdal,2020-08-18,Grocery & pharmacy,
-15,Møre og Romsdal,2020-08-19,Grocery & pharmacy,
-15,Møre og Romsdal,2020-08-20,Grocery & pharmacy,
-15,Møre og Romsdal,2020-08-21,Grocery & pharmacy,
-15,Møre og Romsdal,2020-08-22,Grocery & pharmacy,
+15,Møre og Romsdal,2020-08-17,Grocery & pharmacy,10.0
+15,Møre og Romsdal,2020-08-18,Grocery & pharmacy,8.0
+15,Møre og Romsdal,2020-08-19,Grocery & pharmacy,12.0
+15,Møre og Romsdal,2020-08-20,Grocery & pharmacy,8.0
+15,Møre og Romsdal,2020-08-21,Grocery & pharmacy,1.0
+15,Møre og Romsdal,2020-08-22,Grocery & pharmacy,1.0
 15,Møre og Romsdal,2020-08-23,Grocery & pharmacy,
-15,Møre og Romsdal,2020-08-24,Grocery & pharmacy,
-15,Møre og Romsdal,2020-08-25,Grocery & pharmacy,
-15,Møre og Romsdal,2020-08-26,Grocery & pharmacy,
-15,Møre og Romsdal,2020-08-27,Grocery & pharmacy,
-15,Møre og Romsdal,2020-08-28,Grocery & pharmacy,
-15,Møre og Romsdal,2020-08-29,Grocery & pharmacy,
+15,Møre og Romsdal,2020-08-24,Grocery & pharmacy,1.0
+15,Møre og Romsdal,2020-08-25,Grocery & pharmacy,6.0
+15,Møre og Romsdal,2020-08-26,Grocery & pharmacy,5.0
+15,Møre og Romsdal,2020-08-27,Grocery & pharmacy,2.0
+15,Møre og Romsdal,2020-08-28,Grocery & pharmacy,-1.0
+15,Møre og Romsdal,2020-08-29,Grocery & pharmacy,-2.0
 15,Møre og Romsdal,2020-08-30,Grocery & pharmacy,
-15,Møre og Romsdal,2020-08-31,Grocery & pharmacy,
-15,Møre og Romsdal,2020-09-01,Grocery & pharmacy,
-15,Møre og Romsdal,2020-09-02,Grocery & pharmacy,
-15,Møre og Romsdal,2020-09-03,Grocery & pharmacy,
-15,Møre og Romsdal,2020-09-04,Grocery & pharmacy,
-15,Møre og Romsdal,2020-09-05,Grocery & pharmacy,
+15,Møre og Romsdal,2020-08-31,Grocery & pharmacy,5.0
+15,Møre og Romsdal,2020-09-01,Grocery & pharmacy,6.0
+15,Møre og Romsdal,2020-09-02,Grocery & pharmacy,3.0
+15,Møre og Romsdal,2020-09-03,Grocery & pharmacy,3.0
+15,Møre og Romsdal,2020-09-04,Grocery & pharmacy,1.0
+15,Møre og Romsdal,2020-09-05,Grocery & pharmacy,-2.0
 15,Møre og Romsdal,2020-09-06,Grocery & pharmacy,
-15,Møre og Romsdal,2020-09-07,Grocery & pharmacy,
-15,Møre og Romsdal,2020-09-08,Grocery & pharmacy,
-15,Møre og Romsdal,2020-09-09,Grocery & pharmacy,
-15,Møre og Romsdal,2020-09-10,Grocery & pharmacy,
-15,Møre og Romsdal,2020-09-11,Grocery & pharmacy,
-15,Møre og Romsdal,2020-09-12,Grocery & pharmacy,
-15,Møre og Romsdal,2020-09-13,Grocery & pharmacy,
-15,Møre og Romsdal,2020-09-14,Grocery & pharmacy,
-15,Møre og Romsdal,2020-09-15,Grocery & pharmacy,
-15,Møre og Romsdal,2020-09-16,Grocery & pharmacy,
-15,Møre og Romsdal,2020-09-17,Grocery & pharmacy,
-15,Møre og Romsdal,2020-09-18,Grocery & pharmacy,
-15,Møre og Romsdal,2020-09-19,Grocery & pharmacy,
-15,Møre og Romsdal,2020-09-20,Grocery & pharmacy,
-15,Møre og Romsdal,2020-09-21,Grocery & pharmacy,
-15,Møre og Romsdal,2020-09-22,Grocery & pharmacy,
-15,Møre og Romsdal,2020-09-23,Grocery & pharmacy,
-15,Møre og Romsdal,2020-09-24,Grocery & pharmacy,
-15,Møre og Romsdal,2020-09-25,Grocery & pharmacy,
-15,Møre og Romsdal,2020-09-26,Grocery & pharmacy,
-15,Møre og Romsdal,2020-09-27,Grocery & pharmacy,
+15,Møre og Romsdal,2020-09-07,Grocery & pharmacy,-1.0
+15,Møre og Romsdal,2020-09-08,Grocery & pharmacy,-2.0
+15,Møre og Romsdal,2020-09-09,Grocery & pharmacy,-1.0
+15,Møre og Romsdal,2020-09-10,Grocery & pharmacy,3.0
+15,Møre og Romsdal,2020-09-11,Grocery & pharmacy,0.0
+15,Møre og Romsdal,2020-09-12,Grocery & pharmacy,1.0
+15,Møre og Romsdal,2020-09-13,Grocery & pharmacy,22.0
+15,Møre og Romsdal,2020-09-14,Grocery & pharmacy,1.0
+15,Møre og Romsdal,2020-09-15,Grocery & pharmacy,1.0
+15,Møre og Romsdal,2020-09-16,Grocery & pharmacy,3.0
+15,Møre og Romsdal,2020-09-17,Grocery & pharmacy,-1.0
+15,Møre og Romsdal,2020-09-18,Grocery & pharmacy,0.0
+15,Møre og Romsdal,2020-09-19,Grocery & pharmacy,-3.0
+15,Møre og Romsdal,2020-09-20,Grocery & pharmacy,21.0
+15,Møre og Romsdal,2020-09-21,Grocery & pharmacy,0.0
+15,Møre og Romsdal,2020-09-22,Grocery & pharmacy,0.0
+15,Møre og Romsdal,2020-09-23,Grocery & pharmacy,2.0
+15,Møre og Romsdal,2020-09-24,Grocery & pharmacy,-4.0
+15,Møre og Romsdal,2020-09-25,Grocery & pharmacy,-1.0
+15,Møre og Romsdal,2020-09-26,Grocery & pharmacy,0.0
+15,Møre og Romsdal,2020-09-27,Grocery & pharmacy,30.0
+15,Møre og Romsdal,2020-09-28,Grocery & pharmacy,1.0
+15,Møre og Romsdal,2020-09-29,Grocery & pharmacy,2.0
+15,Møre og Romsdal,2020-09-30,Grocery & pharmacy,8.0
 18,Nordland,2020-02-15,Grocery & pharmacy,1.0
 18,Nordland,2020-02-16,Grocery & pharmacy,10.0
 18,Nordland,2020-02-17,Grocery & pharmacy,5.0
@@ -3347,48 +3389,51 @@ fylke_no,fylke_name,date,category,mob_change
 18,Nordland,2020-08-14,Grocery & pharmacy,5.0
 18,Nordland,2020-08-15,Grocery & pharmacy,7.0
 18,Nordland,2020-08-16,Grocery & pharmacy,
-18,Nordland,2020-08-17,Grocery & pharmacy,
+18,Nordland,2020-08-17,Grocery & pharmacy,14.0
 18,Nordland,2020-08-18,Grocery & pharmacy,
 18,Nordland,2020-08-19,Grocery & pharmacy,
-18,Nordland,2020-08-20,Grocery & pharmacy,
-18,Nordland,2020-08-21,Grocery & pharmacy,
-18,Nordland,2020-08-22,Grocery & pharmacy,
+18,Nordland,2020-08-20,Grocery & pharmacy,12.0
+18,Nordland,2020-08-21,Grocery & pharmacy,3.0
+18,Nordland,2020-08-22,Grocery & pharmacy,6.0
 18,Nordland,2020-08-23,Grocery & pharmacy,
-18,Nordland,2020-08-24,Grocery & pharmacy,
+18,Nordland,2020-08-24,Grocery & pharmacy,12.0
 18,Nordland,2020-08-25,Grocery & pharmacy,
-18,Nordland,2020-08-26,Grocery & pharmacy,
-18,Nordland,2020-08-27,Grocery & pharmacy,
-18,Nordland,2020-08-28,Grocery & pharmacy,
-18,Nordland,2020-08-29,Grocery & pharmacy,
+18,Nordland,2020-08-26,Grocery & pharmacy,10.0
+18,Nordland,2020-08-27,Grocery & pharmacy,10.0
+18,Nordland,2020-08-28,Grocery & pharmacy,3.0
+18,Nordland,2020-08-29,Grocery & pharmacy,1.0
 18,Nordland,2020-08-30,Grocery & pharmacy,
-18,Nordland,2020-08-31,Grocery & pharmacy,
+18,Nordland,2020-08-31,Grocery & pharmacy,9.0
 18,Nordland,2020-09-01,Grocery & pharmacy,
-18,Nordland,2020-09-02,Grocery & pharmacy,
-18,Nordland,2020-09-03,Grocery & pharmacy,
-18,Nordland,2020-09-04,Grocery & pharmacy,
-18,Nordland,2020-09-05,Grocery & pharmacy,
+18,Nordland,2020-09-02,Grocery & pharmacy,7.0
+18,Nordland,2020-09-03,Grocery & pharmacy,5.0
+18,Nordland,2020-09-04,Grocery & pharmacy,3.0
+18,Nordland,2020-09-05,Grocery & pharmacy,1.0
 18,Nordland,2020-09-06,Grocery & pharmacy,
-18,Nordland,2020-09-07,Grocery & pharmacy,
-18,Nordland,2020-09-08,Grocery & pharmacy,
-18,Nordland,2020-09-09,Grocery & pharmacy,
-18,Nordland,2020-09-10,Grocery & pharmacy,
-18,Nordland,2020-09-11,Grocery & pharmacy,
-18,Nordland,2020-09-12,Grocery & pharmacy,
+18,Nordland,2020-09-07,Grocery & pharmacy,4.0
+18,Nordland,2020-09-08,Grocery & pharmacy,3.0
+18,Nordland,2020-09-09,Grocery & pharmacy,2.0
+18,Nordland,2020-09-10,Grocery & pharmacy,6.0
+18,Nordland,2020-09-11,Grocery & pharmacy,5.0
+18,Nordland,2020-09-12,Grocery & pharmacy,4.0
 18,Nordland,2020-09-13,Grocery & pharmacy,
-18,Nordland,2020-09-14,Grocery & pharmacy,
-18,Nordland,2020-09-15,Grocery & pharmacy,
-18,Nordland,2020-09-16,Grocery & pharmacy,
-18,Nordland,2020-09-17,Grocery & pharmacy,
-18,Nordland,2020-09-18,Grocery & pharmacy,
-18,Nordland,2020-09-19,Grocery & pharmacy,
+18,Nordland,2020-09-14,Grocery & pharmacy,4.0
+18,Nordland,2020-09-15,Grocery & pharmacy,8.0
+18,Nordland,2020-09-16,Grocery & pharmacy,4.0
+18,Nordland,2020-09-17,Grocery & pharmacy,9.0
+18,Nordland,2020-09-18,Grocery & pharmacy,2.0
+18,Nordland,2020-09-19,Grocery & pharmacy,4.0
 18,Nordland,2020-09-20,Grocery & pharmacy,
-18,Nordland,2020-09-21,Grocery & pharmacy,
-18,Nordland,2020-09-22,Grocery & pharmacy,
-18,Nordland,2020-09-23,Grocery & pharmacy,
-18,Nordland,2020-09-24,Grocery & pharmacy,
-18,Nordland,2020-09-25,Grocery & pharmacy,
-18,Nordland,2020-09-26,Grocery & pharmacy,
+18,Nordland,2020-09-21,Grocery & pharmacy,-4.0
+18,Nordland,2020-09-22,Grocery & pharmacy,8.0
+18,Nordland,2020-09-23,Grocery & pharmacy,3.0
+18,Nordland,2020-09-24,Grocery & pharmacy,4.0
+18,Nordland,2020-09-25,Grocery & pharmacy,2.0
+18,Nordland,2020-09-26,Grocery & pharmacy,3.0
 18,Nordland,2020-09-27,Grocery & pharmacy,
+18,Nordland,2020-09-28,Grocery & pharmacy,5.0
+18,Nordland,2020-09-29,Grocery & pharmacy,7.0
+18,Nordland,2020-09-30,Grocery & pharmacy,7.0
 03,Oslo,2020-02-15,Grocery & pharmacy,-3.0
 03,Oslo,2020-02-16,Grocery & pharmacy,-8.0
 03,Oslo,2020-02-17,Grocery & pharmacy,-7.0
@@ -3573,48 +3618,51 @@ fylke_no,fylke_name,date,category,mob_change
 03,Oslo,2020-08-14,Grocery & pharmacy,-4.0
 03,Oslo,2020-08-15,Grocery & pharmacy,-11.0
 03,Oslo,2020-08-16,Grocery & pharmacy,7.0
-03,Oslo,2020-08-17,Grocery & pharmacy,
-03,Oslo,2020-08-18,Grocery & pharmacy,
-03,Oslo,2020-08-19,Grocery & pharmacy,
-03,Oslo,2020-08-20,Grocery & pharmacy,
-03,Oslo,2020-08-21,Grocery & pharmacy,
-03,Oslo,2020-08-22,Grocery & pharmacy,
+03,Oslo,2020-08-17,Grocery & pharmacy,-2.0
+03,Oslo,2020-08-18,Grocery & pharmacy,-2.0
+03,Oslo,2020-08-19,Grocery & pharmacy,-3.0
+03,Oslo,2020-08-20,Grocery & pharmacy,-1.0
+03,Oslo,2020-08-21,Grocery & pharmacy,-6.0
+03,Oslo,2020-08-22,Grocery & pharmacy,-6.0
 03,Oslo,2020-08-23,Grocery & pharmacy,
-03,Oslo,2020-08-24,Grocery & pharmacy,
-03,Oslo,2020-08-25,Grocery & pharmacy,
-03,Oslo,2020-08-26,Grocery & pharmacy,
-03,Oslo,2020-08-27,Grocery & pharmacy,
-03,Oslo,2020-08-28,Grocery & pharmacy,
-03,Oslo,2020-08-29,Grocery & pharmacy,
+03,Oslo,2020-08-24,Grocery & pharmacy,-5.0
+03,Oslo,2020-08-25,Grocery & pharmacy,-3.0
+03,Oslo,2020-08-26,Grocery & pharmacy,-4.0
+03,Oslo,2020-08-27,Grocery & pharmacy,-2.0
+03,Oslo,2020-08-28,Grocery & pharmacy,-1.0
+03,Oslo,2020-08-29,Grocery & pharmacy,-6.0
 03,Oslo,2020-08-30,Grocery & pharmacy,
-03,Oslo,2020-08-31,Grocery & pharmacy,
-03,Oslo,2020-09-01,Grocery & pharmacy,
-03,Oslo,2020-09-02,Grocery & pharmacy,
-03,Oslo,2020-09-03,Grocery & pharmacy,
-03,Oslo,2020-09-04,Grocery & pharmacy,
-03,Oslo,2020-09-05,Grocery & pharmacy,
+03,Oslo,2020-08-31,Grocery & pharmacy,-4.0
+03,Oslo,2020-09-01,Grocery & pharmacy,-2.0
+03,Oslo,2020-09-02,Grocery & pharmacy,-3.0
+03,Oslo,2020-09-03,Grocery & pharmacy,-2.0
+03,Oslo,2020-09-04,Grocery & pharmacy,-1.0
+03,Oslo,2020-09-05,Grocery & pharmacy,-7.0
 03,Oslo,2020-09-06,Grocery & pharmacy,
-03,Oslo,2020-09-07,Grocery & pharmacy,
-03,Oslo,2020-09-08,Grocery & pharmacy,
-03,Oslo,2020-09-09,Grocery & pharmacy,
-03,Oslo,2020-09-10,Grocery & pharmacy,
-03,Oslo,2020-09-11,Grocery & pharmacy,
-03,Oslo,2020-09-12,Grocery & pharmacy,
-03,Oslo,2020-09-13,Grocery & pharmacy,
-03,Oslo,2020-09-14,Grocery & pharmacy,
-03,Oslo,2020-09-15,Grocery & pharmacy,
-03,Oslo,2020-09-16,Grocery & pharmacy,
-03,Oslo,2020-09-17,Grocery & pharmacy,
-03,Oslo,2020-09-18,Grocery & pharmacy,
-03,Oslo,2020-09-19,Grocery & pharmacy,
-03,Oslo,2020-09-20,Grocery & pharmacy,
-03,Oslo,2020-09-21,Grocery & pharmacy,
-03,Oslo,2020-09-22,Grocery & pharmacy,
-03,Oslo,2020-09-23,Grocery & pharmacy,
-03,Oslo,2020-09-24,Grocery & pharmacy,
-03,Oslo,2020-09-25,Grocery & pharmacy,
-03,Oslo,2020-09-26,Grocery & pharmacy,
-03,Oslo,2020-09-27,Grocery & pharmacy,
+03,Oslo,2020-09-07,Grocery & pharmacy,-7.0
+03,Oslo,2020-09-08,Grocery & pharmacy,-4.0
+03,Oslo,2020-09-09,Grocery & pharmacy,-6.0
+03,Oslo,2020-09-10,Grocery & pharmacy,1.0
+03,Oslo,2020-09-11,Grocery & pharmacy,-1.0
+03,Oslo,2020-09-12,Grocery & pharmacy,-5.0
+03,Oslo,2020-09-13,Grocery & pharmacy,2.0
+03,Oslo,2020-09-14,Grocery & pharmacy,-5.0
+03,Oslo,2020-09-15,Grocery & pharmacy,-3.0
+03,Oslo,2020-09-16,Grocery & pharmacy,-5.0
+03,Oslo,2020-09-17,Grocery & pharmacy,0.0
+03,Oslo,2020-09-18,Grocery & pharmacy,0.0
+03,Oslo,2020-09-19,Grocery & pharmacy,-5.0
+03,Oslo,2020-09-20,Grocery & pharmacy,4.0
+03,Oslo,2020-09-21,Grocery & pharmacy,-5.0
+03,Oslo,2020-09-22,Grocery & pharmacy,-4.0
+03,Oslo,2020-09-23,Grocery & pharmacy,-10.0
+03,Oslo,2020-09-24,Grocery & pharmacy,-7.0
+03,Oslo,2020-09-25,Grocery & pharmacy,-2.0
+03,Oslo,2020-09-26,Grocery & pharmacy,-8.0
+03,Oslo,2020-09-27,Grocery & pharmacy,-9.0
+03,Oslo,2020-09-28,Grocery & pharmacy,-11.0
+03,Oslo,2020-09-29,Grocery & pharmacy,-11.0
+03,Oslo,2020-09-30,Grocery & pharmacy,-7.0
 11,Rogaland,2020-02-15,Grocery & pharmacy,0.0
 11,Rogaland,2020-02-16,Grocery & pharmacy,0.0
 11,Rogaland,2020-02-17,Grocery & pharmacy,0.0
@@ -3799,48 +3847,51 @@ fylke_no,fylke_name,date,category,mob_change
 11,Rogaland,2020-08-14,Grocery & pharmacy,1.0
 11,Rogaland,2020-08-15,Grocery & pharmacy,-4.0
 11,Rogaland,2020-08-16,Grocery & pharmacy,15.0
-11,Rogaland,2020-08-17,Grocery & pharmacy,
-11,Rogaland,2020-08-18,Grocery & pharmacy,
-11,Rogaland,2020-08-19,Grocery & pharmacy,
-11,Rogaland,2020-08-20,Grocery & pharmacy,
-11,Rogaland,2020-08-21,Grocery & pharmacy,
-11,Rogaland,2020-08-22,Grocery & pharmacy,
+11,Rogaland,2020-08-17,Grocery & pharmacy,5.0
+11,Rogaland,2020-08-18,Grocery & pharmacy,5.0
+11,Rogaland,2020-08-19,Grocery & pharmacy,6.0
+11,Rogaland,2020-08-20,Grocery & pharmacy,2.0
+11,Rogaland,2020-08-21,Grocery & pharmacy,-8.0
+11,Rogaland,2020-08-22,Grocery & pharmacy,-7.0
 11,Rogaland,2020-08-23,Grocery & pharmacy,
-11,Rogaland,2020-08-24,Grocery & pharmacy,
-11,Rogaland,2020-08-25,Grocery & pharmacy,
-11,Rogaland,2020-08-26,Grocery & pharmacy,
-11,Rogaland,2020-08-27,Grocery & pharmacy,
-11,Rogaland,2020-08-28,Grocery & pharmacy,
-11,Rogaland,2020-08-29,Grocery & pharmacy,
+11,Rogaland,2020-08-24,Grocery & pharmacy,-4.0
+11,Rogaland,2020-08-25,Grocery & pharmacy,-2.0
+11,Rogaland,2020-08-26,Grocery & pharmacy,-4.0
+11,Rogaland,2020-08-27,Grocery & pharmacy,-1.0
+11,Rogaland,2020-08-28,Grocery & pharmacy,-4.0
+11,Rogaland,2020-08-29,Grocery & pharmacy,-8.0
 11,Rogaland,2020-08-30,Grocery & pharmacy,
-11,Rogaland,2020-08-31,Grocery & pharmacy,
-11,Rogaland,2020-09-01,Grocery & pharmacy,
-11,Rogaland,2020-09-02,Grocery & pharmacy,
-11,Rogaland,2020-09-03,Grocery & pharmacy,
-11,Rogaland,2020-09-04,Grocery & pharmacy,
-11,Rogaland,2020-09-05,Grocery & pharmacy,
+11,Rogaland,2020-08-31,Grocery & pharmacy,-3.0
+11,Rogaland,2020-09-01,Grocery & pharmacy,-1.0
+11,Rogaland,2020-09-02,Grocery & pharmacy,-3.0
+11,Rogaland,2020-09-03,Grocery & pharmacy,-4.0
+11,Rogaland,2020-09-04,Grocery & pharmacy,-5.0
+11,Rogaland,2020-09-05,Grocery & pharmacy,-9.0
 11,Rogaland,2020-09-06,Grocery & pharmacy,
-11,Rogaland,2020-09-07,Grocery & pharmacy,
-11,Rogaland,2020-09-08,Grocery & pharmacy,
-11,Rogaland,2020-09-09,Grocery & pharmacy,
-11,Rogaland,2020-09-10,Grocery & pharmacy,
-11,Rogaland,2020-09-11,Grocery & pharmacy,
-11,Rogaland,2020-09-12,Grocery & pharmacy,
-11,Rogaland,2020-09-13,Grocery & pharmacy,
-11,Rogaland,2020-09-14,Grocery & pharmacy,
-11,Rogaland,2020-09-15,Grocery & pharmacy,
-11,Rogaland,2020-09-16,Grocery & pharmacy,
-11,Rogaland,2020-09-17,Grocery & pharmacy,
-11,Rogaland,2020-09-18,Grocery & pharmacy,
-11,Rogaland,2020-09-19,Grocery & pharmacy,
-11,Rogaland,2020-09-20,Grocery & pharmacy,
-11,Rogaland,2020-09-21,Grocery & pharmacy,
-11,Rogaland,2020-09-22,Grocery & pharmacy,
-11,Rogaland,2020-09-23,Grocery & pharmacy,
-11,Rogaland,2020-09-24,Grocery & pharmacy,
-11,Rogaland,2020-09-25,Grocery & pharmacy,
-11,Rogaland,2020-09-26,Grocery & pharmacy,
-11,Rogaland,2020-09-27,Grocery & pharmacy,
+11,Rogaland,2020-09-07,Grocery & pharmacy,-7.0
+11,Rogaland,2020-09-08,Grocery & pharmacy,-4.0
+11,Rogaland,2020-09-09,Grocery & pharmacy,-6.0
+11,Rogaland,2020-09-10,Grocery & pharmacy,0.0
+11,Rogaland,2020-09-11,Grocery & pharmacy,-4.0
+11,Rogaland,2020-09-12,Grocery & pharmacy,-5.0
+11,Rogaland,2020-09-13,Grocery & pharmacy,-2.0
+11,Rogaland,2020-09-14,Grocery & pharmacy,-4.0
+11,Rogaland,2020-09-15,Grocery & pharmacy,-1.0
+11,Rogaland,2020-09-16,Grocery & pharmacy,-4.0
+11,Rogaland,2020-09-17,Grocery & pharmacy,-1.0
+11,Rogaland,2020-09-18,Grocery & pharmacy,-3.0
+11,Rogaland,2020-09-19,Grocery & pharmacy,-8.0
+11,Rogaland,2020-09-20,Grocery & pharmacy,10.0
+11,Rogaland,2020-09-21,Grocery & pharmacy,-3.0
+11,Rogaland,2020-09-22,Grocery & pharmacy,-2.0
+11,Rogaland,2020-09-23,Grocery & pharmacy,-4.0
+11,Rogaland,2020-09-24,Grocery & pharmacy,-4.0
+11,Rogaland,2020-09-25,Grocery & pharmacy,-2.0
+11,Rogaland,2020-09-26,Grocery & pharmacy,-5.0
+11,Rogaland,2020-09-27,Grocery & pharmacy,6.0
+11,Rogaland,2020-09-28,Grocery & pharmacy,-5.0
+11,Rogaland,2020-09-29,Grocery & pharmacy,-4.0
+11,Rogaland,2020-09-30,Grocery & pharmacy,0.0
 54,Troms og Finnmark fylke,2020-02-15,Grocery & pharmacy,5.0
 54,Troms og Finnmark fylke,2020-02-16,Grocery & pharmacy,10.0
 54,Troms og Finnmark fylke,2020-02-17,Grocery & pharmacy,6.0
@@ -4025,48 +4076,51 @@ fylke_no,fylke_name,date,category,mob_change
 54,Troms og Finnmark fylke,2020-08-14,Grocery & pharmacy,0.0
 54,Troms og Finnmark fylke,2020-08-15,Grocery & pharmacy,0.0
 54,Troms og Finnmark fylke,2020-08-16,Grocery & pharmacy,-6.0
-54,Troms og Finnmark fylke,2020-08-17,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-08-18,Grocery & pharmacy,
+54,Troms og Finnmark fylke,2020-08-17,Grocery & pharmacy,6.0
+54,Troms og Finnmark fylke,2020-08-18,Grocery & pharmacy,3.0
 54,Troms og Finnmark fylke,2020-08-19,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-08-20,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-08-21,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-08-22,Grocery & pharmacy,
+54,Troms og Finnmark fylke,2020-08-20,Grocery & pharmacy,6.0
+54,Troms og Finnmark fylke,2020-08-21,Grocery & pharmacy,-1.0
+54,Troms og Finnmark fylke,2020-08-22,Grocery & pharmacy,-2.0
 54,Troms og Finnmark fylke,2020-08-23,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-08-24,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-08-25,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-08-26,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-08-27,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-08-28,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-08-29,Grocery & pharmacy,
+54,Troms og Finnmark fylke,2020-08-24,Grocery & pharmacy,2.0
+54,Troms og Finnmark fylke,2020-08-25,Grocery & pharmacy,2.0
+54,Troms og Finnmark fylke,2020-08-26,Grocery & pharmacy,9.0
+54,Troms og Finnmark fylke,2020-08-27,Grocery & pharmacy,4.0
+54,Troms og Finnmark fylke,2020-08-28,Grocery & pharmacy,0.0
+54,Troms og Finnmark fylke,2020-08-29,Grocery & pharmacy,-5.0
 54,Troms og Finnmark fylke,2020-08-30,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-08-31,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-09-01,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-09-02,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-09-03,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-09-04,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-09-05,Grocery & pharmacy,
+54,Troms og Finnmark fylke,2020-08-31,Grocery & pharmacy,2.0
+54,Troms og Finnmark fylke,2020-09-01,Grocery & pharmacy,4.0
+54,Troms og Finnmark fylke,2020-09-02,Grocery & pharmacy,6.0
+54,Troms og Finnmark fylke,2020-09-03,Grocery & pharmacy,5.0
+54,Troms og Finnmark fylke,2020-09-04,Grocery & pharmacy,0.0
+54,Troms og Finnmark fylke,2020-09-05,Grocery & pharmacy,-1.0
 54,Troms og Finnmark fylke,2020-09-06,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-09-07,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-09-08,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-09-09,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-09-10,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-09-11,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-09-12,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-09-13,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-09-14,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-09-15,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-09-16,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-09-17,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-09-18,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-09-19,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-09-20,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-09-21,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-09-22,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-09-23,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-09-24,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-09-25,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-09-26,Grocery & pharmacy,
-54,Troms og Finnmark fylke,2020-09-27,Grocery & pharmacy,
+54,Troms og Finnmark fylke,2020-09-07,Grocery & pharmacy,2.0
+54,Troms og Finnmark fylke,2020-09-08,Grocery & pharmacy,3.0
+54,Troms og Finnmark fylke,2020-09-09,Grocery & pharmacy,9.0
+54,Troms og Finnmark fylke,2020-09-10,Grocery & pharmacy,8.0
+54,Troms og Finnmark fylke,2020-09-11,Grocery & pharmacy,4.0
+54,Troms og Finnmark fylke,2020-09-12,Grocery & pharmacy,-2.0
+54,Troms og Finnmark fylke,2020-09-13,Grocery & pharmacy,12.0
+54,Troms og Finnmark fylke,2020-09-14,Grocery & pharmacy,2.0
+54,Troms og Finnmark fylke,2020-09-15,Grocery & pharmacy,5.0
+54,Troms og Finnmark fylke,2020-09-16,Grocery & pharmacy,5.0
+54,Troms og Finnmark fylke,2020-09-17,Grocery & pharmacy,3.0
+54,Troms og Finnmark fylke,2020-09-18,Grocery & pharmacy,-3.0
+54,Troms og Finnmark fylke,2020-09-19,Grocery & pharmacy,-2.0
+54,Troms og Finnmark fylke,2020-09-20,Grocery & pharmacy,-7.0
+54,Troms og Finnmark fylke,2020-09-21,Grocery & pharmacy,-1.0
+54,Troms og Finnmark fylke,2020-09-22,Grocery & pharmacy,0.0
+54,Troms og Finnmark fylke,2020-09-23,Grocery & pharmacy,4.0
+54,Troms og Finnmark fylke,2020-09-24,Grocery & pharmacy,3.0
+54,Troms og Finnmark fylke,2020-09-25,Grocery & pharmacy,-3.0
+54,Troms og Finnmark fylke,2020-09-26,Grocery & pharmacy,-4.0
+54,Troms og Finnmark fylke,2020-09-27,Grocery & pharmacy,1.0
+54,Troms og Finnmark fylke,2020-09-28,Grocery & pharmacy,1.0
+54,Troms og Finnmark fylke,2020-09-29,Grocery & pharmacy,1.0
+54,Troms og Finnmark fylke,2020-09-30,Grocery & pharmacy,8.0
 50,Trøndelag,2020-02-15,Grocery & pharmacy,0.0
 50,Trøndelag,2020-02-16,Grocery & pharmacy,10.0
 50,Trøndelag,2020-02-17,Grocery & pharmacy,0.0
@@ -4251,48 +4305,51 @@ fylke_no,fylke_name,date,category,mob_change
 50,Trøndelag,2020-08-14,Grocery & pharmacy,6.0
 50,Trøndelag,2020-08-15,Grocery & pharmacy,3.0
 50,Trøndelag,2020-08-16,Grocery & pharmacy,37.0
-50,Trøndelag,2020-08-17,Grocery & pharmacy,
-50,Trøndelag,2020-08-18,Grocery & pharmacy,
-50,Trøndelag,2020-08-19,Grocery & pharmacy,
-50,Trøndelag,2020-08-20,Grocery & pharmacy,
-50,Trøndelag,2020-08-21,Grocery & pharmacy,
-50,Trøndelag,2020-08-22,Grocery & pharmacy,
+50,Trøndelag,2020-08-17,Grocery & pharmacy,11.0
+50,Trøndelag,2020-08-18,Grocery & pharmacy,8.0
+50,Trøndelag,2020-08-19,Grocery & pharmacy,10.0
+50,Trøndelag,2020-08-20,Grocery & pharmacy,11.0
+50,Trøndelag,2020-08-21,Grocery & pharmacy,2.0
+50,Trøndelag,2020-08-22,Grocery & pharmacy,0.0
 50,Trøndelag,2020-08-23,Grocery & pharmacy,
-50,Trøndelag,2020-08-24,Grocery & pharmacy,
-50,Trøndelag,2020-08-25,Grocery & pharmacy,
-50,Trøndelag,2020-08-26,Grocery & pharmacy,
-50,Trøndelag,2020-08-27,Grocery & pharmacy,
-50,Trøndelag,2020-08-28,Grocery & pharmacy,
-50,Trøndelag,2020-08-29,Grocery & pharmacy,
+50,Trøndelag,2020-08-24,Grocery & pharmacy,2.0
+50,Trøndelag,2020-08-25,Grocery & pharmacy,0.0
+50,Trøndelag,2020-08-26,Grocery & pharmacy,1.0
+50,Trøndelag,2020-08-27,Grocery & pharmacy,3.0
+50,Trøndelag,2020-08-28,Grocery & pharmacy,1.0
+50,Trøndelag,2020-08-29,Grocery & pharmacy,-4.0
 50,Trøndelag,2020-08-30,Grocery & pharmacy,
-50,Trøndelag,2020-08-31,Grocery & pharmacy,
-50,Trøndelag,2020-09-01,Grocery & pharmacy,
-50,Trøndelag,2020-09-02,Grocery & pharmacy,
-50,Trøndelag,2020-09-03,Grocery & pharmacy,
-50,Trøndelag,2020-09-04,Grocery & pharmacy,
-50,Trøndelag,2020-09-05,Grocery & pharmacy,
+50,Trøndelag,2020-08-31,Grocery & pharmacy,2.0
+50,Trøndelag,2020-09-01,Grocery & pharmacy,2.0
+50,Trøndelag,2020-09-02,Grocery & pharmacy,0.0
+50,Trøndelag,2020-09-03,Grocery & pharmacy,3.0
+50,Trøndelag,2020-09-04,Grocery & pharmacy,1.0
+50,Trøndelag,2020-09-05,Grocery & pharmacy,-2.0
 50,Trøndelag,2020-09-06,Grocery & pharmacy,
-50,Trøndelag,2020-09-07,Grocery & pharmacy,
-50,Trøndelag,2020-09-08,Grocery & pharmacy,
-50,Trøndelag,2020-09-09,Grocery & pharmacy,
-50,Trøndelag,2020-09-10,Grocery & pharmacy,
-50,Trøndelag,2020-09-11,Grocery & pharmacy,
-50,Trøndelag,2020-09-12,Grocery & pharmacy,
-50,Trøndelag,2020-09-13,Grocery & pharmacy,
-50,Trøndelag,2020-09-14,Grocery & pharmacy,
-50,Trøndelag,2020-09-15,Grocery & pharmacy,
-50,Trøndelag,2020-09-16,Grocery & pharmacy,
-50,Trøndelag,2020-09-17,Grocery & pharmacy,
-50,Trøndelag,2020-09-18,Grocery & pharmacy,
-50,Trøndelag,2020-09-19,Grocery & pharmacy,
-50,Trøndelag,2020-09-20,Grocery & pharmacy,
-50,Trøndelag,2020-09-21,Grocery & pharmacy,
-50,Trøndelag,2020-09-22,Grocery & pharmacy,
-50,Trøndelag,2020-09-23,Grocery & pharmacy,
-50,Trøndelag,2020-09-24,Grocery & pharmacy,
-50,Trøndelag,2020-09-25,Grocery & pharmacy,
-50,Trøndelag,2020-09-26,Grocery & pharmacy,
-50,Trøndelag,2020-09-27,Grocery & pharmacy,
+50,Trøndelag,2020-09-07,Grocery & pharmacy,-1.0
+50,Trøndelag,2020-09-08,Grocery & pharmacy,-2.0
+50,Trøndelag,2020-09-09,Grocery & pharmacy,-3.0
+50,Trøndelag,2020-09-10,Grocery & pharmacy,1.0
+50,Trøndelag,2020-09-11,Grocery & pharmacy,-1.0
+50,Trøndelag,2020-09-12,Grocery & pharmacy,-4.0
+50,Trøndelag,2020-09-13,Grocery & pharmacy,5.0
+50,Trøndelag,2020-09-14,Grocery & pharmacy,1.0
+50,Trøndelag,2020-09-15,Grocery & pharmacy,-3.0
+50,Trøndelag,2020-09-16,Grocery & pharmacy,-4.0
+50,Trøndelag,2020-09-17,Grocery & pharmacy,-1.0
+50,Trøndelag,2020-09-18,Grocery & pharmacy,-2.0
+50,Trøndelag,2020-09-19,Grocery & pharmacy,-5.0
+50,Trøndelag,2020-09-20,Grocery & pharmacy,4.0
+50,Trøndelag,2020-09-21,Grocery & pharmacy,-3.0
+50,Trøndelag,2020-09-22,Grocery & pharmacy,-4.0
+50,Trøndelag,2020-09-23,Grocery & pharmacy,-4.0
+50,Trøndelag,2020-09-24,Grocery & pharmacy,-2.0
+50,Trøndelag,2020-09-25,Grocery & pharmacy,-3.0
+50,Trøndelag,2020-09-26,Grocery & pharmacy,-4.0
+50,Trøndelag,2020-09-27,Grocery & pharmacy,10.0
+50,Trøndelag,2020-09-28,Grocery & pharmacy,-2.0
+50,Trøndelag,2020-09-29,Grocery & pharmacy,-3.0
+50,Trøndelag,2020-09-30,Grocery & pharmacy,0.0
 38,Vestfold og Telemark,2020-02-15,Grocery & pharmacy,1.0
 38,Vestfold og Telemark,2020-02-16,Grocery & pharmacy,-4.0
 38,Vestfold og Telemark,2020-02-17,Grocery & pharmacy,1.0
@@ -4477,48 +4534,51 @@ fylke_no,fylke_name,date,category,mob_change
 38,Vestfold og Telemark,2020-08-14,Grocery & pharmacy,15.0
 38,Vestfold og Telemark,2020-08-15,Grocery & pharmacy,14.0
 38,Vestfold og Telemark,2020-08-16,Grocery & pharmacy,77.0
-38,Vestfold og Telemark,2020-08-17,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-08-18,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-08-19,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-08-20,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-08-21,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-08-22,Grocery & pharmacy,
+38,Vestfold og Telemark,2020-08-17,Grocery & pharmacy,16.0
+38,Vestfold og Telemark,2020-08-18,Grocery & pharmacy,12.0
+38,Vestfold og Telemark,2020-08-19,Grocery & pharmacy,14.0
+38,Vestfold og Telemark,2020-08-20,Grocery & pharmacy,11.0
+38,Vestfold og Telemark,2020-08-21,Grocery & pharmacy,5.0
+38,Vestfold og Telemark,2020-08-22,Grocery & pharmacy,10.0
 38,Vestfold og Telemark,2020-08-23,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-08-24,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-08-25,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-08-26,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-08-27,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-08-28,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-08-29,Grocery & pharmacy,
+38,Vestfold og Telemark,2020-08-24,Grocery & pharmacy,9.0
+38,Vestfold og Telemark,2020-08-25,Grocery & pharmacy,9.0
+38,Vestfold og Telemark,2020-08-26,Grocery & pharmacy,7.0
+38,Vestfold og Telemark,2020-08-27,Grocery & pharmacy,7.0
+38,Vestfold og Telemark,2020-08-28,Grocery & pharmacy,10.0
+38,Vestfold og Telemark,2020-08-29,Grocery & pharmacy,7.0
 38,Vestfold og Telemark,2020-08-30,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-08-31,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-09-01,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-09-02,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-09-03,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-09-04,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-09-05,Grocery & pharmacy,
+38,Vestfold og Telemark,2020-08-31,Grocery & pharmacy,9.0
+38,Vestfold og Telemark,2020-09-01,Grocery & pharmacy,10.0
+38,Vestfold og Telemark,2020-09-02,Grocery & pharmacy,7.0
+38,Vestfold og Telemark,2020-09-03,Grocery & pharmacy,7.0
+38,Vestfold og Telemark,2020-09-04,Grocery & pharmacy,11.0
+38,Vestfold og Telemark,2020-09-05,Grocery & pharmacy,8.0
 38,Vestfold og Telemark,2020-09-06,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-09-07,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-09-08,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-09-09,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-09-10,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-09-11,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-09-12,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-09-13,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-09-14,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-09-15,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-09-16,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-09-17,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-09-18,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-09-19,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-09-20,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-09-21,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-09-22,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-09-23,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-09-24,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-09-25,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-09-26,Grocery & pharmacy,
-38,Vestfold og Telemark,2020-09-27,Grocery & pharmacy,
+38,Vestfold og Telemark,2020-09-07,Grocery & pharmacy,10.0
+38,Vestfold og Telemark,2020-09-08,Grocery & pharmacy,9.0
+38,Vestfold og Telemark,2020-09-09,Grocery & pharmacy,7.0
+38,Vestfold og Telemark,2020-09-10,Grocery & pharmacy,13.0
+38,Vestfold og Telemark,2020-09-11,Grocery & pharmacy,10.0
+38,Vestfold og Telemark,2020-09-12,Grocery & pharmacy,7.0
+38,Vestfold og Telemark,2020-09-13,Grocery & pharmacy,32.0
+38,Vestfold og Telemark,2020-09-14,Grocery & pharmacy,8.0
+38,Vestfold og Telemark,2020-09-15,Grocery & pharmacy,12.0
+38,Vestfold og Telemark,2020-09-16,Grocery & pharmacy,7.0
+38,Vestfold og Telemark,2020-09-17,Grocery & pharmacy,11.0
+38,Vestfold og Telemark,2020-09-18,Grocery & pharmacy,13.0
+38,Vestfold og Telemark,2020-09-19,Grocery & pharmacy,6.0
+38,Vestfold og Telemark,2020-09-20,Grocery & pharmacy,44.0
+38,Vestfold og Telemark,2020-09-21,Grocery & pharmacy,11.0
+38,Vestfold og Telemark,2020-09-22,Grocery & pharmacy,10.0
+38,Vestfold og Telemark,2020-09-23,Grocery & pharmacy,6.0
+38,Vestfold og Telemark,2020-09-24,Grocery & pharmacy,4.0
+38,Vestfold og Telemark,2020-09-25,Grocery & pharmacy,8.0
+38,Vestfold og Telemark,2020-09-26,Grocery & pharmacy,5.0
+38,Vestfold og Telemark,2020-09-27,Grocery & pharmacy,20.0
+38,Vestfold og Telemark,2020-09-28,Grocery & pharmacy,10.0
+38,Vestfold og Telemark,2020-09-29,Grocery & pharmacy,11.0
+38,Vestfold og Telemark,2020-09-30,Grocery & pharmacy,14.0
 46,Vestland,2020-02-15,Grocery & pharmacy,2.0
 46,Vestland,2020-02-16,Grocery & pharmacy,4.0
 46,Vestland,2020-02-17,Grocery & pharmacy,-2.0
@@ -4703,48 +4763,51 @@ fylke_no,fylke_name,date,category,mob_change
 46,Vestland,2020-08-14,Grocery & pharmacy,3.0
 46,Vestland,2020-08-15,Grocery & pharmacy,1.0
 46,Vestland,2020-08-16,Grocery & pharmacy,63.0
-46,Vestland,2020-08-17,Grocery & pharmacy,
-46,Vestland,2020-08-18,Grocery & pharmacy,
-46,Vestland,2020-08-19,Grocery & pharmacy,
-46,Vestland,2020-08-20,Grocery & pharmacy,
-46,Vestland,2020-08-21,Grocery & pharmacy,
-46,Vestland,2020-08-22,Grocery & pharmacy,
+46,Vestland,2020-08-17,Grocery & pharmacy,11.0
+46,Vestland,2020-08-18,Grocery & pharmacy,6.0
+46,Vestland,2020-08-19,Grocery & pharmacy,10.0
+46,Vestland,2020-08-20,Grocery & pharmacy,3.0
+46,Vestland,2020-08-21,Grocery & pharmacy,0.0
+46,Vestland,2020-08-22,Grocery & pharmacy,0.0
 46,Vestland,2020-08-23,Grocery & pharmacy,
-46,Vestland,2020-08-24,Grocery & pharmacy,
-46,Vestland,2020-08-25,Grocery & pharmacy,
-46,Vestland,2020-08-26,Grocery & pharmacy,
-46,Vestland,2020-08-27,Grocery & pharmacy,
-46,Vestland,2020-08-28,Grocery & pharmacy,
-46,Vestland,2020-08-29,Grocery & pharmacy,
+46,Vestland,2020-08-24,Grocery & pharmacy,2.0
+46,Vestland,2020-08-25,Grocery & pharmacy,4.0
+46,Vestland,2020-08-26,Grocery & pharmacy,6.0
+46,Vestland,2020-08-27,Grocery & pharmacy,6.0
+46,Vestland,2020-08-28,Grocery & pharmacy,5.0
+46,Vestland,2020-08-29,Grocery & pharmacy,0.0
 46,Vestland,2020-08-30,Grocery & pharmacy,
-46,Vestland,2020-08-31,Grocery & pharmacy,
-46,Vestland,2020-09-01,Grocery & pharmacy,
-46,Vestland,2020-09-02,Grocery & pharmacy,
-46,Vestland,2020-09-03,Grocery & pharmacy,
-46,Vestland,2020-09-04,Grocery & pharmacy,
-46,Vestland,2020-09-05,Grocery & pharmacy,
+46,Vestland,2020-08-31,Grocery & pharmacy,6.0
+46,Vestland,2020-09-01,Grocery & pharmacy,3.0
+46,Vestland,2020-09-02,Grocery & pharmacy,4.0
+46,Vestland,2020-09-03,Grocery & pharmacy,1.0
+46,Vestland,2020-09-04,Grocery & pharmacy,1.0
+46,Vestland,2020-09-05,Grocery & pharmacy,-3.0
 46,Vestland,2020-09-06,Grocery & pharmacy,
-46,Vestland,2020-09-07,Grocery & pharmacy,
-46,Vestland,2020-09-08,Grocery & pharmacy,
-46,Vestland,2020-09-09,Grocery & pharmacy,
-46,Vestland,2020-09-10,Grocery & pharmacy,
-46,Vestland,2020-09-11,Grocery & pharmacy,
-46,Vestland,2020-09-12,Grocery & pharmacy,
-46,Vestland,2020-09-13,Grocery & pharmacy,
-46,Vestland,2020-09-14,Grocery & pharmacy,
-46,Vestland,2020-09-15,Grocery & pharmacy,
-46,Vestland,2020-09-16,Grocery & pharmacy,
-46,Vestland,2020-09-17,Grocery & pharmacy,
-46,Vestland,2020-09-18,Grocery & pharmacy,
-46,Vestland,2020-09-19,Grocery & pharmacy,
-46,Vestland,2020-09-20,Grocery & pharmacy,
-46,Vestland,2020-09-21,Grocery & pharmacy,
-46,Vestland,2020-09-22,Grocery & pharmacy,
-46,Vestland,2020-09-23,Grocery & pharmacy,
-46,Vestland,2020-09-24,Grocery & pharmacy,
-46,Vestland,2020-09-25,Grocery & pharmacy,
-46,Vestland,2020-09-26,Grocery & pharmacy,
-46,Vestland,2020-09-27,Grocery & pharmacy,
+46,Vestland,2020-09-07,Grocery & pharmacy,-2.0
+46,Vestland,2020-09-08,Grocery & pharmacy,-2.0
+46,Vestland,2020-09-09,Grocery & pharmacy,0.0
+46,Vestland,2020-09-10,Grocery & pharmacy,4.0
+46,Vestland,2020-09-11,Grocery & pharmacy,-1.0
+46,Vestland,2020-09-12,Grocery & pharmacy,-4.0
+46,Vestland,2020-09-13,Grocery & pharmacy,13.0
+46,Vestland,2020-09-14,Grocery & pharmacy,-2.0
+46,Vestland,2020-09-15,Grocery & pharmacy,-1.0
+46,Vestland,2020-09-16,Grocery & pharmacy,2.0
+46,Vestland,2020-09-17,Grocery & pharmacy,0.0
+46,Vestland,2020-09-18,Grocery & pharmacy,2.0
+46,Vestland,2020-09-19,Grocery & pharmacy,-4.0
+46,Vestland,2020-09-20,Grocery & pharmacy,11.0
+46,Vestland,2020-09-21,Grocery & pharmacy,1.0
+46,Vestland,2020-09-22,Grocery & pharmacy,-1.0
+46,Vestland,2020-09-23,Grocery & pharmacy,2.0
+46,Vestland,2020-09-24,Grocery & pharmacy,-4.0
+46,Vestland,2020-09-25,Grocery & pharmacy,4.0
+46,Vestland,2020-09-26,Grocery & pharmacy,-1.0
+46,Vestland,2020-09-27,Grocery & pharmacy,18.0
+46,Vestland,2020-09-28,Grocery & pharmacy,1.0
+46,Vestland,2020-09-29,Grocery & pharmacy,-3.0
+46,Vestland,2020-09-30,Grocery & pharmacy,6.0
 30,Viken,2020-02-15,Grocery & pharmacy,0.0
 30,Viken,2020-02-16,Grocery & pharmacy,-1.0
 30,Viken,2020-02-17,Grocery & pharmacy,-1.0
@@ -4929,48 +4992,51 @@ fylke_no,fylke_name,date,category,mob_change
 30,Viken,2020-08-14,Grocery & pharmacy,2.0
 30,Viken,2020-08-15,Grocery & pharmacy,1.0
 30,Viken,2020-08-16,Grocery & pharmacy,31.0
-30,Viken,2020-08-17,Grocery & pharmacy,
-30,Viken,2020-08-18,Grocery & pharmacy,
-30,Viken,2020-08-19,Grocery & pharmacy,
-30,Viken,2020-08-20,Grocery & pharmacy,
-30,Viken,2020-08-21,Grocery & pharmacy,
-30,Viken,2020-08-22,Grocery & pharmacy,
+30,Viken,2020-08-17,Grocery & pharmacy,10.0
+30,Viken,2020-08-18,Grocery & pharmacy,8.0
+30,Viken,2020-08-19,Grocery & pharmacy,11.0
+30,Viken,2020-08-20,Grocery & pharmacy,8.0
+30,Viken,2020-08-21,Grocery & pharmacy,1.0
+30,Viken,2020-08-22,Grocery & pharmacy,5.0
 30,Viken,2020-08-23,Grocery & pharmacy,
-30,Viken,2020-08-24,Grocery & pharmacy,
-30,Viken,2020-08-25,Grocery & pharmacy,
-30,Viken,2020-08-26,Grocery & pharmacy,
-30,Viken,2020-08-27,Grocery & pharmacy,
-30,Viken,2020-08-28,Grocery & pharmacy,
-30,Viken,2020-08-29,Grocery & pharmacy,
+30,Viken,2020-08-24,Grocery & pharmacy,5.0
+30,Viken,2020-08-25,Grocery & pharmacy,6.0
+30,Viken,2020-08-26,Grocery & pharmacy,5.0
+30,Viken,2020-08-27,Grocery & pharmacy,6.0
+30,Viken,2020-08-28,Grocery & pharmacy,4.0
+30,Viken,2020-08-29,Grocery & pharmacy,2.0
 30,Viken,2020-08-30,Grocery & pharmacy,
-30,Viken,2020-08-31,Grocery & pharmacy,
-30,Viken,2020-09-01,Grocery & pharmacy,
-30,Viken,2020-09-02,Grocery & pharmacy,
-30,Viken,2020-09-03,Grocery & pharmacy,
-30,Viken,2020-09-04,Grocery & pharmacy,
-30,Viken,2020-09-05,Grocery & pharmacy,
+30,Viken,2020-08-31,Grocery & pharmacy,6.0
+30,Viken,2020-09-01,Grocery & pharmacy,7.0
+30,Viken,2020-09-02,Grocery & pharmacy,5.0
+30,Viken,2020-09-03,Grocery & pharmacy,6.0
+30,Viken,2020-09-04,Grocery & pharmacy,4.0
+30,Viken,2020-09-05,Grocery & pharmacy,1.0
 30,Viken,2020-09-06,Grocery & pharmacy,
-30,Viken,2020-09-07,Grocery & pharmacy,
-30,Viken,2020-09-08,Grocery & pharmacy,
-30,Viken,2020-09-09,Grocery & pharmacy,
-30,Viken,2020-09-10,Grocery & pharmacy,
-30,Viken,2020-09-11,Grocery & pharmacy,
-30,Viken,2020-09-12,Grocery & pharmacy,
-30,Viken,2020-09-13,Grocery & pharmacy,
-30,Viken,2020-09-14,Grocery & pharmacy,
-30,Viken,2020-09-15,Grocery & pharmacy,
-30,Viken,2020-09-16,Grocery & pharmacy,
-30,Viken,2020-09-17,Grocery & pharmacy,
-30,Viken,2020-09-18,Grocery & pharmacy,
-30,Viken,2020-09-19,Grocery & pharmacy,
-30,Viken,2020-09-20,Grocery & pharmacy,
-30,Viken,2020-09-21,Grocery & pharmacy,
-30,Viken,2020-09-22,Grocery & pharmacy,
-30,Viken,2020-09-23,Grocery & pharmacy,
-30,Viken,2020-09-24,Grocery & pharmacy,
-30,Viken,2020-09-25,Grocery & pharmacy,
-30,Viken,2020-09-26,Grocery & pharmacy,
-30,Viken,2020-09-27,Grocery & pharmacy,
+30,Viken,2020-09-07,Grocery & pharmacy,4.0
+30,Viken,2020-09-08,Grocery & pharmacy,5.0
+30,Viken,2020-09-09,Grocery & pharmacy,2.0
+30,Viken,2020-09-10,Grocery & pharmacy,8.0
+30,Viken,2020-09-11,Grocery & pharmacy,5.0
+30,Viken,2020-09-12,Grocery & pharmacy,2.0
+30,Viken,2020-09-13,Grocery & pharmacy,17.0
+30,Viken,2020-09-14,Grocery & pharmacy,5.0
+30,Viken,2020-09-15,Grocery & pharmacy,8.0
+30,Viken,2020-09-16,Grocery & pharmacy,4.0
+30,Viken,2020-09-17,Grocery & pharmacy,7.0
+30,Viken,2020-09-18,Grocery & pharmacy,5.0
+30,Viken,2020-09-19,Grocery & pharmacy,2.0
+30,Viken,2020-09-20,Grocery & pharmacy,23.0
+30,Viken,2020-09-21,Grocery & pharmacy,6.0
+30,Viken,2020-09-22,Grocery & pharmacy,6.0
+30,Viken,2020-09-23,Grocery & pharmacy,3.0
+30,Viken,2020-09-24,Grocery & pharmacy,3.0
+30,Viken,2020-09-25,Grocery & pharmacy,4.0
+30,Viken,2020-09-26,Grocery & pharmacy,1.0
+30,Viken,2020-09-27,Grocery & pharmacy,8.0
+30,Viken,2020-09-28,Grocery & pharmacy,1.0
+30,Viken,2020-09-29,Grocery & pharmacy,2.0
+30,Viken,2020-09-30,Grocery & pharmacy,3.0
 42,Agder,2020-02-15,Parks,-8.0
 42,Agder,2020-02-16,Parks,-55.0
 42,Agder,2020-02-17,Parks,-7.0
@@ -5180,23 +5246,26 @@ fylke_no,fylke_name,date,category,mob_change
 42,Agder,2020-09-08,Parks,
 42,Agder,2020-09-09,Parks,
 42,Agder,2020-09-10,Parks,
-42,Agder,2020-09-11,Parks,
-42,Agder,2020-09-12,Parks,
-42,Agder,2020-09-13,Parks,
-42,Agder,2020-09-14,Parks,
-42,Agder,2020-09-15,Parks,
-42,Agder,2020-09-16,Parks,
-42,Agder,2020-09-17,Parks,
-42,Agder,2020-09-18,Parks,
-42,Agder,2020-09-19,Parks,
-42,Agder,2020-09-20,Parks,
-42,Agder,2020-09-21,Parks,
-42,Agder,2020-09-22,Parks,
-42,Agder,2020-09-23,Parks,
-42,Agder,2020-09-24,Parks,
-42,Agder,2020-09-25,Parks,
-42,Agder,2020-09-26,Parks,
-42,Agder,2020-09-27,Parks,
+42,Agder,2020-09-11,Parks,48.0
+42,Agder,2020-09-12,Parks,82.0
+42,Agder,2020-09-13,Parks,-9.0
+42,Agder,2020-09-14,Parks,94.0
+42,Agder,2020-09-15,Parks,93.0
+42,Agder,2020-09-16,Parks,84.0
+42,Agder,2020-09-17,Parks,86.0
+42,Agder,2020-09-18,Parks,110.0
+42,Agder,2020-09-19,Parks,142.0
+42,Agder,2020-09-20,Parks,53.0
+42,Agder,2020-09-21,Parks,61.0
+42,Agder,2020-09-22,Parks,58.0
+42,Agder,2020-09-23,Parks,24.0
+42,Agder,2020-09-24,Parks,20.0
+42,Agder,2020-09-25,Parks,31.0
+42,Agder,2020-09-26,Parks,47.0
+42,Agder,2020-09-27,Parks,17.0
+42,Agder,2020-09-28,Parks,67.0
+42,Agder,2020-09-29,Parks,51.0
+42,Agder,2020-09-30,Parks,48.0
 34,Innlandet,2020-02-15,Parks,67.0
 34,Innlandet,2020-02-16,Parks,-13.0
 34,Innlandet,2020-02-17,Parks,55.0
@@ -5406,23 +5475,26 @@ fylke_no,fylke_name,date,category,mob_change
 34,Innlandet,2020-09-08,Parks,
 34,Innlandet,2020-09-09,Parks,
 34,Innlandet,2020-09-10,Parks,
-34,Innlandet,2020-09-11,Parks,
-34,Innlandet,2020-09-12,Parks,
-34,Innlandet,2020-09-13,Parks,
-34,Innlandet,2020-09-14,Parks,
-34,Innlandet,2020-09-15,Parks,
-34,Innlandet,2020-09-16,Parks,
-34,Innlandet,2020-09-17,Parks,
-34,Innlandet,2020-09-18,Parks,
-34,Innlandet,2020-09-19,Parks,
-34,Innlandet,2020-09-20,Parks,
-34,Innlandet,2020-09-21,Parks,
-34,Innlandet,2020-09-22,Parks,
-34,Innlandet,2020-09-23,Parks,
-34,Innlandet,2020-09-24,Parks,
-34,Innlandet,2020-09-25,Parks,
-34,Innlandet,2020-09-26,Parks,
-34,Innlandet,2020-09-27,Parks,
+34,Innlandet,2020-09-11,Parks,139.0
+34,Innlandet,2020-09-12,Parks,150.0
+34,Innlandet,2020-09-13,Parks,125.0
+34,Innlandet,2020-09-14,Parks,135.0
+34,Innlandet,2020-09-15,Parks,103.0
+34,Innlandet,2020-09-16,Parks,133.0
+34,Innlandet,2020-09-17,Parks,138.0
+34,Innlandet,2020-09-18,Parks,155.0
+34,Innlandet,2020-09-19,Parks,202.0
+34,Innlandet,2020-09-20,Parks,111.0
+34,Innlandet,2020-09-21,Parks,92.0
+34,Innlandet,2020-09-22,Parks,97.0
+34,Innlandet,2020-09-23,Parks,74.0
+34,Innlandet,2020-09-24,Parks,47.0
+34,Innlandet,2020-09-25,Parks,107.0
+34,Innlandet,2020-09-26,Parks,47.0
+34,Innlandet,2020-09-27,Parks,75.0
+34,Innlandet,2020-09-28,Parks,
+34,Innlandet,2020-09-29,Parks,119.0
+34,Innlandet,2020-09-30,Parks,136.0
 15,Møre og Romsdal,2020-02-15,Parks,56.0
 15,Møre og Romsdal,2020-02-16,Parks,19.0
 15,Møre og Romsdal,2020-02-17,Parks,-10.0
@@ -5632,23 +5704,26 @@ fylke_no,fylke_name,date,category,mob_change
 15,Møre og Romsdal,2020-09-08,Parks,
 15,Møre og Romsdal,2020-09-09,Parks,
 15,Møre og Romsdal,2020-09-10,Parks,
-15,Møre og Romsdal,2020-09-11,Parks,
-15,Møre og Romsdal,2020-09-12,Parks,
-15,Møre og Romsdal,2020-09-13,Parks,
-15,Møre og Romsdal,2020-09-14,Parks,
-15,Møre og Romsdal,2020-09-15,Parks,
-15,Møre og Romsdal,2020-09-16,Parks,
-15,Møre og Romsdal,2020-09-17,Parks,
-15,Møre og Romsdal,2020-09-18,Parks,
-15,Møre og Romsdal,2020-09-19,Parks,
-15,Møre og Romsdal,2020-09-20,Parks,
-15,Møre og Romsdal,2020-09-21,Parks,
-15,Møre og Romsdal,2020-09-22,Parks,
-15,Møre og Romsdal,2020-09-23,Parks,
-15,Møre og Romsdal,2020-09-24,Parks,
-15,Møre og Romsdal,2020-09-25,Parks,
-15,Møre og Romsdal,2020-09-26,Parks,
-15,Møre og Romsdal,2020-09-27,Parks,
+15,Møre og Romsdal,2020-09-11,Parks,102.0
+15,Møre og Romsdal,2020-09-12,Parks,103.0
+15,Møre og Romsdal,2020-09-13,Parks,88.0
+15,Møre og Romsdal,2020-09-14,Parks,49.0
+15,Møre og Romsdal,2020-09-15,Parks,30.0
+15,Møre og Romsdal,2020-09-16,Parks,87.0
+15,Møre og Romsdal,2020-09-17,Parks,113.0
+15,Møre og Romsdal,2020-09-18,Parks,82.0
+15,Møre og Romsdal,2020-09-19,Parks,196.0
+15,Møre og Romsdal,2020-09-20,Parks,53.0
+15,Møre og Romsdal,2020-09-21,Parks,32.0
+15,Møre og Romsdal,2020-09-22,Parks,19.0
+15,Møre og Romsdal,2020-09-23,Parks,53.0
+15,Møre og Romsdal,2020-09-24,Parks,39.0
+15,Møre og Romsdal,2020-09-25,Parks,85.0
+15,Møre og Romsdal,2020-09-26,Parks,115.0
+15,Møre og Romsdal,2020-09-27,Parks,186.0
+15,Møre og Romsdal,2020-09-28,Parks,83.0
+15,Møre og Romsdal,2020-09-29,Parks,24.0
+15,Møre og Romsdal,2020-09-30,Parks,92.0
 18,Nordland,2020-02-15,Parks,20.0
 18,Nordland,2020-02-16,Parks,-5.0
 18,Nordland,2020-02-17,Parks,22.0
@@ -5858,23 +5933,26 @@ fylke_no,fylke_name,date,category,mob_change
 18,Nordland,2020-09-08,Parks,
 18,Nordland,2020-09-09,Parks,
 18,Nordland,2020-09-10,Parks,
-18,Nordland,2020-09-11,Parks,
-18,Nordland,2020-09-12,Parks,
-18,Nordland,2020-09-13,Parks,
-18,Nordland,2020-09-14,Parks,
-18,Nordland,2020-09-15,Parks,
+18,Nordland,2020-09-11,Parks,88.0
+18,Nordland,2020-09-12,Parks,114.0
+18,Nordland,2020-09-13,Parks,67.0
+18,Nordland,2020-09-14,Parks,72.0
+18,Nordland,2020-09-15,Parks,95.0
 18,Nordland,2020-09-16,Parks,
-18,Nordland,2020-09-17,Parks,
-18,Nordland,2020-09-18,Parks,
-18,Nordland,2020-09-19,Parks,
-18,Nordland,2020-09-20,Parks,
-18,Nordland,2020-09-21,Parks,
-18,Nordland,2020-09-22,Parks,
+18,Nordland,2020-09-17,Parks,76.0
+18,Nordland,2020-09-18,Parks,44.0
+18,Nordland,2020-09-19,Parks,85.0
+18,Nordland,2020-09-20,Parks,30.0
+18,Nordland,2020-09-21,Parks,36.0
+18,Nordland,2020-09-22,Parks,59.0
 18,Nordland,2020-09-23,Parks,
-18,Nordland,2020-09-24,Parks,
-18,Nordland,2020-09-25,Parks,
-18,Nordland,2020-09-26,Parks,
-18,Nordland,2020-09-27,Parks,
+18,Nordland,2020-09-24,Parks,53.0
+18,Nordland,2020-09-25,Parks,63.0
+18,Nordland,2020-09-26,Parks,128.0
+18,Nordland,2020-09-27,Parks,134.0
+18,Nordland,2020-09-28,Parks,94.0
+18,Nordland,2020-09-29,Parks,103.0
+18,Nordland,2020-09-30,Parks,
 03,Oslo,2020-02-15,Parks,10.0
 03,Oslo,2020-02-16,Parks,-48.0
 03,Oslo,2020-02-17,Parks,12.0
@@ -6065,42 +6143,45 @@ fylke_no,fylke_name,date,category,mob_change
 03,Oslo,2020-08-20,Parks,
 03,Oslo,2020-08-21,Parks,
 03,Oslo,2020-08-22,Parks,
-03,Oslo,2020-08-23,Parks,
+03,Oslo,2020-08-23,Parks,18.0
 03,Oslo,2020-08-24,Parks,
 03,Oslo,2020-08-25,Parks,
 03,Oslo,2020-08-26,Parks,
 03,Oslo,2020-08-27,Parks,
 03,Oslo,2020-08-28,Parks,
 03,Oslo,2020-08-29,Parks,
-03,Oslo,2020-08-30,Parks,
+03,Oslo,2020-08-30,Parks,13.0
 03,Oslo,2020-08-31,Parks,
 03,Oslo,2020-09-01,Parks,
 03,Oslo,2020-09-02,Parks,
 03,Oslo,2020-09-03,Parks,
 03,Oslo,2020-09-04,Parks,
 03,Oslo,2020-09-05,Parks,
-03,Oslo,2020-09-06,Parks,
+03,Oslo,2020-09-06,Parks,14.0
 03,Oslo,2020-09-07,Parks,
 03,Oslo,2020-09-08,Parks,
 03,Oslo,2020-09-09,Parks,
 03,Oslo,2020-09-10,Parks,
-03,Oslo,2020-09-11,Parks,
-03,Oslo,2020-09-12,Parks,
-03,Oslo,2020-09-13,Parks,
-03,Oslo,2020-09-14,Parks,
-03,Oslo,2020-09-15,Parks,
-03,Oslo,2020-09-16,Parks,
-03,Oslo,2020-09-17,Parks,
-03,Oslo,2020-09-18,Parks,
-03,Oslo,2020-09-19,Parks,
-03,Oslo,2020-09-20,Parks,
-03,Oslo,2020-09-21,Parks,
-03,Oslo,2020-09-22,Parks,
-03,Oslo,2020-09-23,Parks,
-03,Oslo,2020-09-24,Parks,
-03,Oslo,2020-09-25,Parks,
-03,Oslo,2020-09-26,Parks,
-03,Oslo,2020-09-27,Parks,
+03,Oslo,2020-09-11,Parks,37.0
+03,Oslo,2020-09-12,Parks,36.0
+03,Oslo,2020-09-13,Parks,9.0
+03,Oslo,2020-09-14,Parks,82.0
+03,Oslo,2020-09-15,Parks,69.0
+03,Oslo,2020-09-16,Parks,49.0
+03,Oslo,2020-09-17,Parks,53.0
+03,Oslo,2020-09-18,Parks,80.0
+03,Oslo,2020-09-19,Parks,73.0
+03,Oslo,2020-09-20,Parks,17.0
+03,Oslo,2020-09-21,Parks,52.0
+03,Oslo,2020-09-22,Parks,55.0
+03,Oslo,2020-09-23,Parks,-6.0
+03,Oslo,2020-09-24,Parks,-9.0
+03,Oslo,2020-09-25,Parks,7.0
+03,Oslo,2020-09-26,Parks,-31.0
+03,Oslo,2020-09-27,Parks,-23.0
+03,Oslo,2020-09-28,Parks,37.0
+03,Oslo,2020-09-29,Parks,4.0
+03,Oslo,2020-09-30,Parks,14.0
 11,Rogaland,2020-02-15,Parks,33.0
 11,Rogaland,2020-02-16,Parks,-40.0
 11,Rogaland,2020-02-17,Parks,3.0
@@ -6310,23 +6391,26 @@ fylke_no,fylke_name,date,category,mob_change
 11,Rogaland,2020-09-08,Parks,
 11,Rogaland,2020-09-09,Parks,
 11,Rogaland,2020-09-10,Parks,
-11,Rogaland,2020-09-11,Parks,
-11,Rogaland,2020-09-12,Parks,
-11,Rogaland,2020-09-13,Parks,
-11,Rogaland,2020-09-14,Parks,
-11,Rogaland,2020-09-15,Parks,
-11,Rogaland,2020-09-16,Parks,
-11,Rogaland,2020-09-17,Parks,
-11,Rogaland,2020-09-18,Parks,
-11,Rogaland,2020-09-19,Parks,
-11,Rogaland,2020-09-20,Parks,
-11,Rogaland,2020-09-21,Parks,
-11,Rogaland,2020-09-22,Parks,
-11,Rogaland,2020-09-23,Parks,
-11,Rogaland,2020-09-24,Parks,
-11,Rogaland,2020-09-25,Parks,
-11,Rogaland,2020-09-26,Parks,
-11,Rogaland,2020-09-27,Parks,
+11,Rogaland,2020-09-11,Parks,38.0
+11,Rogaland,2020-09-12,Parks,103.0
+11,Rogaland,2020-09-13,Parks,-7.0
+11,Rogaland,2020-09-14,Parks,86.0
+11,Rogaland,2020-09-15,Parks,90.0
+11,Rogaland,2020-09-16,Parks,86.0
+11,Rogaland,2020-09-17,Parks,88.0
+11,Rogaland,2020-09-18,Parks,83.0
+11,Rogaland,2020-09-19,Parks,181.0
+11,Rogaland,2020-09-20,Parks,68.0
+11,Rogaland,2020-09-21,Parks,53.0
+11,Rogaland,2020-09-22,Parks,49.0
+11,Rogaland,2020-09-23,Parks,22.0
+11,Rogaland,2020-09-24,Parks,7.0
+11,Rogaland,2020-09-25,Parks,47.0
+11,Rogaland,2020-09-26,Parks,156.0
+11,Rogaland,2020-09-27,Parks,59.0
+11,Rogaland,2020-09-28,Parks,85.0
+11,Rogaland,2020-09-29,Parks,18.0
+11,Rogaland,2020-09-30,Parks,46.0
 54,Troms og Finnmark fylke,2020-02-15,Parks,38.0
 54,Troms og Finnmark fylke,2020-02-16,Parks,20.0
 54,Troms og Finnmark fylke,2020-02-17,Parks,25.0
@@ -6536,23 +6620,26 @@ fylke_no,fylke_name,date,category,mob_change
 54,Troms og Finnmark fylke,2020-09-08,Parks,
 54,Troms og Finnmark fylke,2020-09-09,Parks,
 54,Troms og Finnmark fylke,2020-09-10,Parks,
-54,Troms og Finnmark fylke,2020-09-11,Parks,
-54,Troms og Finnmark fylke,2020-09-12,Parks,
-54,Troms og Finnmark fylke,2020-09-13,Parks,
-54,Troms og Finnmark fylke,2020-09-14,Parks,
-54,Troms og Finnmark fylke,2020-09-15,Parks,
-54,Troms og Finnmark fylke,2020-09-16,Parks,
-54,Troms og Finnmark fylke,2020-09-17,Parks,
-54,Troms og Finnmark fylke,2020-09-18,Parks,
-54,Troms og Finnmark fylke,2020-09-19,Parks,
-54,Troms og Finnmark fylke,2020-09-20,Parks,
-54,Troms og Finnmark fylke,2020-09-21,Parks,
-54,Troms og Finnmark fylke,2020-09-22,Parks,
-54,Troms og Finnmark fylke,2020-09-23,Parks,
-54,Troms og Finnmark fylke,2020-09-24,Parks,
-54,Troms og Finnmark fylke,2020-09-25,Parks,
-54,Troms og Finnmark fylke,2020-09-26,Parks,
-54,Troms og Finnmark fylke,2020-09-27,Parks,
+54,Troms og Finnmark fylke,2020-09-11,Parks,66.0
+54,Troms og Finnmark fylke,2020-09-12,Parks,94.0
+54,Troms og Finnmark fylke,2020-09-13,Parks,116.0
+54,Troms og Finnmark fylke,2020-09-14,Parks,59.0
+54,Troms og Finnmark fylke,2020-09-15,Parks,66.0
+54,Troms og Finnmark fylke,2020-09-16,Parks,65.0
+54,Troms og Finnmark fylke,2020-09-17,Parks,55.0
+54,Troms og Finnmark fylke,2020-09-18,Parks,14.0
+54,Troms og Finnmark fylke,2020-09-19,Parks,32.0
+54,Troms og Finnmark fylke,2020-09-20,Parks,11.0
+54,Troms og Finnmark fylke,2020-09-21,Parks,21.0
+54,Troms og Finnmark fylke,2020-09-22,Parks,17.0
+54,Troms og Finnmark fylke,2020-09-23,Parks,35.0
+54,Troms og Finnmark fylke,2020-09-24,Parks,39.0
+54,Troms og Finnmark fylke,2020-09-25,Parks,33.0
+54,Troms og Finnmark fylke,2020-09-26,Parks,54.0
+54,Troms og Finnmark fylke,2020-09-27,Parks,108.0
+54,Troms og Finnmark fylke,2020-09-28,Parks,52.0
+54,Troms og Finnmark fylke,2020-09-29,Parks,67.0
+54,Troms og Finnmark fylke,2020-09-30,Parks,60.0
 50,Trøndelag,2020-02-15,Parks,37.0
 50,Trøndelag,2020-02-16,Parks,58.0
 50,Trøndelag,2020-02-17,Parks,23.0
@@ -6762,23 +6849,26 @@ fylke_no,fylke_name,date,category,mob_change
 50,Trøndelag,2020-09-08,Parks,
 50,Trøndelag,2020-09-09,Parks,
 50,Trøndelag,2020-09-10,Parks,
-50,Trøndelag,2020-09-11,Parks,
-50,Trøndelag,2020-09-12,Parks,
-50,Trøndelag,2020-09-13,Parks,
-50,Trøndelag,2020-09-14,Parks,
-50,Trøndelag,2020-09-15,Parks,
-50,Trøndelag,2020-09-16,Parks,
-50,Trøndelag,2020-09-17,Parks,
-50,Trøndelag,2020-09-18,Parks,
-50,Trøndelag,2020-09-19,Parks,
-50,Trøndelag,2020-09-20,Parks,
-50,Trøndelag,2020-09-21,Parks,
-50,Trøndelag,2020-09-22,Parks,
-50,Trøndelag,2020-09-23,Parks,
-50,Trøndelag,2020-09-24,Parks,
-50,Trøndelag,2020-09-25,Parks,
-50,Trøndelag,2020-09-26,Parks,
-50,Trøndelag,2020-09-27,Parks,
+50,Trøndelag,2020-09-11,Parks,143.0
+50,Trøndelag,2020-09-12,Parks,128.0
+50,Trøndelag,2020-09-13,Parks,109.0
+50,Trøndelag,2020-09-14,Parks,99.0
+50,Trøndelag,2020-09-15,Parks,89.0
+50,Trøndelag,2020-09-16,Parks,97.0
+50,Trøndelag,2020-09-17,Parks,149.0
+50,Trøndelag,2020-09-18,Parks,96.0
+50,Trøndelag,2020-09-19,Parks,111.0
+50,Trøndelag,2020-09-20,Parks,82.0
+50,Trøndelag,2020-09-21,Parks,51.0
+50,Trøndelag,2020-09-22,Parks,70.0
+50,Trøndelag,2020-09-23,Parks,78.0
+50,Trøndelag,2020-09-24,Parks,83.0
+50,Trøndelag,2020-09-25,Parks,103.0
+50,Trøndelag,2020-09-26,Parks,88.0
+50,Trøndelag,2020-09-27,Parks,240.0
+50,Trøndelag,2020-09-28,Parks,145.0
+50,Trøndelag,2020-09-29,Parks,142.0
+50,Trøndelag,2020-09-30,Parks,165.0
 38,Vestfold og Telemark,2020-02-15,Parks,16.0
 38,Vestfold og Telemark,2020-02-16,Parks,-52.0
 38,Vestfold og Telemark,2020-02-17,Parks,30.0
@@ -6988,23 +7078,26 @@ fylke_no,fylke_name,date,category,mob_change
 38,Vestfold og Telemark,2020-09-08,Parks,
 38,Vestfold og Telemark,2020-09-09,Parks,
 38,Vestfold og Telemark,2020-09-10,Parks,
-38,Vestfold og Telemark,2020-09-11,Parks,
-38,Vestfold og Telemark,2020-09-12,Parks,
-38,Vestfold og Telemark,2020-09-13,Parks,
-38,Vestfold og Telemark,2020-09-14,Parks,
-38,Vestfold og Telemark,2020-09-15,Parks,
-38,Vestfold og Telemark,2020-09-16,Parks,
-38,Vestfold og Telemark,2020-09-17,Parks,
-38,Vestfold og Telemark,2020-09-18,Parks,
-38,Vestfold og Telemark,2020-09-19,Parks,
-38,Vestfold og Telemark,2020-09-20,Parks,
-38,Vestfold og Telemark,2020-09-21,Parks,
-38,Vestfold og Telemark,2020-09-22,Parks,
-38,Vestfold og Telemark,2020-09-23,Parks,
-38,Vestfold og Telemark,2020-09-24,Parks,
-38,Vestfold og Telemark,2020-09-25,Parks,
-38,Vestfold og Telemark,2020-09-26,Parks,
-38,Vestfold og Telemark,2020-09-27,Parks,
+38,Vestfold og Telemark,2020-09-11,Parks,84.0
+38,Vestfold og Telemark,2020-09-12,Parks,127.0
+38,Vestfold og Telemark,2020-09-13,Parks,43.0
+38,Vestfold og Telemark,2020-09-14,Parks,130.0
+38,Vestfold og Telemark,2020-09-15,Parks,115.0
+38,Vestfold og Telemark,2020-09-16,Parks,97.0
+38,Vestfold og Telemark,2020-09-17,Parks,118.0
+38,Vestfold og Telemark,2020-09-18,Parks,144.0
+38,Vestfold og Telemark,2020-09-19,Parks,177.0
+38,Vestfold og Telemark,2020-09-20,Parks,73.0
+38,Vestfold og Telemark,2020-09-21,Parks,108.0
+38,Vestfold og Telemark,2020-09-22,Parks,88.0
+38,Vestfold og Telemark,2020-09-23,Parks,24.0
+38,Vestfold og Telemark,2020-09-24,Parks,35.0
+38,Vestfold og Telemark,2020-09-25,Parks,40.0
+38,Vestfold og Telemark,2020-09-26,Parks,27.0
+38,Vestfold og Telemark,2020-09-27,Parks,16.0
+38,Vestfold og Telemark,2020-09-28,Parks,110.0
+38,Vestfold og Telemark,2020-09-29,Parks,79.0
+38,Vestfold og Telemark,2020-09-30,Parks,62.0
 46,Vestland,2020-02-15,Parks,39.0
 46,Vestland,2020-02-16,Parks,-17.0
 46,Vestland,2020-02-17,Parks,-8.0
@@ -7214,23 +7307,26 @@ fylke_no,fylke_name,date,category,mob_change
 46,Vestland,2020-09-08,Parks,
 46,Vestland,2020-09-09,Parks,
 46,Vestland,2020-09-10,Parks,
-46,Vestland,2020-09-11,Parks,
-46,Vestland,2020-09-12,Parks,
-46,Vestland,2020-09-13,Parks,
-46,Vestland,2020-09-14,Parks,
-46,Vestland,2020-09-15,Parks,
-46,Vestland,2020-09-16,Parks,
-46,Vestland,2020-09-17,Parks,
-46,Vestland,2020-09-18,Parks,
-46,Vestland,2020-09-19,Parks,
-46,Vestland,2020-09-20,Parks,
-46,Vestland,2020-09-21,Parks,
-46,Vestland,2020-09-22,Parks,
-46,Vestland,2020-09-23,Parks,
-46,Vestland,2020-09-24,Parks,
-46,Vestland,2020-09-25,Parks,
-46,Vestland,2020-09-26,Parks,
-46,Vestland,2020-09-27,Parks,
+46,Vestland,2020-09-11,Parks,18.0
+46,Vestland,2020-09-12,Parks,48.0
+46,Vestland,2020-09-13,Parks,31.0
+46,Vestland,2020-09-14,Parks,28.0
+46,Vestland,2020-09-15,Parks,27.0
+46,Vestland,2020-09-16,Parks,85.0
+46,Vestland,2020-09-17,Parks,74.0
+46,Vestland,2020-09-18,Parks,39.0
+46,Vestland,2020-09-19,Parks,155.0
+46,Vestland,2020-09-20,Parks,35.0
+46,Vestland,2020-09-21,Parks,27.0
+46,Vestland,2020-09-22,Parks,27.0
+46,Vestland,2020-09-23,Parks,34.0
+46,Vestland,2020-09-24,Parks,-2.0
+46,Vestland,2020-09-25,Parks,48.0
+46,Vestland,2020-09-26,Parks,102.0
+46,Vestland,2020-09-27,Parks,99.0
+46,Vestland,2020-09-28,Parks,59.0
+46,Vestland,2020-09-29,Parks,4.0
+46,Vestland,2020-09-30,Parks,43.0
 30,Viken,2020-02-15,Parks,14.0
 30,Viken,2020-02-16,Parks,-56.0
 30,Viken,2020-02-17,Parks,16.0
@@ -7440,23 +7536,26 @@ fylke_no,fylke_name,date,category,mob_change
 30,Viken,2020-09-08,Parks,
 30,Viken,2020-09-09,Parks,
 30,Viken,2020-09-10,Parks,
-30,Viken,2020-09-11,Parks,
-30,Viken,2020-09-12,Parks,
-30,Viken,2020-09-13,Parks,
-30,Viken,2020-09-14,Parks,
-30,Viken,2020-09-15,Parks,
-30,Viken,2020-09-16,Parks,
-30,Viken,2020-09-17,Parks,
-30,Viken,2020-09-18,Parks,
-30,Viken,2020-09-19,Parks,
-30,Viken,2020-09-20,Parks,
-30,Viken,2020-09-21,Parks,
-30,Viken,2020-09-22,Parks,
-30,Viken,2020-09-23,Parks,
-30,Viken,2020-09-24,Parks,
-30,Viken,2020-09-25,Parks,
-30,Viken,2020-09-26,Parks,
-30,Viken,2020-09-27,Parks,
+30,Viken,2020-09-11,Parks,72.0
+30,Viken,2020-09-12,Parks,97.0
+30,Viken,2020-09-13,Parks,29.0
+30,Viken,2020-09-14,Parks,119.0
+30,Viken,2020-09-15,Parks,113.0
+30,Viken,2020-09-16,Parks,90.0
+30,Viken,2020-09-17,Parks,110.0
+30,Viken,2020-09-18,Parks,128.0
+30,Viken,2020-09-19,Parks,174.0
+30,Viken,2020-09-20,Parks,54.0
+30,Viken,2020-09-21,Parks,88.0
+30,Viken,2020-09-22,Parks,96.0
+30,Viken,2020-09-23,Parks,22.0
+30,Viken,2020-09-24,Parks,30.0
+30,Viken,2020-09-25,Parks,46.0
+30,Viken,2020-09-26,Parks,9.0
+30,Viken,2020-09-27,Parks,2.0
+30,Viken,2020-09-28,Parks,102.0
+30,Viken,2020-09-29,Parks,72.0
+30,Viken,2020-09-30,Parks,73.0
 42,Agder,2020-02-15,Transit stations,-2.0
 42,Agder,2020-02-16,Transit stations,-18.0
 42,Agder,2020-02-17,Transit stations,-11.0
@@ -7666,23 +7765,26 @@ fylke_no,fylke_name,date,category,mob_change
 42,Agder,2020-09-08,Transit stations,
 42,Agder,2020-09-09,Transit stations,
 42,Agder,2020-09-10,Transit stations,
-42,Agder,2020-09-11,Transit stations,
-42,Agder,2020-09-12,Transit stations,
-42,Agder,2020-09-13,Transit stations,
-42,Agder,2020-09-14,Transit stations,
-42,Agder,2020-09-15,Transit stations,
-42,Agder,2020-09-16,Transit stations,
-42,Agder,2020-09-17,Transit stations,
-42,Agder,2020-09-18,Transit stations,
-42,Agder,2020-09-19,Transit stations,
-42,Agder,2020-09-20,Transit stations,
-42,Agder,2020-09-21,Transit stations,
-42,Agder,2020-09-22,Transit stations,
-42,Agder,2020-09-23,Transit stations,
-42,Agder,2020-09-24,Transit stations,
-42,Agder,2020-09-25,Transit stations,
-42,Agder,2020-09-26,Transit stations,
-42,Agder,2020-09-27,Transit stations,
+42,Agder,2020-09-11,Transit stations,-3.0
+42,Agder,2020-09-12,Transit stations,9.0
+42,Agder,2020-09-13,Transit stations,-12.0
+42,Agder,2020-09-14,Transit stations,5.0
+42,Agder,2020-09-15,Transit stations,0.0
+42,Agder,2020-09-16,Transit stations,-1.0
+42,Agder,2020-09-17,Transit stations,0.0
+42,Agder,2020-09-18,Transit stations,4.0
+42,Agder,2020-09-19,Transit stations,15.0
+42,Agder,2020-09-20,Transit stations,1.0
+42,Agder,2020-09-21,Transit stations,-2.0
+42,Agder,2020-09-22,Transit stations,-6.0
+42,Agder,2020-09-23,Transit stations,-14.0
+42,Agder,2020-09-24,Transit stations,-16.0
+42,Agder,2020-09-25,Transit stations,-11.0
+42,Agder,2020-09-26,Transit stations,-13.0
+42,Agder,2020-09-27,Transit stations,-28.0
+42,Agder,2020-09-28,Transit stations,-26.0
+42,Agder,2020-09-29,Transit stations,-32.0
+42,Agder,2020-09-30,Transit stations,-30.0
 34,Innlandet,2020-02-15,Transit stations,20.0
 34,Innlandet,2020-02-16,Transit stations,-1.0
 34,Innlandet,2020-02-17,Transit stations,2.0
@@ -7871,44 +7973,47 @@ fylke_no,fylke_name,date,category,mob_change
 34,Innlandet,2020-08-18,Transit stations,
 34,Innlandet,2020-08-19,Transit stations,
 34,Innlandet,2020-08-20,Transit stations,
-34,Innlandet,2020-08-21,Transit stations,
+34,Innlandet,2020-08-21,Transit stations,-46.0
 34,Innlandet,2020-08-22,Transit stations,
 34,Innlandet,2020-08-23,Transit stations,
 34,Innlandet,2020-08-24,Transit stations,
 34,Innlandet,2020-08-25,Transit stations,
 34,Innlandet,2020-08-26,Transit stations,
 34,Innlandet,2020-08-27,Transit stations,
-34,Innlandet,2020-08-28,Transit stations,
+34,Innlandet,2020-08-28,Transit stations,-41.0
 34,Innlandet,2020-08-29,Transit stations,
 34,Innlandet,2020-08-30,Transit stations,
 34,Innlandet,2020-08-31,Transit stations,
 34,Innlandet,2020-09-01,Transit stations,
 34,Innlandet,2020-09-02,Transit stations,
 34,Innlandet,2020-09-03,Transit stations,
-34,Innlandet,2020-09-04,Transit stations,
+34,Innlandet,2020-09-04,Transit stations,-46.0
 34,Innlandet,2020-09-05,Transit stations,
 34,Innlandet,2020-09-06,Transit stations,
 34,Innlandet,2020-09-07,Transit stations,
 34,Innlandet,2020-09-08,Transit stations,
 34,Innlandet,2020-09-09,Transit stations,
 34,Innlandet,2020-09-10,Transit stations,
-34,Innlandet,2020-09-11,Transit stations,
-34,Innlandet,2020-09-12,Transit stations,
-34,Innlandet,2020-09-13,Transit stations,
-34,Innlandet,2020-09-14,Transit stations,
-34,Innlandet,2020-09-15,Transit stations,
-34,Innlandet,2020-09-16,Transit stations,
-34,Innlandet,2020-09-17,Transit stations,
-34,Innlandet,2020-09-18,Transit stations,
-34,Innlandet,2020-09-19,Transit stations,
-34,Innlandet,2020-09-20,Transit stations,
-34,Innlandet,2020-09-21,Transit stations,
-34,Innlandet,2020-09-22,Transit stations,
-34,Innlandet,2020-09-23,Transit stations,
-34,Innlandet,2020-09-24,Transit stations,
-34,Innlandet,2020-09-25,Transit stations,
-34,Innlandet,2020-09-26,Transit stations,
-34,Innlandet,2020-09-27,Transit stations,
+34,Innlandet,2020-09-11,Transit stations,-46.0
+34,Innlandet,2020-09-12,Transit stations,-44.0
+34,Innlandet,2020-09-13,Transit stations,-40.0
+34,Innlandet,2020-09-14,Transit stations,-49.0
+34,Innlandet,2020-09-15,Transit stations,-52.0
+34,Innlandet,2020-09-16,Transit stations,-52.0
+34,Innlandet,2020-09-17,Transit stations,-50.0
+34,Innlandet,2020-09-18,Transit stations,-46.0
+34,Innlandet,2020-09-19,Transit stations,-40.0
+34,Innlandet,2020-09-20,Transit stations,-42.0
+34,Innlandet,2020-09-21,Transit stations,-51.0
+34,Innlandet,2020-09-22,Transit stations,-52.0
+34,Innlandet,2020-09-23,Transit stations,-57.0
+34,Innlandet,2020-09-24,Transit stations,-56.0
+34,Innlandet,2020-09-25,Transit stations,-49.0
+34,Innlandet,2020-09-26,Transit stations,-57.0
+34,Innlandet,2020-09-27,Transit stations,-48.0
+34,Innlandet,2020-09-28,Transit stations,-47.0
+34,Innlandet,2020-09-29,Transit stations,-52.0
+34,Innlandet,2020-09-30,Transit stations,-51.0
 15,Møre og Romsdal,2020-02-15,Transit stations,19.0
 15,Møre og Romsdal,2020-02-16,Transit stations,2.0
 15,Møre og Romsdal,2020-02-17,Transit stations,-1.0
@@ -8118,23 +8223,26 @@ fylke_no,fylke_name,date,category,mob_change
 15,Møre og Romsdal,2020-09-08,Transit stations,
 15,Møre og Romsdal,2020-09-09,Transit stations,
 15,Møre og Romsdal,2020-09-10,Transit stations,
-15,Møre og Romsdal,2020-09-11,Transit stations,
-15,Møre og Romsdal,2020-09-12,Transit stations,
-15,Møre og Romsdal,2020-09-13,Transit stations,
-15,Møre og Romsdal,2020-09-14,Transit stations,
-15,Møre og Romsdal,2020-09-15,Transit stations,
-15,Møre og Romsdal,2020-09-16,Transit stations,
-15,Møre og Romsdal,2020-09-17,Transit stations,
-15,Møre og Romsdal,2020-09-18,Transit stations,
-15,Møre og Romsdal,2020-09-19,Transit stations,
-15,Møre og Romsdal,2020-09-20,Transit stations,
-15,Møre og Romsdal,2020-09-21,Transit stations,
-15,Møre og Romsdal,2020-09-22,Transit stations,
-15,Møre og Romsdal,2020-09-23,Transit stations,
-15,Møre og Romsdal,2020-09-24,Transit stations,
-15,Møre og Romsdal,2020-09-25,Transit stations,
-15,Møre og Romsdal,2020-09-26,Transit stations,
-15,Møre og Romsdal,2020-09-27,Transit stations,
+15,Møre og Romsdal,2020-09-11,Transit stations,10.0
+15,Møre og Romsdal,2020-09-12,Transit stations,16.0
+15,Møre og Romsdal,2020-09-13,Transit stations,5.0
+15,Møre og Romsdal,2020-09-14,Transit stations,9.0
+15,Møre og Romsdal,2020-09-15,Transit stations,9.0
+15,Møre og Romsdal,2020-09-16,Transit stations,11.0
+15,Møre og Romsdal,2020-09-17,Transit stations,17.0
+15,Møre og Romsdal,2020-09-18,Transit stations,14.0
+15,Møre og Romsdal,2020-09-19,Transit stations,40.0
+15,Møre og Romsdal,2020-09-20,Transit stations,7.0
+15,Møre og Romsdal,2020-09-21,Transit stations,4.0
+15,Møre og Romsdal,2020-09-22,Transit stations,4.0
+15,Møre og Romsdal,2020-09-23,Transit stations,1.0
+15,Møre og Romsdal,2020-09-24,Transit stations,2.0
+15,Møre og Romsdal,2020-09-25,Transit stations,6.0
+15,Møre og Romsdal,2020-09-26,Transit stations,19.0
+15,Møre og Romsdal,2020-09-27,Transit stations,20.0
+15,Møre og Romsdal,2020-09-28,Transit stations,6.0
+15,Møre og Romsdal,2020-09-29,Transit stations,3.0
+15,Møre og Romsdal,2020-09-30,Transit stations,6.0
 18,Nordland,2020-02-15,Transit stations,13.0
 18,Nordland,2020-02-16,Transit stations,14.0
 18,Nordland,2020-02-17,Transit stations,7.0
@@ -8344,23 +8452,26 @@ fylke_no,fylke_name,date,category,mob_change
 18,Nordland,2020-09-08,Transit stations,
 18,Nordland,2020-09-09,Transit stations,
 18,Nordland,2020-09-10,Transit stations,
-18,Nordland,2020-09-11,Transit stations,
-18,Nordland,2020-09-12,Transit stations,
-18,Nordland,2020-09-13,Transit stations,
-18,Nordland,2020-09-14,Transit stations,
-18,Nordland,2020-09-15,Transit stations,
-18,Nordland,2020-09-16,Transit stations,
-18,Nordland,2020-09-17,Transit stations,
-18,Nordland,2020-09-18,Transit stations,
-18,Nordland,2020-09-19,Transit stations,
-18,Nordland,2020-09-20,Transit stations,
-18,Nordland,2020-09-21,Transit stations,
-18,Nordland,2020-09-22,Transit stations,
-18,Nordland,2020-09-23,Transit stations,
-18,Nordland,2020-09-24,Transit stations,
-18,Nordland,2020-09-25,Transit stations,
-18,Nordland,2020-09-26,Transit stations,
-18,Nordland,2020-09-27,Transit stations,
+18,Nordland,2020-09-11,Transit stations,-8.0
+18,Nordland,2020-09-12,Transit stations,-11.0
+18,Nordland,2020-09-13,Transit stations,-10.0
+18,Nordland,2020-09-14,Transit stations,-13.0
+18,Nordland,2020-09-15,Transit stations,-12.0
+18,Nordland,2020-09-16,Transit stations,-18.0
+18,Nordland,2020-09-17,Transit stations,-13.0
+18,Nordland,2020-09-18,Transit stations,-13.0
+18,Nordland,2020-09-19,Transit stations,-16.0
+18,Nordland,2020-09-20,Transit stations,-13.0
+18,Nordland,2020-09-21,Transit stations,-26.0
+18,Nordland,2020-09-22,Transit stations,-11.0
+18,Nordland,2020-09-23,Transit stations,-27.0
+18,Nordland,2020-09-24,Transit stations,-13.0
+18,Nordland,2020-09-25,Transit stations,-9.0
+18,Nordland,2020-09-26,Transit stations,0.0
+18,Nordland,2020-09-27,Transit stations,-11.0
+18,Nordland,2020-09-28,Transit stations,-18.0
+18,Nordland,2020-09-29,Transit stations,-13.0
+18,Nordland,2020-09-30,Transit stations,-20.0
 03,Oslo,2020-02-15,Transit stations,-1.0
 03,Oslo,2020-02-16,Transit stations,-13.0
 03,Oslo,2020-02-17,Transit stations,-8.0
@@ -8545,48 +8656,51 @@ fylke_no,fylke_name,date,category,mob_change
 03,Oslo,2020-08-14,Transit stations,-35.0
 03,Oslo,2020-08-15,Transit stations,-30.0
 03,Oslo,2020-08-16,Transit stations,-34.0
-03,Oslo,2020-08-17,Transit stations,
-03,Oslo,2020-08-18,Transit stations,
-03,Oslo,2020-08-19,Transit stations,
-03,Oslo,2020-08-20,Transit stations,
-03,Oslo,2020-08-21,Transit stations,
-03,Oslo,2020-08-22,Transit stations,
-03,Oslo,2020-08-23,Transit stations,
-03,Oslo,2020-08-24,Transit stations,
-03,Oslo,2020-08-25,Transit stations,
-03,Oslo,2020-08-26,Transit stations,
-03,Oslo,2020-08-27,Transit stations,
-03,Oslo,2020-08-28,Transit stations,
-03,Oslo,2020-08-29,Transit stations,
-03,Oslo,2020-08-30,Transit stations,
-03,Oslo,2020-08-31,Transit stations,
-03,Oslo,2020-09-01,Transit stations,
-03,Oslo,2020-09-02,Transit stations,
-03,Oslo,2020-09-03,Transit stations,
-03,Oslo,2020-09-04,Transit stations,
-03,Oslo,2020-09-05,Transit stations,
-03,Oslo,2020-09-06,Transit stations,
-03,Oslo,2020-09-07,Transit stations,
-03,Oslo,2020-09-08,Transit stations,
-03,Oslo,2020-09-09,Transit stations,
-03,Oslo,2020-09-10,Transit stations,
-03,Oslo,2020-09-11,Transit stations,
-03,Oslo,2020-09-12,Transit stations,
-03,Oslo,2020-09-13,Transit stations,
-03,Oslo,2020-09-14,Transit stations,
-03,Oslo,2020-09-15,Transit stations,
-03,Oslo,2020-09-16,Transit stations,
-03,Oslo,2020-09-17,Transit stations,
-03,Oslo,2020-09-18,Transit stations,
-03,Oslo,2020-09-19,Transit stations,
-03,Oslo,2020-09-20,Transit stations,
-03,Oslo,2020-09-21,Transit stations,
-03,Oslo,2020-09-22,Transit stations,
-03,Oslo,2020-09-23,Transit stations,
-03,Oslo,2020-09-24,Transit stations,
-03,Oslo,2020-09-25,Transit stations,
-03,Oslo,2020-09-26,Transit stations,
-03,Oslo,2020-09-27,Transit stations,
+03,Oslo,2020-08-17,Transit stations,-34.0
+03,Oslo,2020-08-18,Transit stations,-35.0
+03,Oslo,2020-08-19,Transit stations,-37.0
+03,Oslo,2020-08-20,Transit stations,-38.0
+03,Oslo,2020-08-21,Transit stations,-40.0
+03,Oslo,2020-08-22,Transit stations,-37.0
+03,Oslo,2020-08-23,Transit stations,-37.0
+03,Oslo,2020-08-24,Transit stations,-38.0
+03,Oslo,2020-08-25,Transit stations,-37.0
+03,Oslo,2020-08-26,Transit stations,-38.0
+03,Oslo,2020-08-27,Transit stations,-39.0
+03,Oslo,2020-08-28,Transit stations,-36.0
+03,Oslo,2020-08-29,Transit stations,-32.0
+03,Oslo,2020-08-30,Transit stations,-39.0
+03,Oslo,2020-08-31,Transit stations,-38.0
+03,Oslo,2020-09-01,Transit stations,-35.0
+03,Oslo,2020-09-02,Transit stations,-38.0
+03,Oslo,2020-09-03,Transit stations,-38.0
+03,Oslo,2020-09-04,Transit stations,-34.0
+03,Oslo,2020-09-05,Transit stations,-31.0
+03,Oslo,2020-09-06,Transit stations,-38.0
+03,Oslo,2020-09-07,Transit stations,-38.0
+03,Oslo,2020-09-08,Transit stations,-36.0
+03,Oslo,2020-09-09,Transit stations,-38.0
+03,Oslo,2020-09-10,Transit stations,-37.0
+03,Oslo,2020-09-11,Transit stations,-35.0
+03,Oslo,2020-09-12,Transit stations,-32.0
+03,Oslo,2020-09-13,Transit stations,-39.0
+03,Oslo,2020-09-14,Transit stations,-34.0
+03,Oslo,2020-09-15,Transit stations,-34.0
+03,Oslo,2020-09-16,Transit stations,-38.0
+03,Oslo,2020-09-17,Transit stations,-37.0
+03,Oslo,2020-09-18,Transit stations,-31.0
+03,Oslo,2020-09-19,Transit stations,-29.0
+03,Oslo,2020-09-20,Transit stations,-41.0
+03,Oslo,2020-09-21,Transit stations,-43.0
+03,Oslo,2020-09-22,Transit stations,-45.0
+03,Oslo,2020-09-23,Transit stations,-47.0
+03,Oslo,2020-09-24,Transit stations,-46.0
+03,Oslo,2020-09-25,Transit stations,-41.0
+03,Oslo,2020-09-26,Transit stations,-50.0
+03,Oslo,2020-09-27,Transit stations,-52.0
+03,Oslo,2020-09-28,Transit stations,-48.0
+03,Oslo,2020-09-29,Transit stations,-52.0
+03,Oslo,2020-09-30,Transit stations,-51.0
 11,Rogaland,2020-02-15,Transit stations,4.0
 11,Rogaland,2020-02-16,Transit stations,-5.0
 11,Rogaland,2020-02-17,Transit stations,0.0
@@ -8771,48 +8885,51 @@ fylke_no,fylke_name,date,category,mob_change
 11,Rogaland,2020-08-14,Transit stations,-25.0
 11,Rogaland,2020-08-15,Transit stations,-1.0
 11,Rogaland,2020-08-16,Transit stations,-16.0
-11,Rogaland,2020-08-17,Transit stations,
-11,Rogaland,2020-08-18,Transit stations,
-11,Rogaland,2020-08-19,Transit stations,
-11,Rogaland,2020-08-20,Transit stations,
-11,Rogaland,2020-08-21,Transit stations,
-11,Rogaland,2020-08-22,Transit stations,
-11,Rogaland,2020-08-23,Transit stations,
-11,Rogaland,2020-08-24,Transit stations,
-11,Rogaland,2020-08-25,Transit stations,
-11,Rogaland,2020-08-26,Transit stations,
-11,Rogaland,2020-08-27,Transit stations,
-11,Rogaland,2020-08-28,Transit stations,
-11,Rogaland,2020-08-29,Transit stations,
-11,Rogaland,2020-08-30,Transit stations,
-11,Rogaland,2020-08-31,Transit stations,
-11,Rogaland,2020-09-01,Transit stations,
-11,Rogaland,2020-09-02,Transit stations,
-11,Rogaland,2020-09-03,Transit stations,
-11,Rogaland,2020-09-04,Transit stations,
-11,Rogaland,2020-09-05,Transit stations,
-11,Rogaland,2020-09-06,Transit stations,
-11,Rogaland,2020-09-07,Transit stations,
-11,Rogaland,2020-09-08,Transit stations,
-11,Rogaland,2020-09-09,Transit stations,
-11,Rogaland,2020-09-10,Transit stations,
-11,Rogaland,2020-09-11,Transit stations,
-11,Rogaland,2020-09-12,Transit stations,
-11,Rogaland,2020-09-13,Transit stations,
-11,Rogaland,2020-09-14,Transit stations,
-11,Rogaland,2020-09-15,Transit stations,
-11,Rogaland,2020-09-16,Transit stations,
-11,Rogaland,2020-09-17,Transit stations,
-11,Rogaland,2020-09-18,Transit stations,
-11,Rogaland,2020-09-19,Transit stations,
-11,Rogaland,2020-09-20,Transit stations,
-11,Rogaland,2020-09-21,Transit stations,
-11,Rogaland,2020-09-22,Transit stations,
-11,Rogaland,2020-09-23,Transit stations,
-11,Rogaland,2020-09-24,Transit stations,
-11,Rogaland,2020-09-25,Transit stations,
-11,Rogaland,2020-09-26,Transit stations,
-11,Rogaland,2020-09-27,Transit stations,
+11,Rogaland,2020-08-17,Transit stations,-11.0
+11,Rogaland,2020-08-18,Transit stations,-20.0
+11,Rogaland,2020-08-19,Transit stations,-20.0
+11,Rogaland,2020-08-20,Transit stations,-23.0
+11,Rogaland,2020-08-21,Transit stations,-27.0
+11,Rogaland,2020-08-22,Transit stations,-26.0
+11,Rogaland,2020-08-23,Transit stations,-29.0
+11,Rogaland,2020-08-24,Transit stations,-21.0
+11,Rogaland,2020-08-25,Transit stations,-21.0
+11,Rogaland,2020-08-26,Transit stations,-23.0
+11,Rogaland,2020-08-27,Transit stations,-21.0
+11,Rogaland,2020-08-28,Transit stations,-20.0
+11,Rogaland,2020-08-29,Transit stations,-9.0
+11,Rogaland,2020-08-30,Transit stations,-17.0
+11,Rogaland,2020-08-31,Transit stations,-18.0
+11,Rogaland,2020-09-01,Transit stations,-19.0
+11,Rogaland,2020-09-02,Transit stations,-21.0
+11,Rogaland,2020-09-03,Transit stations,-27.0
+11,Rogaland,2020-09-04,Transit stations,-24.0
+11,Rogaland,2020-09-05,Transit stations,-29.0
+11,Rogaland,2020-09-06,Transit stations,-32.0
+11,Rogaland,2020-09-07,Transit stations,-25.0
+11,Rogaland,2020-09-08,Transit stations,-27.0
+11,Rogaland,2020-09-09,Transit stations,-29.0
+11,Rogaland,2020-09-10,Transit stations,-21.0
+11,Rogaland,2020-09-11,Transit stations,-25.0
+11,Rogaland,2020-09-12,Transit stations,-19.0
+11,Rogaland,2020-09-13,Transit stations,-29.0
+11,Rogaland,2020-09-14,Transit stations,-20.0
+11,Rogaland,2020-09-15,Transit stations,-22.0
+11,Rogaland,2020-09-16,Transit stations,-23.0
+11,Rogaland,2020-09-17,Transit stations,-18.0
+11,Rogaland,2020-09-18,Transit stations,-20.0
+11,Rogaland,2020-09-19,Transit stations,-15.0
+11,Rogaland,2020-09-20,Transit stations,-11.0
+11,Rogaland,2020-09-21,Transit stations,-22.0
+11,Rogaland,2020-09-22,Transit stations,-26.0
+11,Rogaland,2020-09-23,Transit stations,-30.0
+11,Rogaland,2020-09-24,Transit stations,-29.0
+11,Rogaland,2020-09-25,Transit stations,-24.0
+11,Rogaland,2020-09-26,Transit stations,-32.0
+11,Rogaland,2020-09-27,Transit stations,-28.0
+11,Rogaland,2020-09-28,Transit stations,-40.0
+11,Rogaland,2020-09-29,Transit stations,-45.0
+11,Rogaland,2020-09-30,Transit stations,-44.0
 54,Troms og Finnmark fylke,2020-02-15,Transit stations,32.0
 54,Troms og Finnmark fylke,2020-02-16,Transit stations,15.0
 54,Troms og Finnmark fylke,2020-02-17,Transit stations,15.0
@@ -9022,23 +9139,26 @@ fylke_no,fylke_name,date,category,mob_change
 54,Troms og Finnmark fylke,2020-09-08,Transit stations,
 54,Troms og Finnmark fylke,2020-09-09,Transit stations,
 54,Troms og Finnmark fylke,2020-09-10,Transit stations,
-54,Troms og Finnmark fylke,2020-09-11,Transit stations,
-54,Troms og Finnmark fylke,2020-09-12,Transit stations,
-54,Troms og Finnmark fylke,2020-09-13,Transit stations,
-54,Troms og Finnmark fylke,2020-09-14,Transit stations,
-54,Troms og Finnmark fylke,2020-09-15,Transit stations,
-54,Troms og Finnmark fylke,2020-09-16,Transit stations,
-54,Troms og Finnmark fylke,2020-09-17,Transit stations,
-54,Troms og Finnmark fylke,2020-09-18,Transit stations,
-54,Troms og Finnmark fylke,2020-09-19,Transit stations,
-54,Troms og Finnmark fylke,2020-09-20,Transit stations,
-54,Troms og Finnmark fylke,2020-09-21,Transit stations,
-54,Troms og Finnmark fylke,2020-09-22,Transit stations,
-54,Troms og Finnmark fylke,2020-09-23,Transit stations,
-54,Troms og Finnmark fylke,2020-09-24,Transit stations,
-54,Troms og Finnmark fylke,2020-09-25,Transit stations,
-54,Troms og Finnmark fylke,2020-09-26,Transit stations,
-54,Troms og Finnmark fylke,2020-09-27,Transit stations,
+54,Troms og Finnmark fylke,2020-09-11,Transit stations,-15.0
+54,Troms og Finnmark fylke,2020-09-12,Transit stations,-25.0
+54,Troms og Finnmark fylke,2020-09-13,Transit stations,-8.0
+54,Troms og Finnmark fylke,2020-09-14,Transit stations,-17.0
+54,Troms og Finnmark fylke,2020-09-15,Transit stations,-20.0
+54,Troms og Finnmark fylke,2020-09-16,Transit stations,-17.0
+54,Troms og Finnmark fylke,2020-09-17,Transit stations,-17.0
+54,Troms og Finnmark fylke,2020-09-18,Transit stations,-23.0
+54,Troms og Finnmark fylke,2020-09-19,Transit stations,-34.0
+54,Troms og Finnmark fylke,2020-09-20,Transit stations,-22.0
+54,Troms og Finnmark fylke,2020-09-21,Transit stations,-20.0
+54,Troms og Finnmark fylke,2020-09-22,Transit stations,-28.0
+54,Troms og Finnmark fylke,2020-09-23,Transit stations,-25.0
+54,Troms og Finnmark fylke,2020-09-24,Transit stations,-23.0
+54,Troms og Finnmark fylke,2020-09-25,Transit stations,-20.0
+54,Troms og Finnmark fylke,2020-09-26,Transit stations,-33.0
+54,Troms og Finnmark fylke,2020-09-27,Transit stations,-16.0
+54,Troms og Finnmark fylke,2020-09-28,Transit stations,-21.0
+54,Troms og Finnmark fylke,2020-09-29,Transit stations,-23.0
+54,Troms og Finnmark fylke,2020-09-30,Transit stations,-23.0
 50,Trøndelag,2020-02-15,Transit stations,13.0
 50,Trøndelag,2020-02-16,Transit stations,8.0
 50,Trøndelag,2020-02-17,Transit stations,-3.0
@@ -9223,48 +9343,51 @@ fylke_no,fylke_name,date,category,mob_change
 50,Trøndelag,2020-08-14,Transit stations,-24.0
 50,Trøndelag,2020-08-15,Transit stations,-14.0
 50,Trøndelag,2020-08-16,Transit stations,-13.0
-50,Trøndelag,2020-08-17,Transit stations,
-50,Trøndelag,2020-08-18,Transit stations,
-50,Trøndelag,2020-08-19,Transit stations,
-50,Trøndelag,2020-08-20,Transit stations,
-50,Trøndelag,2020-08-21,Transit stations,
-50,Trøndelag,2020-08-22,Transit stations,
-50,Trøndelag,2020-08-23,Transit stations,
-50,Trøndelag,2020-08-24,Transit stations,
-50,Trøndelag,2020-08-25,Transit stations,
-50,Trøndelag,2020-08-26,Transit stations,
-50,Trøndelag,2020-08-27,Transit stations,
-50,Trøndelag,2020-08-28,Transit stations,
-50,Trøndelag,2020-08-29,Transit stations,
-50,Trøndelag,2020-08-30,Transit stations,
-50,Trøndelag,2020-08-31,Transit stations,
-50,Trøndelag,2020-09-01,Transit stations,
-50,Trøndelag,2020-09-02,Transit stations,
-50,Trøndelag,2020-09-03,Transit stations,
-50,Trøndelag,2020-09-04,Transit stations,
-50,Trøndelag,2020-09-05,Transit stations,
-50,Trøndelag,2020-09-06,Transit stations,
-50,Trøndelag,2020-09-07,Transit stations,
-50,Trøndelag,2020-09-08,Transit stations,
-50,Trøndelag,2020-09-09,Transit stations,
-50,Trøndelag,2020-09-10,Transit stations,
-50,Trøndelag,2020-09-11,Transit stations,
-50,Trøndelag,2020-09-12,Transit stations,
-50,Trøndelag,2020-09-13,Transit stations,
-50,Trøndelag,2020-09-14,Transit stations,
-50,Trøndelag,2020-09-15,Transit stations,
-50,Trøndelag,2020-09-16,Transit stations,
-50,Trøndelag,2020-09-17,Transit stations,
-50,Trøndelag,2020-09-18,Transit stations,
-50,Trøndelag,2020-09-19,Transit stations,
-50,Trøndelag,2020-09-20,Transit stations,
-50,Trøndelag,2020-09-21,Transit stations,
-50,Trøndelag,2020-09-22,Transit stations,
-50,Trøndelag,2020-09-23,Transit stations,
-50,Trøndelag,2020-09-24,Transit stations,
-50,Trøndelag,2020-09-25,Transit stations,
-50,Trøndelag,2020-09-26,Transit stations,
-50,Trøndelag,2020-09-27,Transit stations,
+50,Trøndelag,2020-08-17,Transit stations,-22.0
+50,Trøndelag,2020-08-18,Transit stations,-23.0
+50,Trøndelag,2020-08-19,Transit stations,-24.0
+50,Trøndelag,2020-08-20,Transit stations,-23.0
+50,Trøndelag,2020-08-21,Transit stations,-21.0
+50,Trøndelag,2020-08-22,Transit stations,-14.0
+50,Trøndelag,2020-08-23,Transit stations,-25.0
+50,Trøndelag,2020-08-24,Transit stations,-32.0
+50,Trøndelag,2020-08-25,Transit stations,-34.0
+50,Trøndelag,2020-08-26,Transit stations,-28.0
+50,Trøndelag,2020-08-27,Transit stations,-27.0
+50,Trøndelag,2020-08-28,Transit stations,-20.0
+50,Trøndelag,2020-08-29,Transit stations,-21.0
+50,Trøndelag,2020-08-30,Transit stations,-24.0
+50,Trøndelag,2020-08-31,Transit stations,-27.0
+50,Trøndelag,2020-09-01,Transit stations,-26.0
+50,Trøndelag,2020-09-02,Transit stations,-23.0
+50,Trøndelag,2020-09-03,Transit stations,-27.0
+50,Trøndelag,2020-09-04,Transit stations,-25.0
+50,Trøndelag,2020-09-05,Transit stations,-22.0
+50,Trøndelag,2020-09-06,Transit stations,-22.0
+50,Trøndelag,2020-09-07,Transit stations,-30.0
+50,Trøndelag,2020-09-08,Transit stations,-33.0
+50,Trøndelag,2020-09-09,Transit stations,-32.0
+50,Trøndelag,2020-09-10,Transit stations,-31.0
+50,Trøndelag,2020-09-11,Transit stations,-24.0
+50,Trøndelag,2020-09-12,Transit stations,-24.0
+50,Trøndelag,2020-09-13,Transit stations,-27.0
+50,Trøndelag,2020-09-14,Transit stations,-28.0
+50,Trøndelag,2020-09-15,Transit stations,-31.0
+50,Trøndelag,2020-09-16,Transit stations,-29.0
+50,Trøndelag,2020-09-17,Transit stations,-29.0
+50,Trøndelag,2020-09-18,Transit stations,-26.0
+50,Trøndelag,2020-09-19,Transit stations,-25.0
+50,Trøndelag,2020-09-20,Transit stations,-27.0
+50,Trøndelag,2020-09-21,Transit stations,-32.0
+50,Trøndelag,2020-09-22,Transit stations,-31.0
+50,Trøndelag,2020-09-23,Transit stations,-31.0
+50,Trøndelag,2020-09-24,Transit stations,-30.0
+50,Trøndelag,2020-09-25,Transit stations,-28.0
+50,Trøndelag,2020-09-26,Transit stations,-43.0
+50,Trøndelag,2020-09-27,Transit stations,-28.0
+50,Trøndelag,2020-09-28,Transit stations,-40.0
+50,Trøndelag,2020-09-29,Transit stations,-44.0
+50,Trøndelag,2020-09-30,Transit stations,-41.0
 38,Vestfold og Telemark,2020-02-15,Transit stations,13.0
 38,Vestfold og Telemark,2020-02-16,Transit stations,-8.0
 38,Vestfold og Telemark,2020-02-17,Transit stations,-2.0
@@ -9451,46 +9574,49 @@ fylke_no,fylke_name,date,category,mob_change
 38,Vestfold og Telemark,2020-08-16,Transit stations,6.0
 38,Vestfold og Telemark,2020-08-17,Transit stations,
 38,Vestfold og Telemark,2020-08-18,Transit stations,
-38,Vestfold og Telemark,2020-08-19,Transit stations,
-38,Vestfold og Telemark,2020-08-20,Transit stations,
-38,Vestfold og Telemark,2020-08-21,Transit stations,
+38,Vestfold og Telemark,2020-08-19,Transit stations,-6.0
+38,Vestfold og Telemark,2020-08-20,Transit stations,-10.0
+38,Vestfold og Telemark,2020-08-21,Transit stations,-18.0
 38,Vestfold og Telemark,2020-08-22,Transit stations,
 38,Vestfold og Telemark,2020-08-23,Transit stations,
-38,Vestfold og Telemark,2020-08-24,Transit stations,
+38,Vestfold og Telemark,2020-08-24,Transit stations,-11.0
 38,Vestfold og Telemark,2020-08-25,Transit stations,
-38,Vestfold og Telemark,2020-08-26,Transit stations,
-38,Vestfold og Telemark,2020-08-27,Transit stations,
-38,Vestfold og Telemark,2020-08-28,Transit stations,
+38,Vestfold og Telemark,2020-08-26,Transit stations,-15.0
+38,Vestfold og Telemark,2020-08-27,Transit stations,-12.0
+38,Vestfold og Telemark,2020-08-28,Transit stations,-9.0
 38,Vestfold og Telemark,2020-08-29,Transit stations,
 38,Vestfold og Telemark,2020-08-30,Transit stations,
-38,Vestfold og Telemark,2020-08-31,Transit stations,
+38,Vestfold og Telemark,2020-08-31,Transit stations,-11.0
 38,Vestfold og Telemark,2020-09-01,Transit stations,
-38,Vestfold og Telemark,2020-09-02,Transit stations,
-38,Vestfold og Telemark,2020-09-03,Transit stations,
-38,Vestfold og Telemark,2020-09-04,Transit stations,
+38,Vestfold og Telemark,2020-09-02,Transit stations,-9.0
+38,Vestfold og Telemark,2020-09-03,Transit stations,-15.0
+38,Vestfold og Telemark,2020-09-04,Transit stations,-11.0
 38,Vestfold og Telemark,2020-09-05,Transit stations,
 38,Vestfold og Telemark,2020-09-06,Transit stations,
-38,Vestfold og Telemark,2020-09-07,Transit stations,
+38,Vestfold og Telemark,2020-09-07,Transit stations,-13.0
 38,Vestfold og Telemark,2020-09-08,Transit stations,
-38,Vestfold og Telemark,2020-09-09,Transit stations,
-38,Vestfold og Telemark,2020-09-10,Transit stations,
-38,Vestfold og Telemark,2020-09-11,Transit stations,
-38,Vestfold og Telemark,2020-09-12,Transit stations,
-38,Vestfold og Telemark,2020-09-13,Transit stations,
-38,Vestfold og Telemark,2020-09-14,Transit stations,
-38,Vestfold og Telemark,2020-09-15,Transit stations,
-38,Vestfold og Telemark,2020-09-16,Transit stations,
-38,Vestfold og Telemark,2020-09-17,Transit stations,
-38,Vestfold og Telemark,2020-09-18,Transit stations,
-38,Vestfold og Telemark,2020-09-19,Transit stations,
-38,Vestfold og Telemark,2020-09-20,Transit stations,
-38,Vestfold og Telemark,2020-09-21,Transit stations,
-38,Vestfold og Telemark,2020-09-22,Transit stations,
-38,Vestfold og Telemark,2020-09-23,Transit stations,
-38,Vestfold og Telemark,2020-09-24,Transit stations,
-38,Vestfold og Telemark,2020-09-25,Transit stations,
-38,Vestfold og Telemark,2020-09-26,Transit stations,
-38,Vestfold og Telemark,2020-09-27,Transit stations,
+38,Vestfold og Telemark,2020-09-09,Transit stations,-16.0
+38,Vestfold og Telemark,2020-09-10,Transit stations,-11.0
+38,Vestfold og Telemark,2020-09-11,Transit stations,-11.0
+38,Vestfold og Telemark,2020-09-12,Transit stations,-9.0
+38,Vestfold og Telemark,2020-09-13,Transit stations,-24.0
+38,Vestfold og Telemark,2020-09-14,Transit stations,-11.0
+38,Vestfold og Telemark,2020-09-15,Transit stations,-7.0
+38,Vestfold og Telemark,2020-09-16,Transit stations,-12.0
+38,Vestfold og Telemark,2020-09-17,Transit stations,-11.0
+38,Vestfold og Telemark,2020-09-18,Transit stations,-5.0
+38,Vestfold og Telemark,2020-09-19,Transit stations,-3.0
+38,Vestfold og Telemark,2020-09-20,Transit stations,-20.0
+38,Vestfold og Telemark,2020-09-21,Transit stations,-14.0
+38,Vestfold og Telemark,2020-09-22,Transit stations,-13.0
+38,Vestfold og Telemark,2020-09-23,Transit stations,-25.0
+38,Vestfold og Telemark,2020-09-24,Transit stations,-26.0
+38,Vestfold og Telemark,2020-09-25,Transit stations,-22.0
+38,Vestfold og Telemark,2020-09-26,Transit stations,-26.0
+38,Vestfold og Telemark,2020-09-27,Transit stations,-36.0
+38,Vestfold og Telemark,2020-09-28,Transit stations,-17.0
+38,Vestfold og Telemark,2020-09-29,Transit stations,-16.0
+38,Vestfold og Telemark,2020-09-30,Transit stations,-17.0
 46,Vestland,2020-02-15,Transit stations,23.0
 46,Vestland,2020-02-16,Transit stations,2.0
 46,Vestland,2020-02-17,Transit stations,1.0
@@ -9675,48 +9801,51 @@ fylke_no,fylke_name,date,category,mob_change
 46,Vestland,2020-08-14,Transit stations,9.0
 46,Vestland,2020-08-15,Transit stations,66.0
 46,Vestland,2020-08-16,Transit stations,40.0
-46,Vestland,2020-08-17,Transit stations,
-46,Vestland,2020-08-18,Transit stations,
-46,Vestland,2020-08-19,Transit stations,
-46,Vestland,2020-08-20,Transit stations,
-46,Vestland,2020-08-21,Transit stations,
+46,Vestland,2020-08-17,Transit stations,16.0
+46,Vestland,2020-08-18,Transit stations,26.0
+46,Vestland,2020-08-19,Transit stations,12.0
+46,Vestland,2020-08-20,Transit stations,6.0
+46,Vestland,2020-08-21,Transit stations,3.0
 46,Vestland,2020-08-22,Transit stations,
-46,Vestland,2020-08-23,Transit stations,
-46,Vestland,2020-08-24,Transit stations,
-46,Vestland,2020-08-25,Transit stations,
-46,Vestland,2020-08-26,Transit stations,
-46,Vestland,2020-08-27,Transit stations,
-46,Vestland,2020-08-28,Transit stations,
+46,Vestland,2020-08-23,Transit stations,-3.0
+46,Vestland,2020-08-24,Transit stations,5.0
+46,Vestland,2020-08-25,Transit stations,14.0
+46,Vestland,2020-08-26,Transit stations,11.0
+46,Vestland,2020-08-27,Transit stations,9.0
+46,Vestland,2020-08-28,Transit stations,16.0
 46,Vestland,2020-08-29,Transit stations,
-46,Vestland,2020-08-30,Transit stations,
-46,Vestland,2020-08-31,Transit stations,
-46,Vestland,2020-09-01,Transit stations,
-46,Vestland,2020-09-02,Transit stations,
-46,Vestland,2020-09-03,Transit stations,
-46,Vestland,2020-09-04,Transit stations,
+46,Vestland,2020-08-30,Transit stations,23.0
+46,Vestland,2020-08-31,Transit stations,11.0
+46,Vestland,2020-09-01,Transit stations,18.0
+46,Vestland,2020-09-02,Transit stations,10.0
+46,Vestland,2020-09-03,Transit stations,0.0
+46,Vestland,2020-09-04,Transit stations,2.0
 46,Vestland,2020-09-05,Transit stations,
-46,Vestland,2020-09-06,Transit stations,
-46,Vestland,2020-09-07,Transit stations,
-46,Vestland,2020-09-08,Transit stations,
-46,Vestland,2020-09-09,Transit stations,
-46,Vestland,2020-09-10,Transit stations,
-46,Vestland,2020-09-11,Transit stations,
-46,Vestland,2020-09-12,Transit stations,
-46,Vestland,2020-09-13,Transit stations,
-46,Vestland,2020-09-14,Transit stations,
-46,Vestland,2020-09-15,Transit stations,
-46,Vestland,2020-09-16,Transit stations,
-46,Vestland,2020-09-17,Transit stations,
-46,Vestland,2020-09-18,Transit stations,
-46,Vestland,2020-09-19,Transit stations,
-46,Vestland,2020-09-20,Transit stations,
-46,Vestland,2020-09-21,Transit stations,
-46,Vestland,2020-09-22,Transit stations,
-46,Vestland,2020-09-23,Transit stations,
-46,Vestland,2020-09-24,Transit stations,
-46,Vestland,2020-09-25,Transit stations,
-46,Vestland,2020-09-26,Transit stations,
-46,Vestland,2020-09-27,Transit stations,
+46,Vestland,2020-09-06,Transit stations,-3.0
+46,Vestland,2020-09-07,Transit stations,-2.0
+46,Vestland,2020-09-08,Transit stations,5.0
+46,Vestland,2020-09-09,Transit stations,-6.0
+46,Vestland,2020-09-10,Transit stations,-3.0
+46,Vestland,2020-09-11,Transit stations,-9.0
+46,Vestland,2020-09-12,Transit stations,4.0
+46,Vestland,2020-09-13,Transit stations,-8.0
+46,Vestland,2020-09-14,Transit stations,-7.0
+46,Vestland,2020-09-15,Transit stations,1.0
+46,Vestland,2020-09-16,Transit stations,3.0
+46,Vestland,2020-09-17,Transit stations,4.0
+46,Vestland,2020-09-18,Transit stations,1.0
+46,Vestland,2020-09-19,Transit stations,29.0
+46,Vestland,2020-09-20,Transit stations,2.0
+46,Vestland,2020-09-21,Transit stations,-2.0
+46,Vestland,2020-09-22,Transit stations,2.0
+46,Vestland,2020-09-23,Transit stations,-6.0
+46,Vestland,2020-09-24,Transit stations,-9.0
+46,Vestland,2020-09-25,Transit stations,1.0
+46,Vestland,2020-09-26,Transit stations,0.0
+46,Vestland,2020-09-27,Transit stations,-5.0
+46,Vestland,2020-09-28,Transit stations,-20.0
+46,Vestland,2020-09-29,Transit stations,-23.0
+46,Vestland,2020-09-30,Transit stations,-21.0
 30,Viken,2020-02-15,Transit stations,5.0
 30,Viken,2020-02-16,Transit stations,-6.0
 30,Viken,2020-02-17,Transit stations,-5.0
@@ -9901,48 +10030,51 @@ fylke_no,fylke_name,date,category,mob_change
 30,Viken,2020-08-14,Transit stations,-32.0
 30,Viken,2020-08-15,Transit stations,-15.0
 30,Viken,2020-08-16,Transit stations,-23.0
-30,Viken,2020-08-17,Transit stations,
-30,Viken,2020-08-18,Transit stations,
-30,Viken,2020-08-19,Transit stations,
-30,Viken,2020-08-20,Transit stations,
-30,Viken,2020-08-21,Transit stations,
-30,Viken,2020-08-22,Transit stations,
-30,Viken,2020-08-23,Transit stations,
-30,Viken,2020-08-24,Transit stations,
-30,Viken,2020-08-25,Transit stations,
-30,Viken,2020-08-26,Transit stations,
-30,Viken,2020-08-27,Transit stations,
-30,Viken,2020-08-28,Transit stations,
-30,Viken,2020-08-29,Transit stations,
-30,Viken,2020-08-30,Transit stations,
-30,Viken,2020-08-31,Transit stations,
-30,Viken,2020-09-01,Transit stations,
-30,Viken,2020-09-02,Transit stations,
-30,Viken,2020-09-03,Transit stations,
-30,Viken,2020-09-04,Transit stations,
-30,Viken,2020-09-05,Transit stations,
-30,Viken,2020-09-06,Transit stations,
-30,Viken,2020-09-07,Transit stations,
-30,Viken,2020-09-08,Transit stations,
-30,Viken,2020-09-09,Transit stations,
-30,Viken,2020-09-10,Transit stations,
-30,Viken,2020-09-11,Transit stations,
-30,Viken,2020-09-12,Transit stations,
-30,Viken,2020-09-13,Transit stations,
-30,Viken,2020-09-14,Transit stations,
-30,Viken,2020-09-15,Transit stations,
-30,Viken,2020-09-16,Transit stations,
-30,Viken,2020-09-17,Transit stations,
-30,Viken,2020-09-18,Transit stations,
-30,Viken,2020-09-19,Transit stations,
-30,Viken,2020-09-20,Transit stations,
-30,Viken,2020-09-21,Transit stations,
-30,Viken,2020-09-22,Transit stations,
-30,Viken,2020-09-23,Transit stations,
-30,Viken,2020-09-24,Transit stations,
-30,Viken,2020-09-25,Transit stations,
-30,Viken,2020-09-26,Transit stations,
-30,Viken,2020-09-27,Transit stations,
+30,Viken,2020-08-17,Transit stations,-30.0
+30,Viken,2020-08-18,Transit stations,-28.0
+30,Viken,2020-08-19,Transit stations,-31.0
+30,Viken,2020-08-20,Transit stations,-32.0
+30,Viken,2020-08-21,Transit stations,-37.0
+30,Viken,2020-08-22,Transit stations,-27.0
+30,Viken,2020-08-23,Transit stations,-28.0
+30,Viken,2020-08-24,Transit stations,-30.0
+30,Viken,2020-08-25,Transit stations,-29.0
+30,Viken,2020-08-26,Transit stations,-32.0
+30,Viken,2020-08-27,Transit stations,-32.0
+30,Viken,2020-08-28,Transit stations,-31.0
+30,Viken,2020-08-29,Transit stations,-24.0
+30,Viken,2020-08-30,Transit stations,-27.0
+30,Viken,2020-08-31,Transit stations,-31.0
+30,Viken,2020-09-01,Transit stations,-28.0
+30,Viken,2020-09-02,Transit stations,-31.0
+30,Viken,2020-09-03,Transit stations,-34.0
+30,Viken,2020-09-04,Transit stations,-31.0
+30,Viken,2020-09-05,Transit stations,-25.0
+30,Viken,2020-09-06,Transit stations,-28.0
+30,Viken,2020-09-07,Transit stations,-34.0
+30,Viken,2020-09-08,Transit stations,-32.0
+30,Viken,2020-09-09,Transit stations,-37.0
+30,Viken,2020-09-10,Transit stations,-33.0
+30,Viken,2020-09-11,Transit stations,-32.0
+30,Viken,2020-09-12,Transit stations,-26.0
+30,Viken,2020-09-13,Transit stations,-27.0
+30,Viken,2020-09-14,Transit stations,-30.0
+30,Viken,2020-09-15,Transit stations,-30.0
+30,Viken,2020-09-16,Transit stations,-33.0
+30,Viken,2020-09-17,Transit stations,-32.0
+30,Viken,2020-09-18,Transit stations,-30.0
+30,Viken,2020-09-19,Transit stations,-22.0
+30,Viken,2020-09-20,Transit stations,-26.0
+30,Viken,2020-09-21,Transit stations,-41.0
+30,Viken,2020-09-22,Transit stations,-42.0
+30,Viken,2020-09-23,Transit stations,-48.0
+30,Viken,2020-09-24,Transit stations,-47.0
+30,Viken,2020-09-25,Transit stations,-43.0
+30,Viken,2020-09-26,Transit stations,-46.0
+30,Viken,2020-09-27,Transit stations,-40.0
+30,Viken,2020-09-28,Transit stations,-47.0
+30,Viken,2020-09-29,Transit stations,-50.0
+30,Viken,2020-09-30,Transit stations,-49.0
 42,Agder,2020-02-15,Workplace,-4.0
 42,Agder,2020-02-16,Workplace,-7.0
 42,Agder,2020-02-17,Workplace,-24.0
@@ -10132,30 +10264,30 @@ fylke_no,fylke_name,date,category,mob_change
 42,Agder,2020-08-19,Workplace,-22.0
 42,Agder,2020-08-20,Workplace,-23.0
 42,Agder,2020-08-21,Workplace,-22.0
-42,Agder,2020-08-22,Workplace,0.0
-42,Agder,2020-08-23,Workplace,2.0
+42,Agder,2020-08-22,Workplace,
+42,Agder,2020-08-23,Workplace,
 42,Agder,2020-08-24,Workplace,-21.0
 42,Agder,2020-08-25,Workplace,-20.0
 42,Agder,2020-08-26,Workplace,-20.0
 42,Agder,2020-08-27,Workplace,-20.0
 42,Agder,2020-08-28,Workplace,-20.0
-42,Agder,2020-08-29,Workplace,-1.0
-42,Agder,2020-08-30,Workplace,2.0
+42,Agder,2020-08-29,Workplace,
+42,Agder,2020-08-30,Workplace,
 42,Agder,2020-08-31,Workplace,-19.0
 42,Agder,2020-09-01,Workplace,-20.0
 42,Agder,2020-09-02,Workplace,-18.0
-42,Agder,2020-09-03,Workplace,-20.0
+42,Agder,2020-09-03,Workplace,-19.0
 42,Agder,2020-09-04,Workplace,-19.0
-42,Agder,2020-09-05,Workplace,-3.0
-42,Agder,2020-09-06,Workplace,-2.0
+42,Agder,2020-09-05,Workplace,
+42,Agder,2020-09-06,Workplace,
 42,Agder,2020-09-07,Workplace,-20.0
-42,Agder,2020-09-08,Workplace,-20.0
+42,Agder,2020-09-08,Workplace,-19.0
 42,Agder,2020-09-09,Workplace,-17.0
-42,Agder,2020-09-10,Workplace,-18.0
+42,Agder,2020-09-10,Workplace,-17.0
 42,Agder,2020-09-11,Workplace,-18.0
 42,Agder,2020-09-12,Workplace,-3.0
 42,Agder,2020-09-13,Workplace,-5.0
-42,Agder,2020-09-14,Workplace,-15.0
+42,Agder,2020-09-14,Workplace,-14.0
 42,Agder,2020-09-15,Workplace,-14.0
 42,Agder,2020-09-16,Workplace,-15.0
 42,Agder,2020-09-17,Workplace,-16.0
@@ -10165,10 +10297,13 @@ fylke_no,fylke_name,date,category,mob_change
 42,Agder,2020-09-21,Workplace,-16.0
 42,Agder,2020-09-22,Workplace,-15.0
 42,Agder,2020-09-23,Workplace,-14.0
-42,Agder,2020-09-24,Workplace,-16.0
+42,Agder,2020-09-24,Workplace,-15.0
 42,Agder,2020-09-25,Workplace,-16.0
-42,Agder,2020-09-26,Workplace,-6.0
+42,Agder,2020-09-26,Workplace,-5.0
 42,Agder,2020-09-27,Workplace,-3.0
+42,Agder,2020-09-28,Workplace,-33.0
+42,Agder,2020-09-29,Workplace,-33.0
+42,Agder,2020-09-30,Workplace,-34.0
 34,Innlandet,2020-02-15,Workplace,-1.0
 34,Innlandet,2020-02-16,Workplace,0.0
 34,Innlandet,2020-02-17,Workplace,-11.0
@@ -10354,47 +10489,50 @@ fylke_no,fylke_name,date,category,mob_change
 34,Innlandet,2020-08-15,Workplace,-6.0
 34,Innlandet,2020-08-16,Workplace,-1.0
 34,Innlandet,2020-08-17,Workplace,-24.0
-34,Innlandet,2020-08-18,Workplace,-22.0
-34,Innlandet,2020-08-19,Workplace,-21.0
-34,Innlandet,2020-08-20,Workplace,-23.0
-34,Innlandet,2020-08-21,Workplace,-22.0
-34,Innlandet,2020-08-22,Workplace,-7.0
-34,Innlandet,2020-08-23,Workplace,-5.0
-34,Innlandet,2020-08-24,Workplace,-21.0
-34,Innlandet,2020-08-25,Workplace,-21.0
-34,Innlandet,2020-08-26,Workplace,-19.0
-34,Innlandet,2020-08-27,Workplace,-20.0
-34,Innlandet,2020-08-28,Workplace,-19.0
-34,Innlandet,2020-08-29,Workplace,-5.0
-34,Innlandet,2020-08-30,Workplace,-4.0
-34,Innlandet,2020-08-31,Workplace,-21.0
-34,Innlandet,2020-09-01,Workplace,-23.0
-34,Innlandet,2020-09-02,Workplace,-22.0
-34,Innlandet,2020-09-03,Workplace,-23.0
-34,Innlandet,2020-09-04,Workplace,-22.0
-34,Innlandet,2020-09-05,Workplace,-8.0
-34,Innlandet,2020-09-06,Workplace,-6.0
-34,Innlandet,2020-09-07,Workplace,-21.0
-34,Innlandet,2020-09-08,Workplace,-20.0
-34,Innlandet,2020-09-09,Workplace,-18.0
-34,Innlandet,2020-09-10,Workplace,-19.0
-34,Innlandet,2020-09-11,Workplace,-19.0
-34,Innlandet,2020-09-12,Workplace,-8.0
-34,Innlandet,2020-09-13,Workplace,-7.0
-34,Innlandet,2020-09-14,Workplace,-17.0
-34,Innlandet,2020-09-15,Workplace,-17.0
-34,Innlandet,2020-09-16,Workplace,-16.0
-34,Innlandet,2020-09-17,Workplace,-18.0
-34,Innlandet,2020-09-18,Workplace,-17.0
-34,Innlandet,2020-09-19,Workplace,-7.0
-34,Innlandet,2020-09-20,Workplace,-8.0
-34,Innlandet,2020-09-21,Workplace,-18.0
-34,Innlandet,2020-09-22,Workplace,-16.0
-34,Innlandet,2020-09-23,Workplace,-15.0
-34,Innlandet,2020-09-24,Workplace,-16.0
-34,Innlandet,2020-09-25,Workplace,-15.0
-34,Innlandet,2020-09-26,Workplace,-9.0
-34,Innlandet,2020-09-27,Workplace,-8.0
+34,Innlandet,2020-08-18,Workplace,-21.0
+34,Innlandet,2020-08-19,Workplace,-20.0
+34,Innlandet,2020-08-20,Workplace,-21.0
+34,Innlandet,2020-08-21,Workplace,-20.0
+34,Innlandet,2020-08-22,Workplace,
+34,Innlandet,2020-08-23,Workplace,
+34,Innlandet,2020-08-24,Workplace,-19.0
+34,Innlandet,2020-08-25,Workplace,-19.0
+34,Innlandet,2020-08-26,Workplace,-18.0
+34,Innlandet,2020-08-27,Workplace,-18.0
+34,Innlandet,2020-08-28,Workplace,-17.0
+34,Innlandet,2020-08-29,Workplace,
+34,Innlandet,2020-08-30,Workplace,
+34,Innlandet,2020-08-31,Workplace,-18.0
+34,Innlandet,2020-09-01,Workplace,-20.0
+34,Innlandet,2020-09-02,Workplace,-20.0
+34,Innlandet,2020-09-03,Workplace,-19.0
+34,Innlandet,2020-09-04,Workplace,-18.0
+34,Innlandet,2020-09-05,Workplace,
+34,Innlandet,2020-09-06,Workplace,
+34,Innlandet,2020-09-07,Workplace,-18.0
+34,Innlandet,2020-09-08,Workplace,-16.0
+34,Innlandet,2020-09-09,Workplace,-14.0
+34,Innlandet,2020-09-10,Workplace,-13.0
+34,Innlandet,2020-09-11,Workplace,-14.0
+34,Innlandet,2020-09-12,Workplace,-2.0
+34,Innlandet,2020-09-13,Workplace,-1.0
+34,Innlandet,2020-09-14,Workplace,-11.0
+34,Innlandet,2020-09-15,Workplace,-12.0
+34,Innlandet,2020-09-16,Workplace,-12.0
+34,Innlandet,2020-09-17,Workplace,-11.0
+34,Innlandet,2020-09-18,Workplace,-11.0
+34,Innlandet,2020-09-19,Workplace,-1.0
+34,Innlandet,2020-09-20,Workplace,-2.0
+34,Innlandet,2020-09-21,Workplace,-13.0
+34,Innlandet,2020-09-22,Workplace,-11.0
+34,Innlandet,2020-09-23,Workplace,-10.0
+34,Innlandet,2020-09-24,Workplace,-9.0
+34,Innlandet,2020-09-25,Workplace,-10.0
+34,Innlandet,2020-09-26,Workplace,-3.0
+34,Innlandet,2020-09-27,Workplace,-2.0
+34,Innlandet,2020-09-28,Workplace,-11.0
+34,Innlandet,2020-09-29,Workplace,-11.0
+34,Innlandet,2020-09-30,Workplace,-12.0
 15,Møre og Romsdal,2020-02-15,Workplace,0.0
 15,Møre og Romsdal,2020-02-16,Workplace,-2.0
 15,Møre og Romsdal,2020-02-17,Workplace,-19.0
@@ -10584,22 +10722,22 @@ fylke_no,fylke_name,date,category,mob_change
 15,Møre og Romsdal,2020-08-19,Workplace,-23.0
 15,Møre og Romsdal,2020-08-20,Workplace,-24.0
 15,Møre og Romsdal,2020-08-21,Workplace,-23.0
-15,Møre og Romsdal,2020-08-22,Workplace,-9.0
-15,Møre og Romsdal,2020-08-23,Workplace,-6.0
+15,Møre og Romsdal,2020-08-22,Workplace,
+15,Møre og Romsdal,2020-08-23,Workplace,
 15,Møre og Romsdal,2020-08-24,Workplace,-22.0
 15,Møre og Romsdal,2020-08-25,Workplace,-23.0
 15,Møre og Romsdal,2020-08-26,Workplace,-20.0
 15,Møre og Romsdal,2020-08-27,Workplace,-21.0
 15,Møre og Romsdal,2020-08-28,Workplace,-21.0
-15,Møre og Romsdal,2020-08-29,Workplace,-9.0
-15,Møre og Romsdal,2020-08-30,Workplace,-2.0
+15,Møre og Romsdal,2020-08-29,Workplace,
+15,Møre og Romsdal,2020-08-30,Workplace,
 15,Møre og Romsdal,2020-08-31,Workplace,-20.0
 15,Møre og Romsdal,2020-09-01,Workplace,-21.0
 15,Møre og Romsdal,2020-09-02,Workplace,-21.0
 15,Møre og Romsdal,2020-09-03,Workplace,-21.0
 15,Møre og Romsdal,2020-09-04,Workplace,-21.0
-15,Møre og Romsdal,2020-09-05,Workplace,-10.0
-15,Møre og Romsdal,2020-09-06,Workplace,-10.0
+15,Møre og Romsdal,2020-09-05,Workplace,
+15,Møre og Romsdal,2020-09-06,Workplace,
 15,Møre og Romsdal,2020-09-07,Workplace,-19.0
 15,Møre og Romsdal,2020-09-08,Workplace,-20.0
 15,Møre og Romsdal,2020-09-09,Workplace,-19.0
@@ -10621,6 +10759,9 @@ fylke_no,fylke_name,date,category,mob_change
 15,Møre og Romsdal,2020-09-25,Workplace,-15.0
 15,Møre og Romsdal,2020-09-26,Workplace,-10.0
 15,Møre og Romsdal,2020-09-27,Workplace,-9.0
+15,Møre og Romsdal,2020-09-28,Workplace,-15.0
+15,Møre og Romsdal,2020-09-29,Workplace,-15.0
+15,Møre og Romsdal,2020-09-30,Workplace,-15.0
 18,Nordland,2020-02-15,Workplace,0.0
 18,Nordland,2020-02-16,Workplace,0.0
 18,Nordland,2020-02-17,Workplace,0.0
@@ -10805,48 +10946,51 @@ fylke_no,fylke_name,date,category,mob_change
 18,Nordland,2020-08-14,Workplace,-34.0
 18,Nordland,2020-08-15,Workplace,-10.0
 18,Nordland,2020-08-16,Workplace,-2.0
-18,Nordland,2020-08-17,Workplace,-24.0
+18,Nordland,2020-08-17,Workplace,-23.0
 18,Nordland,2020-08-18,Workplace,-22.0
 18,Nordland,2020-08-19,Workplace,-22.0
-18,Nordland,2020-08-20,Workplace,-24.0
-18,Nordland,2020-08-21,Workplace,-25.0
-18,Nordland,2020-08-22,Workplace,-9.0
-18,Nordland,2020-08-23,Workplace,-2.0
-18,Nordland,2020-08-24,Workplace,-20.0
-18,Nordland,2020-08-25,Workplace,-20.0
-18,Nordland,2020-08-26,Workplace,-19.0
-18,Nordland,2020-08-27,Workplace,-20.0
-18,Nordland,2020-08-28,Workplace,-21.0
-18,Nordland,2020-08-29,Workplace,-8.0
-18,Nordland,2020-08-30,Workplace,-1.0
-18,Nordland,2020-08-31,Workplace,-19.0
-18,Nordland,2020-09-01,Workplace,-18.0
-18,Nordland,2020-09-02,Workplace,-18.0
-18,Nordland,2020-09-03,Workplace,-20.0
-18,Nordland,2020-09-04,Workplace,-19.0
-18,Nordland,2020-09-05,Workplace,-11.0
-18,Nordland,2020-09-06,Workplace,-6.0
-18,Nordland,2020-09-07,Workplace,-18.0
-18,Nordland,2020-09-08,Workplace,-18.0
-18,Nordland,2020-09-09,Workplace,-16.0
-18,Nordland,2020-09-10,Workplace,-18.0
-18,Nordland,2020-09-11,Workplace,-19.0
-18,Nordland,2020-09-12,Workplace,-7.0
-18,Nordland,2020-09-13,Workplace,-5.0
-18,Nordland,2020-09-14,Workplace,-15.0
-18,Nordland,2020-09-15,Workplace,-15.0
-18,Nordland,2020-09-16,Workplace,-14.0
-18,Nordland,2020-09-17,Workplace,-16.0
-18,Nordland,2020-09-18,Workplace,-18.0
-18,Nordland,2020-09-19,Workplace,-8.0
-18,Nordland,2020-09-20,Workplace,-8.0
-18,Nordland,2020-09-21,Workplace,-18.0
-18,Nordland,2020-09-22,Workplace,-15.0
-18,Nordland,2020-09-23,Workplace,-13.0
-18,Nordland,2020-09-24,Workplace,-13.0
-18,Nordland,2020-09-25,Workplace,-16.0
-18,Nordland,2020-09-26,Workplace,-6.0
-18,Nordland,2020-09-27,Workplace,-6.0
+18,Nordland,2020-08-20,Workplace,-23.0
+18,Nordland,2020-08-21,Workplace,-24.0
+18,Nordland,2020-08-22,Workplace,
+18,Nordland,2020-08-23,Workplace,
+18,Nordland,2020-08-24,Workplace,-19.0
+18,Nordland,2020-08-25,Workplace,-19.0
+18,Nordland,2020-08-26,Workplace,-18.0
+18,Nordland,2020-08-27,Workplace,-19.0
+18,Nordland,2020-08-28,Workplace,-20.0
+18,Nordland,2020-08-29,Workplace,
+18,Nordland,2020-08-30,Workplace,
+18,Nordland,2020-08-31,Workplace,-17.0
+18,Nordland,2020-09-01,Workplace,-16.0
+18,Nordland,2020-09-02,Workplace,-16.0
+18,Nordland,2020-09-03,Workplace,-18.0
+18,Nordland,2020-09-04,Workplace,-18.0
+18,Nordland,2020-09-05,Workplace,
+18,Nordland,2020-09-06,Workplace,
+18,Nordland,2020-09-07,Workplace,-16.0
+18,Nordland,2020-09-08,Workplace,-15.0
+18,Nordland,2020-09-09,Workplace,-14.0
+18,Nordland,2020-09-10,Workplace,-15.0
+18,Nordland,2020-09-11,Workplace,-16.0
+18,Nordland,2020-09-12,Workplace,-5.0
+18,Nordland,2020-09-13,Workplace,-2.0
+18,Nordland,2020-09-14,Workplace,-12.0
+18,Nordland,2020-09-15,Workplace,-12.0
+18,Nordland,2020-09-16,Workplace,-11.0
+18,Nordland,2020-09-17,Workplace,-13.0
+18,Nordland,2020-09-18,Workplace,-15.0
+18,Nordland,2020-09-19,Workplace,-5.0
+18,Nordland,2020-09-20,Workplace,-5.0
+18,Nordland,2020-09-21,Workplace,-15.0
+18,Nordland,2020-09-22,Workplace,-12.0
+18,Nordland,2020-09-23,Workplace,-11.0
+18,Nordland,2020-09-24,Workplace,-10.0
+18,Nordland,2020-09-25,Workplace,-13.0
+18,Nordland,2020-09-26,Workplace,-3.0
+18,Nordland,2020-09-27,Workplace,-3.0
+18,Nordland,2020-09-28,Workplace,-11.0
+18,Nordland,2020-09-29,Workplace,-10.0
+18,Nordland,2020-09-30,Workplace,-11.0
 03,Oslo,2020-02-15,Workplace,-1.0
 03,Oslo,2020-02-16,Workplace,-3.0
 03,Oslo,2020-02-17,Workplace,-16.0
@@ -11042,37 +11186,40 @@ fylke_no,fylke_name,date,category,mob_change
 03,Oslo,2020-08-25,Workplace,-42.0
 03,Oslo,2020-08-26,Workplace,-40.0
 03,Oslo,2020-08-27,Workplace,-41.0
-03,Oslo,2020-08-28,Workplace,-41.0
-03,Oslo,2020-08-29,Workplace,-12.0
-03,Oslo,2020-08-30,Workplace,-10.0
-03,Oslo,2020-08-31,Workplace,-41.0
+03,Oslo,2020-08-28,Workplace,-39.0
+03,Oslo,2020-08-29,Workplace,-11.0
+03,Oslo,2020-08-30,Workplace,-9.0
+03,Oslo,2020-08-31,Workplace,-40.0
 03,Oslo,2020-09-01,Workplace,-40.0
-03,Oslo,2020-09-02,Workplace,-39.0
-03,Oslo,2020-09-03,Workplace,-40.0
-03,Oslo,2020-09-04,Workplace,-39.0
-03,Oslo,2020-09-05,Workplace,-13.0
-03,Oslo,2020-09-06,Workplace,-13.0
-03,Oslo,2020-09-07,Workplace,-40.0
-03,Oslo,2020-09-08,Workplace,-39.0
-03,Oslo,2020-09-09,Workplace,-38.0
-03,Oslo,2020-09-10,Workplace,-37.0
-03,Oslo,2020-09-11,Workplace,-37.0
-03,Oslo,2020-09-12,Workplace,-13.0
-03,Oslo,2020-09-13,Workplace,-14.0
-03,Oslo,2020-09-14,Workplace,-34.0
-03,Oslo,2020-09-15,Workplace,-34.0
-03,Oslo,2020-09-16,Workplace,-34.0
+03,Oslo,2020-09-02,Workplace,-38.0
+03,Oslo,2020-09-03,Workplace,-39.0
+03,Oslo,2020-09-04,Workplace,-38.0
+03,Oslo,2020-09-05,Workplace,-12.0
+03,Oslo,2020-09-06,Workplace,-12.0
+03,Oslo,2020-09-07,Workplace,-39.0
+03,Oslo,2020-09-08,Workplace,-38.0
+03,Oslo,2020-09-09,Workplace,-37.0
+03,Oslo,2020-09-10,Workplace,-36.0
+03,Oslo,2020-09-11,Workplace,-35.0
+03,Oslo,2020-09-12,Workplace,-12.0
+03,Oslo,2020-09-13,Workplace,-13.0
+03,Oslo,2020-09-14,Workplace,-33.0
+03,Oslo,2020-09-15,Workplace,-33.0
+03,Oslo,2020-09-16,Workplace,-33.0
 03,Oslo,2020-09-17,Workplace,-34.0
-03,Oslo,2020-09-18,Workplace,-35.0
-03,Oslo,2020-09-19,Workplace,-14.0
-03,Oslo,2020-09-20,Workplace,-13.0
-03,Oslo,2020-09-21,Workplace,-38.0
+03,Oslo,2020-09-18,Workplace,-32.0
+03,Oslo,2020-09-19,Workplace,-12.0
+03,Oslo,2020-09-20,Workplace,-12.0
+03,Oslo,2020-09-21,Workplace,-37.0
 03,Oslo,2020-09-22,Workplace,-37.0
-03,Oslo,2020-09-23,Workplace,-37.0
-03,Oslo,2020-09-24,Workplace,-38.0
-03,Oslo,2020-09-25,Workplace,-37.0
-03,Oslo,2020-09-26,Workplace,-16.0
-03,Oslo,2020-09-27,Workplace,-15.0
+03,Oslo,2020-09-23,Workplace,-36.0
+03,Oslo,2020-09-24,Workplace,-37.0
+03,Oslo,2020-09-25,Workplace,-34.0
+03,Oslo,2020-09-26,Workplace,-14.0
+03,Oslo,2020-09-27,Workplace,-14.0
+03,Oslo,2020-09-28,Workplace,-45.0
+03,Oslo,2020-09-29,Workplace,-46.0
+03,Oslo,2020-09-30,Workplace,-47.0
 11,Rogaland,2020-02-15,Workplace,-1.0
 11,Rogaland,2020-02-16,Workplace,-3.0
 11,Rogaland,2020-02-17,Workplace,0.0
@@ -11260,45 +11407,48 @@ fylke_no,fylke_name,date,category,mob_change
 11,Rogaland,2020-08-17,Workplace,-29.0
 11,Rogaland,2020-08-18,Workplace,-26.0
 11,Rogaland,2020-08-19,Workplace,-25.0
-11,Rogaland,2020-08-20,Workplace,-27.0
+11,Rogaland,2020-08-20,Workplace,-26.0
 11,Rogaland,2020-08-21,Workplace,-27.0
-11,Rogaland,2020-08-22,Workplace,-7.0
-11,Rogaland,2020-08-23,Workplace,-7.0
+11,Rogaland,2020-08-22,Workplace,-6.0
+11,Rogaland,2020-08-23,Workplace,
 11,Rogaland,2020-08-24,Workplace,-24.0
-11,Rogaland,2020-08-25,Workplace,-25.0
-11,Rogaland,2020-08-26,Workplace,-22.0
-11,Rogaland,2020-08-27,Workplace,-23.0
+11,Rogaland,2020-08-25,Workplace,-24.0
+11,Rogaland,2020-08-26,Workplace,-21.0
+11,Rogaland,2020-08-27,Workplace,-21.0
 11,Rogaland,2020-08-28,Workplace,-23.0
-11,Rogaland,2020-08-29,Workplace,-4.0
-11,Rogaland,2020-08-30,Workplace,-6.0
-11,Rogaland,2020-08-31,Workplace,-23.0
-11,Rogaland,2020-09-01,Workplace,-23.0
-11,Rogaland,2020-09-02,Workplace,-22.0
-11,Rogaland,2020-09-03,Workplace,-23.0
+11,Rogaland,2020-08-29,Workplace,-3.0
+11,Rogaland,2020-08-30,Workplace,
+11,Rogaland,2020-08-31,Workplace,-21.0
+11,Rogaland,2020-09-01,Workplace,-22.0
+11,Rogaland,2020-09-02,Workplace,-20.0
+11,Rogaland,2020-09-03,Workplace,-21.0
 11,Rogaland,2020-09-04,Workplace,-23.0
-11,Rogaland,2020-09-05,Workplace,-10.0
-11,Rogaland,2020-09-06,Workplace,-11.0
-11,Rogaland,2020-09-07,Workplace,-22.0
-11,Rogaland,2020-09-08,Workplace,-22.0
-11,Rogaland,2020-09-09,Workplace,-20.0
-11,Rogaland,2020-09-10,Workplace,-21.0
+11,Rogaland,2020-09-05,Workplace,-8.0
+11,Rogaland,2020-09-06,Workplace,
+11,Rogaland,2020-09-07,Workplace,-21.0
+11,Rogaland,2020-09-08,Workplace,-21.0
+11,Rogaland,2020-09-09,Workplace,-17.0
+11,Rogaland,2020-09-10,Workplace,-17.0
 11,Rogaland,2020-09-11,Workplace,-22.0
-11,Rogaland,2020-09-12,Workplace,-8.0
-11,Rogaland,2020-09-13,Workplace,-13.0
-11,Rogaland,2020-09-14,Workplace,-17.0
-11,Rogaland,2020-09-15,Workplace,-17.0
-11,Rogaland,2020-09-16,Workplace,-17.0
-11,Rogaland,2020-09-17,Workplace,-19.0
+11,Rogaland,2020-09-12,Workplace,-5.0
+11,Rogaland,2020-09-13,Workplace,-10.0
+11,Rogaland,2020-09-14,Workplace,-15.0
+11,Rogaland,2020-09-15,Workplace,-16.0
+11,Rogaland,2020-09-16,Workplace,-14.0
+11,Rogaland,2020-09-17,Workplace,-15.0
 11,Rogaland,2020-09-18,Workplace,-19.0
-11,Rogaland,2020-09-19,Workplace,-7.0
-11,Rogaland,2020-09-20,Workplace,-9.0
-11,Rogaland,2020-09-21,Workplace,-20.0
-11,Rogaland,2020-09-22,Workplace,-18.0
-11,Rogaland,2020-09-23,Workplace,-17.0
-11,Rogaland,2020-09-24,Workplace,-18.0
+11,Rogaland,2020-09-19,Workplace,-4.0
+11,Rogaland,2020-09-20,Workplace,-7.0
+11,Rogaland,2020-09-21,Workplace,-18.0
+11,Rogaland,2020-09-22,Workplace,-16.0
+11,Rogaland,2020-09-23,Workplace,-14.0
+11,Rogaland,2020-09-24,Workplace,-14.0
 11,Rogaland,2020-09-25,Workplace,-18.0
-11,Rogaland,2020-09-26,Workplace,-9.0
-11,Rogaland,2020-09-27,Workplace,-13.0
+11,Rogaland,2020-09-26,Workplace,-6.0
+11,Rogaland,2020-09-27,Workplace,-10.0
+11,Rogaland,2020-09-28,Workplace,-17.0
+11,Rogaland,2020-09-29,Workplace,-17.0
+11,Rogaland,2020-09-30,Workplace,-14.0
 54,Troms og Finnmark fylke,2020-02-15,Workplace,2.0
 54,Troms og Finnmark fylke,2020-02-16,Workplace,0.0
 54,Troms og Finnmark fylke,2020-02-17,Workplace,-1.0
@@ -11484,47 +11634,50 @@ fylke_no,fylke_name,date,category,mob_change
 54,Troms og Finnmark fylke,2020-08-15,Workplace,-19.0
 54,Troms og Finnmark fylke,2020-08-16,Workplace,-14.0
 54,Troms og Finnmark fylke,2020-08-17,Workplace,-30.0
-54,Troms og Finnmark fylke,2020-08-18,Workplace,-28.0
+54,Troms og Finnmark fylke,2020-08-18,Workplace,-27.0
 54,Troms og Finnmark fylke,2020-08-19,Workplace,-27.0
-54,Troms og Finnmark fylke,2020-08-20,Workplace,-27.0
-54,Troms og Finnmark fylke,2020-08-21,Workplace,-27.0
-54,Troms og Finnmark fylke,2020-08-22,Workplace,-16.0
-54,Troms og Finnmark fylke,2020-08-23,Workplace,-11.0
-54,Troms og Finnmark fylke,2020-08-24,Workplace,-25.0
-54,Troms og Finnmark fylke,2020-08-25,Workplace,-25.0
-54,Troms og Finnmark fylke,2020-08-26,Workplace,-23.0
-54,Troms og Finnmark fylke,2020-08-27,Workplace,-23.0
-54,Troms og Finnmark fylke,2020-08-28,Workplace,-24.0
-54,Troms og Finnmark fylke,2020-08-29,Workplace,-14.0
-54,Troms og Finnmark fylke,2020-08-30,Workplace,-10.0
-54,Troms og Finnmark fylke,2020-08-31,Workplace,-23.0
-54,Troms og Finnmark fylke,2020-09-01,Workplace,-23.0
-54,Troms og Finnmark fylke,2020-09-02,Workplace,-22.0
-54,Troms og Finnmark fylke,2020-09-03,Workplace,-24.0
-54,Troms og Finnmark fylke,2020-09-04,Workplace,-23.0
-54,Troms og Finnmark fylke,2020-09-05,Workplace,-16.0
-54,Troms og Finnmark fylke,2020-09-06,Workplace,-17.0
-54,Troms og Finnmark fylke,2020-09-07,Workplace,-24.0
-54,Troms og Finnmark fylke,2020-09-08,Workplace,-23.0
-54,Troms og Finnmark fylke,2020-09-09,Workplace,-21.0
-54,Troms og Finnmark fylke,2020-09-10,Workplace,-23.0
-54,Troms og Finnmark fylke,2020-09-11,Workplace,-24.0
-54,Troms og Finnmark fylke,2020-09-12,Workplace,-16.0
-54,Troms og Finnmark fylke,2020-09-13,Workplace,-12.0
-54,Troms og Finnmark fylke,2020-09-14,Workplace,-19.0
-54,Troms og Finnmark fylke,2020-09-15,Workplace,-19.0
-54,Troms og Finnmark fylke,2020-09-16,Workplace,-19.0
-54,Troms og Finnmark fylke,2020-09-17,Workplace,-21.0
-54,Troms og Finnmark fylke,2020-09-18,Workplace,-21.0
-54,Troms og Finnmark fylke,2020-09-19,Workplace,-15.0
-54,Troms og Finnmark fylke,2020-09-20,Workplace,-18.0
-54,Troms og Finnmark fylke,2020-09-21,Workplace,-21.0
-54,Troms og Finnmark fylke,2020-09-22,Workplace,-20.0
-54,Troms og Finnmark fylke,2020-09-23,Workplace,-17.0
-54,Troms og Finnmark fylke,2020-09-24,Workplace,-17.0
-54,Troms og Finnmark fylke,2020-09-25,Workplace,-19.0
-54,Troms og Finnmark fylke,2020-09-26,Workplace,-13.0
-54,Troms og Finnmark fylke,2020-09-27,Workplace,-11.0
+54,Troms og Finnmark fylke,2020-08-20,Workplace,-26.0
+54,Troms og Finnmark fylke,2020-08-21,Workplace,-26.0
+54,Troms og Finnmark fylke,2020-08-22,Workplace,
+54,Troms og Finnmark fylke,2020-08-23,Workplace,
+54,Troms og Finnmark fylke,2020-08-24,Workplace,-24.0
+54,Troms og Finnmark fylke,2020-08-25,Workplace,-23.0
+54,Troms og Finnmark fylke,2020-08-26,Workplace,-21.0
+54,Troms og Finnmark fylke,2020-08-27,Workplace,-22.0
+54,Troms og Finnmark fylke,2020-08-28,Workplace,-22.0
+54,Troms og Finnmark fylke,2020-08-29,Workplace,
+54,Troms og Finnmark fylke,2020-08-30,Workplace,
+54,Troms og Finnmark fylke,2020-08-31,Workplace,-22.0
+54,Troms og Finnmark fylke,2020-09-01,Workplace,-21.0
+54,Troms og Finnmark fylke,2020-09-02,Workplace,-20.0
+54,Troms og Finnmark fylke,2020-09-03,Workplace,-22.0
+54,Troms og Finnmark fylke,2020-09-04,Workplace,-21.0
+54,Troms og Finnmark fylke,2020-09-05,Workplace,
+54,Troms og Finnmark fylke,2020-09-06,Workplace,
+54,Troms og Finnmark fylke,2020-09-07,Workplace,-22.0
+54,Troms og Finnmark fylke,2020-09-08,Workplace,-21.0
+54,Troms og Finnmark fylke,2020-09-09,Workplace,-18.0
+54,Troms og Finnmark fylke,2020-09-10,Workplace,-20.0
+54,Troms og Finnmark fylke,2020-09-11,Workplace,-20.0
+54,Troms og Finnmark fylke,2020-09-12,Workplace,-12.0
+54,Troms og Finnmark fylke,2020-09-13,Workplace,-8.0
+54,Troms og Finnmark fylke,2020-09-14,Workplace,-16.0
+54,Troms og Finnmark fylke,2020-09-15,Workplace,-16.0
+54,Troms og Finnmark fylke,2020-09-16,Workplace,-16.0
+54,Troms og Finnmark fylke,2020-09-17,Workplace,-17.0
+54,Troms og Finnmark fylke,2020-09-18,Workplace,-18.0
+54,Troms og Finnmark fylke,2020-09-19,Workplace,-11.0
+54,Troms og Finnmark fylke,2020-09-20,Workplace,-14.0
+54,Troms og Finnmark fylke,2020-09-21,Workplace,-17.0
+54,Troms og Finnmark fylke,2020-09-22,Workplace,-16.0
+54,Troms og Finnmark fylke,2020-09-23,Workplace,-13.0
+54,Troms og Finnmark fylke,2020-09-24,Workplace,-14.0
+54,Troms og Finnmark fylke,2020-09-25,Workplace,-15.0
+54,Troms og Finnmark fylke,2020-09-26,Workplace,-9.0
+54,Troms og Finnmark fylke,2020-09-27,Workplace,-7.0
+54,Troms og Finnmark fylke,2020-09-28,Workplace,-14.0
+54,Troms og Finnmark fylke,2020-09-29,Workplace,-15.0
+54,Troms og Finnmark fylke,2020-09-30,Workplace,-14.0
 50,Trøndelag,2020-02-15,Workplace,0.0
 50,Trøndelag,2020-02-16,Workplace,-2.0
 50,Trøndelag,2020-02-17,Workplace,-17.0
@@ -11710,47 +11863,50 @@ fylke_no,fylke_name,date,category,mob_change
 50,Trøndelag,2020-08-15,Workplace,-12.0
 50,Trøndelag,2020-08-16,Workplace,-8.0
 50,Trøndelag,2020-08-17,Workplace,-31.0
-50,Trøndelag,2020-08-18,Workplace,-30.0
+50,Trøndelag,2020-08-18,Workplace,-29.0
 50,Trøndelag,2020-08-19,Workplace,-29.0
-50,Trøndelag,2020-08-20,Workplace,-29.0
+50,Trøndelag,2020-08-20,Workplace,-28.0
 50,Trøndelag,2020-08-21,Workplace,-29.0
-50,Trøndelag,2020-08-22,Workplace,-8.0
-50,Trøndelag,2020-08-23,Workplace,-11.0
+50,Trøndelag,2020-08-22,Workplace,-7.0
+50,Trøndelag,2020-08-23,Workplace,
 50,Trøndelag,2020-08-24,Workplace,-28.0
 50,Trøndelag,2020-08-25,Workplace,-29.0
-50,Trøndelag,2020-08-26,Workplace,-26.0
-50,Trøndelag,2020-08-27,Workplace,-27.0
-50,Trøndelag,2020-08-28,Workplace,-26.0
-50,Trøndelag,2020-08-29,Workplace,-9.0
-50,Trøndelag,2020-08-30,Workplace,-9.0
-50,Trøndelag,2020-08-31,Workplace,-26.0
-50,Trøndelag,2020-09-01,Workplace,-27.0
-50,Trøndelag,2020-09-02,Workplace,-26.0
-50,Trøndelag,2020-09-03,Workplace,-26.0
+50,Trøndelag,2020-08-26,Workplace,-25.0
+50,Trøndelag,2020-08-27,Workplace,-26.0
+50,Trøndelag,2020-08-28,Workplace,-25.0
+50,Trøndelag,2020-08-29,Workplace,-8.0
+50,Trøndelag,2020-08-30,Workplace,
+50,Trøndelag,2020-08-31,Workplace,-25.0
+50,Trøndelag,2020-09-01,Workplace,-26.0
+50,Trøndelag,2020-09-02,Workplace,-24.0
+50,Trøndelag,2020-09-03,Workplace,-25.0
 50,Trøndelag,2020-09-04,Workplace,-25.0
-50,Trøndelag,2020-09-05,Workplace,-13.0
-50,Trøndelag,2020-09-06,Workplace,-12.0
-50,Trøndelag,2020-09-07,Workplace,-26.0
-50,Trøndelag,2020-09-08,Workplace,-27.0
-50,Trøndelag,2020-09-09,Workplace,-24.0
-50,Trøndelag,2020-09-10,Workplace,-25.0
-50,Trøndelag,2020-09-11,Workplace,-25.0
-50,Trøndelag,2020-09-12,Workplace,-12.0
-50,Trøndelag,2020-09-13,Workplace,-14.0
-50,Trøndelag,2020-09-14,Workplace,-21.0
-50,Trøndelag,2020-09-15,Workplace,-21.0
-50,Trøndelag,2020-09-16,Workplace,-21.0
-50,Trøndelag,2020-09-17,Workplace,-22.0
-50,Trøndelag,2020-09-18,Workplace,-22.0
-50,Trøndelag,2020-09-19,Workplace,-14.0
-50,Trøndelag,2020-09-20,Workplace,-15.0
-50,Trøndelag,2020-09-21,Workplace,-23.0
-50,Trøndelag,2020-09-22,Workplace,-22.0
-50,Trøndelag,2020-09-23,Workplace,-20.0
-50,Trøndelag,2020-09-24,Workplace,-19.0
-50,Trøndelag,2020-09-25,Workplace,-21.0
-50,Trøndelag,2020-09-26,Workplace,-10.0
-50,Trøndelag,2020-09-27,Workplace,-12.0
+50,Trøndelag,2020-09-05,Workplace,-11.0
+50,Trøndelag,2020-09-06,Workplace,
+50,Trøndelag,2020-09-07,Workplace,-25.0
+50,Trøndelag,2020-09-08,Workplace,-25.0
+50,Trøndelag,2020-09-09,Workplace,-22.0
+50,Trøndelag,2020-09-10,Workplace,-24.0
+50,Trøndelag,2020-09-11,Workplace,-23.0
+50,Trøndelag,2020-09-12,Workplace,-10.0
+50,Trøndelag,2020-09-13,Workplace,-12.0
+50,Trøndelag,2020-09-14,Workplace,-20.0
+50,Trøndelag,2020-09-15,Workplace,-19.0
+50,Trøndelag,2020-09-16,Workplace,-18.0
+50,Trøndelag,2020-09-17,Workplace,-20.0
+50,Trøndelag,2020-09-18,Workplace,-20.0
+50,Trøndelag,2020-09-19,Workplace,-11.0
+50,Trøndelag,2020-09-20,Workplace,-13.0
+50,Trøndelag,2020-09-21,Workplace,-21.0
+50,Trøndelag,2020-09-22,Workplace,-19.0
+50,Trøndelag,2020-09-23,Workplace,-17.0
+50,Trøndelag,2020-09-24,Workplace,-17.0
+50,Trøndelag,2020-09-25,Workplace,-19.0
+50,Trøndelag,2020-09-26,Workplace,-8.0
+50,Trøndelag,2020-09-27,Workplace,-10.0
+50,Trøndelag,2020-09-28,Workplace,-20.0
+50,Trøndelag,2020-09-29,Workplace,-18.0
+50,Trøndelag,2020-09-30,Workplace,-18.0
 38,Vestfold og Telemark,2020-02-15,Workplace,-3.0
 38,Vestfold og Telemark,2020-02-16,Workplace,-4.0
 38,Vestfold og Telemark,2020-02-17,Workplace,-21.0
@@ -11938,45 +12094,48 @@ fylke_no,fylke_name,date,category,mob_change
 38,Vestfold og Telemark,2020-08-17,Workplace,-25.0
 38,Vestfold og Telemark,2020-08-18,Workplace,-22.0
 38,Vestfold og Telemark,2020-08-19,Workplace,-22.0
-38,Vestfold og Telemark,2020-08-20,Workplace,-21.0
+38,Vestfold og Telemark,2020-08-20,Workplace,-22.0
 38,Vestfold og Telemark,2020-08-21,Workplace,-23.0
-38,Vestfold og Telemark,2020-08-22,Workplace,1.0
-38,Vestfold og Telemark,2020-08-23,Workplace,9.0
+38,Vestfold og Telemark,2020-08-22,Workplace,
+38,Vestfold og Telemark,2020-08-23,Workplace,
 38,Vestfold og Telemark,2020-08-24,Workplace,-21.0
 38,Vestfold og Telemark,2020-08-25,Workplace,-22.0
 38,Vestfold og Telemark,2020-08-26,Workplace,-18.0
 38,Vestfold og Telemark,2020-08-27,Workplace,-19.0
 38,Vestfold og Telemark,2020-08-28,Workplace,-20.0
-38,Vestfold og Telemark,2020-08-29,Workplace,1.0
-38,Vestfold og Telemark,2020-08-30,Workplace,8.0
+38,Vestfold og Telemark,2020-08-29,Workplace,
+38,Vestfold og Telemark,2020-08-30,Workplace,
 38,Vestfold og Telemark,2020-08-31,Workplace,-19.0
 38,Vestfold og Telemark,2020-09-01,Workplace,-20.0
 38,Vestfold og Telemark,2020-09-02,Workplace,-18.0
-38,Vestfold og Telemark,2020-09-03,Workplace,-19.0
-38,Vestfold og Telemark,2020-09-04,Workplace,-19.0
-38,Vestfold og Telemark,2020-09-05,Workplace,-1.0
-38,Vestfold og Telemark,2020-09-06,Workplace,2.0
+38,Vestfold og Telemark,2020-09-03,Workplace,-20.0
+38,Vestfold og Telemark,2020-09-04,Workplace,-20.0
+38,Vestfold og Telemark,2020-09-05,Workplace,
+38,Vestfold og Telemark,2020-09-06,Workplace,
 38,Vestfold og Telemark,2020-09-07,Workplace,-20.0
 38,Vestfold og Telemark,2020-09-08,Workplace,-20.0
 38,Vestfold og Telemark,2020-09-09,Workplace,-17.0
-38,Vestfold og Telemark,2020-09-10,Workplace,-17.0
-38,Vestfold og Telemark,2020-09-11,Workplace,-18.0
+38,Vestfold og Telemark,2020-09-10,Workplace,-19.0
+38,Vestfold og Telemark,2020-09-11,Workplace,-19.0
 38,Vestfold og Telemark,2020-09-12,Workplace,-3.0
 38,Vestfold og Telemark,2020-09-13,Workplace,0.0
 38,Vestfold og Telemark,2020-09-14,Workplace,-15.0
-38,Vestfold og Telemark,2020-09-15,Workplace,-15.0
-38,Vestfold og Telemark,2020-09-16,Workplace,-15.0
-38,Vestfold og Telemark,2020-09-17,Workplace,-15.0
+38,Vestfold og Telemark,2020-09-15,Workplace,-16.0
+38,Vestfold og Telemark,2020-09-16,Workplace,-14.0
+38,Vestfold og Telemark,2020-09-17,Workplace,-16.0
 38,Vestfold og Telemark,2020-09-18,Workplace,-16.0
 38,Vestfold og Telemark,2020-09-19,Workplace,-2.0
 38,Vestfold og Telemark,2020-09-20,Workplace,4.0
 38,Vestfold og Telemark,2020-09-21,Workplace,-16.0
-38,Vestfold og Telemark,2020-09-22,Workplace,-15.0
+38,Vestfold og Telemark,2020-09-22,Workplace,-17.0
 38,Vestfold og Telemark,2020-09-23,Workplace,-14.0
-38,Vestfold og Telemark,2020-09-24,Workplace,-14.0
+38,Vestfold og Telemark,2020-09-24,Workplace,-16.0
 38,Vestfold og Telemark,2020-09-25,Workplace,-15.0
 38,Vestfold og Telemark,2020-09-26,Workplace,-4.0
 38,Vestfold og Telemark,2020-09-27,Workplace,-1.0
+38,Vestfold og Telemark,2020-09-28,Workplace,-14.0
+38,Vestfold og Telemark,2020-09-29,Workplace,-15.0
+38,Vestfold og Telemark,2020-09-30,Workplace,-13.0
 46,Vestland,2020-02-15,Workplace,0.0
 46,Vestland,2020-02-16,Workplace,-1.0
 46,Vestland,2020-02-17,Workplace,-5.0
@@ -12162,47 +12321,50 @@ fylke_no,fylke_name,date,category,mob_change
 46,Vestland,2020-08-15,Workplace,-6.0
 46,Vestland,2020-08-16,Workplace,-4.0
 46,Vestland,2020-08-17,Workplace,-30.0
-46,Vestland,2020-08-18,Workplace,-28.0
+46,Vestland,2020-08-18,Workplace,-27.0
 46,Vestland,2020-08-19,Workplace,-27.0
 46,Vestland,2020-08-20,Workplace,-28.0
 46,Vestland,2020-08-21,Workplace,-26.0
 46,Vestland,2020-08-22,Workplace,-7.0
-46,Vestland,2020-08-23,Workplace,-5.0
-46,Vestland,2020-08-24,Workplace,-27.0
-46,Vestland,2020-08-25,Workplace,-27.0
-46,Vestland,2020-08-26,Workplace,-25.0
-46,Vestland,2020-08-27,Workplace,-25.0
-46,Vestland,2020-08-28,Workplace,-24.0
-46,Vestland,2020-08-29,Workplace,-6.0
-46,Vestland,2020-08-30,Workplace,-5.0
+46,Vestland,2020-08-23,Workplace,-4.0
+46,Vestland,2020-08-24,Workplace,-26.0
+46,Vestland,2020-08-25,Workplace,-26.0
+46,Vestland,2020-08-26,Workplace,-24.0
+46,Vestland,2020-08-27,Workplace,-24.0
+46,Vestland,2020-08-28,Workplace,-23.0
+46,Vestland,2020-08-29,Workplace,-4.0
+46,Vestland,2020-08-30,Workplace,-4.0
 46,Vestland,2020-08-31,Workplace,-25.0
-46,Vestland,2020-09-01,Workplace,-25.0
+46,Vestland,2020-09-01,Workplace,-24.0
 46,Vestland,2020-09-02,Workplace,-24.0
-46,Vestland,2020-09-03,Workplace,-25.0
-46,Vestland,2020-09-04,Workplace,-24.0
-46,Vestland,2020-09-05,Workplace,-11.0
-46,Vestland,2020-09-06,Workplace,-12.0
+46,Vestland,2020-09-03,Workplace,-24.0
+46,Vestland,2020-09-04,Workplace,-23.0
+46,Vestland,2020-09-05,Workplace,-9.0
+46,Vestland,2020-09-06,Workplace,-11.0
 46,Vestland,2020-09-07,Workplace,-27.0
-46,Vestland,2020-09-08,Workplace,-25.0
+46,Vestland,2020-09-08,Workplace,-23.0
 46,Vestland,2020-09-09,Workplace,-26.0
-46,Vestland,2020-09-10,Workplace,-29.0
-46,Vestland,2020-09-11,Workplace,-28.0
-46,Vestland,2020-09-12,Workplace,-10.0
-46,Vestland,2020-09-13,Workplace,-11.0
-46,Vestland,2020-09-14,Workplace,-27.0
-46,Vestland,2020-09-15,Workplace,-27.0
-46,Vestland,2020-09-16,Workplace,-26.0
-46,Vestland,2020-09-17,Workplace,-27.0
-46,Vestland,2020-09-18,Workplace,-26.0
-46,Vestland,2020-09-19,Workplace,-7.0
-46,Vestland,2020-09-20,Workplace,-12.0
-46,Vestland,2020-09-21,Workplace,-27.0
-46,Vestland,2020-09-22,Workplace,-26.0
-46,Vestland,2020-09-23,Workplace,-23.0
-46,Vestland,2020-09-24,Workplace,-24.0
-46,Vestland,2020-09-25,Workplace,-22.0
-46,Vestland,2020-09-26,Workplace,-9.0
-46,Vestland,2020-09-27,Workplace,-10.0
+46,Vestland,2020-09-10,Workplace,-27.0
+46,Vestland,2020-09-11,Workplace,-26.0
+46,Vestland,2020-09-12,Workplace,-8.0
+46,Vestland,2020-09-13,Workplace,-9.0
+46,Vestland,2020-09-14,Workplace,-26.0
+46,Vestland,2020-09-15,Workplace,-24.0
+46,Vestland,2020-09-16,Workplace,-25.0
+46,Vestland,2020-09-17,Workplace,-25.0
+46,Vestland,2020-09-18,Workplace,-23.0
+46,Vestland,2020-09-19,Workplace,-5.0
+46,Vestland,2020-09-20,Workplace,-10.0
+46,Vestland,2020-09-21,Workplace,-26.0
+46,Vestland,2020-09-22,Workplace,-23.0
+46,Vestland,2020-09-23,Workplace,-22.0
+46,Vestland,2020-09-24,Workplace,-22.0
+46,Vestland,2020-09-25,Workplace,-20.0
+46,Vestland,2020-09-26,Workplace,-7.0
+46,Vestland,2020-09-27,Workplace,-8.0
+46,Vestland,2020-09-28,Workplace,-23.0
+46,Vestland,2020-09-29,Workplace,-21.0
+46,Vestland,2020-09-30,Workplace,-21.0
 30,Viken,2020-02-15,Workplace,0.0
 30,Viken,2020-02-16,Workplace,-4.0
 30,Viken,2020-02-17,Workplace,-15.0
@@ -12390,45 +12552,48 @@ fylke_no,fylke_name,date,category,mob_change
 30,Viken,2020-08-17,Workplace,-34.0
 30,Viken,2020-08-18,Workplace,-30.0
 30,Viken,2020-08-19,Workplace,-30.0
-30,Viken,2020-08-20,Workplace,-31.0
-30,Viken,2020-08-21,Workplace,-31.0
-30,Viken,2020-08-22,Workplace,-3.0
+30,Viken,2020-08-20,Workplace,-30.0
+30,Viken,2020-08-21,Workplace,-30.0
+30,Viken,2020-08-22,Workplace,-2.0
 30,Viken,2020-08-23,Workplace,0.0
 30,Viken,2020-08-24,Workplace,-29.0
 30,Viken,2020-08-25,Workplace,-29.0
 30,Viken,2020-08-26,Workplace,-28.0
-30,Viken,2020-08-27,Workplace,-28.0
-30,Viken,2020-08-28,Workplace,-28.0
-30,Viken,2020-08-29,Workplace,-4.0
-30,Viken,2020-08-30,Workplace,1.0
+30,Viken,2020-08-27,Workplace,-27.0
+30,Viken,2020-08-28,Workplace,-27.0
+30,Viken,2020-08-29,Workplace,-2.0
+30,Viken,2020-08-30,Workplace,2.0
 30,Viken,2020-08-31,Workplace,-28.0
-30,Viken,2020-09-01,Workplace,-28.0
+30,Viken,2020-09-01,Workplace,-27.0
 30,Viken,2020-09-02,Workplace,-27.0
-30,Viken,2020-09-03,Workplace,-27.0
-30,Viken,2020-09-04,Workplace,-28.0
-30,Viken,2020-09-05,Workplace,-6.0
-30,Viken,2020-09-06,Workplace,-4.0
+30,Viken,2020-09-03,Workplace,-26.0
+30,Viken,2020-09-04,Workplace,-27.0
+30,Viken,2020-09-05,Workplace,-3.0
+30,Viken,2020-09-06,Workplace,-3.0
 30,Viken,2020-09-07,Workplace,-28.0
 30,Viken,2020-09-08,Workplace,-27.0
-30,Viken,2020-09-09,Workplace,-27.0
-30,Viken,2020-09-10,Workplace,-26.0
-30,Viken,2020-09-11,Workplace,-26.0
-30,Viken,2020-09-12,Workplace,-6.0
-30,Viken,2020-09-13,Workplace,-7.0
+30,Viken,2020-09-09,Workplace,-26.0
+30,Viken,2020-09-10,Workplace,-25.0
+30,Viken,2020-09-11,Workplace,-25.0
+30,Viken,2020-09-12,Workplace,-2.0
+30,Viken,2020-09-13,Workplace,-6.0
 30,Viken,2020-09-14,Workplace,-23.0
-30,Viken,2020-09-15,Workplace,-23.0
+30,Viken,2020-09-15,Workplace,-22.0
 30,Viken,2020-09-16,Workplace,-23.0
-30,Viken,2020-09-17,Workplace,-24.0
-30,Viken,2020-09-18,Workplace,-24.0
-30,Viken,2020-09-19,Workplace,-4.0
-30,Viken,2020-09-20,Workplace,-4.0
+30,Viken,2020-09-17,Workplace,-22.0
+30,Viken,2020-09-18,Workplace,-23.0
+30,Viken,2020-09-19,Workplace,0.0
+30,Viken,2020-09-20,Workplace,-2.0
 30,Viken,2020-09-21,Workplace,-26.0
 30,Viken,2020-09-22,Workplace,-25.0
-30,Viken,2020-09-23,Workplace,-25.0
-30,Viken,2020-09-24,Workplace,-25.0
-30,Viken,2020-09-25,Workplace,-24.0
-30,Viken,2020-09-26,Workplace,-8.0
-30,Viken,2020-09-27,Workplace,-6.0
+30,Viken,2020-09-23,Workplace,-24.0
+30,Viken,2020-09-24,Workplace,-24.0
+30,Viken,2020-09-25,Workplace,-23.0
+30,Viken,2020-09-26,Workplace,-4.0
+30,Viken,2020-09-27,Workplace,-5.0
+30,Viken,2020-09-28,Workplace,-37.0
+30,Viken,2020-09-29,Workplace,-37.0
+30,Viken,2020-09-30,Workplace,-38.0
 42,Agder,2020-02-15,Residential,0.0
 42,Agder,2020-02-16,Residential,1.0
 42,Agder,2020-02-17,Residential,3.0
@@ -12655,6 +12820,9 @@ fylke_no,fylke_name,date,category,mob_change
 42,Agder,2020-09-25,Residential,2.0
 42,Agder,2020-09-26,Residential,1.0
 42,Agder,2020-09-27,Residential,0.0
+42,Agder,2020-09-28,Residential,4.0
+42,Agder,2020-09-29,Residential,5.0
+42,Agder,2020-09-30,Residential,4.0
 34,Innlandet,2020-02-15,Residential,-1.0
 34,Innlandet,2020-02-16,Residential,1.0
 34,Innlandet,2020-02-17,Residential,2.0
@@ -12881,6 +13049,9 @@ fylke_no,fylke_name,date,category,mob_change
 34,Innlandet,2020-09-25,Residential,0.0
 34,Innlandet,2020-09-26,Residential,2.0
 34,Innlandet,2020-09-27,Residential,1.0
+34,Innlandet,2020-09-28,Residential,1.0
+34,Innlandet,2020-09-29,Residential,2.0
+34,Innlandet,2020-09-30,Residential,1.0
 15,Møre og Romsdal,2020-02-15,Residential,-2.0
 15,Møre og Romsdal,2020-02-16,Residential,0.0
 15,Møre og Romsdal,2020-02-17,Residential,2.0
@@ -13107,6 +13278,9 @@ fylke_no,fylke_name,date,category,mob_change
 15,Møre og Romsdal,2020-09-25,Residential,0.0
 15,Møre og Romsdal,2020-09-26,Residential,-2.0
 15,Møre og Romsdal,2020-09-27,Residential,-4.0
+15,Møre og Romsdal,2020-09-28,Residential,1.0
+15,Møre og Romsdal,2020-09-29,Residential,2.0
+15,Møre og Romsdal,2020-09-30,Residential,1.0
 18,Nordland,2020-02-15,Residential,0.0
 18,Nordland,2020-02-16,Residential,-1.0
 18,Nordland,2020-02-17,Residential,0.0
@@ -13333,6 +13507,9 @@ fylke_no,fylke_name,date,category,mob_change
 18,Nordland,2020-09-25,Residential,-1.0
 18,Nordland,2020-09-26,Residential,-3.0
 18,Nordland,2020-09-27,Residential,-5.0
+18,Nordland,2020-09-28,Residential,0.0
+18,Nordland,2020-09-29,Residential,-2.0
+18,Nordland,2020-09-30,Residential,-1.0
 03,Oslo,2020-02-15,Residential,-1.0
 03,Oslo,2020-02-16,Residential,1.0
 03,Oslo,2020-02-17,Residential,2.0
@@ -13559,6 +13736,9 @@ fylke_no,fylke_name,date,category,mob_change
 03,Oslo,2020-09-25,Residential,8.0
 03,Oslo,2020-09-26,Residential,3.0
 03,Oslo,2020-09-27,Residential,4.0
+03,Oslo,2020-09-28,Residential,10.0
+03,Oslo,2020-09-29,Residential,11.0
+03,Oslo,2020-09-30,Residential,10.0
 11,Rogaland,2020-02-15,Residential,-1.0
 11,Rogaland,2020-02-16,Residential,1.0
 11,Rogaland,2020-02-17,Residential,1.0
@@ -13785,6 +13965,9 @@ fylke_no,fylke_name,date,category,mob_change
 11,Rogaland,2020-09-25,Residential,3.0
 11,Rogaland,2020-09-26,Residential,-1.0
 11,Rogaland,2020-09-27,Residential,-1.0
+11,Rogaland,2020-09-28,Residential,4.0
+11,Rogaland,2020-09-29,Residential,5.0
+11,Rogaland,2020-09-30,Residential,4.0
 54,Troms og Finnmark fylke,2020-02-15,Residential,-1.0
 54,Troms og Finnmark fylke,2020-02-16,Residential,-1.0
 54,Troms og Finnmark fylke,2020-02-17,Residential,-1.0
@@ -14011,6 +14194,9 @@ fylke_no,fylke_name,date,category,mob_change
 54,Troms og Finnmark fylke,2020-09-25,Residential,-1.0
 54,Troms og Finnmark fylke,2020-09-26,Residential,-2.0
 54,Troms og Finnmark fylke,2020-09-27,Residential,-6.0
+54,Troms og Finnmark fylke,2020-09-28,Residential,-1.0
+54,Troms og Finnmark fylke,2020-09-29,Residential,-1.0
+54,Troms og Finnmark fylke,2020-09-30,Residential,-2.0
 50,Trøndelag,2020-02-15,Residential,-2.0
 50,Trøndelag,2020-02-16,Residential,-1.0
 50,Trøndelag,2020-02-17,Residential,2.0
@@ -14237,6 +14423,9 @@ fylke_no,fylke_name,date,category,mob_change
 50,Trøndelag,2020-09-25,Residential,1.0
 50,Trøndelag,2020-09-26,Residential,-1.0
 50,Trøndelag,2020-09-27,Residential,-3.0
+50,Trøndelag,2020-09-28,Residential,2.0
+50,Trøndelag,2020-09-29,Residential,2.0
+50,Trøndelag,2020-09-30,Residential,0.0
 38,Vestfold og Telemark,2020-02-15,Residential,0.0
 38,Vestfold og Telemark,2020-02-16,Residential,2.0
 38,Vestfold og Telemark,2020-02-17,Residential,3.0
@@ -14463,6 +14652,9 @@ fylke_no,fylke_name,date,category,mob_change
 38,Vestfold og Telemark,2020-09-25,Residential,3.0
 38,Vestfold og Telemark,2020-09-26,Residential,3.0
 38,Vestfold og Telemark,2020-09-27,Residential,2.0
+38,Vestfold og Telemark,2020-09-28,Residential,3.0
+38,Vestfold og Telemark,2020-09-29,Residential,2.0
+38,Vestfold og Telemark,2020-09-30,Residential,3.0
 46,Vestland,2020-02-15,Residential,-1.0
 46,Vestland,2020-02-16,Residential,0.0
 46,Vestland,2020-02-17,Residential,1.0
@@ -14689,6 +14881,9 @@ fylke_no,fylke_name,date,category,mob_change
 46,Vestland,2020-09-25,Residential,3.0
 46,Vestland,2020-09-26,Residential,0.0
 46,Vestland,2020-09-27,Residential,-2.0
+46,Vestland,2020-09-28,Residential,5.0
+46,Vestland,2020-09-29,Residential,7.0
+46,Vestland,2020-09-30,Residential,4.0
 30,Viken,2020-02-15,Residential,-1.0
 30,Viken,2020-02-16,Residential,2.0
 30,Viken,2020-02-17,Residential,2.0
@@ -14915,3 +15110,6 @@ fylke_no,fylke_name,date,category,mob_change
 30,Viken,2020-09-25,Residential,4.0
 30,Viken,2020-09-26,Residential,2.0
 30,Viken,2020-09-27,Residential,2.0
+30,Viken,2020-09-28,Residential,7.0
+30,Viken,2020-09-29,Residential,7.0
+30,Viken,2020-09-30,Residential,6.0
