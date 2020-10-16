@@ -8076,6 +8076,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 912267652,FJØRTOFT KULTURPRODUKSJONER AS,Drangedal,Vestfold og Telemark,2
 912267806,AKSAS AS AVD ADMINISTRASJON,Kvam,Vestland,1
 912270564,VESTERNGATEN FYSIOTERAPI AS,Ringerike,Viken,1
+912271005,TOPPEN KIOSK AS,Stange,Innlandet,1
 912272338,AUSTNES AS,Oslo,Oslo,1
 912273075,BYGDØ TENNISKLUBB,Oslo,Oslo,1
 912276481,OLIVIAS VERDEN STRØMMEN AS,Bærum,Viken,3
@@ -8932,7 +8933,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 912772985,HOLBERG BRYN AS,Oslo,Oslo,15
 912773973,KAOS,Sandefjord,Vestfold og Telemark,1
 912774589,BYGGEPLANK AS,Lunner,Viken,2
-912776484,OLIVIA AS AVD ØSTBANEHALLEN,Oslo,Oslo,125
+912776484,OLIVIA AS AVD ØSTBANEHALLEN,Oslo,Oslo,127
 912776840,SARPSBORG DATA AS,Sarpsborg,Viken,4
 912777146,THRANE-STEEN NORD AS,Oslo,Oslo,1
 912777847,LADIES & GENTS AS,Notodden,Vestfold og Telemark,4
@@ -9223,6 +9224,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 913031733,CHANGE OF SCANDINAVIA STRØMMEN,Lillestrøm,Viken,5
 913031970,VILJE PROSJEKTTJENESTER AS,Horten,Vestfold og Telemark,3
 913032209,QUAD GEOMETRICS NORWAY AS,Trondheim,Trøndelag - Trööndelage,1
+913032284,MIDROC MECHANICAL AS,Tønsberg,Vestfold og Telemark,1
 913032659,AURA DYNAMICS AS,Tromsø,Troms og Finnmark - Romsa ja Finnmárku,1
 913032802,RÅDE SELSKAPSMAT AS,Råde,Viken,8
 913033353,STORMBERG AS AVD JESSHEIM,Ullensaker,Viken,7
@@ -9585,7 +9587,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 913205847,SUB BERGEN AS,Askøy,Vestland,7
 913206037,PROFFOPPGJØR AS,Kristiansand,Agder,2
 913206045,MAGIC HOTEL SOLHEIMSVIKEN,Bergen,Vestland,7
-913206126,RTC OFFSHORE AS,Skien,Vestfold og Telemark,17
+913206126,RTC OFFSHORE AS,Skien,Vestfold og Telemark,18
 913206703,RANHEIM BYGGPARTNER AS,Trondheim,Trøndelag - Trööndelage,1
 913206940,NORREQ AS,Moss,Viken,48
 913207254,HAMAR BUSSREISER AS,Hamar,Innlandet,1
@@ -27777,7 +27779,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 922967555,VIKEN BILSENTER AS,Skiptvet,Viken,1
 922967709,COLOSSEUM FAUST AS,Moss,Viken,2
 922968918,INNHERRED BOLIGTJENESTER AS,Levanger,Trøndelag - Trööndelage,3
-922969434,FURSET KANTINE AS AVD 2030,Oslo,Oslo,7
+922969434,FURSET KANTINE AS AVD 2030,Oslo,Oslo,8
 922972540,MESTER GRØNN AS AVD 129 ALTI FUTURA,Kristiansund,Møre og Romsdal,3
 922975272,INÉDIT K2 AS,Trondheim,Trøndelag - Trööndelage,3
 922975493,TIAN MARITIME AS,Harstad,Troms og Finnmark - Romsa ja Finnmárku,5
@@ -28807,7 +28809,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 923733906,VAAR KOKKENS KJØKKEN AS,Lillestrøm,Viken,1
 923734953,EIENDOMSMEGLER 1 SR-EIENDOM AS AVD NYBYGG,Sandnes,Rogaland,2
 923735127,BLATCHFORD ORTOPEDI AS AVD ARENDAL,Arendal,Agder,4
-923736611,OSLO SKIN AS,Oslo,Oslo,2
+923736611,OSLO SKIN AS,Oslo,Oslo,4
 923737421,CATO MYRSETH,Bodø,Nordland,1
 923738568,FJELLGLEDE KAFFEBAR & INTERIØR AS,Ringsaker,Innlandet,1
 923742662,NEXUS ITC AS,Alstahaug,Nordland,1
@@ -32370,7 +32372,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 971802820,BÅRDSHAUG HERREGÅRD AS,Orkland,Trøndelag - Trööndelage,38
 971802839,HAUGTRAC AS,Tysvær,Rogaland,9
 971802863,TILSETH BLOMSTER AS,Ørsta,Møre og Romsdal,1
-971802995,BRYGGEN 3 AS,Bergen,Vestland,8
+971802995,BRYGGEN 3 AS,Bergen,Vestland,9
 971803029,NORD - AUTO VERDAL AS,Verdal,Trøndelag - Trööndelage,3
 971803053,CIRCLE K DETALJIST AS AVD SKEDSMOKORSET,Lillestrøm,Viken,4
 971803118,AR HÅR & DESIGN Lena Anika Ruud,Grue,Innlandet,2
@@ -36231,6 +36233,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 972174661,NERLAND AUTOSALG AS,Hustadvika,Møre og Romsdal,3
 972174726,MØRKEDAL MURMESTER AS,Kristiansund,Møre og Romsdal,2
 972174912,STRÆTE BETONGPUMPING AS,Stjørdal,Trøndelag - Trööndelage,1
+972174920,CLARION COLLECTION HOTEL GRAND OLAV,Trondheim,Trøndelag - Trööndelage,1
 972175218,TECHSOFT AS,Sandefjord,Vestfold og Telemark,4
 972175315,NORDIC COMFORT PRODUCTS AS,Hemnes,Nordland,10
 972175358,SVEISESENTERET AS,Drammen,Viken,4
@@ -39624,12 +39627,13 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 973110586,SECURITAS AS AVD ROMERIKE,Lillestrøm,Viken,2
 973110675,STUDIEFORBUNDET AOF NORGE AVD OSLO,Oslo,Oslo,16
 973110942,ARBEIDSMILJØSENTERET,Oslo,Oslo,4
-973111671,MANPOWER AS AVD SANDVIKA,Bærum,Viken,20
+973111671,MANPOWER AS AVD SANDVIKA,Bærum,Viken,21
 973111698,MANPOWER AS,Drammen,Viken,1
 973111698,MANPOWER AS AVD DRAMMEN,Drammen,Viken,36
 973111728,MANPOWER AS AVD ØSTFOLD,Sarpsborg,Viken,4
 973111736,MANPOWER AS AVD SKI,Nordre Follo,Viken,5
 973111744,MANPOWER AS AVD STAVANGER,Stavanger,Rogaland,18
+973111752,MANPOWER AS AVD HAUGESUND,Haugesund,Rogaland,1
 973111760,MANPOWER AS AVD BERGEN,Bergen,Vestland,97
 973111779,MANPOWER AS AVD TRONDHEIM,Trondheim,Trøndelag - Trööndelage,10
 973112325,KNA ODDANE SAND CAMPING,Larvik,Vestfold og Telemark,1
@@ -40726,7 +40730,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 973222007,KJELEN KAFE AS,Bodø,Nordland,2
 973222031,JOHAN KJELLMARK AS AVD BYGGEVIRKSOMHET,Røros,Trøndelag - Trööndelage,19
 973222341,KLAVENESS FOOTWEAR AS,Sandefjord,Vestfold og Telemark,10
-973222597,HOTEL KLUBBEN,Tønsberg,Vestfold og Telemark,25
+973222597,HOTEL KLUBBEN,Tønsberg,Vestfold og Telemark,26
 973223003,GØJ TØY AS,Drammen,Viken,1
 973223399,KRAGERØ GLASS OG RAMME AS,Kragerø,Vestfold og Telemark,1
 973224611,LAPPHAUGEN TURISTSTASJON AS,Loabák - Lavangen,Troms og Finnmark - Romsa ja Finnmárku,3
@@ -41386,7 +41390,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 973416499,OLIS DENTAL AS,Stavanger,Rogaland,3
 973416642,UNIVA AS,Arendal,Agder,1
 973416847,TANNLEGE SALOMONSEN AS,Nome,Vestfold og Telemark,3
-973416871,TANNLEGE INGUNN LØKENSGARD AS,Øvre Eiker,Viken,4
+973416871,TANNLEGE INGUNN LØKENSGARD AS,Øvre Eiker,Viken,5
 973417916,OSLOBUSS AS,Oslo,Oslo,20
 973418122,SØRVÆR GJESTEHUS AS,Hasvik,Troms og Finnmark - Romsa ja Finnmárku,3
 973418289,NORDNES CAMP & BYGDESENTER AS,Saltdal,Nordland,9
@@ -43682,6 +43686,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 974157926,MONTER STORKAAS,Midt-Telemark,Vestfold og Telemark,3
 974157950,ATLANTIS UTVEKSLING,Oslo,Oslo,3
 974158310,DALANE BIL AS,Eigersund,Rogaland,7
+974158671,EIDESEN AS,Ørland,Trøndelag - Trööndelage,1
 974158930,GRØNTVEDT PELAGIC AS AVD UTHAUG,Ørland,Trøndelag - Trööndelage,1
 974159201,HOKKSUND OPTISKE AS,Øvre Eiker,Viken,3
 974159392,TIBE MOLDE AS,Molde,Møre og Romsdal,7
@@ -44689,7 +44694,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 974819961,KVIK FOTBALLKLUBBEN,Halden,Viken,20
 974820137,SKEIDAR SARPSBORG AS,Sarpsborg,Viken,12
 974821036,KRISTIANSAND SVØMMEALLIANSE,Kristiansand,Agder,3
-974821060,CAVERION NORGE AS AVD ARENDAL,Arendal,Agder,10
+974821060,CAVERION NORGE AS AVD ARENDAL,Arendal,Agder,11
 974821273,AUTORIA SKI AS,Ås,Viken,12
 974821389,POLARPOR AS,Båtsfjord,Troms og Finnmark - Romsa ja Finnmárku,3
 974822113,CAVERION NORGE AS AVD SARPSBORG,Sarpsborg,Viken,23
@@ -44748,7 +44753,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 974825120,VOLT STRØMMEN STORSENTER AVD 265,Lillestrøm,Viken,9
 974825961,KIESEL NORGE AS,Ås,Viken,4
 974826208,CAVERION NORGE AS AVD ADMINISTRASJON,Oslo,Oslo,6
-974826216,CAVERION NORGE AS AVD LIER OG ESCO,Lier,Viken,3
+974826216,CAVERION NORGE AS AVD LIER OG ESCO,Lier,Viken,4
 974826267,CAVERION NORGE AS AVD ASKER/BÆRUM,Bærum,Viken,2
 974826577,ØDESKAUG ELEKTRO AS,Sandefjord,Vestfold og Telemark,2
 974826674,NARVESEN BUTIKKEN 530,Oslo,Oslo,3
@@ -44768,7 +44773,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 974832240,KICKS NORGE AS AVD 673 OASENS SENTER FYLLINGSDALEN,Bergen,Vestland,4
 974832267,NORDNES VERKSTEDER AS,Bergen,Vestland,5
 974832321,AURLAND ENERGIBYGG AS,Aurland,Vestland,3
-974833336,VOSS PRODUCTION AS,Iveland,Agder,28
+974833336,VOSS PRODUCTION AS,Iveland,Agder,29
 974834235,TONY'S MATGLEDE AS,Ringerike,Viken,6
 974835770,HVASSER MOTELL AS,Færder,Vestfold og Telemark,1
 974836009,NAMMO RAUFOSS AS,Vestre Toten,Innlandet,8
@@ -45523,7 +45528,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 975830225,HEIMDAL TRAFIKKSKOLE AS,Trondheim,Trøndelag - Trööndelage,34
 975830314,BABYSHOP AS AVD 7,Nordre Follo,Viken,3
 975830489,MOASUND AS AVD VIC MOA,Ålesund,Møre og Romsdal,8
-975830497,VIVA NAPOLI PIZZABAR OG RESTAURANT AS,Stjørdal,Trøndelag - Trööndelage,9
+975830497,VIVA NAPOLI PIZZABAR OG RESTAURANT AS,Stjørdal,Trøndelag - Trööndelage,10
 975830551,HUSMORVIKARSENTRET AS,Trondheim,Trøndelag - Trööndelage,4
 975830772,LISTA AUTOTEKNIKK AS,Farsund,Agder,4
 975835383,DIN VELVÆRE AS,Oslo,Oslo,1
@@ -61033,7 +61038,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 990819521,KJETSÅ DESIGN AS,Evje og Hornnes,Agder,1
 990822425,PRIVATEN CAFÉ AS,Asker,Viken,1
 990823103,NYE VIKINGSTAD AS,Karmøy,Rogaland,1
-990825017,CBA SERVICES AS,Oslo,Oslo,61
+990825017,CBA SERVICES AS,Oslo,Oslo,63
 990826773,MEFJORD EIENDOM AS,Senja,Troms og Finnmark - Romsa ja Finnmárku,1
 990826781,ANTICIMEX AS AVD INNLANDET,Lillehammer,Innlandet,10
 990826803,VISOLIT NORWAY AS AVD OLAF HELSETS VEI,Oslo,Oslo,6
