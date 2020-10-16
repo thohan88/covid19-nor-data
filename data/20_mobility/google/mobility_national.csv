@@ -237,6 +237,10 @@ NO,2020-10-06,Retail & recreation,-3.0
 NO,2020-10-07,Retail & recreation,-4.0
 NO,2020-10-08,Retail & recreation,-5.0
 NO,2020-10-09,Retail & recreation,-6.0
+NO,2020-10-10,Retail & recreation,-13.0
+NO,2020-10-11,Retail & recreation,-18.0
+NO,2020-10-12,Retail & recreation,-2.0
+NO,2020-10-13,Retail & recreation,-2.0
 NO,2020-02-15,Grocery & pharmacy,1.0
 NO,2020-02-16,Grocery & pharmacy,3.0
 NO,2020-02-17,Grocery & pharmacy,0.0
@@ -475,6 +479,10 @@ NO,2020-10-06,Grocery & pharmacy,2.0
 NO,2020-10-07,Grocery & pharmacy,3.0
 NO,2020-10-08,Grocery & pharmacy,4.0
 NO,2020-10-09,Grocery & pharmacy,0.0
+NO,2020-10-10,Grocery & pharmacy,-3.0
+NO,2020-10-11,Grocery & pharmacy,6.0
+NO,2020-10-12,Grocery & pharmacy,3.0
+NO,2020-10-13,Grocery & pharmacy,3.0
 NO,2020-02-15,Parks,26.0
 NO,2020-02-16,Parks,-34.0
 NO,2020-02-17,Parks,13.0
@@ -713,6 +721,10 @@ NO,2020-10-06,Parks,52.0
 NO,2020-10-07,Parks,52.0
 NO,2020-10-08,Parks,59.0
 NO,2020-10-09,Parks,65.0
+NO,2020-10-10,Parks,54.0
+NO,2020-10-11,Parks,39.0
+NO,2020-10-12,Parks,52.0
+NO,2020-10-13,Parks,52.0
 NO,2020-02-15,Transit stations,7.0
 NO,2020-02-16,Transit stations,-5.0
 NO,2020-02-17,Transit stations,-5.0
@@ -951,6 +963,10 @@ NO,2020-10-06,Transit stations,-29.0
 NO,2020-10-07,Transit stations,-30.0
 NO,2020-10-08,Transit stations,-32.0
 NO,2020-10-09,Transit stations,-29.0
+NO,2020-10-10,Transit stations,-28.0
+NO,2020-10-11,Transit stations,-22.0
+NO,2020-10-12,Transit stations,-26.0
+NO,2020-10-13,Transit stations,-27.0
 NO,2020-02-15,Workplace,-1.0
 NO,2020-02-16,Workplace,-3.0
 NO,2020-02-17,Workplace,-12.0
@@ -1189,6 +1205,10 @@ NO,2020-10-06,Workplace,-28.0
 NO,2020-10-07,Workplace,-27.0
 NO,2020-10-08,Workplace,-29.0
 NO,2020-10-09,Workplace,-30.0
+NO,2020-10-10,Workplace,-6.0
+NO,2020-10-11,Workplace,-4.0
+NO,2020-10-12,Workplace,-18.0
+NO,2020-10-13,Workplace,-18.0
 NO,2020-02-15,Residential,-1.0
 NO,2020-02-16,Residential,1.0
 NO,2020-02-17,Residential,2.0
@@ -1427,3 +1447,7 @@ NO,2020-10-06,Residential,4.0
 NO,2020-10-07,Residential,4.0
 NO,2020-10-08,Residential,5.0
 NO,2020-10-09,Residential,4.0
+NO,2020-10-10,Residential,1.0
+NO,2020-10-11,Residential,0.0
+NO,2020-10-12,Residential,3.0
+NO,2020-10-13,Residential,3.0
