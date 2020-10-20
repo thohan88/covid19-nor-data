@@ -4091,7 +4091,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 876207842,KRINGLA AS AVD 8300 AMFI SVOLVÆR,Vågan,Nordland,1
 876209152,KH BILDELER Knut Hermansen,Indre Østfold,Viken,1
 876215292,LET`S EAT DA,Ålesund,Møre og Romsdal,2
-876217082,COMFORT HOTEL BØRSPARKEN AS,Oslo,Oslo,5
+876217082,COMFORT HOTEL BØRSPARKEN AS,Oslo,Oslo,6
 876219522,DØVRE EVENT & MARKETING AS,Stavanger,Rogaland,1
 876234122,MED PÅ NOTENE,Oslo,Oslo,1
 876243172,SENTRUM SKO OG NØKKELSERVICE,Oslo,Oslo,1
@@ -6618,7 +6618,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 898265242,BUSKERUD RØR & FLIS AS,Kongsberg,Viken,3
 898274292,BOB STYLISTER T&I AS,Stavanger,Rogaland,2
 898280292,FOTOCARE AS,Oslo,Oslo,7
-898285332,KUBEN 62 + AS,Oslo,Oslo,2
+898285332,KUBEN 62 + AS,Oslo,Oslo,3
 898292592,EMBLA BÅTSFJORD AS,Båtsfjord,Troms og Finnmark - Romsa ja Finnmárku,5
 898323242,RØA GLASS OG RAMME AS,Oslo,Oslo,2
 898324982,ASKØY TANNLEGESENTER AS,Askøy,Vestland,5
@@ -47164,6 +47164,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 977215080,ADECCO NORGE AS AVD NORDMØRE OG ROMSDAL,Kristiansund,Møre og Romsdal,4
 977215854,TOLLEF GRØNVOLDS SKOGSDRIFT AS,Kviteseid,Vestfold og Telemark,4
 977216079,TECHNO INNOVATION AS,Asker,Viken,1
+977216648,BERTEL O. STEEN BERGEN AS,Bergen,Vestland,1
 977216648,BERTEL O. STEEN BERGEN AS AVD SALG SOLHEIMSVIKEN,Bergen,Vestland,16
 977217059,TANNLEGE OLE JOHAN HJORTDAL AS,Lillehammer,Innlandet,4
 977217318,HÅRGALLERIET SAXO AS,Steinkjer,Trøndelag - Trööndelage,2
@@ -56525,7 +56526,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 986811478,LATTER,Oslo,Oslo,33
 986811508,SØR TRANS AS,Lindesnes,Agder,1
 986811648,CHILI SZEHUAN RESTAURANT,Sandefjord,Vestfold og Telemark,13
-986812342,KAMEK AS,Bamble,Vestfold og Telemark,8
+986812342,KAMEK AS,Bamble,Vestfold og Telemark,9
 986812539,CARAL DATA AS,Oslo,Oslo,1
 986813314,SCANEMO INTERIØR AS,Ålesund,Møre og Romsdal,3
 986815023,EIKEFJORD TAXI Orazio Elide,Kinn,Vestland,2
@@ -58217,7 +58218,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 988280658,BERITS FOTTERAPI AS,Hadsel,Nordland,2
 988281085,VESTRE LEGESENTER AS,Kristiansand,Agder,1
 988281301,BILFINGER INDUSTRIER NORGE AS,Sola,Rogaland,2
-988281301,BILFINGER INDUSTRIER NORGE AS AVD STAVANGER,Sola,Rogaland,532
+988281301,BILFINGER INDUSTRIER NORGE AS AVD STAVANGER,Sola,Rogaland,533
 988281719,ANKER HOSTEL,Oslo,Oslo,50
 988282944,HOBBITON OU,Østre Toten,Innlandet,8
 988285668,THOMAS BRYNILDSEN OLSEN,Bergen,Vestland,1
