@@ -46166,7 +46166,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 976310853,KJØPSVIK TAXI,Narvik,Nordland,1
 976311027,JACK & JONES CITY SYD,Trondheim,Trøndelag - Trööndelage,7
 976313119,SAGABOK AS,Stavanger,Rogaland,2
-976314905,ESPNES APPARATSERVICE AS,Trondheim,Trøndelag - Trööndelage,5
+976314905,ESPNES APPARATSERVICE AS,Trondheim,Trøndelag - Trööndelage,6
 976315367,ABLE AS,Kristiansand,Agder,6
 976316568,HÅRFIN KOPERVIK AS,Karmøy,Rogaland,3
 976317467,STALL VERDENS ENDE,Færder,Vestfold og Telemark,3
@@ -49543,7 +49543,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 980518671,KNUTSEN & HELLE BENSINSERVICE AS STATOIL SERVICE SYD,Kristiansand,Agder,3
 980519538,BRINGEN AS,Moskenes,Nordland,3
 980519651,MUR- OG FLISSPESIALISTEN AS,Oslo,Oslo,1
-980520315,IDRETTSSENTERET AS,Sogndal,Vestland,13
+980520315,IDRETTSSENTERET AS,Sogndal,Vestland,14
 980521818,GRANDE HYTTEUTLEIGE OG CAMPING Thomas Grande,Stranda,Møre og Romsdal,1
 980522008,SALONG HAN OG HENNE Ann Kristin Åslid,Kongsberg,Viken,4
 980522377,GK INNEKLIMA AS AVD TROMSØ,Tromsø,Troms og Finnmark - Romsa ja Finnmárku,4
@@ -52472,7 +52472,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 983136400,DIN LEGE AS,Oslo,Oslo,9
 983136907,IDFOKUS AS,Lindesnes,Agder,1
 983138209,FRISØRKJELLEREN AS,Randaberg,Rogaland,1
-983138535,QUALITY HOTEL TØNSBERG AS,Tønsberg,Vestfold og Telemark,3
+983138535,QUALITY HOTEL TØNSBERG AS,Tønsberg,Vestfold og Telemark,5
 983138780,BRICK AS,Sarpsborg,Viken,7
 983141919,SALONG SAXEN AS,Trysil,Innlandet,3
 983146031,MOI SKINN- & ALTMULIGBUTIKK AS,Lund,Rogaland,1
@@ -63793,6 +63793,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 992944234,SALTEN DEKKSENTER AS,Bodø,Nordland,1
 992944358,LEOS LEKELAND NORGE AS AVD KRISTIANSAND S,Kristiansand,Agder,9
 992944552,DORIS FRISØR AS,Sunnfjord,Vestland,1
+992945559,PIPING/WELDING CONTRACTING,Kvinesdal,Agder,1
 992945559,PIPING/WELDING CONTRACTING FLEKKEFJORD AS,Kvinesdal,Agder,9
 992945664,SKARET TAXI AS,Frosta,Trøndelag - Trööndelage,7
 992946024,LINJEPROFF AS,Bodø,Nordland,15
