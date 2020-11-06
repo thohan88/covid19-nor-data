@@ -7721,3 +7721,29 @@ sub-region,Vestland,transit,NA,NA,Norway,2020-11-04,81.19
 sub-region,Viken,driving,NA,NA,Norway,2020-11-04,101.31
 sub-region,Viken,walking,NA,NA,Norway,2020-11-04,125.43
 sub-region,Viken,transit,NA,NA,Norway,2020-11-04,85.07
+country/region,Norway,driving,Norge,NA,NA,2020-11-05,98.69
+country/region,Norway,transit,Norge,NA,NA,2020-11-05,73.88
+country/region,Norway,walking,Norge,NA,NA,2020-11-05,97.22
+city,Oslo,driving,NA,NA,Norway,2020-11-05,95.23
+city,Oslo,transit,NA,NA,Norway,2020-11-05,74.91
+city,Oslo,walking,NA,NA,Norway,2020-11-05,85.84
+sub-region,Agder,driving,NA,NA,Norway,2020-11-05,106.93
+sub-region,Agder,walking,NA,NA,Norway,2020-11-05,109.02
+sub-region,Innlandet,driving,NA,NA,Norway,2020-11-05,101.34
+sub-region,Innlandet,walking,NA,NA,Norway,2020-11-05,90.19
+sub-region,Møre og Romsdal,driving,NA,NA,Norway,2020-11-05,105.29
+sub-region,Nordland,driving,NA,NA,Norway,2020-11-05,92.09
+sub-region,Rogaland,driving,NA,NA,Norway,2020-11-05,99.89
+sub-region,Rogaland,walking,NA,NA,Norway,2020-11-05,119.63
+sub-region,Troms og Finnmark,driving,NA,NA,Norway,2020-11-05,80.17
+sub-region,Troms og Finnmark,walking,NA,NA,Norway,2020-11-05,63.33
+sub-region,Trøndelag,driving,NA,NA,Norway,2020-11-05,97.75
+sub-region,Trøndelag,walking,NA,NA,Norway,2020-11-05,107.22
+sub-region,Vestfold og Telemark,driving,NA,NA,Norway,2020-11-05,103.64
+sub-region,Vestfold og Telemark,walking,NA,NA,Norway,2020-11-05,107.98
+sub-region,Vestland,driving,NA,NA,Norway,2020-11-05,96.27
+sub-region,Vestland,walking,NA,NA,Norway,2020-11-05,86.31
+sub-region,Vestland,transit,NA,NA,Norway,2020-11-05,82.67
+sub-region,Viken,driving,NA,NA,Norway,2020-11-05,101.37
+sub-region,Viken,walking,NA,NA,Norway,2020-11-05,127.75
+sub-region,Viken,transit,NA,NA,Norway,2020-11-05,76.29
