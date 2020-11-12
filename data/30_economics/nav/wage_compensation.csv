@@ -12566,6 +12566,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 914837278,NORGESTAXI BUSKERUD AS,Kongsberg,Viken,1
 914837340,TEBCON AS,Skien,Vestfold og Telemark,1
 914837448,PRIMA GROUP AS,Hå,Rogaland,2
+914837715,ANOUSKA CCVEST AS,Oslo,Oslo,1
 914838002,BM KONTORSERVICE AS,Ulstein,Møre og Romsdal,1
 914838347,CHRISTIANIA BELYSNING AS AVD HAMAR,Hamar,Innlandet,4
 914838606,DANIELSEN SKO AS SKORINGEN HORISONT,Bergen,Vestland,3
@@ -26574,7 +26575,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 922230048,SUNNDAL HERREFRISØR AS,Sunndal,Møre og Romsdal,1
 922230056,BRANNSERVICE VESTFOLD AS,Larvik,Vestfold og Telemark,1
 922230145,CLINIQUE ULLEVÅL AS,Oslo,Oslo,3
-922230242,NTS TECH AS,Vestre Toten,Innlandet,4
+922230242,NTS TECH AS,Vestre Toten,Innlandet,5
 922230277,HSA CONSULTING AS,Oslo,Oslo,1
 922230390,TEAM EKSPERT BYGG AS,Melhus,Trøndelag - Trööndelage,5
 922230501,NORSK DRIFT OG PERSONELL AS,Oslo,Oslo,3
@@ -37036,7 +37037,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 972261637,CHINA GARDEN BODØ AS,Bodø,Nordland,2
 972261696,NORSK GJENVINNING AS AVD RYFYLKE,Strand,Rogaland,1
 972261955,SENTRUM FRISØR AS,Ålesund,Møre og Romsdal,2
-972262005,OKJ TRANSPORT AS,Loppa,Troms og Finnmark - Romsa ja Finnmárku,2
+972262005,OKJ TRANSPORT AS,Loppa,Troms og Finnmark - Romsa ja Finnmárku,3
 972262099,MON AMI AS,Øygarden,Vestland,8
 972262161,EL-CO AS,Rindal,Trøndelag - Trööndelage,5
 972262358,PROREF AS,Rælingen,Viken,3
@@ -62974,7 +62975,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 992232110,VALAKER BAKERI OG KONDITORI AS AVD FOSNVÅG,Herøy,Møre og Romsdal,3
 992232110,VALAKER BAKERI OG KONDITORI AS AVD FOSNVÅG,Herøy (Møre og Romsdal),Møre og Romsdal,3
 992232749,VALAKER BAKERI OG KONDITORI AS AVD ULSTEINVIK,Ulstein,Møre og Romsdal,5
-992233494,LINDA CAN TAXIDRIFT,Oslo,Oslo,1
+992233494,LINDA CAN TAXIDRIFT,Oslo,Oslo,2
 992235276,PRIVAT OMSORG NORD AS AVD TROMSØ,Tromsø,Troms og Finnmark - Romsa ja Finnmárku,2
 992235780,TROKON AS,Sandnes,Rogaland,1
 992236914,BAYONETTE AS,Oslo,Oslo,1
@@ -63773,7 +63774,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 992882492,JENSEN EIENDOMUTVIKLING AS,Drammen,Viken,1
 992882948,MILJØBUDET AS,Oslo,Oslo,1
 992882956,LAN NA THAI RESTAURANT & TAKE AWAY,Trondheim,Trøndelag - Trööndelage,4
-992884053,SAMMEN TRENING,Bergen,Vestland,73
+992884053,SAMMEN TRENING,Bergen,Vestland,74
 992884347,SHOEDAY HØNEFOSS,Ringerike,Viken,4
 992886056,GABRIEL MOLEDA,Nittedal,Viken,2
 992886250,QUALIFIED SOLUTIONS SØRLANDET AS,Kristiansand,Agder,18
