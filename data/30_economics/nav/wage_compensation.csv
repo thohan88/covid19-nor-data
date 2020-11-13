@@ -3826,7 +3826,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 874152722,VIC STORO AVD 051,Oslo,Oslo,1
 874154512,SAKSHAUG SPORT AS,Steinkjer,Trøndelag - Trööndelage,6
 874155942,OSAN SERVICENTER AS,Vågan,Nordland,8
-874158712,NEVLUNGHAVN BAKERI & CONDITORI AS,Larvik,Vestfold og Telemark,19
+874158712,NEVLUNGHAVN BAKERI & CONDITORI AS,Larvik,Vestfold og Telemark,20
 874159352,RADISSON BLU ROYAL GARDEN HOTELL,Trondheim,Trøndelag - Trööndelage,60
 874159492,FREEQUENT GALLERIET,Bergen,Vestland,6
 874159662,SALONG HÅRFAGRE AS,Ringsaker,Innlandet,4
@@ -5509,7 +5509,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 890376932,EXPERIS STAFFING SERVICES AS AVD TRONDHEIM,Trondheim,Trøndelag - Trööndelage,1
 890397352,FARM HOUSE AS,Stryn,Vestland,2
 890403042,POLAR ARTIST AS,Trondheim,Trøndelag - Trööndelage,1
-890422802,PRORIV AS,Oslo,Oslo,5
+890422802,PRORIV AS,Oslo,Oslo,6
 890427502,ØYVIND AUGUSTIN,Oslo,Oslo,4
 890429262,BYGG & EIENDOMSSERVICE AS,Tromsø,Troms og Finnmark - Romsa ja Finnmárku,2
 890444962,STABEL EIENDOMSUTVIKLING AS,Kristiansand,Agder,1
@@ -6884,6 +6884,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 911553309,SMILE PIZZA ELGESETER AS,Trondheim,Trøndelag - Trööndelage,4
 911553325,NICOPOULSSON FILM AS,Oslo,Oslo,2
 911554550,STOFF & STIL NORGE AS AVD STAVANGER,Stavanger,Rogaland,8
+911554860,GRAF ENTREPRENØR AS AVD BAMLE,Bamble,Vestfold og Telemark,1
 911555042,JOHNNY NERLAND AS,Ålesund,Møre og Romsdal,1
 911555840,OFF THE LIP AS,Oslo,Oslo,3
 911556391,KLINIKK FOR ALLE EGERSUND AS,Eigersund,Rogaland,3
@@ -12602,7 +12603,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 914845637,BAKÅS FYSIOTERAPI AS,Porsgrunn,Vestfold og Telemark,1
 914845726,STJØRDAL AUTO AS,Stjørdal,Trøndelag - Trööndelage,2
 914846080,BUTIKKFORM AS,Stavanger,Rogaland,1
-914846196,SAFEJOB BERGEN AS,Askøy,Vestland,66
+914846196,SAFEJOB BERGEN AS,Askøy,Vestland,67
 914846927,GAMMA AS AVD SELJORD,Seljord,Vestfold og Telemark,1
 914847028,MALERFIRMA BRANDSDAL AS,Oslo,Oslo,1
 914847052,SANDLAND TRETEKNOLOGI AS,Bærum,Viken,1
