@@ -6513,7 +6513,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 897635232,FLEYE APS,Vestby,Viken,1
 897637502,ADVOKATFIRMA FOLSERAAS AS,Porsgrunn,Vestfold og Telemark,1
 897638002,BARE CLINIC DRIFT AS,Sandnes,Rogaland,23
-897641542,RESTAURANT SAWAN,Oslo,Oslo,30
+897641542,RESTAURANT SAWAN,Oslo,Oslo,31
 897642662,FH ENTREPRENØR AS,Oslo,Oslo,265
 897643332,DAVI TURBO AS AVD LEINØY,Herøy,Møre og Romsdal,3
 897643332,DAVI TURBO AS AVD LEINØY,Herøy (Møre og Romsdal),Møre og Romsdal,3
@@ -9972,7 +9972,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 913400267,TIDE VERKSTED AS AVD VERKSTED HUSNES,Kvinnherad,Vestland,1
 913400348,LINDBAK AS AVD LEVANGER,Levanger,Trøndelag - Trööndelage,3
 913400909,NILLE AS AVD BREKSTAD,Ørland,Trøndelag - Trööndelage,4
-913401093,BAG LADE AS,Trondheim,Trøndelag - Trööndelage,3
+913401093,BAG LADE AS,Trondheim,Trøndelag - Trööndelage,4
 913401123,KLIPPEGANGEN AS,Oslo,Oslo,2
 913401573,FRYDENBØ INDUSTRI AS AVD ØST,Lillestrøm,Viken,6
 913401867,TIGHT LINES AS,Randaberg,Rogaland,1
@@ -26332,6 +26332,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 922126216,BYGGMESTER MATS GRANBERG AS,Bergen,Vestland,3
 922126496,FINNMARK TRE & BETONG AS,Alta,Troms og Finnmark - Romsa ja Finnmárku,3
 922127069,FYSIONORWAY AS,Oslo,Oslo,1
+922127271,HOS HAAKON AS,Tromsø,Troms og Finnmark - Romsa ja Finnmárku,1
 922127387,SITUS AS,Åseral,Agder,1
 922127492,IF BYGG AS,Fredrikstad,Viken,1
 922127581,LEGENE I YTRE AS,Enebakk,Viken,2
@@ -42242,7 +42243,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 973697390,SANDOM RETREATSENTER,Lom,Innlandet,4
 973699172,COOP INNLANDET SA AVD WAGNER- SAVOY,Nord-Fron,Innlandet,4
 973701843,SOLHEIM BRYNHILD GULLHJØRNET,Trysil,Innlandet,1
-973702270,DE 3 STUER AVD 7123 PIRSENTERET SPISERI,Trondheim,Trøndelag - Trööndelage,7
+973702270,DE 3 STUER AVD 7123 PIRSENTERET SPISERI,Trondheim,Trøndelag - Trööndelage,8
 973703706,TANNLEGE NILS B SKAAR,Trondheim,Trøndelag - Trööndelage,3
 973704028,MEMIRA AS AVD TRONDHEIM,Trondheim,Trøndelag - Trööndelage,3
 973704826,WIST LAST & BUSS AS AVD VERKSTED NAMSOS,Namsos,Trøndelag - Trööndelage,1
@@ -43656,6 +43657,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 974145928,MØRE OG ROMSDAL BILUTLEIE AS AVD ÅLESUND,Ålesund,Møre og Romsdal,10
 974145936,CUBUS ARKADEN STAVANGER AVD 853,Stavanger,Rogaland,8
 974146029,BERTEL O STEEN TRØNDELAG AS AVD SALG OPPDAL,Oppdal,Trøndelag - Trööndelage,1
+974146355,SCHENKER AS,Oslo,Oslo,1
 974146355,SCHENKER AS AVD ALNABRU - REGION ØST,Oslo,Oslo,96
 974146479,INTERPRESS NORGE AS,Lillestrøm,Viken,3
 974146703,NORSK LUTHERSK MISJONSSAMBAND REGION MIDT-NORGE,Trondheim,Trøndelag - Trööndelage,9
@@ -59320,7 +59322,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 989385690,MY CAFEBAR Luom Thi Nguyen,Tønsberg,Vestfold og Telemark,9
 989386190,HYDROSCAND AS AVD SKIEN,Skien,Vestfold og Telemark,1
 989386646,K ENG & CO AS LAMPEHUSET FINNSNES,Senja,Troms og Finnmark - Romsa ja Finnmárku,3
-989386905,FLOYD BUTIKKDRIFT AS AVD ARKEN,Bergen,Vestland,7
+989386905,FLOYD BUTIKKDRIFT AS AVD ARKEN,Bergen,Vestland,8
 989387952,ABOBIL.NO AS,Time,Rogaland,1
 989388444,INZIGHT AS,Oslo,Oslo,1
 989389505,PERSONALOMSORG AS,Sykkylven,Møre og Romsdal,3
@@ -69682,7 +69684,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 997321456,NORDISK ROM AS,Bjørnafjorden,Vestland,1
 997321707,FRONT FARM AS,Sandnes,Rogaland,5
 997322274,DUNDAS FOOTWEAR AS,Haugesund,Rogaland,2
-997323912,IKETT PERSONALPARTNER AS,Oslo,Oslo,13
+997323912,IKETT PERSONALPARTNER AS,Oslo,Oslo,18
 997325214,FLYING TIGER COPENHAGEN ARKADEN,Oslo,Oslo,9
 997325265,NILLE AS AVD NARVIK,Narvik,Nordland,5
 997325311,NILLE AS AVD ETNE,Etne,Vestland,6
@@ -72913,6 +72915,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 999225144,AUTO & SPESIALTRANSPORT AS,Eidsvoll,Viken,1
 999226418,SHAPES FITNESS ØSTSIDEN,Kristiansand,Agder,1
 999226450,EIENDOMSMEGLER KROGSVEEN AS AVD MOA,Ålesund,Møre og Romsdal,6
+999226531,FABEL MEDIA AS,Stavanger,Rogaland,1
 999226906,EIENDOMSMEGLER KROGSVEEN AS AVD TORSHOV,Oslo,Oslo,1
 999226981,EIENDOMSMEGLER KROGSVEEN AS AVD FANA,Bergen,Vestland,5
 999228208,GALLERI HAAKEN AS,Oslo,Oslo,1
