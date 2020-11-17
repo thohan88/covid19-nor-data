@@ -4371,7 +4371,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 879969492,CHRISTIANIA PERSONELL AS,Oslo,Oslo,13
 879975212,BLOMSTERHANDLEREN AS,Gran,Innlandet,2
 879983142,MARIANNES MINIBAKERI AS,Indre Østfold,Viken,7
-879991072,VOLF AS,Ålesund,Møre og Romsdal,7
+879991072,VOLF AS,Ålesund,Møre og Romsdal,8
 879992052,LILLEHAMMER BILSKADESENTER AS,Lillehammer,Innlandet,2
 880034812,FREDDY JØRGENSEN,Fredrikstad,Viken,1
 880047442,MARKEDSSUPPORT ØSTLANDET AS,Asker,Viken,14
@@ -28002,7 +28002,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 923104623,BRYGGA HOTELL,Lødingen,Nordland,2
 923105832,4SERVICE EIR CAMP AS EIR 3851 CAMP PNC EGGEMOEN KANTINE,Jevnaker,Viken,2
 923111123,BACK TO SOCIAL MEDIA AS,Oslo,Oslo,1
-923111484,WELNOS AS AVD ASKER,Asker,Viken,8
+923111484,WELNOS AS AVD ASKER,Asker,Viken,9
 923111611,PILOT GROUP AS,Sandefjord,Vestfold og Telemark,2
 923111832,HODAPP GMBH & CO. KG,Holmestrand,Vestfold og Telemark,1
 923112383,BOREAL SJØ DRIFT AS AVD MINOL VARDØ,Vardø,Troms og Finnmark - Romsa ja Finnmárku,1
@@ -54230,6 +54230,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 984786190,WELLCEM AS,Trondheim,Trøndelag - Trööndelage,8
 984790023,RAREST AS,Oslo,Oslo,25
 984790333,MASSØRKLINIKKEN AS,Tønsberg,Vestfold og Telemark,1
+984790929,ADECCO NORGE AS,Kongsvinger,Innlandet,1
 984790929,ADECCO NORGE AS AVD KONGSVINGER,Kongsvinger,Innlandet,2
 984790945,ADECCO NORGE AS AVD GJØVIK,Gjøvik,Innlandet,8
 984791178,SURVITEC NORWAY AS AVD SALG ÅLESUND,Ålesund,Møre og Romsdal,6
@@ -70821,6 +70822,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 997976886,TOTAL KROPP SANDSLI AS,Bergen,Vestland,1
 997976916,MAMAROSA MELHUS AS,Melhus,Trøndelag - Trööndelage,6
 997976924,FALL WINTER SPRING SUMMER AS,Oslo,Oslo,4
+997977742,NATURENS KILDE AS,Kongsberg,Viken,2
 997979079,HIGH ACCESS SOLUTIONS AS,Oslo,Oslo,1
 997979109,GALUS AS,Oslo,Oslo,2
 997979494,SACON AS,Lier,Viken,1
