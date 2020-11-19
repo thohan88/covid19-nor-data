@@ -11844,7 +11844,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 914436966,VENNESLA TURNFORENING,Vennesla,Agder,16
 914437180,KAFÈ HALLBJØNN AS,Tokke,Vestfold og Telemark,1
 914437784,FIRST SEAFOOD AS,Oslo,Oslo,5
-914438012,COMFORT HOTEL BERGEN AIRPORT,Bergen,Vestland,2
+914438012,COMFORT HOTEL BERGEN AIRPORT,Bergen,Vestland,3
 914438020,FUEL-SERVICE AS,Oslo,Oslo,2
 914438055,HOTEL OLEANA,Bergen,Vestland,5
 914439620,PR DESIGN PAWEL KRZYSZTOF RYBNIK,Oslo,Oslo,2
@@ -18649,6 +18649,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 918309209,LILLE LURING AS,Fauske - Fuossko,Nordland,1
 918310614,URBAN FOOD AS,Fredrikstad,Viken,1
 918310924,HYGGE AS,Stavanger,Rogaland,11
+918312978,ÅRHI EIENDOM AS,Trondheim,Trøndelag - Trööndelage,1
 918313958,EIRIK HOVLAND AS,Oslo,Oslo,1
 918314156,PROMAPS TECHNOLOGY AS,Bergen,Vestland,3
 918314350,PKJ TAXI JESIONOWSKI,Vågan,Nordland,1
@@ -26574,7 +26575,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 922229031,STAYNPLAY AS,Nordre Follo,Viken,4
 922229066,ENERTECH CONSULTING AS,Sandnes,Rogaland,1
 922229384,LE KONSULENT AS,Drammen,Viken,1
-922229600,MKM STYLE AS,Fredrikstad,Viken,2
+922229600,MKM STYLE AS,Fredrikstad,Viken,5
 922229716,THAI THAI ORKANGER AS,Trondheim,Trøndelag - Trööndelage,10
 922229880,FAGER FRISØR AS,Kristiansand,Agder,3
 922229961,FILMFOTOGRAF MARTIN SOLVANG AS,Oslo,Oslo,1
@@ -27570,7 +27571,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 922782229,LANULLVA HAMAR AS,Hamar,Innlandet,1
 922790981,MORMORS RESTAURANTDRIFT AS,Oslo,Oslo,4
 922791848,HIGEJA AS,Nittedal,Viken,1
-922792496,VIPAS AS,Kristiansand,Agder,8
+922792496,VIPAS AS,Kristiansand,Agder,9
 922794782,GODT LAGA AS,Hamar,Innlandet,3
 922796025,STASJONSDRIFT STENBRÅTEN AS,Nordre Follo,Viken,5
 922796157,LD GRAVING AS,Larvik,Vestfold og Telemark,1
@@ -40388,7 +40389,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 973165232,MOTOR FORUM AS AVD SALG,Bergen,Vestland,17
 973165240,SCANDIC KOKSTAD,Bergen,Vestland,22
 973165259,MØRE KONFEKSJON AS BERGEN AVD BERGEN,Bergen,Vestland,2
-973165372,APOTEK 1 GALLERIET,Bergen,Vestland,10
+973165372,APOTEK 1 GALLERIET,Bergen,Vestland,11
 973165429,INSTINCT OS AS,Bjørnafjorden,Vestland,2
 973165445,INSTINCT SARTOR AS,Øygarden,Vestland,3
 973165461,INSTINCT ÅSANE AS,Bergen,Vestland,4
@@ -47408,7 +47409,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 977337380,ALERIS RØNTGEN AS AVD STAVANGER,Stavanger,Rogaland,4
 977338662,VONIN REFA AS AVD SALG SVOLVÆR,Vågan,Nordland,1
 977339359,MARTHAS DELIKATESSER AS,Øygarden,Vestland,5
-977339871,KONGEPARKEN,Gjesdal,Rogaland,28
+977339871,KONGEPARKEN,Gjesdal,Rogaland,29
 977339960,NARVESEN BUTIKKEN 514 LINDEBERG SENTER,Oslo,Oslo,3
 977342147,ZAVANNA GOL AVD 692,Gol,Viken,2
 977342201,BURGER KING 5006 STRØMMEN,Lillestrøm,Viken,20
@@ -51821,6 +51822,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 982521521,FARSTAD INVEST AS,Molde,Møre og Romsdal,4
 982526043,ANNE WAAGØS FRISØRSALONG AS,Gjerdrum,Viken,1
 982526477,TO ROM INTERIØR AS,Oslo,Oslo,3
+982526582,ELEMENT LOGIC AS,Ullensaker,Viken,1
 982527651,MESTER GRØNN AS AVD 52 MERCURSENTERET,Trondheim,Trøndelag - Trööndelage,5
 982528720,JACK & JONES ØSTFOLDHALLEN 2101,Fredrikstad,Viken,4
 982531403,TEAM TRAFIKKSKOLE DA,Porsgrunn,Vestfold og Telemark,1
