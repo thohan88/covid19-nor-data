@@ -24677,7 +24677,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 921261829,BIATON AS,Ålesund,Møre og Romsdal,2
 921262078,DIGITAL MARKEDSPLASS AS,Trondheim,Trøndelag - Trööndelage,2
 921264801,ZAVANNA BØ SENTERET AVD 520,Midt-Telemark,Vestfold og Telemark,4
-921264828,TELEXPRESSEN SKEDSMO AS,Lillestrøm,Viken,2
+921264828,TELEXPRESSEN SKEDSMO AS,Lillestrøm,Viken,3
 921264941,FLYKAFEEN DRIFT AS,Tønsberg,Vestfold og Telemark,7
 921265433,FOOTPRINT ØYSTEIN DANIELSEN,Bergen,Vestland,8
 921265484,GOHAN AS,Oslo,Oslo,3
@@ -35177,6 +35177,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 972058092,NORDRE FOLLO RØRLEGGERBEDRIFT,Ås,Viken,3
 972058149,KURT HAMRE AS,Bergen,Vestland,1
 972058181,CLARKSONS PLATOU AS,Oslo,Oslo,5
+972058203,HUNDERFOSSEN HOTEL & RESORT,Lillehammer,Innlandet,1
 972058203,HUNDERFOSSEN HOTEL & RESORT AVD HOTELL,Lillehammer,Innlandet,15
 972058297,LIMA RENHOLD AS,Stavanger,Rogaland,7
 972058335,SALONGEN FRISØR AS,Karmøy,Rogaland,3
