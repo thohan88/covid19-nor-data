@@ -2822,7 +2822,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 871945462,GAN MASKINFORRETNING AS,Lillestrøm,Viken,5
 871945772,WIGDAL TRANSPORT AS,Modum,Viken,3
 871949832,SØRENSEN BJØRN AS,Lier,Viken,2
-871950482,FUSER BAR & FOR,Lillestrøm,Viken,8
+871950482,FUSER BAR & FOR,Lillestrøm,Viken,9
 871950652,CARAVANÆSS AS,Sandnes,Rogaland,1
 871950822,RØRLEGGER 1 KRISTIANSUND AS,Kristiansund,Møre og Romsdal,8
 871952442,TRYSIL PUKKVERK AS,Trysil,Innlandet,5
@@ -7293,7 +7293,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 911778785,VARDAHEI IT AS,Sogndal,Vestland,2
 911779048,KRISTIANSUND MØBLER AS,Kristiansund,Møre og Romsdal,2
 911779161,LØVÅSMOEN MONTASJE AS,Lørenskog,Viken,1
-911779323,HEWEL KAFFEPÅHJØRNET,Sarpsborg,Viken,1
+911779323,HEWEL KAFFEPÅHJØRNET,Sarpsborg,Viken,2
 911779595,MORTENS TAXI-TJENESTER HALVORSEN,Skien,Vestfold og Telemark,1
 911779668,METERVARE AS,Oslo,Oslo,8
 911779757,B. HAIR AS,Molde,Møre og Romsdal,5
@@ -21394,7 +21394,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 919702486,XTRAHJELPEN AS,Lillestrøm,Viken,2
 919702559,SPYDEBERG BIL AS,Indre Østfold,Viken,1
 919702702,SIGNATURE WINES AS,Oslo,Oslo,6
-919703091,FORNEBU TANNLEGESENTER AS,Bærum,Viken,3
+919703091,FORNEBU TANNLEGESENTER AS,Bærum,Viken,4
 919703237,GUNDERSEN REKLAME AS,Sarpsborg,Viken,2
 919703326,BJØRNAFJORDEN BYGG AS,Bjørnafjorden,Vestland,1
 919703474,WASMUTH BANE OG EL-SIKKERHET AS,Bjørnafjorden,Vestland,4
@@ -36359,7 +36359,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 972182354,CERTEGO AS AVD TROMSØ,Tromsø,Troms og Finnmark - Romsa ja Finnmárku,1
 972182494,EL-TEAM AS,Time,Rogaland,3
 972182583,CHINA GARDEN RESTAURANT AS,Sola,Rogaland,5
-972182613,HAUGLI BAKERI PRODUKSJON AS,Haugesund,Rogaland,16
+972182613,HAUGLI BAKERI PRODUKSJON AS,Haugesund,Rogaland,17
 972182621,GÅRDEN RØRLEGGERSERVICE AS,Bergen,Vestland,7
 972182664,PEDERSEN MASKIN AS,Alta,Troms og Finnmark - Romsa ja Finnmárku,2
 972182729,ISDALEN AS,Oslo,Oslo,3
@@ -67456,7 +67456,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 995775697,MOTOR FORUM AS,Drammen,Viken,8
 995775743,FOTOGRAF B.T.STOKKE AS,Gran,Innlandet,2
 995777282,BANESIKRING AS,Trondheim,Trøndelag - Trööndelage,1
-995778386,THE THIEF HOTEL AS,Oslo,Oslo,3
+995778386,THE THIEF HOTEL AS,Oslo,Oslo,4
 995778777,TANNLEGE BRITT-ELIN FRANTZEN,Alver,Vestland,2
 995779498,KVADRAT AS,Asker,Viken,2
 995780887,FJÅGESUND SKOGSDRIFT AS,Kviteseid,Vestfold og Telemark,2
