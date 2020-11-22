@@ -192,7 +192,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 812551272,BOLIG ENGROS AS,Drammen,Viken,1
 812551582,I-PACK DIGITAL AS,Sarpsborg,Viken,4
 812552392,ENERIN AS,Kinn,Vestland,1
-812553402,TROHAUG & SAMUELSEN AS,Bergen,Vestland,4
+812553402,TROHAUG & SAMUELSEN AS,Bergen,Vestland,5
 812555332,JORDBÆRPIKENE ARENA AS,Arendal,Agder,7
 812560832,HÅ BYGGTEKNIKK AS,Harstad,Troms og Finnmark - Romsa ja Finnmárku,1
 812561952,VICTORIAS CAFE & TAPAS AS,Oslo,Oslo,1
@@ -521,6 +521,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 814189422,MAX LIER,Lier,Viken,11
 814196852,AAMODT FYSIOTERAPI AS,Frogn,Viken,2
 814200132,HJEMMEBEST PERSONLIG ASSISTANSE,Oslo,Oslo,10
+814200132,MIO BPA AS,Oslo,Oslo,1
 814211002,BARONA HUMAN RESOURCE SERVICES AS,Oslo,Oslo,7
 814214982,GEO DRILLING AS,Leka,Trøndelag - Trööndelage,6
 814215822,KANTINE CATERING AS,Bjerkreim,Rogaland,3
