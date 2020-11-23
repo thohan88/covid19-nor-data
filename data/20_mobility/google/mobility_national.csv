@@ -276,6 +276,9 @@ NO,2020-11-14,Retail & recreation,-18.0
 NO,2020-11-15,Retail & recreation,-42.0
 NO,2020-11-16,Retail & recreation,-12.0
 NO,2020-11-17,Retail & recreation,-13.0
+NO,2020-11-18,Retail & recreation,-15.0
+NO,2020-11-19,Retail & recreation,-12.0
+NO,2020-11-20,Retail & recreation,-10.0
 NO,2020-02-15,Grocery & pharmacy,1.0
 NO,2020-02-16,Grocery & pharmacy,3.0
 NO,2020-02-17,Grocery & pharmacy,0.0
@@ -553,6 +556,9 @@ NO,2020-11-14,Grocery & pharmacy,-1.0
 NO,2020-11-15,Grocery & pharmacy,-14.0
 NO,2020-11-16,Grocery & pharmacy,-2.0
 NO,2020-11-17,Grocery & pharmacy,-1.0
+NO,2020-11-18,Grocery & pharmacy,-2.0
+NO,2020-11-19,Grocery & pharmacy,3.0
+NO,2020-11-20,Grocery & pharmacy,3.0
 NO,2020-02-15,Parks,26.0
 NO,2020-02-16,Parks,-34.0
 NO,2020-02-17,Parks,13.0
@@ -830,6 +836,9 @@ NO,2020-11-14,Parks,32.0
 NO,2020-11-15,Parks,-22.0
 NO,2020-11-16,Parks,-1.0
 NO,2020-11-17,Parks,-2.0
+NO,2020-11-18,Parks,-5.0
+NO,2020-11-19,Parks,-2.0
+NO,2020-11-20,Parks,9.0
 NO,2020-02-15,Transit stations,7.0
 NO,2020-02-16,Transit stations,-5.0
 NO,2020-02-17,Transit stations,-5.0
@@ -1107,6 +1116,9 @@ NO,2020-11-14,Transit stations,-41.0
 NO,2020-11-15,Transit stations,-50.0
 NO,2020-11-16,Transit stations,-42.0
 NO,2020-11-17,Transit stations,-43.0
+NO,2020-11-18,Transit stations,-45.0
+NO,2020-11-19,Transit stations,-46.0
+NO,2020-11-20,Transit stations,-42.0
 NO,2020-02-15,Workplace,-1.0
 NO,2020-02-16,Workplace,-3.0
 NO,2020-02-17,Workplace,-12.0
@@ -1384,6 +1396,9 @@ NO,2020-11-14,Workplace,-11.0
 NO,2020-11-15,Workplace,-15.0
 NO,2020-11-16,Workplace,-25.0
 NO,2020-11-17,Workplace,-25.0
+NO,2020-11-18,Workplace,-23.0
+NO,2020-11-19,Workplace,-24.0
+NO,2020-11-20,Workplace,-24.0
 NO,2020-02-15,Residential,-1.0
 NO,2020-02-16,Residential,1.0
 NO,2020-02-17,Residential,2.0
@@ -1661,3 +1676,6 @@ NO,2020-11-14,Residential,5.0
 NO,2020-11-15,Residential,6.0
 NO,2020-11-16,Residential,9.0
 NO,2020-11-17,Residential,9.0
+NO,2020-11-18,Residential,10.0
+NO,2020-11-19,Residential,9.0
+NO,2020-11-20,Residential,9.0
