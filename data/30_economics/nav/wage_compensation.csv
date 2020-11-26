@@ -9373,6 +9373,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 913108450,NORWAY FRIED CHICKEN AS,Sarpsborg,Viken,1
 913110714,KARCE1 AS,Bergen,Vestland,13
 913111559,DANIEL HOVDEGARD TRANSPORT,Ål,Viken,2
+913113497,YIT INFRA NORGE AS,Kvinnherad,Vestland,1
 913113497,YIT INFRA NORGE AS AVD HUSNES,Kvinnherad,Vestland,34
 913113500,SPOR1 MOELV AS,Ringsaker,Innlandet,2
 913113764,EMCON AS AVD NESTTUN,Bergen,Vestland,2
@@ -18069,7 +18070,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 917944628,BELL ORGANIZATION & LEADERSHIP AS,Oslo,Oslo,1
 917948305,BDMS GROUP AS,Oslo,Oslo,1
 917948968,ENEBAKK LEGESENTER,Enebakk,Viken,1
-917949050,BRASSERIE OUEST,Oslo,Oslo,9
+917949050,BRASSERIE OUEST,Oslo,Oslo,10
 917949891,HELGELAND TRANSPORT SERVICE AS,Alstahaug,Nordland,4
 917950571,BETONMA REHABILITERING AS,Oslo,Oslo,8
 917950806,VAIDAS BYGG AS,Ringerike,Viken,1
@@ -40695,7 +40696,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 973189913,KONTOR OG GRAFISK ALTA AS,Alta,Troms og Finnmark - Romsa ja Finnmárku,5
 973190024,SCANDIC VADSØ,Vadsø,Troms og Finnmark - Romsa ja Finnmárku,17
 973190032,NORDKAPPHALLEN,Nordkapp,Troms og Finnmark - Romsa ja Finnmárku,16
-973190040,SCANDIC ALTA,Alta,Troms og Finnmark - Romsa ja Finnmárku,48
+973190040,SCANDIC ALTA,Alta,Troms og Finnmark - Romsa ja Finnmárku,49
 973190059,SCANDIC HONNINGSVÅG,Nordkapp,Troms og Finnmark - Romsa ja Finnmárku,13
 973190067,SCANDIC KARASJOK,Kárášjohka - Karasjok,Troms og Finnmark - Romsa ja Finnmárku,18
 973190148,NORGES ARKTISKE STUDENTSAMSKIPNAD SPISESTEDER I ALTA,Alta,Troms og Finnmark - Romsa ja Finnmárku,1
@@ -43267,7 +43268,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 974097788,OPPLANDSKE BETONGINDUSTRI AS,Nordre Land,Innlandet,33
 974097958,UNICON AS AVD SJURSØYA,Oslo,Oslo,1
 974098237,HOTELLDRIFT PARK HALDEN AS,Halden,Viken,14
-974098245,SCANDIC PARK SANDEFJORD,Sandefjord,Vestfold og Telemark,82
+974098245,SCANDIC PARK SANDEFJORD,Sandefjord,Vestfold og Telemark,83
 974098261,DATATRYKK AS,Stavanger,Rogaland,6
 974098350,G TRAVEL HUSØY,Karmøy,Rogaland,11
 974098369,BRØDRENE PEDERSEN AS AVD STAVANGER,Stavanger,Rogaland,12
@@ -49860,7 +49861,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 980701883,NIKITA HAIR AVD ASKER,Asker,Viken,7
 980702731,NORLI AS AVD BYPORTEN OSLO,Oslo,Oslo,6
 980705897,DRANGEDALSPOSTEN AS,Drangedal,Vestfold og Telemark,2
-980706524,SJØENTREPRENØREN AS,Bergen,Vestland,9
+980706524,SJØENTREPRENØREN AS,Bergen,Vestland,10
 980707881,HMH HOME MANAGEMENT AS,Bærum,Viken,6
 980708004,"KAMPERHAUG JAKT, FISKE OG FRITID AS",Halden,Viken,2
 980708357,LEGEDRIFT RAUFOSS AS,Vestre Toten,Innlandet,4
