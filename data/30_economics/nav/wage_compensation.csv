@@ -4512,7 +4512,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 881172712,NARVESEN 599 BYPORTEN NORD,Oslo,Oslo,6
 881174472,VITO HOLDING AS,Haugesund,Rogaland,1
 881175312,PIZZA RIVIERA AS,Sandefjord,Vestfold og Telemark,1
-881182882,KLØVERBAKERIET AS,Trondheim,Trøndelag - Trööndelage,3
+881182882,KLØVERBAKERIET AS,Trondheim,Trøndelag - Trööndelage,4
 881192942,KARUSELL ISBAR Nina E Henriksen,Sarpsborg,Viken,7
 881203782,COOP NORDLAND SA AVD 332 COOP GULL OG GAVER FAUSKE,Fauske - Fuosko,Nordland,4
 881203782,COOP NORDLAND SA AVD 332 COOP GULL OG GAVER FAUSKE,Fauske - Fuossko,Nordland,4
@@ -16543,7 +16543,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 917031649,HJEM+ AS,Ullensaker,Viken,4
 917032343,SYNG MER AS,Oslo,Oslo,12
 917032769,S-GRUPPEN 2016 AS,Oslo,Oslo,2
-917033471,ULSRUD PIZZA AS,Oslo,Oslo,2
+917033471,ULSRUD PIZZA AS,Oslo,Oslo,3
 917034370,MOO GRUPPEN AS,Oslo,Oslo,1
 917034435,PARTYTIME TRONDHEIM AS,Trondheim,Trøndelag - Trööndelage,3
 917035415,STORYCRAFT AS,Oslo,Oslo,2
