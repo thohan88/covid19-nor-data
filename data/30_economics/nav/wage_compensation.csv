@@ -5074,7 +5074,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 886479212,GOD BEDRING AS,Bergen,Vestland,10
 886490852,LOFOTEN CHARTERBÅT AS,Vågan,Nordland,1
 886493002,SYNSAM GROUP NORWAY AS AVD SOLSIDEN,Trondheim,Trøndelag - Trööndelage,9
-886497172,INNKJØP & DRIFTSPARTNER AS,Hemsedal,Viken,66
+886497172,INNKJØP & DRIFTSPARTNER AS,Hemsedal,Viken,69
 886512422,KIROPRAKTIKK OG HELSE FOR ALLE AS,Ulstein,Møre og Romsdal,2
 886512902,SECURITAS TRANSPORT AVIATION SECURITY AS AVD FLORØ,Kinn,Vestland,4
 886514492,BIK BOK VÅGEN AVD 61 B,Sandnes,Rogaland,2
@@ -15377,7 +15377,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 916448856,THE CREATORS COMMUNITY AS,Oslo,Oslo,7
 916449003,CALL SYSTEMS NORGE AS,Tønsberg,Vestfold og Telemark,1
 916449275,ELVEBYEN BILPLEIE AS,Drammen,Viken,3
-916449283,NIRVAIR CAFE AS,Oslo,Oslo,1
+916449283,NIRVAIR CAFE AS,Oslo,Oslo,2
 916449518,L'OCCITANE NORGE AS AVD STRØMMEN STORSENTER,Lillestrøm,Viken,5
 916450613,MARTINSEN HVITEVARER SARPSBORG AS,Sarpsborg,Viken,2
 916451458,JESSHEIM PIZZERIA AS,Ullensaker,Viken,4
@@ -18205,7 +18205,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 918018379,MEKONOMEN SERVICES AS AVD RASTA,Kongsvinger,Innlandet,1
 918018530,HUSEVÅG ARKITEKTUR AS,Kinn,Vestland,2
 918018573,SENTRAL PERIO AS,Trondheim,Trøndelag - Trööndelage,6
-918018743,SPORT OUTLET HARSTAD 31 AS,Harstad,Troms og Finnmark - Romsa ja Finnmárku,4
+918018743,SPORT OUTLET HARSTAD 31 AS,Harstad,Troms og Finnmark - Romsa ja Finnmárku,5
 918018832,WADEST AS,Ullensvang,Vestland,1
 918018875,FINDE AS,Moss,Viken,1
 918018964,KVIK DRAMMEN AS,Lier,Viken,9
@@ -22009,6 +22009,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 919964103,PØLSEBAREN AS,Drammen,Viken,2
 919965339,MODUM FOTBALLKLUBB,Modum,Viken,1
 919966491,LISTEN TO BALJIT,Oslo,Oslo,15
+919967579,NORWAY CATCH AS,Sør-Varanger,Troms og Finnmark - Romsa ja Finnmárku,3
 919968788,AROI ASIA NAMSOS AS,Namsos,Trøndelag - Trööndelage,1
 919970200,SAFENORDIC AS,Bærum,Viken,3
 919970413,GAMNES & BROR AS,Sør-Varanger,Troms og Finnmark - Romsa ja Finnmárku,1
@@ -40737,7 +40738,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 973189913,KONTOR OG GRAFISK ALTA AS,Alta,Troms og Finnmark - Romsa ja Finnmárku,5
 973190024,SCANDIC VADSØ,Vadsø,Troms og Finnmark - Romsa ja Finnmárku,17
 973190032,NORDKAPPHALLEN,Nordkapp,Troms og Finnmark - Romsa ja Finnmárku,16
-973190040,SCANDIC ALTA,Alta,Troms og Finnmark - Romsa ja Finnmárku,49
+973190040,SCANDIC ALTA,Alta,Troms og Finnmark - Romsa ja Finnmárku,50
 973190059,SCANDIC HONNINGSVÅG,Nordkapp,Troms og Finnmark - Romsa ja Finnmárku,13
 973190067,SCANDIC KARASJOK,Kárášjohka - Karasjok,Troms og Finnmark - Romsa ja Finnmárku,18
 973190148,NORGES ARKTISKE STUDENTSAMSKIPNAD SPISESTEDER I ALTA,Alta,Troms og Finnmark - Romsa ja Finnmárku,1
