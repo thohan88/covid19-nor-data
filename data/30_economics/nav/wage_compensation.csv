@@ -2628,7 +2628,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 871761612,SAGSTUEN AS,Gjøvik,Innlandet,40
 871761892,NORLI AS AVD MANDAL,Lindesnes,Agder,1
 871762392,SANDBLOST AS,Kristiansund,Møre og Romsdal,2
-871762422,MING RESTAURANT AS,Lillehammer,Innlandet,4
+871762422,MING RESTAURANT AS,Lillehammer,Innlandet,6
 871763232,SANNAN BENSIN OG SERVICE AS,Steinkjer,Trøndelag - Trööndelage,5
 871764352,SELANDS BLOMSTER AS,Lyngdal,Agder,1
 871765332,HOTELL FRØYA AS,Frøya,Trøndelag - Trööndelage,29
@@ -44146,7 +44146,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 974207214,NORDLAND BETONGELEMENT AS,Narvik,Nordland,8
 974207281,AION SENTER FOR INTEG.MEDISIN,Østre Toten,Innlandet,4
 974207818,STEINKJER FARGESENTER AS,Steinkjer,Trøndelag - Trööndelage,1
-974207885,MØLLER BIL AS,Oslo,Oslo,5
+974207885,MØLLER BIL AS,Oslo,Oslo,6
 974208180,NARVESEN 458 SANDVIKA STORSENTER,Bærum,Viken,1
 974208199,NARVESEN KIOSKEN 182,Ullensaker,Viken,2
 974208296,SYNSAM GROUP NORWAY AS AVD MADLAVEIEN,Stavanger,Rogaland,6
