@@ -311,6 +311,9 @@ NO,2020-12-19,Retail & recreation,-12.0
 NO,2020-12-20,Retail & recreation,17.0
 NO,2020-12-21,Retail & recreation,25.0
 NO,2020-12-22,Retail & recreation,24.0
+NO,2020-12-23,Retail & recreation,7.0
+NO,2020-12-24,Retail & recreation,-67.0
+NO,2020-12-25,Retail & recreation,-88.0
 NO,2020-02-15,Grocery & pharmacy,1.0
 NO,2020-02-16,Grocery & pharmacy,3.0
 NO,2020-02-17,Grocery & pharmacy,0.0
@@ -623,6 +626,9 @@ NO,2020-12-19,Grocery & pharmacy,0.0
 NO,2020-12-20,Grocery & pharmacy,127.0
 NO,2020-12-21,Grocery & pharmacy,22.0
 NO,2020-12-22,Grocery & pharmacy,33.0
+NO,2020-12-23,Grocery & pharmacy,36.0
+NO,2020-12-24,Grocery & pharmacy,-39.0
+NO,2020-12-25,Grocery & pharmacy,-92.0
 NO,2020-02-15,Parks,26.0
 NO,2020-02-16,Parks,-34.0
 NO,2020-02-17,Parks,13.0
@@ -935,6 +941,9 @@ NO,2020-12-19,Parks,-17.0
 NO,2020-12-20,Parks,-35.0
 NO,2020-12-21,Parks,2.0
 NO,2020-12-22,Parks,-3.0
+NO,2020-12-23,Parks,9.0
+NO,2020-12-24,Parks,-6.0
+NO,2020-12-25,Parks,16.0
 NO,2020-02-15,Transit stations,7.0
 NO,2020-02-16,Transit stations,-5.0
 NO,2020-02-17,Transit stations,-5.0
@@ -1247,6 +1256,9 @@ NO,2020-12-19,Transit stations,-38.0
 NO,2020-12-20,Transit stations,-43.0
 NO,2020-12-21,Transit stations,-41.0
 NO,2020-12-22,Transit stations,-41.0
+NO,2020-12-23,Transit stations,-46.0
+NO,2020-12-24,Transit stations,-71.0
+NO,2020-12-25,Transit stations,-77.0
 NO,2020-02-15,Workplace,-1.0
 NO,2020-02-16,Workplace,-3.0
 NO,2020-02-17,Workplace,-12.0
@@ -1559,6 +1571,9 @@ NO,2020-12-19,Workplace,-12.0
 NO,2020-12-20,Workplace,-5.0
 NO,2020-12-21,Workplace,-39.0
 NO,2020-12-22,Workplace,-43.0
+NO,2020-12-23,Workplace,-56.0
+NO,2020-12-24,Workplace,-82.0
+NO,2020-12-25,Workplace,-87.0
 NO,2020-02-15,Residential,-1.0
 NO,2020-02-16,Residential,1.0
 NO,2020-02-17,Residential,2.0
@@ -1871,3 +1886,6 @@ NO,2020-12-19,Residential,5.0
 NO,2020-12-20,Residential,6.0
 NO,2020-12-21,Residential,9.0
 NO,2020-12-22,Residential,9.0
+NO,2020-12-23,Residential,12.0
+NO,2020-12-24,Residential,18.0
+NO,2020-12-25,Residential,24.0
