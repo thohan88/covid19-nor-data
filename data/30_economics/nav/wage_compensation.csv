@@ -447,7 +447,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 813846942,ADVOKAT HELGHEIM AS,Oslo,Oslo,1
 813860392,TIND ARKITEKTUR AS,Vågan,Nordland,2
 813865092,SOS VEIHJELP AS,Bærum,Viken,1
-813865092,SOS VEIHJELP AS AVD OSLO,Bærum,Viken,29
+813865092,SOS VEIHJELP AS AVD OSLO,Bærum,Viken,30
 813867052,KLUBB KOK AS,Bergen,Vestland,47
 813869802,SAREPTA,Molde,Møre og Romsdal,4
 813873982,JARLE HANSEN TAXI,Lillesand,Agder,1
@@ -3455,7 +3455,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 873124792,MØLLER BIL HEDMARK AS AVD SALG HAMAR,Ringsaker,Innlandet,3
 873125462,JACK & JONES ELVERUM 881366,Elverum,Innlandet,4
 873125632,MAARUD AS AVD DISENÅ,Sør-Odal,Innlandet,2
-873125772,NORLED AS,Stavanger,Rogaland,59
+873125772,NORLED AS,Stavanger,Rogaland,60
 873126582,GRUE TEKSTIL AS,Grue,Innlandet,2
 873126892,ØSTLENDINGEN AS AVD AVISFORLAG,Elverum,Innlandet,3
 873128402,TRØNDERBILENE AS AVD TYNSET,Tynset,Innlandet,21
@@ -47545,6 +47545,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 977349486,VOSSAKRINGLO AS,Voss,Vestland,7
 977349966,SYNSAM GROUP NORWAY AS AVD HARSTAD,Harstad,Troms og Finnmark - Romsa ja Finnmárku,3
 977350891,NORSK STORKJØKKEN AS,Vestby,Viken,1
+977350913,MENTA & PIPERITA AS,Trondheim,Trøndelag - Trööndelage,1
 977351030,SOFIEMYR BIL AS,Nordre Follo,Viken,4
 977351936,NOBIA NORWAY AS HOVEDKONTOR,Nordre Follo,Viken,26
 977352347,SANDE BYGG AS,Randaberg,Rogaland,2
@@ -60031,6 +60032,7 @@ organisation_number,company_name,Kommune,Fylke,n_employees
 989816756,BYRKJEDALSTUNET LYS AS,Gjesdal,Rogaland,5
 989817914,TNB HARSTAD AS,Harstad,Troms og Finnmark - Romsa ja Finnmárku,5
 989818295,GAS SUPPLY AS,Sandefjord,Vestfold og Telemark,1
+989819976,ACNE NORWAY AS,Oslo,Oslo,21
 989820354,PS CREW BERGEN,Bergen,Vestland,36
 989820958,AVENY EIENDOMSMEGLING AS,Oslo,Oslo,10
 989821237,ASBJØRN MYRO,Ål,Viken,1
