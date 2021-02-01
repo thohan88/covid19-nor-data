@@ -346,6 +346,9 @@ NO,2021-01-23,Retail & recreation,-33.0
 NO,2021-01-24,Retail & recreation,-52.0
 NO,2021-01-25,Retail & recreation,-28.0
 NO,2021-01-26,Retail & recreation,-29.0
+NO,2021-01-27,Retail & recreation,-29.0
+NO,2021-01-28,Retail & recreation,-29.0
+NO,2021-01-29,Retail & recreation,-29.0
 NO,2020-02-15,Grocery & pharmacy,1.0
 NO,2020-02-16,Grocery & pharmacy,3.0
 NO,2020-02-17,Grocery & pharmacy,0.0
@@ -693,6 +696,9 @@ NO,2021-01-23,Grocery & pharmacy,-9.0
 NO,2021-01-24,Grocery & pharmacy,-23.0
 NO,2021-01-25,Grocery & pharmacy,-11.0
 NO,2021-01-26,Grocery & pharmacy,-11.0
+NO,2021-01-27,Grocery & pharmacy,-10.0
+NO,2021-01-28,Grocery & pharmacy,-8.0
+NO,2021-01-29,Grocery & pharmacy,-7.0
 NO,2020-02-15,Parks,26.0
 NO,2020-02-16,Parks,-34.0
 NO,2020-02-17,Parks,13.0
@@ -1040,6 +1046,9 @@ NO,2021-01-23,Parks,16.0
 NO,2021-01-24,Parks,-6.0
 NO,2021-01-25,Parks,9.0
 NO,2021-01-26,Parks,15.0
+NO,2021-01-27,Parks,13.0
+NO,2021-01-28,Parks,13.0
+NO,2021-01-29,Parks,4.0
 NO,2020-02-15,Transit stations,7.0
 NO,2020-02-16,Transit stations,-5.0
 NO,2020-02-17,Transit stations,-5.0
@@ -1387,6 +1396,9 @@ NO,2021-01-23,Transit stations,-49.0
 NO,2021-01-24,Transit stations,-54.0
 NO,2021-01-25,Transit stations,-50.0
 NO,2021-01-26,Transit stations,-50.0
+NO,2021-01-27,Transit stations,-51.0
+NO,2021-01-28,Transit stations,-50.0
+NO,2021-01-29,Transit stations,-51.0
 NO,2020-02-15,Workplace,-1.0
 NO,2020-02-16,Workplace,-3.0
 NO,2020-02-17,Workplace,-12.0
@@ -1734,6 +1746,9 @@ NO,2021-01-23,Workplace,-15.0
 NO,2021-01-24,Workplace,-17.0
 NO,2021-01-25,Workplace,-30.0
 NO,2021-01-26,Workplace,-30.0
+NO,2021-01-27,Workplace,-28.0
+NO,2021-01-28,Workplace,-28.0
+NO,2021-01-29,Workplace,-28.0
 NO,2020-02-15,Residential,-1.0
 NO,2020-02-16,Residential,1.0
 NO,2020-02-17,Residential,2.0
@@ -2081,3 +2096,6 @@ NO,2021-01-23,Residential,7.0
 NO,2021-01-24,Residential,6.0
 NO,2021-01-25,Residential,11.0
 NO,2021-01-26,Residential,11.0
+NO,2021-01-27,Residential,12.0
+NO,2021-01-28,Residential,11.0
+NO,2021-01-29,Residential,12.0
