@@ -356,6 +356,14 @@ NO,2021-02-02,Retail & recreation,-26.0
 NO,2021-02-03,Retail & recreation,-23.0
 NO,2021-02-04,Retail & recreation,-24.0
 NO,2021-02-05,Retail & recreation,-25.0
+NO,2021-02-06,Retail & recreation,-31.0
+NO,2021-02-07,Retail & recreation,-46.0
+NO,2021-02-08,Retail & recreation,-25.0
+NO,2021-02-09,Retail & recreation,-24.0
+NO,2021-02-10,Retail & recreation,-25.0
+NO,2021-02-11,Retail & recreation,-23.0
+NO,2021-02-12,Retail & recreation,-21.0
+NO,2021-02-13,Retail & recreation,-24.0
 NO,2020-02-15,Grocery & pharmacy,1.0
 NO,2020-02-16,Grocery & pharmacy,3.0
 NO,2020-02-17,Grocery & pharmacy,0.0
@@ -713,6 +721,14 @@ NO,2021-02-02,Grocery & pharmacy,-9.0
 NO,2021-02-03,Grocery & pharmacy,-8.0
 NO,2021-02-04,Grocery & pharmacy,-6.0
 NO,2021-02-05,Grocery & pharmacy,-6.0
+NO,2021-02-06,Grocery & pharmacy,-8.0
+NO,2021-02-07,Grocery & pharmacy,-15.0
+NO,2021-02-08,Grocery & pharmacy,-10.0
+NO,2021-02-09,Grocery & pharmacy,-7.0
+NO,2021-02-10,Grocery & pharmacy,-7.0
+NO,2021-02-11,Grocery & pharmacy,-1.0
+NO,2021-02-12,Grocery & pharmacy,-1.0
+NO,2021-02-13,Grocery & pharmacy,0.0
 NO,2020-02-15,Parks,26.0
 NO,2020-02-16,Parks,-34.0
 NO,2020-02-17,Parks,13.0
@@ -1070,6 +1086,14 @@ NO,2021-02-02,Parks,3.0
 NO,2021-02-03,Parks,6.0
 NO,2021-02-04,Parks,2.0
 NO,2021-02-05,Parks,1.0
+NO,2021-02-06,Parks,29.0
+NO,2021-02-07,Parks,1.0
+NO,2021-02-08,Parks,2.0
+NO,2021-02-09,Parks,4.0
+NO,2021-02-10,Parks,2.0
+NO,2021-02-11,Parks,3.0
+NO,2021-02-12,Parks,3.0
+NO,2021-02-13,Parks,33.0
 NO,2020-02-15,Transit stations,7.0
 NO,2020-02-16,Transit stations,-5.0
 NO,2020-02-17,Transit stations,-5.0
@@ -1427,6 +1451,14 @@ NO,2021-02-02,Transit stations,-49.0
 NO,2021-02-03,Transit stations,-48.0
 NO,2021-02-04,Transit stations,-48.0
 NO,2021-02-05,Transit stations,-47.0
+NO,2021-02-06,Transit stations,-47.0
+NO,2021-02-07,Transit stations,-50.0
+NO,2021-02-08,Transit stations,-47.0
+NO,2021-02-09,Transit stations,-47.0
+NO,2021-02-10,Transit stations,-48.0
+NO,2021-02-11,Transit stations,-47.0
+NO,2021-02-12,Transit stations,-46.0
+NO,2021-02-13,Transit stations,-46.0
 NO,2020-02-15,Workplace,-1.0
 NO,2020-02-16,Workplace,-3.0
 NO,2020-02-17,Workplace,-12.0
@@ -1784,6 +1816,14 @@ NO,2021-02-02,Workplace,-28.0
 NO,2021-02-03,Workplace,-26.0
 NO,2021-02-04,Workplace,-26.0
 NO,2021-02-05,Workplace,-24.0
+NO,2021-02-06,Workplace,-13.0
+NO,2021-02-07,Workplace,-15.0
+NO,2021-02-08,Workplace,-27.0
+NO,2021-02-09,Workplace,-26.0
+NO,2021-02-10,Workplace,-25.0
+NO,2021-02-11,Workplace,-25.0
+NO,2021-02-12,Workplace,-24.0
+NO,2021-02-13,Workplace,-13.0
 NO,2020-02-15,Residential,-1.0
 NO,2020-02-16,Residential,1.0
 NO,2020-02-17,Residential,2.0
@@ -2141,3 +2181,11 @@ NO,2021-02-02,Residential,11.0
 NO,2021-02-03,Residential,10.0
 NO,2021-02-04,Residential,10.0
 NO,2021-02-05,Residential,10.0
+NO,2021-02-06,Residential,6.0
+NO,2021-02-07,Residential,5.0
+NO,2021-02-08,Residential,10.0
+NO,2021-02-09,Residential,10.0
+NO,2021-02-10,Residential,11.0
+NO,2021-02-11,Residential,11.0
+NO,2021-02-12,Residential,10.0
+NO,2021-02-13,Residential,5.0
