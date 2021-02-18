@@ -5,6 +5,7 @@ source("code/utils.R")
 ############################## #
 
 source_possibly <- possibly(source, otherwise = "NA")
+py_run_possibly <- possibly(reticulate::py_run_file, otherwise = "NA")
 
 files_data <- dir("code", full.names = TRUE, recursive = TRUE, pattern = "R$") %>%
   tibble(file_name = .) %>% 
@@ -13,11 +14,11 @@ files_data <- dir("code", full.names = TRUE, recursive = TRUE, pattern = "R$") %
 
 foo <- map(files_data$file_name, source_possibly)
 
-reticulate::py_run_file("code/03_nav/02_wage_compensation/01_get_wage_compensation.py")
-reticulate::py_run_file("code/04_fhi_daily_reports/01_get_number_of_tests.py")
-reticulate::py_run_file("code/04_fhi_daily_reports/02_get_number_of_deaths.py")
-reticulate::py_run_file("code/05_google/01_get_google_covid19.py")
-reticulate::py_run_file("code/07_tax_administration/01_get_business_compensation_scheme.py")
+py_run_possibly("code/03_nav/02_wage_compensation/01_get_wage_compensation.py")
+py_run_possibly("code/04_fhi_daily_reports/01_get_number_of_tests.py")
+py_run_possibly("code/04_fhi_daily_reports/02_get_number_of_deaths.py")
+py_run_possibly("code/05_google/01_get_google_covid19.py")
+py_run_possibly("code/07_tax_administration/01_get_business_compensation_scheme.py")
 
 ############################## #
 # Refresh examples
