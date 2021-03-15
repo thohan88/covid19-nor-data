@@ -388,6 +388,9 @@ NO,2021-03-06,Retail & recreation,-31.0
 NO,2021-03-07,Retail & recreation,-37.0
 NO,2021-03-08,Retail & recreation,-17.0
 NO,2021-03-09,Retail & recreation,-19.0
+NO,2021-03-10,Retail & recreation,-24.0
+NO,2021-03-11,Retail & recreation,-29.0
+NO,2021-03-12,Retail & recreation,-19.0
 NO,2020-02-15,Grocery & pharmacy,1.0
 NO,2020-02-16,Grocery & pharmacy,3.0
 NO,2020-02-17,Grocery & pharmacy,0.0
@@ -777,6 +780,9 @@ NO,2021-03-06,Grocery & pharmacy,-6.0
 NO,2021-03-07,Grocery & pharmacy,-2.0
 NO,2021-03-08,Grocery & pharmacy,0.0
 NO,2021-03-09,Grocery & pharmacy,-1.0
+NO,2021-03-10,Grocery & pharmacy,-3.0
+NO,2021-03-11,Grocery & pharmacy,-5.0
+NO,2021-03-12,Grocery & pharmacy,3.0
 NO,2020-02-15,Parks,26.0
 NO,2020-02-16,Parks,-34.0
 NO,2020-02-17,Parks,13.0
@@ -1166,6 +1172,9 @@ NO,2021-03-06,Parks,4.0
 NO,2021-03-07,Parks,9.0
 NO,2021-03-08,Parks,16.0
 NO,2021-03-09,Parks,32.0
+NO,2021-03-10,Parks,-11.0
+NO,2021-03-11,Parks,-18.0
+NO,2021-03-12,Parks,4.0
 NO,2020-02-15,Transit stations,7.0
 NO,2020-02-16,Transit stations,-5.0
 NO,2020-02-17,Transit stations,-5.0
@@ -1555,6 +1564,9 @@ NO,2021-03-06,Transit stations,-47.0
 NO,2021-03-07,Transit stations,-43.0
 NO,2021-03-08,Transit stations,-42.0
 NO,2021-03-09,Transit stations,-41.0
+NO,2021-03-10,Transit stations,-47.0
+NO,2021-03-11,Transit stations,-46.0
+NO,2021-03-12,Transit stations,-43.0
 NO,2020-02-15,Workplace,-1.0
 NO,2020-02-16,Workplace,-3.0
 NO,2020-02-17,Workplace,-12.0
@@ -1944,6 +1956,9 @@ NO,2021-03-06,Workplace,-14.0
 NO,2021-03-07,Workplace,-11.0
 NO,2021-03-08,Workplace,-25.0
 NO,2021-03-09,Workplace,-25.0
+NO,2021-03-10,Workplace,-25.0
+NO,2021-03-11,Workplace,-27.0
+NO,2021-03-12,Workplace,-24.0
 NO,2020-02-15,Residential,-1.0
 NO,2020-02-16,Residential,1.0
 NO,2020-02-17,Residential,2.0
@@ -2333,3 +2348,6 @@ NO,2021-03-06,Residential,6.0
 NO,2021-03-07,Residential,4.0
 NO,2021-03-08,Residential,9.0
 NO,2021-03-09,Residential,8.0
+NO,2021-03-10,Residential,11.0
+NO,2021-03-11,Residential,12.0
+NO,2021-03-12,Residential,10.0
