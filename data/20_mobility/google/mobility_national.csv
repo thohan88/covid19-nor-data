@@ -405,6 +405,7 @@ NO,2021-03-23,Retail & recreation,-20.0
 NO,2021-03-24,Retail & recreation,-21.0
 NO,2021-03-25,Retail & recreation,-23.0
 NO,2021-03-26,Retail & recreation,-29.0
+NO,2021-03-27,Retail & recreation,-38.0
 NO,2020-02-15,Grocery & pharmacy,1.0
 NO,2020-02-16,Grocery & pharmacy,3.0
 NO,2020-02-17,Grocery & pharmacy,0.0
@@ -811,6 +812,7 @@ NO,2021-03-23,Grocery & pharmacy,2.0
 NO,2021-03-24,Grocery & pharmacy,5.0
 NO,2021-03-25,Grocery & pharmacy,8.0
 NO,2021-03-26,Grocery & pharmacy,1.0
+NO,2021-03-27,Grocery & pharmacy,-3.0
 NO,2020-02-15,Parks,26.0
 NO,2020-02-16,Parks,-34.0
 NO,2020-02-17,Parks,13.0
@@ -1217,6 +1219,7 @@ NO,2021-03-23,Parks,34.0
 NO,2021-03-24,Parks,25.0
 NO,2021-03-25,Parks,25.0
 NO,2021-03-26,Parks,4.0
+NO,2021-03-27,Parks,34.0
 NO,2020-02-15,Transit stations,7.0
 NO,2020-02-16,Transit stations,-5.0
 NO,2020-02-17,Transit stations,-5.0
@@ -1623,6 +1626,7 @@ NO,2021-03-23,Transit stations,-43.0
 NO,2021-03-24,Transit stations,-43.0
 NO,2021-03-25,Transit stations,-43.0
 NO,2021-03-26,Transit stations,-43.0
+NO,2021-03-27,Transit stations,-45.0
 NO,2020-02-15,Workplace,-1.0
 NO,2020-02-16,Workplace,-3.0
 NO,2020-02-17,Workplace,-12.0
@@ -2029,6 +2033,7 @@ NO,2021-03-23,Workplace,-28.0
 NO,2021-03-24,Workplace,-27.0
 NO,2021-03-25,Workplace,-29.0
 NO,2021-03-26,Workplace,-28.0
+NO,2021-03-27,Workplace,-11.0
 NO,2020-02-15,Residential,-1.0
 NO,2020-02-16,Residential,1.0
 NO,2020-02-17,Residential,2.0
@@ -2435,3 +2440,4 @@ NO,2021-03-23,Residential,10.0
 NO,2021-03-24,Residential,10.0
 NO,2021-03-25,Residential,10.0
 NO,2021-03-26,Residential,11.0
+NO,2021-03-27,Residential,5.0
