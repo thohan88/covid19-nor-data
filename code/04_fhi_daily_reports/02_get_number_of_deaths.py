@@ -1,26 +1,36 @@
 from sys import path
-path.append('code/')
 import re
 import pandas as pd
-from datetime import datetime
+
+path.append("code")
 from utils import get_fhi_datafiles
 
 updated = False
-df = pd.read_csv('data/04_deaths/deaths_total_fhi.csv')
+df = pd.read_csv('data/04_deaths/deaths_total_fhi.csv', index_col="date")
 datafiles = get_fhi_datafiles('data_covid19_demographics')
 
 for datafile in datafiles:
-    date = re.search('\d{4}-\d{2}-\d{2}', datafile).group()
+    match = re.search(r"\d{4}-\d{2}-\d{2}", datafile)
+    if match:
+        date = match.group()
+    else:
+        # fhi now includes a 'latest' file
+        print(f"No date in {datafile}")
+        continue
 
-    if df['date'].str.contains(date).sum() == 0:
+    if date not in df.index:
+        print(f"Fetching {datafile}")
         data = pd.read_csv(datafile)
-        n = data.loc[(data['age'] == 'total') & (data['sex'] == 'total'), ['n']].values[0][0]
-
-        df.loc[-1] = [date, n]
-        df.index = df.index + 1
-        df = df.sort_index()
+        # drop internal totals, do sums ourselves
+        # csvs stopped including redundant totals on 2021-03-09
+        data = data[(data["sex"] != "total") & (data["age"] != "total")]
+        # store new total
+        df.loc[date, "deaths"] = data.n.sum()
         updated = True
 
+
 if updated:
-    df.to_csv('data/04_deaths/deaths_total_fhi.csv', encoding='utf-8', index=False)
-    df.to_excel('data/04_deaths/deaths_total_fhi.xlsx', encoding='utf-8', index=False)
+    print("Writing updated deaths_total_fhi")
+    df = df.astype({'deaths': int}).sort_index(ascending=False)
+    df.to_csv("data/04_deaths/deaths_total_fhi.csv", encoding="utf-8")
+    df.to_excel("data/04_deaths/deaths_total_fhi.xlsx", encoding="utf-8")
