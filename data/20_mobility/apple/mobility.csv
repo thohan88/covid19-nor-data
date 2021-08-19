@@ -15157,3 +15157,29 @@ sub-region,Vestland,transit,NA,NA,Norway,2021-08-17,253.75
 sub-region,Viken,driving,NA,NA,Norway,2021-08-17,155.33
 sub-region,Viken,walking,NA,NA,Norway,2021-08-17,208.84
 sub-region,Viken,transit,NA,NA,Norway,2021-08-17,178.51
+country/region,Norway,driving,Norge,NA,NA,2021-08-18,184.34
+country/region,Norway,transit,Norge,NA,NA,2021-08-18,220.72
+country/region,Norway,walking,Norge,NA,NA,2021-08-18,254.48
+city,Oslo,driving,NA,NA,Norway,2021-08-18,164.78
+city,Oslo,transit,NA,NA,Norway,2021-08-18,246.99
+city,Oslo,walking,NA,NA,Norway,2021-08-18,223.05
+sub-region,Agder,driving,NA,NA,Norway,2021-08-18,284.93
+sub-region,Agder,walking,NA,NA,Norway,2021-08-18,485.98
+sub-region,Innlandet,driving,NA,NA,Norway,2021-08-18,199.85
+sub-region,Innlandet,walking,NA,NA,Norway,2021-08-18,264.32
+sub-region,Møre og Romsdal,driving,NA,NA,Norway,2021-08-18,246.23
+sub-region,Nordland,driving,NA,NA,Norway,2021-08-18,268.06
+sub-region,Rogaland,driving,NA,NA,Norway,2021-08-18,178.87
+sub-region,Rogaland,walking,NA,NA,Norway,2021-08-18,245.64
+sub-region,Troms og Finnmark,driving,NA,NA,Norway,2021-08-18,173.67
+sub-region,Troms og Finnmark,walking,NA,NA,Norway,2021-08-18,137.75
+sub-region,Trøndelag,driving,NA,NA,Norway,2021-08-18,212.9
+sub-region,Trøndelag,walking,NA,NA,Norway,2021-08-18,346.18
+sub-region,Vestfold og Telemark,driving,NA,NA,Norway,2021-08-18,170.98
+sub-region,Vestfold og Telemark,walking,NA,NA,Norway,2021-08-18,217.22
+sub-region,Vestland,driving,NA,NA,Norway,2021-08-18,220.84
+sub-region,Vestland,walking,NA,NA,Norway,2021-08-18,369.73
+sub-region,Vestland,transit,NA,NA,Norway,2021-08-18,266.64
+sub-region,Viken,driving,NA,NA,Norway,2021-08-18,153.7
+sub-region,Viken,walking,NA,NA,Norway,2021-08-18,203.59
+sub-region,Viken,transit,NA,NA,Norway,2021-08-18,175.7
