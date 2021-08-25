@@ -549,6 +549,10 @@ NO,2021-08-14,Retail & recreation,9.0
 NO,2021-08-15,Retail & recreation,15.0
 NO,2021-08-16,Retail & recreation,21.0
 NO,2021-08-17,Retail & recreation,18.0
+NO,2021-08-18,Retail & recreation,15.0
+NO,2021-08-19,Retail & recreation,17.0
+NO,2021-08-20,Retail & recreation,12.0
+NO,2021-08-21,Retail & recreation,8.0
 NO,2020-02-15,Grocery & pharmacy,1.0
 NO,2020-02-16,Grocery & pharmacy,3.0
 NO,2020-02-17,Grocery & pharmacy,0.0
@@ -1099,6 +1103,10 @@ NO,2021-08-14,Grocery & pharmacy,10.0
 NO,2021-08-15,Grocery & pharmacy,40.0
 NO,2021-08-16,Grocery & pharmacy,21.0
 NO,2021-08-17,Grocery & pharmacy,19.0
+NO,2021-08-18,Grocery & pharmacy,18.0
+NO,2021-08-19,Grocery & pharmacy,22.0
+NO,2021-08-20,Grocery & pharmacy,14.0
+NO,2021-08-21,Grocery & pharmacy,9.0
 NO,2020-02-15,Parks,26.0
 NO,2020-02-16,Parks,-34.0
 NO,2020-02-17,Parks,13.0
@@ -1649,6 +1657,10 @@ NO,2021-08-14,Parks,101.0
 NO,2021-08-15,Parks,58.0
 NO,2021-08-16,Parks,116.0
 NO,2021-08-17,Parks,139.0
+NO,2021-08-18,Parks,94.0
+NO,2021-08-19,Parks,113.0
+NO,2021-08-20,Parks,115.0
+NO,2021-08-21,Parks,156.0
 NO,2020-02-15,Transit stations,7.0
 NO,2020-02-16,Transit stations,-5.0
 NO,2020-02-17,Transit stations,-5.0
@@ -2199,6 +2211,10 @@ NO,2021-08-14,Transit stations,-4.0
 NO,2021-08-15,Transit stations,-5.0
 NO,2021-08-16,Transit stations,-15.0
 NO,2021-08-17,Transit stations,-15.0
+NO,2021-08-18,Transit stations,-17.0
+NO,2021-08-19,Transit stations,-15.0
+NO,2021-08-20,Transit stations,-11.0
+NO,2021-08-21,Transit stations,1.0
 NO,2020-02-15,Workplace,-1.0
 NO,2020-02-16,Workplace,-3.0
 NO,2020-02-17,Workplace,-12.0
@@ -2749,6 +2765,10 @@ NO,2021-08-14,Workplace,-1.0
 NO,2021-08-15,Workplace,5.0
 NO,2021-08-16,Workplace,-30.0
 NO,2021-08-17,Workplace,-29.0
+NO,2021-08-18,Workplace,-26.0
+NO,2021-08-19,Workplace,-25.0
+NO,2021-08-20,Workplace,-24.0
+NO,2021-08-21,Workplace,3.0
 NO,2020-02-15,Residential,-1.0
 NO,2020-02-16,Residential,1.0
 NO,2020-02-17,Residential,2.0
@@ -3299,3 +3319,7 @@ NO,2021-08-14,Residential,-1.0
 NO,2021-08-15,Residential,-1.0
 NO,2021-08-16,Residential,4.0
 NO,2021-08-17,Residential,3.0
+NO,2021-08-18,Residential,4.0
+NO,2021-08-19,Residential,3.0
+NO,2021-08-20,Residential,1.0
+NO,2021-08-21,Residential,-3.0
