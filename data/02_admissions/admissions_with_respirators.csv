@@ -514,6 +514,7 @@ date,health_reg_name,admissions,respirators
 2021-10-25,Helse Midt,12,1
 2021-10-26,Helse Midt,13,1
 2021-10-27,Helse Midt,10,1
+2021-10-28,Helse Midt,11,1
 2020-03-08,Helse Nord,0,0
 2020-03-09,Helse Nord,0,0
 2020-03-10,Helse Nord,0,0
@@ -1029,6 +1030,7 @@ date,health_reg_name,admissions,respirators
 2021-10-25,Helse Nord,23,0
 2021-10-26,Helse Nord,18,0
 2021-10-27,Helse Nord,17,3
+2021-10-28,Helse Nord,18,3
 2020-03-08,Helse Sør-Øst,0,0
 2020-03-09,Helse Sør-Øst,2,0
 2020-03-10,Helse Sør-Øst,7,0
@@ -1544,6 +1546,7 @@ date,health_reg_name,admissions,respirators
 2021-10-25,Helse Sør-Øst,77,13
 2021-10-26,Helse Sør-Øst,68,13
 2021-10-27,Helse Sør-Øst,67,12
+2021-10-28,Helse Sør-Øst,71,11
 2020-03-08,Helse Vest,0,0
 2020-03-09,Helse Vest,0,0
 2020-03-10,Helse Vest,0,0
@@ -2059,3 +2062,4 @@ date,health_reg_name,admissions,respirators
 2021-10-25,Helse Vest,13,0
 2021-10-26,Helse Vest,7,0
 2021-10-27,Helse Vest,7,0
+2021-10-28,Helse Vest,7,1
