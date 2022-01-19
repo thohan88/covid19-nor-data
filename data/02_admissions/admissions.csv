@@ -585,6 +585,7 @@ date,health_org_name,region,admissions
 2022-01-16,Helse Møre og Romsdal,Midt,2
 2022-01-17,Helse Møre og Romsdal,Midt,4
 2022-01-18,Helse Møre og Romsdal,Midt,3
+2022-01-19,Helse Møre og Romsdal,Midt,3
 2020-03-08,Helse Nord-Trøndelag,Midt,0
 2020-03-09,Helse Nord-Trøndelag,Midt,0
 2020-03-10,Helse Nord-Trøndelag,Midt,1
@@ -1171,6 +1172,7 @@ date,health_org_name,region,admissions
 2022-01-16,Helse Nord-Trøndelag,Midt,2
 2022-01-17,Helse Nord-Trøndelag,Midt,2
 2022-01-18,Helse Nord-Trøndelag,Midt,2
+2022-01-19,Helse Nord-Trøndelag,Midt,0
 2020-03-08,St. Olavs hospital ,Midt,0
 2020-03-09,St. Olavs hospital ,Midt,0
 2020-03-10,St. Olavs hospital ,Midt,0
@@ -1757,6 +1759,7 @@ date,health_org_name,region,admissions
 2022-01-16,St. Olavs hospital ,Midt,21
 2022-01-17,St. Olavs hospital ,Midt,20
 2022-01-18,St. Olavs hospital ,Midt,25
+2022-01-19,St. Olavs hospital ,Midt,23
 2020-03-08,Finnmarkssykehuset HF,Nord,0
 2020-03-09,Finnmarkssykehuset HF,Nord,0
 2020-03-10,Finnmarkssykehuset HF,Nord,0
@@ -2343,6 +2346,7 @@ date,health_org_name,region,admissions
 2022-01-16,Finnmarkssykehuset HF,Nord,1
 2022-01-17,Finnmarkssykehuset HF,Nord,1
 2022-01-18,Finnmarkssykehuset HF,Nord,1
+2022-01-19,Finnmarkssykehuset HF,Nord,1
 2020-03-08,Helgelandssykehuset HF,Nord,0
 2020-03-09,Helgelandssykehuset HF,Nord,0
 2020-03-10,Helgelandssykehuset HF,Nord,0
@@ -2929,6 +2933,7 @@ date,health_org_name,region,admissions
 2022-01-16,Helgelandssykehuset HF,Nord,0
 2022-01-17,Helgelandssykehuset HF,Nord,1
 2022-01-18,Helgelandssykehuset HF,Nord,0
+2022-01-19,Helgelandssykehuset HF,Nord,0
 2020-03-08,Nordlandssykehuset HF,Nord,0
 2020-03-09,Nordlandssykehuset HF,Nord,0
 2020-03-10,Nordlandssykehuset HF,Nord,0
@@ -3515,6 +3520,7 @@ date,health_org_name,region,admissions
 2022-01-16,Nordlandssykehuset HF,Nord,7
 2022-01-17,Nordlandssykehuset HF,Nord,7
 2022-01-18,Nordlandssykehuset HF,Nord,7
+2022-01-19,Nordlandssykehuset HF,Nord,5
 2020-03-08,Universitetssykehuset Nord-Norge HF,Nord,0
 2020-03-09,Universitetssykehuset Nord-Norge HF,Nord,0
 2020-03-10,Universitetssykehuset Nord-Norge HF,Nord,0
@@ -4101,6 +4107,7 @@ date,health_org_name,region,admissions
 2022-01-16,Universitetssykehuset Nord-Norge HF,Nord,2
 2022-01-17,Universitetssykehuset Nord-Norge HF,Nord,3
 2022-01-18,Universitetssykehuset Nord-Norge HF,Nord,4
+2022-01-19,Universitetssykehuset Nord-Norge HF,Nord,5
 2020-03-08,Akershus universitetssykehus HF,Sør-Øst,0
 2020-03-09,Akershus universitetssykehus HF,Sør-Øst,0
 2020-03-10,Akershus universitetssykehus HF,Sør-Øst,2
@@ -4687,6 +4694,7 @@ date,health_org_name,region,admissions
 2022-01-16,Akershus universitetssykehus HF,Sør-Øst,31
 2022-01-17,Akershus universitetssykehus HF,Sør-Øst,29
 2022-01-18,Akershus universitetssykehus HF,Sør-Øst,30
+2022-01-19,Akershus universitetssykehus HF,Sør-Øst,27
 2020-03-08,Oslo universitetssykehus HF,Sør-Øst,0
 2020-03-09,Oslo universitetssykehus HF,Sør-Øst,0
 2020-03-10,Oslo universitetssykehus HF,Sør-Øst,2
@@ -5273,6 +5281,7 @@ date,health_org_name,region,admissions
 2022-01-16,Oslo universitetssykehus HF,Sør-Øst,40
 2022-01-17,Oslo universitetssykehus HF,Sør-Øst,43
 2022-01-18,Oslo universitetssykehus HF,Sør-Øst,42
+2022-01-19,Oslo universitetssykehus HF,Sør-Øst,45
 2020-03-08,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,0
 2020-03-09,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,0
 2020-03-10,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,0
@@ -5859,6 +5868,7 @@ date,health_org_name,region,admissions
 2022-01-16,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,9
 2022-01-17,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,12
 2022-01-18,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,13
+2022-01-19,Private med avtale med Helse Sør-Øst i Oslo,Sør-Øst,17
 2020-03-08,Sørlandet sykehus HF,Sør-Øst,0
 2020-03-09,Sørlandet sykehus HF,Sør-Øst,0
 2020-03-10,Sørlandet sykehus HF,Sør-Øst,0
@@ -6445,6 +6455,7 @@ date,health_org_name,region,admissions
 2022-01-16,Sørlandet sykehus HF,Sør-Øst,8
 2022-01-17,Sørlandet sykehus HF,Sør-Øst,9
 2022-01-18,Sørlandet sykehus HF,Sør-Øst,7
+2022-01-19,Sørlandet sykehus HF,Sør-Øst,7
 2020-03-08,Sunnaas Sykehus HF,Sør-Øst,0
 2020-03-09,Sunnaas Sykehus HF,Sør-Øst,0
 2020-03-10,Sunnaas Sykehus HF,Sør-Øst,0
@@ -7031,6 +7042,7 @@ date,health_org_name,region,admissions
 2022-01-16,Sunnaas Sykehus HF,Sør-Øst,0
 2022-01-17,Sunnaas Sykehus HF,Sør-Øst,0
 2022-01-18,Sunnaas Sykehus HF,Sør-Øst,0
+2022-01-19,Sunnaas Sykehus HF,Sør-Øst,0
 2020-03-08,Sykehuset i Vestfold HF,Sør-Øst,0
 2020-03-09,Sykehuset i Vestfold HF,Sør-Øst,1
 2020-03-10,Sykehuset i Vestfold HF,Sør-Øst,1
@@ -7617,6 +7629,7 @@ date,health_org_name,region,admissions
 2022-01-16,Sykehuset i Vestfold HF,Sør-Øst,14
 2022-01-17,Sykehuset i Vestfold HF,Sør-Øst,12
 2022-01-18,Sykehuset i Vestfold HF,Sør-Øst,10
+2022-01-19,Sykehuset i Vestfold HF,Sør-Øst,12
 2020-03-08,Sykehuset Innlandet HF,Sør-Øst,0
 2020-03-09,Sykehuset Innlandet HF,Sør-Øst,0
 2020-03-10,Sykehuset Innlandet HF,Sør-Øst,0
@@ -8203,6 +8216,7 @@ date,health_org_name,region,admissions
 2022-01-16,Sykehuset Innlandet HF,Sør-Øst,8
 2022-01-17,Sykehuset Innlandet HF,Sør-Øst,9
 2022-01-18,Sykehuset Innlandet HF,Sør-Øst,10
+2022-01-19,Sykehuset Innlandet HF,Sør-Øst,9
 2020-03-08,Sykehuset Østfold HF,Sør-Øst,0
 2020-03-09,Sykehuset Østfold HF,Sør-Øst,0
 2020-03-10,Sykehuset Østfold HF,Sør-Øst,0
@@ -8789,6 +8803,7 @@ date,health_org_name,region,admissions
 2022-01-16,Sykehuset Østfold HF,Sør-Øst,12
 2022-01-17,Sykehuset Østfold HF,Sør-Øst,13
 2022-01-18,Sykehuset Østfold HF,Sør-Øst,16
+2022-01-19,Sykehuset Østfold HF,Sør-Øst,13
 2020-03-08,Sykehuset Telemark HF,Sør-Øst,0
 2020-03-09,Sykehuset Telemark HF,Sør-Øst,0
 2020-03-10,Sykehuset Telemark HF,Sør-Øst,0
@@ -9375,6 +9390,7 @@ date,health_org_name,region,admissions
 2022-01-16,Sykehuset Telemark HF,Sør-Øst,8
 2022-01-17,Sykehuset Telemark HF,Sør-Øst,8
 2022-01-18,Sykehuset Telemark HF,Sør-Øst,7
+2022-01-19,Sykehuset Telemark HF,Sør-Øst,6
 2020-03-08,Vestre Viken HF,Sør-Øst,0
 2020-03-09,Vestre Viken HF,Sør-Øst,1
 2020-03-10,Vestre Viken HF,Sør-Øst,2
@@ -9961,6 +9977,7 @@ date,health_org_name,region,admissions
 2022-01-16,Vestre Viken HF,Sør-Øst,19
 2022-01-17,Vestre Viken HF,Sør-Øst,19
 2022-01-18,Vestre Viken HF,Sør-Øst,21
+2022-01-19,Vestre Viken HF,Sør-Øst,25
 2020-03-08,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
 2020-03-09,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
 2020-03-10,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,0
@@ -10547,6 +10564,7 @@ date,health_org_name,region,admissions
 2022-01-16,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,19
 2022-01-17,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,17
 2022-01-18,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,14
+2022-01-19,Helse Bergen HF + Privat med avtale med Helse Vest i Bergen,Vest,15
 2020-03-08,Helse Fonna HF,Vest,0
 2020-03-09,Helse Fonna HF,Vest,0
 2020-03-10,Helse Fonna HF,Vest,0
@@ -11133,6 +11151,7 @@ date,health_org_name,region,admissions
 2022-01-16,Helse Fonna HF,Vest,9
 2022-01-17,Helse Fonna HF,Vest,10
 2022-01-18,Helse Fonna HF,Vest,10
+2022-01-19,Helse Fonna HF,Vest,9
 2020-03-08,Helse Førde HF,Vest,0
 2020-03-09,Helse Førde HF,Vest,0
 2020-03-10,Helse Førde HF,Vest,0
@@ -11719,6 +11738,7 @@ date,health_org_name,region,admissions
 2022-01-16,Helse Førde HF,Vest,1
 2022-01-17,Helse Førde HF,Vest,2
 2022-01-18,Helse Førde HF,Vest,3
+2022-01-19,Helse Førde HF,Vest,2
 2020-03-08,Helse Stavanger HF,Vest,0
 2020-03-09,Helse Stavanger HF,Vest,0
 2020-03-10,Helse Stavanger HF,Vest,0
@@ -12305,3 +12325,4 @@ date,health_org_name,region,admissions
 2022-01-16,Helse Stavanger HF,Vest,18
 2022-01-17,Helse Stavanger HF,Vest,19
 2022-01-18,Helse Stavanger HF,Vest,13
+2022-01-19,Helse Stavanger HF,Vest,16
