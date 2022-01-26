@@ -707,6 +707,7 @@ fylke_no,fylke_name,date,category,mob_change
 42,Agder,2022-01-20,Retail & recreation,-3.0
 42,Agder,2022-01-21,Retail & recreation,-9.0
 42,Agder,2022-01-22,Retail & recreation,-15.0
+42,Agder,2022-01-23,Retail & recreation,-20.0
 34,Innlandet,2020-02-15,Retail & recreation,11.0
 34,Innlandet,2020-02-16,Retail & recreation,3.0
 34,Innlandet,2020-02-17,Retail & recreation,17.0
@@ -1415,6 +1416,7 @@ fylke_no,fylke_name,date,category,mob_change
 34,Innlandet,2022-01-20,Retail & recreation,-5.0
 34,Innlandet,2022-01-21,Retail & recreation,-5.0
 34,Innlandet,2022-01-22,Retail & recreation,-7.0
+34,Innlandet,2022-01-23,Retail & recreation,-22.0
 15,Møre og Romsdal,2020-02-15,Retail & recreation,5.0
 15,Møre og Romsdal,2020-02-16,Retail & recreation,3.0
 15,Møre og Romsdal,2020-02-17,Retail & recreation,5.0
@@ -2123,6 +2125,7 @@ fylke_no,fylke_name,date,category,mob_change
 15,Møre og Romsdal,2022-01-20,Retail & recreation,-8.0
 15,Møre og Romsdal,2022-01-21,Retail & recreation,-6.0
 15,Møre og Romsdal,2022-01-22,Retail & recreation,-6.0
+15,Møre og Romsdal,2022-01-23,Retail & recreation,-7.0
 18,Nordland,2020-02-15,Retail & recreation,4.0
 18,Nordland,2020-02-16,Retail & recreation,9.0
 18,Nordland,2020-02-17,Retail & recreation,7.0
@@ -2831,6 +2834,7 @@ fylke_no,fylke_name,date,category,mob_change
 18,Nordland,2022-01-20,Retail & recreation,-10.0
 18,Nordland,2022-01-21,Retail & recreation,-8.0
 18,Nordland,2022-01-22,Retail & recreation,-16.0
+18,Nordland,2022-01-23,Retail & recreation,-31.0
 03,Oslo,2020-02-15,Retail & recreation,-1.0
 03,Oslo,2020-02-16,Retail & recreation,-10.0
 03,Oslo,2020-02-17,Retail & recreation,1.0
@@ -3539,6 +3543,7 @@ fylke_no,fylke_name,date,category,mob_change
 03,Oslo,2022-01-20,Retail & recreation,-23.0
 03,Oslo,2022-01-21,Retail & recreation,-24.0
 03,Oslo,2022-01-22,Retail & recreation,-25.0
+03,Oslo,2022-01-23,Retail & recreation,-39.0
 11,Rogaland,2020-02-15,Retail & recreation,2.0
 11,Rogaland,2020-02-16,Retail & recreation,1.0
 11,Rogaland,2020-02-17,Retail & recreation,0.0
@@ -4247,6 +4252,7 @@ fylke_no,fylke_name,date,category,mob_change
 11,Rogaland,2022-01-20,Retail & recreation,-7.0
 11,Rogaland,2022-01-21,Retail & recreation,-9.0
 11,Rogaland,2022-01-22,Retail & recreation,-12.0
+11,Rogaland,2022-01-23,Retail & recreation,-15.0
 54,Troms og Finnmark fylke,2020-02-15,Retail & recreation,6.0
 54,Troms og Finnmark fylke,2020-02-16,Retail & recreation,7.0
 54,Troms og Finnmark fylke,2020-02-17,Retail & recreation,2.0
@@ -4955,6 +4961,7 @@ fylke_no,fylke_name,date,category,mob_change
 54,Troms og Finnmark fylke,2022-01-20,Retail & recreation,-12.0
 54,Troms og Finnmark fylke,2022-01-21,Retail & recreation,-10.0
 54,Troms og Finnmark fylke,2022-01-22,Retail & recreation,-20.0
+54,Troms og Finnmark fylke,2022-01-23,Retail & recreation,-35.0
 50,Trøndelag,2020-02-15,Retail & recreation,1.0
 50,Trøndelag,2020-02-16,Retail & recreation,1.0
 50,Trøndelag,2020-02-17,Retail & recreation,6.0
@@ -5663,6 +5670,7 @@ fylke_no,fylke_name,date,category,mob_change
 50,Trøndelag,2022-01-20,Retail & recreation,-14.0
 50,Trøndelag,2022-01-21,Retail & recreation,-13.0
 50,Trøndelag,2022-01-22,Retail & recreation,-12.0
+50,Trøndelag,2022-01-23,Retail & recreation,-16.0
 38,Vestfold og Telemark,2020-02-15,Retail & recreation,0.0
 38,Vestfold og Telemark,2020-02-16,Retail & recreation,-10.0
 38,Vestfold og Telemark,2020-02-17,Retail & recreation,4.0
@@ -6371,6 +6379,7 @@ fylke_no,fylke_name,date,category,mob_change
 38,Vestfold og Telemark,2022-01-20,Retail & recreation,-6.0
 38,Vestfold og Telemark,2022-01-21,Retail & recreation,-8.0
 38,Vestfold og Telemark,2022-01-22,Retail & recreation,-11.0
+38,Vestfold og Telemark,2022-01-23,Retail & recreation,-21.0
 46,Vestland,2020-02-15,Retail & recreation,6.0
 46,Vestland,2020-02-16,Retail & recreation,0.0
 46,Vestland,2020-02-17,Retail & recreation,-1.0
@@ -7079,6 +7088,7 @@ fylke_no,fylke_name,date,category,mob_change
 46,Vestland,2022-01-20,Retail & recreation,-10.0
 46,Vestland,2022-01-21,Retail & recreation,-14.0
 46,Vestland,2022-01-22,Retail & recreation,-13.0
+46,Vestland,2022-01-23,Retail & recreation,-21.0
 30,Viken,2020-02-15,Retail & recreation,-1.0
 30,Viken,2020-02-16,Retail & recreation,-15.0
 30,Viken,2020-02-17,Retail & recreation,1.0
@@ -7787,6 +7797,7 @@ fylke_no,fylke_name,date,category,mob_change
 30,Viken,2022-01-20,Retail & recreation,-1.0
 30,Viken,2022-01-21,Retail & recreation,-3.0
 30,Viken,2022-01-22,Retail & recreation,-6.0
+30,Viken,2022-01-23,Retail & recreation,-18.0
 42,Agder,2020-02-15,Grocery & pharmacy,-3.0
 42,Agder,2020-02-16,Grocery & pharmacy,-8.0
 42,Agder,2020-02-17,Grocery & pharmacy,-2.0
@@ -8495,6 +8506,7 @@ fylke_no,fylke_name,date,category,mob_change
 42,Agder,2022-01-20,Grocery & pharmacy,7.0
 42,Agder,2022-01-21,Grocery & pharmacy,1.0
 42,Agder,2022-01-22,Grocery & pharmacy,2.0
+42,Agder,2022-01-23,Grocery & pharmacy,-5.0
 34,Innlandet,2020-02-15,Grocery & pharmacy,10.0
 34,Innlandet,2020-02-16,Grocery & pharmacy,32.0
 34,Innlandet,2020-02-17,Grocery & pharmacy,14.0
@@ -9203,6 +9215,7 @@ fylke_no,fylke_name,date,category,mob_change
 34,Innlandet,2022-01-20,Grocery & pharmacy,5.0
 34,Innlandet,2022-01-21,Grocery & pharmacy,2.0
 34,Innlandet,2022-01-22,Grocery & pharmacy,0.0
+34,Innlandet,2022-01-23,Grocery & pharmacy,-13.0
 15,Møre og Romsdal,2020-02-15,Grocery & pharmacy,3.0
 15,Møre og Romsdal,2020-02-16,Grocery & pharmacy,9.0
 15,Møre og Romsdal,2020-02-17,Grocery & pharmacy,2.0
@@ -9911,6 +9924,7 @@ fylke_no,fylke_name,date,category,mob_change
 15,Møre og Romsdal,2022-01-20,Grocery & pharmacy,-2.0
 15,Møre og Romsdal,2022-01-21,Grocery & pharmacy,-1.0
 15,Møre og Romsdal,2022-01-22,Grocery & pharmacy,1.0
+15,Møre og Romsdal,2022-01-23,Grocery & pharmacy,-8.0
 18,Nordland,2020-02-15,Grocery & pharmacy,1.0
 18,Nordland,2020-02-16,Grocery & pharmacy,10.0
 18,Nordland,2020-02-17,Grocery & pharmacy,5.0
@@ -10619,6 +10633,7 @@ fylke_no,fylke_name,date,category,mob_change
 18,Nordland,2022-01-20,Grocery & pharmacy,-3.0
 18,Nordland,2022-01-21,Grocery & pharmacy,-1.0
 18,Nordland,2022-01-22,Grocery & pharmacy,-3.0
+18,Nordland,2022-01-23,Grocery & pharmacy,-11.0
 03,Oslo,2020-02-15,Grocery & pharmacy,-3.0
 03,Oslo,2020-02-16,Grocery & pharmacy,-8.0
 03,Oslo,2020-02-17,Grocery & pharmacy,-7.0
@@ -11327,6 +11342,7 @@ fylke_no,fylke_name,date,category,mob_change
 03,Oslo,2022-01-20,Grocery & pharmacy,0.0
 03,Oslo,2022-01-21,Grocery & pharmacy,-4.0
 03,Oslo,2022-01-22,Grocery & pharmacy,-8.0
+03,Oslo,2022-01-23,Grocery & pharmacy,-6.0
 11,Rogaland,2020-02-15,Grocery & pharmacy,0.0
 11,Rogaland,2020-02-16,Grocery & pharmacy,0.0
 11,Rogaland,2020-02-17,Grocery & pharmacy,0.0
@@ -12035,6 +12051,7 @@ fylke_no,fylke_name,date,category,mob_change
 11,Rogaland,2022-01-20,Grocery & pharmacy,-3.0
 11,Rogaland,2022-01-21,Grocery & pharmacy,-8.0
 11,Rogaland,2022-01-22,Grocery & pharmacy,-9.0
+11,Rogaland,2022-01-23,Grocery & pharmacy,-14.0
 54,Troms og Finnmark fylke,2020-02-15,Grocery & pharmacy,5.0
 54,Troms og Finnmark fylke,2020-02-16,Grocery & pharmacy,10.0
 54,Troms og Finnmark fylke,2020-02-17,Grocery & pharmacy,6.0
@@ -12743,6 +12760,7 @@ fylke_no,fylke_name,date,category,mob_change
 54,Troms og Finnmark fylke,2022-01-20,Grocery & pharmacy,-3.0
 54,Troms og Finnmark fylke,2022-01-21,Grocery & pharmacy,-1.0
 54,Troms og Finnmark fylke,2022-01-22,Grocery & pharmacy,-8.0
+54,Troms og Finnmark fylke,2022-01-23,Grocery & pharmacy,-34.0
 50,Trøndelag,2020-02-15,Grocery & pharmacy,0.0
 50,Trøndelag,2020-02-16,Grocery & pharmacy,10.0
 50,Trøndelag,2020-02-17,Grocery & pharmacy,0.0
@@ -13451,6 +13469,7 @@ fylke_no,fylke_name,date,category,mob_change
 50,Trøndelag,2022-01-20,Grocery & pharmacy,-4.0
 50,Trøndelag,2022-01-21,Grocery & pharmacy,-3.0
 50,Trøndelag,2022-01-22,Grocery & pharmacy,-2.0
+50,Trøndelag,2022-01-23,Grocery & pharmacy,-11.0
 38,Vestfold og Telemark,2020-02-15,Grocery & pharmacy,1.0
 38,Vestfold og Telemark,2020-02-16,Grocery & pharmacy,-4.0
 38,Vestfold og Telemark,2020-02-17,Grocery & pharmacy,1.0
@@ -14159,6 +14178,7 @@ fylke_no,fylke_name,date,category,mob_change
 38,Vestfold og Telemark,2022-01-20,Grocery & pharmacy,2.0
 38,Vestfold og Telemark,2022-01-21,Grocery & pharmacy,-1.0
 38,Vestfold og Telemark,2022-01-22,Grocery & pharmacy,-5.0
+38,Vestfold og Telemark,2022-01-23,Grocery & pharmacy,2.0
 46,Vestland,2020-02-15,Grocery & pharmacy,2.0
 46,Vestland,2020-02-16,Grocery & pharmacy,4.0
 46,Vestland,2020-02-17,Grocery & pharmacy,-2.0
@@ -14867,6 +14887,7 @@ fylke_no,fylke_name,date,category,mob_change
 46,Vestland,2022-01-20,Grocery & pharmacy,-2.0
 46,Vestland,2022-01-21,Grocery & pharmacy,-4.0
 46,Vestland,2022-01-22,Grocery & pharmacy,-8.0
+46,Vestland,2022-01-23,Grocery & pharmacy,-13.0
 30,Viken,2020-02-15,Grocery & pharmacy,0.0
 30,Viken,2020-02-16,Grocery & pharmacy,-1.0
 30,Viken,2020-02-17,Grocery & pharmacy,-1.0
@@ -15575,6 +15596,7 @@ fylke_no,fylke_name,date,category,mob_change
 30,Viken,2022-01-20,Grocery & pharmacy,9.0
 30,Viken,2022-01-21,Grocery & pharmacy,3.0
 30,Viken,2022-01-22,Grocery & pharmacy,2.0
+30,Viken,2022-01-23,Grocery & pharmacy,-3.0
 42,Agder,2020-02-15,Parks,-8.0
 42,Agder,2020-02-16,Parks,-55.0
 42,Agder,2020-02-17,Parks,-7.0
@@ -16283,6 +16305,7 @@ fylke_no,fylke_name,date,category,mob_change
 42,Agder,2022-01-20,Parks,15.0
 42,Agder,2022-01-21,Parks,6.0
 42,Agder,2022-01-22,Parks,34.0
+42,Agder,2022-01-23,Parks,-4.0
 34,Innlandet,2020-02-15,Parks,67.0
 34,Innlandet,2020-02-16,Parks,-13.0
 34,Innlandet,2020-02-17,Parks,55.0
@@ -16991,6 +17014,7 @@ fylke_no,fylke_name,date,category,mob_change
 34,Innlandet,2022-01-20,Parks,-6.0
 34,Innlandet,2022-01-21,Parks,0.0
 34,Innlandet,2022-01-22,Parks,-1.0
+34,Innlandet,2022-01-23,Parks,-4.0
 15,Møre og Romsdal,2020-02-15,Parks,56.0
 15,Møre og Romsdal,2020-02-16,Parks,19.0
 15,Møre og Romsdal,2020-02-17,Parks,-10.0
@@ -17699,6 +17723,7 @@ fylke_no,fylke_name,date,category,mob_change
 15,Møre og Romsdal,2022-01-20,Parks,1.0
 15,Møre og Romsdal,2022-01-21,Parks,1.0
 15,Møre og Romsdal,2022-01-22,Parks,14.0
+15,Møre og Romsdal,2022-01-23,Parks,13.0
 18,Nordland,2020-02-15,Parks,20.0
 18,Nordland,2020-02-16,Parks,-5.0
 18,Nordland,2020-02-17,Parks,22.0
@@ -18407,6 +18432,7 @@ fylke_no,fylke_name,date,category,mob_change
 18,Nordland,2022-01-20,Parks,-5.0
 18,Nordland,2022-01-21,Parks,14.0
 18,Nordland,2022-01-22,Parks,-6.0
+18,Nordland,2022-01-23,Parks,-27.0
 03,Oslo,2020-02-15,Parks,10.0
 03,Oslo,2020-02-16,Parks,-48.0
 03,Oslo,2020-02-17,Parks,12.0
@@ -19115,6 +19141,7 @@ fylke_no,fylke_name,date,category,mob_change
 03,Oslo,2022-01-20,Parks,-23.0
 03,Oslo,2022-01-21,Parks,-21.0
 03,Oslo,2022-01-22,Parks,-24.0
+03,Oslo,2022-01-23,Parks,-44.0
 11,Rogaland,2020-02-15,Parks,33.0
 11,Rogaland,2020-02-16,Parks,-40.0
 11,Rogaland,2020-02-17,Parks,3.0
@@ -19823,6 +19850,7 @@ fylke_no,fylke_name,date,category,mob_change
 11,Rogaland,2022-01-20,Parks,-1.0
 11,Rogaland,2022-01-21,Parks,5.0
 11,Rogaland,2022-01-22,Parks,28.0
+11,Rogaland,2022-01-23,Parks,-6.0
 54,Troms og Finnmark fylke,2020-02-15,Parks,38.0
 54,Troms og Finnmark fylke,2020-02-16,Parks,20.0
 54,Troms og Finnmark fylke,2020-02-17,Parks,25.0
@@ -20531,6 +20559,7 @@ fylke_no,fylke_name,date,category,mob_change
 54,Troms og Finnmark fylke,2022-01-20,Parks,-1.0
 54,Troms og Finnmark fylke,2022-01-21,Parks,7.0
 54,Troms og Finnmark fylke,2022-01-22,Parks,-13.0
+54,Troms og Finnmark fylke,2022-01-23,Parks,-25.0
 50,Trøndelag,2020-02-15,Parks,37.0
 50,Trøndelag,2020-02-16,Parks,58.0
 50,Trøndelag,2020-02-17,Parks,23.0
@@ -21239,6 +21268,7 @@ fylke_no,fylke_name,date,category,mob_change
 50,Trøndelag,2022-01-20,Parks,6.0
 50,Trøndelag,2022-01-21,Parks,6.0
 50,Trøndelag,2022-01-22,Parks,-7.0
+50,Trøndelag,2022-01-23,Parks,53.0
 38,Vestfold og Telemark,2020-02-15,Parks,16.0
 38,Vestfold og Telemark,2020-02-16,Parks,-52.0
 38,Vestfold og Telemark,2020-02-17,Parks,30.0
@@ -21947,6 +21977,7 @@ fylke_no,fylke_name,date,category,mob_change
 38,Vestfold og Telemark,2022-01-20,Parks,13.0
 38,Vestfold og Telemark,2022-01-21,Parks,8.0
 38,Vestfold og Telemark,2022-01-22,Parks,17.0
+38,Vestfold og Telemark,2022-01-23,Parks,-13.0
 46,Vestland,2020-02-15,Parks,39.0
 46,Vestland,2020-02-16,Parks,-17.0
 46,Vestland,2020-02-17,Parks,-8.0
@@ -22655,6 +22686,7 @@ fylke_no,fylke_name,date,category,mob_change
 46,Vestland,2022-01-20,Parks,-11.0
 46,Vestland,2022-01-21,Parks,-13.0
 46,Vestland,2022-01-22,Parks,-8.0
+46,Vestland,2022-01-23,Parks,-13.0
 30,Viken,2020-02-15,Parks,14.0
 30,Viken,2020-02-16,Parks,-56.0
 30,Viken,2020-02-17,Parks,16.0
@@ -23363,6 +23395,7 @@ fylke_no,fylke_name,date,category,mob_change
 30,Viken,2022-01-20,Parks,12.0
 30,Viken,2022-01-21,Parks,2.0
 30,Viken,2022-01-22,Parks,7.0
+30,Viken,2022-01-23,Parks,-31.0
 42,Agder,2020-02-15,Transit stations,-2.0
 42,Agder,2020-02-16,Transit stations,-18.0
 42,Agder,2020-02-17,Transit stations,-11.0
@@ -24071,6 +24104,7 @@ fylke_no,fylke_name,date,category,mob_change
 42,Agder,2022-01-20,Transit stations,-35.0
 42,Agder,2022-01-21,Transit stations,-34.0
 42,Agder,2022-01-22,Transit stations,-30.0
+42,Agder,2022-01-23,Transit stations,-36.0
 34,Innlandet,2020-02-15,Transit stations,20.0
 34,Innlandet,2020-02-16,Transit stations,-1.0
 34,Innlandet,2020-02-17,Transit stations,2.0
@@ -24779,6 +24813,7 @@ fylke_no,fylke_name,date,category,mob_change
 34,Innlandet,2022-01-20,Transit stations,-40.0
 34,Innlandet,2022-01-21,Transit stations,-39.0
 34,Innlandet,2022-01-22,Transit stations,-40.0
+34,Innlandet,2022-01-23,Transit stations,-42.0
 15,Møre og Romsdal,2020-02-15,Transit stations,19.0
 15,Møre og Romsdal,2020-02-16,Transit stations,2.0
 15,Møre og Romsdal,2020-02-17,Transit stations,-1.0
@@ -25487,6 +25522,7 @@ fylke_no,fylke_name,date,category,mob_change
 15,Møre og Romsdal,2022-01-20,Transit stations,-20.0
 15,Møre og Romsdal,2022-01-21,Transit stations,-21.0
 15,Møre og Romsdal,2022-01-22,Transit stations,-17.0
+15,Møre og Romsdal,2022-01-23,Transit stations,-18.0
 18,Nordland,2020-02-15,Transit stations,13.0
 18,Nordland,2020-02-16,Transit stations,14.0
 18,Nordland,2020-02-17,Transit stations,7.0
@@ -26195,6 +26231,7 @@ fylke_no,fylke_name,date,category,mob_change
 18,Nordland,2022-01-20,Transit stations,-21.0
 18,Nordland,2022-01-21,Transit stations,-15.0
 18,Nordland,2022-01-22,Transit stations,-11.0
+18,Nordland,2022-01-23,Transit stations,-39.0
 03,Oslo,2020-02-15,Transit stations,-1.0
 03,Oslo,2020-02-16,Transit stations,-13.0
 03,Oslo,2020-02-17,Transit stations,-8.0
@@ -26903,6 +26940,7 @@ fylke_no,fylke_name,date,category,mob_change
 03,Oslo,2022-01-20,Transit stations,-50.0
 03,Oslo,2022-01-21,Transit stations,-48.0
 03,Oslo,2022-01-22,Transit stations,-46.0
+03,Oslo,2022-01-23,Transit stations,-52.0
 11,Rogaland,2020-02-15,Transit stations,4.0
 11,Rogaland,2020-02-16,Transit stations,-5.0
 11,Rogaland,2020-02-17,Transit stations,0.0
@@ -27611,6 +27649,7 @@ fylke_no,fylke_name,date,category,mob_change
 11,Rogaland,2022-01-20,Transit stations,-37.0
 11,Rogaland,2022-01-21,Transit stations,-35.0
 11,Rogaland,2022-01-22,Transit stations,-38.0
+11,Rogaland,2022-01-23,Transit stations,-35.0
 54,Troms og Finnmark fylke,2020-02-15,Transit stations,32.0
 54,Troms og Finnmark fylke,2020-02-16,Transit stations,15.0
 54,Troms og Finnmark fylke,2020-02-17,Transit stations,15.0
@@ -28319,6 +28358,7 @@ fylke_no,fylke_name,date,category,mob_change
 54,Troms og Finnmark fylke,2022-01-20,Transit stations,-17.0
 54,Troms og Finnmark fylke,2022-01-21,Transit stations,-17.0
 54,Troms og Finnmark fylke,2022-01-22,Transit stations,-24.0
+54,Troms og Finnmark fylke,2022-01-23,Transit stations,-23.0
 50,Trøndelag,2020-02-15,Transit stations,13.0
 50,Trøndelag,2020-02-16,Transit stations,8.0
 50,Trøndelag,2020-02-17,Transit stations,-3.0
@@ -29027,6 +29067,7 @@ fylke_no,fylke_name,date,category,mob_change
 50,Trøndelag,2022-01-20,Transit stations,-37.0
 50,Trøndelag,2022-01-21,Transit stations,-35.0
 50,Trøndelag,2022-01-22,Transit stations,-39.0
+50,Trøndelag,2022-01-23,Transit stations,-34.0
 38,Vestfold og Telemark,2020-02-15,Transit stations,13.0
 38,Vestfold og Telemark,2020-02-16,Transit stations,-8.0
 38,Vestfold og Telemark,2020-02-17,Transit stations,-2.0
@@ -29735,6 +29776,7 @@ fylke_no,fylke_name,date,category,mob_change
 38,Vestfold og Telemark,2022-01-20,Transit stations,-42.0
 38,Vestfold og Telemark,2022-01-21,Transit stations,-48.0
 38,Vestfold og Telemark,2022-01-22,Transit stations,-47.0
+38,Vestfold og Telemark,2022-01-23,Transit stations,-52.0
 46,Vestland,2020-02-15,Transit stations,23.0
 46,Vestland,2020-02-16,Transit stations,2.0
 46,Vestland,2020-02-17,Transit stations,1.0
@@ -30443,6 +30485,7 @@ fylke_no,fylke_name,date,category,mob_change
 46,Vestland,2022-01-20,Transit stations,-3.0
 46,Vestland,2022-01-21,Transit stations,-11.0
 46,Vestland,2022-01-22,Transit stations,2.0
+46,Vestland,2022-01-23,Transit stations,-13.0
 30,Viken,2020-02-15,Transit stations,5.0
 30,Viken,2020-02-16,Transit stations,-6.0
 30,Viken,2020-02-17,Transit stations,-5.0
@@ -31151,6 +31194,7 @@ fylke_no,fylke_name,date,category,mob_change
 30,Viken,2022-01-20,Transit stations,-49.0
 30,Viken,2022-01-21,Transit stations,-49.0
 30,Viken,2022-01-22,Transit stations,-47.0
+30,Viken,2022-01-23,Transit stations,-43.0
 42,Agder,2020-02-15,Workplace,-4.0
 42,Agder,2020-02-16,Workplace,-7.0
 42,Agder,2020-02-17,Workplace,-24.0
@@ -31859,6 +31903,7 @@ fylke_no,fylke_name,date,category,mob_change
 42,Agder,2022-01-20,Workplace,-24.0
 42,Agder,2022-01-21,Workplace,-23.0
 42,Agder,2022-01-22,Workplace,-7.0
+42,Agder,2022-01-23,Workplace,-12.0
 34,Innlandet,2020-02-15,Workplace,-1.0
 34,Innlandet,2020-02-16,Workplace,0.0
 34,Innlandet,2020-02-17,Workplace,-11.0
@@ -32567,6 +32612,7 @@ fylke_no,fylke_name,date,category,mob_change
 34,Innlandet,2022-01-20,Workplace,-10.0
 34,Innlandet,2022-01-21,Workplace,-9.0
 34,Innlandet,2022-01-22,Workplace,1.0
+34,Innlandet,2022-01-23,Workplace,-7.0
 15,Møre og Romsdal,2020-02-15,Workplace,0.0
 15,Møre og Romsdal,2020-02-16,Workplace,-2.0
 15,Møre og Romsdal,2020-02-17,Workplace,-19.0
@@ -33275,6 +33321,7 @@ fylke_no,fylke_name,date,category,mob_change
 15,Møre og Romsdal,2022-01-20,Workplace,-25.0
 15,Møre og Romsdal,2022-01-21,Workplace,-25.0
 15,Møre og Romsdal,2022-01-22,Workplace,-14.0
+15,Møre og Romsdal,2022-01-23,Workplace,-16.0
 18,Nordland,2020-02-15,Workplace,0.0
 18,Nordland,2020-02-16,Workplace,0.0
 18,Nordland,2020-02-17,Workplace,0.0
@@ -33983,6 +34030,7 @@ fylke_no,fylke_name,date,category,mob_change
 18,Nordland,2022-01-20,Workplace,-17.0
 18,Nordland,2022-01-21,Workplace,-17.0
 18,Nordland,2022-01-22,Workplace,-15.0
+18,Nordland,2022-01-23,Workplace,-16.0
 03,Oslo,2020-02-15,Workplace,-1.0
 03,Oslo,2020-02-16,Workplace,-3.0
 03,Oslo,2020-02-17,Workplace,-16.0
@@ -34691,6 +34739,7 @@ fylke_no,fylke_name,date,category,mob_change
 03,Oslo,2022-01-20,Workplace,-43.0
 03,Oslo,2022-01-21,Workplace,-41.0
 03,Oslo,2022-01-22,Workplace,-13.0
+03,Oslo,2022-01-23,Workplace,-17.0
 11,Rogaland,2020-02-15,Workplace,-1.0
 11,Rogaland,2020-02-16,Workplace,-3.0
 11,Rogaland,2020-02-17,Workplace,0.0
@@ -35399,6 +35448,7 @@ fylke_no,fylke_name,date,category,mob_change
 11,Rogaland,2022-01-20,Workplace,-21.0
 11,Rogaland,2022-01-21,Workplace,-26.0
 11,Rogaland,2022-01-22,Workplace,-7.0
+11,Rogaland,2022-01-23,Workplace,-12.0
 54,Troms og Finnmark fylke,2020-02-15,Workplace,2.0
 54,Troms og Finnmark fylke,2020-02-16,Workplace,0.0
 54,Troms og Finnmark fylke,2020-02-17,Workplace,-1.0
@@ -36107,6 +36157,7 @@ fylke_no,fylke_name,date,category,mob_change
 54,Troms og Finnmark fylke,2022-01-20,Workplace,-22.0
 54,Troms og Finnmark fylke,2022-01-21,Workplace,-21.0
 54,Troms og Finnmark fylke,2022-01-22,Workplace,-16.0
+54,Troms og Finnmark fylke,2022-01-23,Workplace,-16.0
 50,Trøndelag,2020-02-15,Workplace,0.0
 50,Trøndelag,2020-02-16,Workplace,-2.0
 50,Trøndelag,2020-02-17,Workplace,-17.0
@@ -36815,6 +36866,7 @@ fylke_no,fylke_name,date,category,mob_change
 50,Trøndelag,2022-01-20,Workplace,-21.0
 50,Trøndelag,2022-01-21,Workplace,-20.0
 50,Trøndelag,2022-01-22,Workplace,-10.0
+50,Trøndelag,2022-01-23,Workplace,-13.0
 38,Vestfold og Telemark,2020-02-15,Workplace,-3.0
 38,Vestfold og Telemark,2020-02-16,Workplace,-4.0
 38,Vestfold og Telemark,2020-02-17,Workplace,-21.0
@@ -37523,6 +37575,7 @@ fylke_no,fylke_name,date,category,mob_change
 38,Vestfold og Telemark,2022-01-20,Workplace,-25.0
 38,Vestfold og Telemark,2022-01-21,Workplace,-24.0
 38,Vestfold og Telemark,2022-01-22,Workplace,-13.0
+38,Vestfold og Telemark,2022-01-23,Workplace,-15.0
 46,Vestland,2020-02-15,Workplace,0.0
 46,Vestland,2020-02-16,Workplace,-1.0
 46,Vestland,2020-02-17,Workplace,-5.0
@@ -38231,6 +38284,7 @@ fylke_no,fylke_name,date,category,mob_change
 46,Vestland,2022-01-20,Workplace,-26.0
 46,Vestland,2022-01-21,Workplace,-23.0
 46,Vestland,2022-01-22,Workplace,-12.0
+46,Vestland,2022-01-23,Workplace,-17.0
 30,Viken,2020-02-15,Workplace,0.0
 30,Viken,2020-02-16,Workplace,-4.0
 30,Viken,2020-02-17,Workplace,-15.0
@@ -38939,6 +38993,7 @@ fylke_no,fylke_name,date,category,mob_change
 30,Viken,2022-01-20,Workplace,-26.0
 30,Viken,2022-01-21,Workplace,-26.0
 30,Viken,2022-01-22,Workplace,-1.0
+30,Viken,2022-01-23,Workplace,-10.0
 42,Agder,2020-02-15,Residential,0.0
 42,Agder,2020-02-16,Residential,1.0
 42,Agder,2020-02-17,Residential,3.0
@@ -39647,6 +39702,7 @@ fylke_no,fylke_name,date,category,mob_change
 42,Agder,2022-01-20,Residential,8.0
 42,Agder,2022-01-21,Residential,9.0
 42,Agder,2022-01-22,Residential,4.0
+42,Agder,2022-01-23,Residential,4.0
 34,Innlandet,2020-02-15,Residential,-1.0
 34,Innlandet,2020-02-16,Residential,1.0
 34,Innlandet,2020-02-17,Residential,2.0
@@ -40355,6 +40411,7 @@ fylke_no,fylke_name,date,category,mob_change
 34,Innlandet,2022-01-20,Residential,8.0
 34,Innlandet,2022-01-21,Residential,7.0
 34,Innlandet,2022-01-22,Residential,4.0
+34,Innlandet,2022-01-23,Residential,4.0
 15,Møre og Romsdal,2020-02-15,Residential,-2.0
 15,Møre og Romsdal,2020-02-16,Residential,0.0
 15,Møre og Romsdal,2020-02-17,Residential,2.0
@@ -41063,6 +41120,7 @@ fylke_no,fylke_name,date,category,mob_change
 15,Møre og Romsdal,2022-01-20,Residential,8.0
 15,Møre og Romsdal,2022-01-21,Residential,8.0
 15,Møre og Romsdal,2022-01-22,Residential,4.0
+15,Møre og Romsdal,2022-01-23,Residential,5.0
 18,Nordland,2020-02-15,Residential,0.0
 18,Nordland,2020-02-16,Residential,-1.0
 18,Nordland,2020-02-17,Residential,0.0
@@ -41771,6 +41829,7 @@ fylke_no,fylke_name,date,category,mob_change
 18,Nordland,2022-01-20,Residential,7.0
 18,Nordland,2022-01-21,Residential,6.0
 18,Nordland,2022-01-22,Residential,4.0
+18,Nordland,2022-01-23,Residential,7.0
 03,Oslo,2020-02-15,Residential,-1.0
 03,Oslo,2020-02-16,Residential,1.0
 03,Oslo,2020-02-17,Residential,2.0
@@ -42479,6 +42538,7 @@ fylke_no,fylke_name,date,category,mob_change
 03,Oslo,2022-01-20,Residential,15.0
 03,Oslo,2022-01-21,Residential,15.0
 03,Oslo,2022-01-22,Residential,6.0
+03,Oslo,2022-01-23,Residential,7.0
 11,Rogaland,2020-02-15,Residential,-1.0
 11,Rogaland,2020-02-16,Residential,1.0
 11,Rogaland,2020-02-17,Residential,1.0
@@ -43187,6 +43247,7 @@ fylke_no,fylke_name,date,category,mob_change
 11,Rogaland,2022-01-20,Residential,9.0
 11,Rogaland,2022-01-21,Residential,10.0
 11,Rogaland,2022-01-22,Residential,4.0
+11,Rogaland,2022-01-23,Residential,4.0
 54,Troms og Finnmark fylke,2020-02-15,Residential,-1.0
 54,Troms og Finnmark fylke,2020-02-16,Residential,-1.0
 54,Troms og Finnmark fylke,2020-02-17,Residential,-1.0
@@ -43895,6 +43956,7 @@ fylke_no,fylke_name,date,category,mob_change
 54,Troms og Finnmark fylke,2022-01-20,Residential,7.0
 54,Troms og Finnmark fylke,2022-01-21,Residential,5.0
 54,Troms og Finnmark fylke,2022-01-22,Residential,4.0
+54,Troms og Finnmark fylke,2022-01-23,Residential,6.0
 50,Trøndelag,2020-02-15,Residential,-2.0
 50,Trøndelag,2020-02-16,Residential,-1.0
 50,Trøndelag,2020-02-17,Residential,2.0
@@ -44603,6 +44665,7 @@ fylke_no,fylke_name,date,category,mob_change
 50,Trøndelag,2022-01-20,Residential,10.0
 50,Trøndelag,2022-01-21,Residential,10.0
 50,Trøndelag,2022-01-22,Residential,5.0
+50,Trøndelag,2022-01-23,Residential,4.0
 38,Vestfold og Telemark,2020-02-15,Residential,0.0
 38,Vestfold og Telemark,2020-02-16,Residential,2.0
 38,Vestfold og Telemark,2020-02-17,Residential,3.0
@@ -45311,6 +45374,7 @@ fylke_no,fylke_name,date,category,mob_change
 38,Vestfold og Telemark,2022-01-20,Residential,9.0
 38,Vestfold og Telemark,2022-01-21,Residential,9.0
 38,Vestfold og Telemark,2022-01-22,Residential,5.0
+38,Vestfold og Telemark,2022-01-23,Residential,5.0
 46,Vestland,2020-02-15,Residential,-1.0
 46,Vestland,2020-02-16,Residential,0.0
 46,Vestland,2020-02-17,Residential,1.0
@@ -46019,6 +46083,7 @@ fylke_no,fylke_name,date,category,mob_change
 46,Vestland,2022-01-20,Residential,9.0
 46,Vestland,2022-01-21,Residential,9.0
 46,Vestland,2022-01-22,Residential,4.0
+46,Vestland,2022-01-23,Residential,5.0
 30,Viken,2020-02-15,Residential,-1.0
 30,Viken,2020-02-16,Residential,2.0
 30,Viken,2020-02-17,Residential,2.0
@@ -46727,3 +46792,4 @@ fylke_no,fylke_name,date,category,mob_change
 30,Viken,2022-01-20,Residential,11.0
 30,Viken,2022-01-21,Residential,10.0
 30,Viken,2022-01-22,Residential,5.0
+30,Viken,2022-01-23,Residential,5.0
