@@ -1,3 +1,7 @@
+Project archived as of 01.01.2023
+================================================
+Due to limited availability of public data and interest, this project is now archived and will not receive future updates.
+
 Public COVID-19 Data for Norway (covid19data.no)
 ================================================
 
